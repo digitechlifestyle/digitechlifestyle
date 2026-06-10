@@ -1,0 +1,3 @@
+:HL["/_next/static/chunks/0x9zo~19df4rw.css","style"]
+:HL["https://www.digitechlifestyle.com/wp-content/uploads/2025/03/fa22af0f2a4832de8d96204498d1ffafe04b3839-5588x3726-scaled.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"a-public-company-boasting-trumps-sons-on-advisory-board-is-buying-blackrock-bitcoin-etf-ibit","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"eoOZKes8Mnqd7JDZr5hOO"}

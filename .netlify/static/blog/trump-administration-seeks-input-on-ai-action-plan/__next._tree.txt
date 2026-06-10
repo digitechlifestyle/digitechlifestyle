@@ -1,0 +1,3 @@
+:HL["/_next/static/chunks/0x9zo~19df4rw.css","style"]
+:HL["https://www.digitechlifestyle.com/wp-content/uploads/2025/02/21096cb37bc370e1af181307d62b5b29.jpeg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"trump-administration-seeks-input-on-ai-action-plan","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"eoOZKes8Mnqd7JDZr5hOO"}

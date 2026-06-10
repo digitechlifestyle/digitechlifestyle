@@ -1,0 +1,97 @@
+1:"$Sreact.fragment"
+9:I[22016,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],""]
+a:I[5014,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],"default"]
+b:I[12862,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],"SidebarAds"]
+c:I[97367,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+:HL["https://www.digitechlifestyle.com/wp-content/uploads/2025/02/Chevron-1200x810-Jan-26-2023.jpg","image"]
+2:T1b37,<p> <br />
+</p>
+<div itemprop="text">
+<p><strong>By <a href="https://www.reuters.com/authors/ernest-scheyder/" target="_blank" rel="noopener">Ernest Scheyder</a> and <a href="https://www.reuters.com/authors/sheila-dang/" target="_blank" rel="noopener">Sheila Dang</a></strong>
+</p>
+<p><img fetchpriority="high" fetchpriority="high" decoding="async" width="1024" height="691" class="aligncenter size-large wp-image-234980" src="https://energynow.com/wp-content/uploads/Chevron_Gas_Station_1200x810-1024x691.png" alt="Chevron Gas Station" srcset="https://energynow.com/wp-content/uploads/Chevron_Gas_Station_1200x810-1024x691.png 1024w, https://energynow.com/wp-content/uploads/Chevron_Gas_Station_1200x810-400x270.png 400w, https://energynow.com/wp-content/uploads/Chevron_Gas_Station_1200x810-300x203.png 300w, https://energynow.com/wp-content/uploads/Chevron_Gas_Station_1200x810-768x518.png 768w, https://energynow.com/wp-content/uploads/Chevron_Gas_Station_1200x810.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px"/>
+</p>
+<ul>
+<li>Chevron plans to cut up to 20% of global workforce</li>
+<li>Executives say business has become overcomplicated, costs rising</li>
+<li>Some employees say layoffs were expected</li>
+</ul>
+<p>HOUSTON, Feb 18 (Reuters) – During an internal town hall meeting last week, roughly 40,000 Chevron employees were shown a video touting the oil giant’s success in Colorado as the largest oil and gas producer in the state.
+</p>
+<p>Less than 30 minutes later, executives announced plans to cut up to 20% of the global workforce.
+</p>
+<p>Despite progress in safety and financial performance, Chevron (CVX.N) had fallen behind its competitors, company leaders told employees during the internal meeting on February 12. The business had become over-complicated, costs had crept up and Chevron struggled to quickly make decisions, they said on the webcast.
+</p>
+<p>Reuters reviewed presentation slides and a recording of the town hall that was webcast to staffers globally.
+</p>
+<p>Chevron’s plan to cut as much as a fifth of its workforce – about 8,000 people – comes after oil prices traded in the $70-80 per barrel range for most of the past year. Oil prices and refining margins were lower than the previous year, but still sufficient to drive a full year 2024 profit for Chevron of $18.3 billion, down from $24.7 billion in 2023.
+</p>
+<p>The layoffs cap a tough 18 months for the second-largest U.S. oil producer, which inked a $53 billion agreement to acquire New York-based oil firm Hess (HES.N) in October 2023 in order to gain an important stake in Guyana’s profitable oilfields, only to have Exxon Mobil (XOM.N) and CNOOC, Hess’ partners in Guyana, challenge the deal in court.
+</p>
+<p>The deal is stalled pending arbitration.
+</p>
+<p>Four Chevron employees told Reuters the layoffs were widely expected internally. Some even conceded the move was necessary to compete with Exxon and other rivals.
+</p>
+<p>“I think it will be a good thing,” said a Chevron employee, who requested anonymity because they were not authorized to speak publicly.
+</p>
+<p>“It’s tough going through this, but we are the last of the majors to (make cuts). Everyone was wondering when Chevron would do it.”
+</p>
+<p>Chevron said in November it aimed to cut up to $3 billion in costs by 2026, including by changing how and where work is performed.
+</p>
+<p>A Chevron spokesperson said changes to the company’s structure will improve efficiency and results.
+</p>
+<p>“While these changes are necessary, the decision to reduce our workforce is not an easy one,” the spokesperson said.
+</p>
+<p>UK-based oil major Shell (SHEL.L) planned to scale back its oil and gas exploration and development workforce by 20% as part of a cost-saving drive, Reuters reported in August. Rival UK major BP said last month it would lay off about 4,700 employees and cut 3,000 contractor positions.</p>
+<p>Three Chevron employees said they had been through several rounds of layoffs during their careers, due to the cyclical nature of the oil and gas business. Layoffs during the COVID-19 pandemic were worse, one of them said.
+</p>
+<p>“They always say it will be the last time,” the employee said.
+</p>
+<p>The outlook for global fuel demand is uncertain due to the rapid increase in electric vehicle sales in the world’s largest crude importer China, which for over a decade has driven rising oil consumption.
+</p>
+<p>Uncertainty about global demand and China’s economy could cap oil prices in the future, said Nick Hummel, an equity analyst at Edward Jones.
+</p>
+<p>Mass layoffs in the oil industry usually come after a plunge in oil prices. One Chevron employee expressed dismay at the timing of the layoffs during a period of relative price stability.
+</p>
+<p>“It bites,” said the person outside Chevron’s Houston headquarters who identified himself as an employee but declined to give his name. “Oil prices seem stable and then they bring the hammer down.”
+</p>
+<h3><strong>ACCOUNTABILITY</strong></h3>
+<p>During the town hall, Chevron’s vice president of the Rockies business unit, Kim McHugh, read questions submitted by employees, who asked whether Chevron executives would hold themselves responsible for the company’s lagging performance.
+</p>
+<p>“People feel like they are being held accountable. Their question is, how is leadership accountable?” McHugh said.
+</p>
+<p>CEO Mike Wirth said he looked for action and transparency within the leadership team.
+</p>
+<p>“When things aren’t going well, do you get a nice explanation and a pile of excuses, or do you get a plan?” he said.
+</p>
+<p>In simplifying the business, Chevron will also clarify which roles have decision-making rights and hold those individuals accountable, Wirth said in response to another question.
+</p>
+<p>After several previous reorganizations, staffers are seeking reassurance that the latest restructuring will be successful, McHugh told Wirth.
+</p>
+<p>“I think the employees would want me to say, ‘You’ve committed to giving us simplicity,&#8217;” she said to the CEO.
+</p>
+<p>“Let’s make sure this time that you pick the people and stuff to make this work, so that we don’t have to go through this again.”
+</p>
+<p><em>Reporting by Sheila Dang, Ernest Scheyder, Arathy Somasekhar and Marianna Parraga in Houston; Editing by Simon Webb and Nia Williams</em></p>
+<p><span style="float:left;display:inline;margin-top:13px;">Share This:  </span></p>
+<hr/>
+<h4 style="font-size: x-large;">More News Articles</h4>
+</p></div>
+<p><br />
+<br /><a href="https://energynow.com/2025/02/chevron-staffers-absorb-long-awaited-layoffs-as-ceo-pledges-accountability/">Source link </a></p>
+
+    <div class="xs_social_share_widget xs_share_url after_content 		main_content  wslu-style-1 wslu-share-box-shaped wslu-fill-colored wslu-none wslu-share-horizontal wslu-theme-font-no wslu-main_content">
+
+		
+        <ul>
+			        </ul>
+    </div> 
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"container py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Chevron Staffers Absorb Long-Awaited Layoffs as CEO Pledges Accountability – Energy News, Top Headlines, Commentaries, Features & Events\",\"description\":\"By Ernest Scheyder and Sheila Dang Chevron plans to cut up to 20% of global workforce Executives say business has become overcomplicated, costs rising Some…\",\"datePublished\":\"2025-02-19\",\"author\":{\"@type\":\"Organization\",\"name\":\"DigitechLifestyle Editorial\"}}"}}],["$","div",null,{"style":{"display":"grid","gap":"32px","gridTemplateColumns":"1fr","alignItems":"start"},"className":"blog-two-col","children":[["$","article",null,{"children":[["$","div",null,{"style":{"borderRadius":"12px","overflow":"hidden","marginBottom":"24px","maxHeight":"420px"},"children":["$","img",null,{"src":"https://www.digitechlifestyle.com/wp-content/uploads/2025/02/Chevron-1200x810-Jan-26-2023.jpg","alt":"Chevron Staffers Absorb Long-Awaited Layoffs as CEO Pledges Accountability – Energy News, Top Headlines, Commentaries, Features & Events","style":{"width":"100%","height":"100%","objectFit":"cover","display":"block"}}]}],["$","div",null,{"className":"surface rounded-lg p-6 md:p-10","children":[["$","div",null,{"className":"flex flex-wrap gap-2 text-sm text-slate-400","children":[["$","span",null,{"className":"rounded-full bg-white/5 px-3 py-1 text-[var(--accent)]","children":"Artificial Intelligence"}],["$","span",null,{"children":"5 min read"}],["$","span",null,{"children":"February 19, 2025"}]]}],["$","h1",null,{"className":"mt-5 text-4xl font-black leading-tight text-white md:text-5xl","children":"Chevron Staffers Absorb Long-Awaited Layoffs as CEO Pledges Accountability – Energy News, Top Headlines, Commentaries, Features & Events"}],["$","p",null,{"className":"mt-5 text-xl leading-8 text-[var(--muted)]","children":"By Ernest Scheyder and Sheila Dang Chevron plans to cut up to 20% of global workforce Executives say business has become overcomplicated, costs rising Some…"}]]}],["$","div",null,{"className":"prose-content mt-8","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eoOZKes8Mnqd7JDZr5hOO"}
+3:["$","div",null,{"style":{"display":"flex","flexWrap":"wrap","gap":"10px","alignItems":"center","margin":"32px 0 0","padding":"20px","background":"var(--bg-card)","borderRadius":"12px","border":"1px solid var(--line)"},"children":[["$","span",null,{"style":{"fontSize":"12px","fontWeight":700,"color":"var(--muted)","textTransform":"uppercase","letterSpacing":"0.08em","marginRight":"4px"},"children":"Share:"}],["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Chevron%20Staffers%20Absorb%20Long-Awaited%20Layoffs%20as%20CEO%20Pledges%20Accountability%20%E2%80%93%20Energy%20News%2C%20Top%20Headlines%2C%20Commentaries%2C%20Features%20%26%20Events&url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fchevron-staffers-absorb-long-awaited-layoffs-as-ceo-pledges-accountability-energy-news-top-headlines-commentaries-features-events&via=DigiTechLife","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#000","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L1.254 2.25H8.08l4.253 5.622zm-1.161 17.52h1.833L7.084 4.126H5.117z"}]}],"X / Twitter"]}],["$","a",null,{"href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fchevron-staffers-absorb-long-awaited-layoffs-as-ceo-pledges-accountability-energy-news-top-headlines-commentaries-features-events","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#1877f2","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"}]}],"Facebook"]}],["$","a",null,{"href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fchevron-staffers-absorb-long-awaited-layoffs-as-ceo-pledges-accountability-energy-news-top-headlines-commentaries-features-events","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#0a66c2","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"}]}],"LinkedIn"]}],["$","a",null,{"href":"https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fchevron-staffers-absorb-long-awaited-layoffs-as-ceo-pledges-accountability-energy-news-top-headlines-commentaries-features-events&description=Chevron%20Staffers%20Absorb%20Long-Awaited%20Layoffs%20as%20CEO%20Pledges%20Accountability%20%E2%80%93%20Energy%20News%2C%20Top%20Headlines%2C%20Commentaries%2C%20Features%20%26%20Events&media=https%3A%2F%2Fwww.digitechlifestyle.com%2Fwp-content%2Fuploads%2F2025%2F02%2FChevron-1200x810-Jan-26-2023.jpg","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#e60023","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":["$L8","Pinterest"]}]]}]
+4:["$","div",null,{"className":"mt-10","children":["$","section",null,{"className":"surface rounded-lg p-6 md:p-8","children":[["$","div",null,{"className":"grid gap-6 md:grid-cols-[1fr_auto] md:items-center","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-[0.22em] text-[var(--accent)]","children":"Partner picks"}],["$","h2",null,{"className":"mt-3 text-2xl font-semibold text-white md:text-3xl","children":"Build a smarter digital stack"}],["$","p",null,{"className":"mt-3 max-w-2xl text-sm leading-7 text-[var(--muted)] md:text-base","children":"Explore curated AI, automation, wealth, and creator tools selected for practical value, transparent pricing, and clear use cases."}]]}],["$","$L9",null,{"href":"/tool-directory","className":"inline-flex h-12 items-center justify-center gap-2 rounded-lg bg-[var(--accent)] px-5 text-sm font-bold text-slate-950","children":["Browse tools ",["$","$La",null,{"iconNode":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]],"className":"lucide-arrow-right","size":18}]]}]]}],["$","p",null,{"className":"mt-5 text-xs leading-6 text-slate-500","children":"Disclosure: some links may be affiliate links. DigitechLifestyle may earn a commission at no additional cost to you."}]]}]}]
+5:["$","aside",null,{"style":{"position":"sticky","top":"80px","display":"grid","gap":"16px","alignContent":"start"},"children":[["$","$Lb",null,{}],["$","form",null,{"className":"surface rounded-lg p-5 ","children":[["$","div",null,{"className":"flex items-center gap-3 text-[var(--accent)]","children":[["$","$La",null,{"iconNode":[["path",{"d":"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7","key":"132q7q"}],["rect",{"x":"2","y":"4","width":"20","height":"16","rx":"2","key":"izxlao"}]],"className":"lucide-mail","size":20}],["$","span",null,{"className":"text-sm font-semibold uppercase tracking-[0.2em]","children":"Newsletter"}]]}],["$","h2",null,{"className":"mt-4 text-2xl font-semibold text-white","children":"Get the Digital Living Brief"}],["$","p",null,{"className":"mt-3 text-sm leading-6 text-[var(--muted)]","children":"Weekly AI tools, automation ideas, affiliate opportunities, and digital wealth notes. No noise."}],["$","div",null,{"className":"mt-5 grid gap-3 sm:grid-cols-[1fr_auto]","children":[["$","input",null,{"aria-label":"Email address","type":"email","placeholder":"you@example.com","className":"h-12 rounded-lg border border-white/10 bg-black/30 px-4 text-sm text-white outline-none transition placeholder:text-slate-500 focus:border-[var(--accent)]"}],["$","button",null,{"className":"h-12 rounded-lg bg-white px-5 text-sm font-bold text-slate-950","type":"submit","children":"Join free"}]]}]]}]]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/12gi4g22zq5ft.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+8:["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 01.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"}]}]
+e:null

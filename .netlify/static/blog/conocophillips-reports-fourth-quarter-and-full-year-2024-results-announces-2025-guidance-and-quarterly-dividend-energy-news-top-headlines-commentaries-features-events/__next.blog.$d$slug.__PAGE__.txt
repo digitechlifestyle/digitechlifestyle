@@ -1,0 +1,895 @@
+1:"$Sreact.fragment"
+9:I[22016,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],""]
+a:I[5014,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],"default"]
+b:I[12862,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],"SidebarAds"]
+c:I[97367,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+:HL["https://www.digitechlifestyle.com/wp-content/uploads/2025/02/Conoco-Phillips_400x270.jpg","image"]
+2:Tca6b,<p> <br />
+</p>
+<div itemprop="text">
+<ul>
+<li>Completed the acquisition of Marathon Oil, adding high-quality, low cost of supply inventory adjacent to the company’s leading U.S. unconventional position.</li>
+<li>Reported fourth-quarter 2024 earnings per share of $1.90 and adjusted earnings per share of $1.98.</li>
+<li>Delivered 2024 preliminary reserve replacement ratio of 244% and preliminary organic reserve replacement ratio of 123%.</li>
+<li>Announced planned 2025 return of capital target of $10 billion at current commodity prices and declared first-quarter 2025 ordinary dividend of $0.78 per share.</li>
+<li>Provided 2025 guidance including full-year capital of approximately $12.9 billion.</li>
+</ul>
+<p>HOUSTON–(BUSINESS WIRE)–ConocoPhillips (NYSE: COP) today reported fourth-quarter 2024 earnings of $2.3 billion, or $1.90 per share, compared with fourth-quarter 2023 earnings of $3.0 billion, or $2.52 per share. Excluding special items, fourth-quarter 2024 adjusted earnings were $2.4 billion, or $1.98 per share, compared with fourth-quarter 2023 adjusted earnings of $2.9 billion, or $2.40 per share. Special items for the current quarter were primarily due to transaction and integration expenses largely offset by a tax benefit, both resulting from the acquisition of Marathon Oil, and debt transaction-related expenses.</p>
+<p>Full-year 2024 earnings were $9.2 billion, or $7.81 per share, compared with full-year 2023 earnings of $11.0 billion, or $9.06 per share. Excluding special items, full-year 2024 adjusted earnings were $9.2 billion or $7.79 per share, compared with full-year 2023 adjusted earnings of $10.6 billion, or $8.77 per share.</p>
+<p>“ConocoPhillips continued to deliver on our returns-focused value proposition in 2024, demonstrating strong operational execution, returning $9.1 billion to shareholders and enhancing our portfolio with the acquisition of Marathon Oil,” said Ryan Lance, chairman and chief executive officer. “Looking ahead, we are focused on achieving more than $1 billion in integration-related run rate synergies by year-end, over half of which is already reflected in our announced capital guidance. We are starting the year with a $10 billion return of capital target.”</p>
+<p><b>Full-year summary and recent announcements</b></p>
+<ul>
+<li>Generated cash provided by operating activities of $20.1 billion and cash from operations (CFO) of $20.3 billion.</li>
+<li>Distributed $9.1 billion to shareholders, including $5.5 billion through share repurchases and $3.6 billion through the ordinary dividend and variable return of cash (VROC).</li>
+<li>Ended the year with cash and short-term investments of $6.4 billion and long-term investments of $1.1 billion.</li>
+<li>Achieved 14% return on capital employed; 15% cash-adjusted return on capital employed.</li>
+<li>Advanced previously announced $2 billion disposition target by signing agreements to divest noncore Lower 48 assets of $0.6 billion, subject to customary closing adjustments and expected to close in the first half of 2025.</li>
+<li>Delivered full-year total company and Lower 48 production of 1,987 thousand barrels of oil equivalent per day (MBOED) and 1,152 MBOED, respectively. Excluding one month of Marathon Oil production, the company and Lower 48 produced 1,955 MBOED and 1,124 MBOED, respectively.</li>
+<li>Reached first production at Nuna in Alaska and Bohai Phase 5 in China in the fourth quarter and at Eldfisk North in Norway in the second quarter.</li>
+<li>Progressed global LNG strategy with a long-term regasification agreement at Zeebrugge LNG terminal in Belgium and a long-term LNG sales agreement in Asia.</li>
+<li>Exercised preferential rights and acquired additional working interests in Alaska’s Kuparuk River and Prudhoe Bay Units in the fourth quarter.</li>
+<li>Completed debt transactions to simplify the company’s capital structure post the acquisition of Marathon Oil, extending the weighted average maturity and improving the weighted average coupon of the portfolio.</li>
+<li>Achieved the Oil and Gas Methane Partnership 2.0 Gold Standard designation in 2024.</li>
+</ul>
+<p><b>Return of capital update</b></p>
+<p>ConocoPhillips announced its planned 2025 return of capital to shareholders of $10 billion. The company declared a first-quarter ordinary dividend of $0.78 per share payable March 3, 2025, to stockholders of record at the close of business on Feb. 17, 2025.</p>
+<p><b>Fourth-quarter review</b></p>
+<p>Production for the fourth quarter of 2024 was 2,183 MBOED, an increase of 281 MBOED from the same period a year ago. After adjusting for impacts from closed acquisitions and dispositions, fourth-quarter 2024 production increased 139 MBOED or 6% from the same period a year ago.</p>
+<p>Lower 48 delivered production of 1,308 MBOED, including 833 MBOED from the Permian, 296 MBOED from the Eagle Ford and 151 MBOED from the Bakken.</p>
+<p>Earnings decreased from the fourth quarter of 2023 as higher volumes were more than offset by nonrecurring acquisition-related transaction and integration expenses, lower prices and higher depreciation, depletion and amortization (DD&amp;A). Adjusted earnings decreased as higher volumes were more than offset by lower prices, higher DD&amp;A and increased operating costs.</p>
+<p>The company’s total average realized price was $52.37 per BOE, 10% lower than the $58.21 per BOE realized in the fourth quarter of 2023.</p>
+<p>For the fourth quarter, cash provided by operating activities was approximately $4.5 billion. Excluding a $1.0 billion change in working capital, ConocoPhillips generated CFO of over $5.4 billion. The company funded $3.3 billion of capital expenditures and investments inclusive of $0.4 billion of spend related to fourth-quarter acquisitions, repurchased $2.0 billion of shares and paid $0.9 billion in ordinary dividends. In addition, the company completed strategic debt transactions and repaid naturally maturing debt, resulting in net cash proceeds of $1.2 billion.</p>
+<p><b>Full-year review</b></p>
+<p>Production for 2024 was 1,987 MBOED, an increase of 161 MBOED from the same period a year ago. After adjusting for impacts from closed acquisitions and dispositions, production increased 69 MBOED or 3% from the same period a year ago.</p>
+<p>The company’s total average realized price during this period was $54.83 per BOE, 6% lower than the $58.39 per BOE realized in 2023.</p>
+<p>In 2024, cash provided by operating activities was $20.1 billion. Excluding a $0.2 billion change in working capital, ConocoPhillips generated CFO of $20.3 billion and received disposition proceeds of $0.3 billion. The company funded $12.1 billion in capital expenditures and investments inclusive of $0.4 billion of spend related to fourth-quarter acquisitions, repurchased shares of $5.5 billion and paid $3.6 billion in ordinary dividends and VROC. In addition, the company completed strategic debt transactions and repaid naturally maturing debt, resulting in net cash proceeds of $0.6 billion.</p>
+<p><b>Reserves update</b></p>
+<p>Preliminary 2024 year-end proved reserves are 7.8 billion barrels of oil equivalent (BBOE), with a preliminary reserve replacement ratio of 244%. Excluding closed acquisitions and dispositions, the preliminary organic reserve replacement ratio was 123%.</p>
+<p>Final information related to the company’s 2024 oil and gas reserves will be provided in ConocoPhillips’ Annual Report on Form 10-K, to be filed with the SEC in February.</p>
+<p><b>Outlook</b></p>
+<p>The company’s 2025 production guidance is 2.34 to 2.38 million barrels of oil equivalent per day (MMBOED), which includes impacts of 20 MBOED from planned turnarounds. First-quarter 2025 production is expected to be 2.34 to 2.38 MMBOED, which includes impacts of 20 MBOED from January weather and 5 MBOED from turnarounds.</p>
+<p>Guidance for 2025 includes capital expenditures of approximately $12.9 billion, adjusted operating costs of $10.9 to $11.1 billion, DD&amp;A of $11.3 to $11.5 billion and adjusted corporate segment net loss of approximately $1.1 billion. Guidance excludes special items.</p>
+<p>ConocoPhillips will host a conference call today at noon Eastern time to discuss this announcement. To listen to the call and view related presentation materials and supplemental information, go to <a href="https://cts.businesswire.com/ct/CT?id=smartlink&amp;url=http%3A%2F%2Fwww.conocophillips.com%2Finvestor&amp;esheet=54199768&amp;newsitemid=20250204791806&amp;lan=en-US&amp;anchor=www.conocophillips.com%2Finvestor.&amp;index=1&amp;md5=3abe20f13dcd9b376097563295a75e91" target="_blank" rel="nofollow noreferrer noopener"><i>www.conocophillips.com/investor</i>.</a> A recording and transcript of the call will be posted afterward.</p>
+<p>— # # # —</p>
+<p><b>About ConocoPhillips</b></p>
+<p>ConocoPhillips is one of the world’s leading exploration and production companies based on both production and reserves, with a globally diversified asset portfolio. Headquartered in Houston, Texas, ConocoPhillips had operations and activities in 14 countries, $123 billion of total assets, and approximately 11,800 employees at Dec. 31, 2024. Production averaged 1,987 MBOED for the twelve months ended Dec. 31, 2024, and preliminary proved reserves were 7.8 BBOE as of Dec. 31, 2024.</p>
+<p>For more information, go to <a href="https://cts.businesswire.com/ct/CT?id=smartlink&amp;url=http%3A%2F%2Fwww.conocophillips.com%2F&amp;esheet=54199768&amp;newsitemid=20250204791806&amp;lan=en-US&amp;anchor=www.conocophillips.com.&amp;index=2&amp;md5=e9680a91b5b12f52c7bd9c69dd658efe" target="_blank" rel="nofollow noreferrer noopener"><i>www.conocophillips.com</i>.</a></p>
+<p><b>CAUTIONARY STATEMENT FOR THE PURPOSES OF THE “SAFE HARBOR” PROVISIONS OF THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995</b></p>
+<p><i>This news release contains forward-looking statements as defined under the federal securities laws. Forward-looking statements relate to future events, including, without limitation, statements regarding our future financial position, business strategy, budgets, projected revenues, costs and plans, objectives of management for future operations, the anticipated benefits of our acquisition of Marathon Oil Corporation (Marathon Oil), the anticipated impact of our acquisition of Marathon Oil on the combined company’s business and future financial and operating results and the expected amount and timing of synergies from our acquisition of Marathon Oil and other aspects of our operations or operating results. Words and phrases such as “ambition,” “anticipate,” “believe,” “budget,” “continue,” “could,” “effort,” “estimate,” “expect,” “forecast,” “goal,” “guidance,” “intend,” “may,” “objective,” “outlook,” “plan,” “potential,” “predict,” “projection,” “seek,” “should,” “target,” “will,” “would,” and other similar words can be used to identify forward-looking statements. However, the absence of these words does not mean that the statements are not forward-looking. Where, in any forward- looking statement, the company expresses an expectation or belief as to future results, such expectation or belief is expressed in good faith and believed to be reasonable at the time such forward-looking statement is made. However, these statements are not guarantees of future performance and involve certain risks, uncertainties and other factors beyond our control. Therefore, actual outcomes and results may differ materially from what is expressed or forecast in the forward-looking statements. Factors that could cause actual results or events to differ materially from what is presented include, but are not limited to, the following: effects of volatile commodity prices, including prolonged periods of low commodity prices, which may adversely impact our operating results and our ability to execute on our strategy and could result in recognition of impairment charges on our long-lived assets, leaseholds and nonconsolidated equity investments; global and regional changes in the demand, supply, prices, differentials or other market conditions affecting oil and gas, including changes as a result of any ongoing military conflict and the global response to such conflict, security threats on facilities and infrastructure, global health crises, the imposition or lifting of crude oil production quotas or other actions that might be imposed by OPEC and other producing countries or the resulting company or third-party actions in response to such changes; the potential for insufficient liquidity or other factors, such as those described herein, that could impact our ability to repurchase shares and declare and pay dividends, whether fixed or variable; potential failures or delays in achieving expected reserve or production levels from existing and future oil and gas developments, including due to operating hazards, drilling risks and the inherent uncertainties in predicting reserves and reservoir performance; reductions in our reserve replacement rates, whether as a result of significant declines in commodity prices or otherwise; unsuccessful exploratory drilling activities or the inability to obtain access to exploratory acreage; failure to progress or complete announced and future development plans related to constructing, modifying or operating related to constructing, modifying or operating E&amp;P and LNG facilities, or unexpected changes in costs, inflationary pressures or technical equipment related to such plans; significant operational or investment changes imposed by legislative and regulatory initiatives and international agreements addressing environmental concerns, including initiatives addressing the impact of global climate change, such as limiting or reducing GHG emissions, regulations concerning hydraulic fracturing, methane emissions, flaring or water disposal and prohibitions on commodity exports; broader societal attention to and efforts to address climate change may cause substantial investment in and increased adoption of competing or alternative energy sources; risks, uncertainties and high costs that may prevent us from successfully executing on our Climate Risk Strategy; lack or inadequacy of, or disruptions in reliable transportation for our crude oil, bitumen, natural gas, LNG and NGLs; inability to timely obtain or maintain permits, including those necessary for construction, drilling and/or development, or inability to make capital expenditures required to maintain compliance with any necessary permits or applicable laws or regulations; potential disruption or interruption of our operations and any resulting consequences due to accidents, extraordinary weather events, supply chain disruptions, civil unrest, political events, war, terrorism, cybersecurity threats or information technology failures, constraints or disruptions; liability for remedial actions, including removal and reclamation obligations, under existing or future environmental regulations and litigation; liability resulting from pending or future litigation or our failure to comply with applicable laws and regulations; general domestic and international economic, political and diplomatic developments, including deterioration of international trade relationships, the imposition of trade restrictions or tariffs relating to commodities and material or products (such as aluminum and steel) used in the operation of our business, expropriation of assets, changes in governmental policies relating to commodity pricing, including the imposition of price caps, sanctions or other adverse regulations or taxation policies; competition and consolidation in the oil and gas E&amp;P industry, including competition for sources of supply, services, personnel and equipment; any limitations on our access to capital or increase in our cost of capital or insurance, including as a result of illiquidity, changes or uncertainty in domestic or international financial markets, foreign currency exchange rate fluctuations or investment sentiment; challenges or delays to our execution of, or successful implementation of the acquisition of Marathon Oil or any future asset dispositions or acquisitions we elect to pursue; potential disruption of our operations, including the diversion of management time and attention; our inability to realize anticipated cost savings or capital expenditure reductions; difficulties integrating acquired businesses and technologies; or other unanticipated changes; our inability to deploy the net proceeds from any asset dispositions that are pending or that we elect to undertake in the future in the manner and timeframe we anticipate, if at all; the operation, financing and management of risks of our joint ventures; the ability of our customers and other contractual counterparties to satisfy their obligations to us, including our ability to collect payments when due from the government of Venezuela or PDVSA; uncertainty as to the long-term value of our common stock; and other economic, business, competitive and/or regulatory factors affecting our business generally as set forth in our filings with the Securities and Exchange Commission. Unless legally required, ConocoPhillips expressly disclaims any obligation to update any forward-looking statements, whether as a result of new information, future events or otherwise.</i></p>
+<p><i><b>Cautionary Note to U.S. Investors </b>– The SEC permits oil and gas companies, in their filings with the SEC, to disclose only proved, probable and possible reserves. We may use the term “resource” in this news release that the SEC’s guidelines prohibit us from including in filings with the SEC. U.S. investors are urged to consider closely the oil and gas disclosures in our Form 10-K and other reports and filings with the SEC. Copies are available from the SEC and from the ConocoPhillips website.</i></p>
+<p><i><b>Use of Non-GAAP Financial Information </b>– To supplement the presentation of the company’s financial results prepared in accordance with U.S. generally accepted accounting principles (GAAP), this news release and the accompanying supplemental financial information contain certain financial measures that are not prepared in accordance with GAAP, including adjusted earnings (calculated on a consolidated and on a segment-level basis), adjusted earnings per share (EPS), cash from operations (CFO), adjusted operating costs, adjusted corporate segment net loss, return on capital employed (ROCE) and cash adjusted ROCE.</i></p>
+<p><i>The company believes that the non-GAAP measure adjusted earnings (both on an aggregate and a per-share basis), adjusted operating costs and adjusted corporate segment net loss are useful to investors to help facilitate comparisons of the company’s operating performance associated with the company’s core business operations across periods on a consistent basis and with the performance and cost structures of peer companies by excluding items that do not directly relate to the company’s core business operations.</i> <i>Adjusted earnings is defined as earnings removing the impact of special items. Adjusted EPS is a measure of the company’s diluted net earnings per share excluding special items. Adjusted operating costs is defined as the sum of production and operating expenses and selling, general and administrative expenses, adjusted to exclude expenses that do not directly relate to the company’s core business operations and are included as adjustments to arrive at adjusted earnings to the extent those adjustments impact operating costs.</i> <i>Adjusted corporate segment net loss is defined as corporate and other segment earnings adjusted for special items. The company further believes that the non-GAAP measure CFO is useful to investors to help understand changes in cash provided by operating activities excluding the timing effects associated with operating working capital changes across periods on a consistent basis and with the performance of peer companies. ROCE is a measure of the profitability of the company’s capital employed in its business operations. The company calculates ROCE as a ratio, the numerator of which is net income, and the denominator of which is average total equity plus average total debt. The net income is adjusted for after-tax interest expense, for the purposes of measuring efficiency of debt capital used in operations; net income is also adjusted for non-operational or special items impacts to allow for comparability in the long-term view across periods. The company believes ROCE is a good indicator of long-term company and management performance as it relates to capital efficiency, both absolute and relative to the company’s primary peer group. The basis of cash adjusted ROCE utilizes ROCE as defined above and further adjusts for cash and cash equivalents, restricted cash, and short-term investments as well as the after-tax interest income generated by these capital sources, as the company may retain these sources for other strategic purposes and not fully employ such capital for use in operations. As such, cash adjusted ROCE is useful for comparability across periods that may be cyclically impacted by significant cash-related transactions. The company believes that the above-mentioned non-GAAP measures, when viewed in combination with the company’s results prepared in accordance with GAAP, provides a more complete understanding of the factors and trends affecting the company’s business and performance. The company’s Board of Directors and management also use these non-GAAP measures to analyze the company’s operating performance across periods when overseeing and managing the company’s business.</i></p>
+<p><i>Each of the non-GAAP measures included in this news release and the accompanying supplemental financial information has limitations as an analytical tool and should not be considered in isolation or as a substitute for an analysis of the company’s results calculated in accordance with GAAP. In addition, because not all companies use identical calculations, the company’s presentation of non-GAAP measures in this news release and the accompanying supplemental financial information may not be comparable to similarly titled measures disclosed by other companies, including companies in our industry. The company may also change the calculation of any of the non-GAAP measures included in this news release and the accompanying supplemental financial information from time to time in light of its then existing operations to include other adjustments that may impact its operations.</i></p>
+<p><i>Reconciliations of each non-GAAP measure presented in this news release to the most directly comparable financial measure calculated in accordance with GAAP are included in the release.</i></p>
+<p><i>Other Terms – This news release also contains the term proforma underlying production. Proforma underlying production reflects the impact of closed acquisitions and closed dispositions as of Dec. 31, 2024. The impact of closed acquisitions and dispositions assumes a closing date of Jan. 1, 2023. The company believes that underlying production is useful to investors to compare production reflecting the impact of closed acquisitions and dispositions on a consistent go-forward basis across periods and with peer companies. Return of capital is defined as the total of dividends and share repurchases. Reserve replacement is defined by the company as a ratio representing the change in proved reserves, net of production, divided by current year production. Organic reserve replacement is defined by the company as a ratio representing the change in proved reserves, net of production and excluding acquisitions and dispositions, divided by current year production. The company believes that reserve replacement and organic reserve replacement are useful to investors to help understand how changes in proved reserves, net of production compare with the company’s current year production, inclusive and exclusive of acquisitions and dispositions, respectively.</i></p>
+<p><i>References in the release to earnings refer to net income.</i></p>
+<table cellspacing="0">
+<tbody>
+<tr>
+<td colspan="49" rowspan="1"><b>ConocoPhillips</b> </p>
+<p><b>Table 1: Reconciliation of earnings to adjusted earnings</b></p>
+<p>$ millions, except as indicated</p>
+</td>
+</tr>
+<tr>
+<td colspan="49" rowspan="1"/>
+</tr>
+<tr>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+</tr>
+<tr>
+<td colspan="1" rowspan="1"/>
+<td colspan="13" rowspan="1"><b>4Q24</b></td>
+<td colspan="1" rowspan="1"/>
+<td colspan="10" rowspan="1"><b>4Q23</b></td>
+<td colspan="1" rowspan="1"/>
+<td colspan="11" rowspan="1"><b>2024 FY</b></td>
+<td colspan="1" rowspan="1"/>
+<td colspan="11" rowspan="1"><b>2023 FY</b></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"><b>Pre-tax</b></td>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"><b>Income</b> </p>
+<p><b>tax</b></p>
+</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="3" rowspan="1"><b>After-</b> </p>
+<p><b>Tax</b></p>
+</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="3" rowspan="1"><b>Per share<br /></b><b>of</b> </p>
+<p><b>common<br /></b><b>stock<br /></b><b>(dollars)</b></p>
+</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"><b>Pre-tax</b></td>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"><b>Income</b> </p>
+<p><b>tax</b></p>
+</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"><b>After-</b> </p>
+<p><b>tax</b></p>
+</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"><b>Per share<br /></b><b>of</b> </p>
+<p><b>common<br /></b><b>stock<br /></b><b>(dollars)</b></p>
+</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"><b>Pre-tax</b></td>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"><b>Income</b> </p>
+<p><b>tax</b></p>
+</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"><b>After-</b> </p>
+<p><b>tax</b></p>
+</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"><b>Per share<br /></b><b>of</b> </p>
+<p><b>common<br /></b><b>stock<br /></b><b>(dollars)</b></p>
+</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"><b>Pre-tax</b></td>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"><b>Income</b> </p>
+<p><b>tax</b></p>
+</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"><b>After-</b> </p>
+<p><b>tax</b></p>
+</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"><b>Per share<br /></b><b>of</b> </p>
+<p><b>common<br /></b><b>stock<br /></b><b>(dollars)</b></p>
+</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="3" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="3" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+</tr>
+<tr>
+<td colspan="1" rowspan="1"><b>Earnings</b></td>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"><b>$</b></td>
+<td colspan="1" rowspan="1"><b>2,306</b></td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"><b>$</b></td>
+<td colspan="1" rowspan="1"><b>1.90</b></td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"><b>3,007</b></td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"><b>2.52</b></td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"><b>9,245</b></td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"><b>7.81</b></td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"><b>10,957</b></td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"><b>9.06</b></td>
+<td colspan="1" rowspan="1"/>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">Adjustments:</td>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="3" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="3" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">(Gain) loss on asset sales¹</td>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(86</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">20</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(66</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(0.06</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(94</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(6</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(100</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(0.08</td>
+<td colspan="1" rowspan="1">)</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">Tax adjustments</td>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(203</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(203</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(0.17</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(76</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(76</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(0.06</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(347</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(347</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(0.30</td>
+<td colspan="1" rowspan="1">)</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">Deferred tax adjustments</td>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(28</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(28</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(0.02</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(28</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(28</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(0.02</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">Tax adjustment – acquisition related</td>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(423</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(423</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(0.36</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(423</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(423</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(0.36</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">Transaction and integration expenses²</td>
+<td colspan="1" rowspan="1">514</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(70</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">444</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">0.37</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">542</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(76</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">466</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">0.39</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">(Gain) loss on FX derivative</td>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">73</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(15</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">58</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">0.05</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">132</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(27</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">105</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">0.09</td>
+<td colspan="1" rowspan="1"/>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">(Gain) loss on debt extinguishment</td>
+<td colspan="1" rowspan="1">173</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(26</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">147</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">0.12</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">173</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(26</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">147</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">0.12</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">(Gain) loss in interest rate hedge³</td>
+<td colspan="1" rowspan="1">(35</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">7</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(28</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(0.02</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(35</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">7</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(28</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(0.02</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">Pending claims and settlements</td>
+<td colspan="1" rowspan="1">(16</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(33</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(49</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(0.04</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(16</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(33</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(49</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(0.04</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">Impairments</td>
+<td colspan="1" rowspan="1">47</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(11</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">36</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">0.03</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">47</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">(11</td>
+<td colspan="1" rowspan="1">)</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">36</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">0.03</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1">—</td>
+<td colspan="1" rowspan="1"/>
+</tr>
+<tr>
+<td colspan="1" rowspan="1"><b>Adjusted earnings / (loss)</b></td>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"><b>$</b></td>
+<td colspan="1" rowspan="1"><b>2,405</b></td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"><b>$</b></td>
+<td colspan="1" rowspan="1"><b>1.98</b></td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"><b>2,862</b></td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"><b>2.40</b></td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"><b>9,224</b></td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"><b>7.79</b></td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="2" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"><b>10,615</b></td>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"/>
+<td colspan="1" rowspan="1"><b>8.77</b></td>
+<td colspan="1" rowspan="1"/>
+</tr>
+<tr>
+<td colspan="49" rowspan="1"><i>¹Includes 3Q23 divestiture of Lower 48 equity investment.</i> </p>
+<p><i>²Includes $20MM pre-tax of other expenses in addition to the adjustments to operating costs shown in Table 5.</i></p>
+<p><i>³Interest rate hedging (gain) loss from PALNG Phase 1 investment.</i></p>
+<p>The income tax effects of the special items are primarily calculated based on the statutory rate of the jurisdiction in which the discrete item resides.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><b>Contacts</b></p>
+<p>Dennis Nuss (media)<br />281-293-1149<br /><a href="http://energynow.com/cdn-cgi/l/email-protection#c1a5a4afafa8b2efafb4b2b281a2aeafaea2aeb1a9a8adada8b1b2efa2aeac" rel="nofollow"><i><span class="__cf_email__" data-cfemail="5430313a3a3d277a3a21272714373b3a3b373b243c3d38383d24277a373b39">[email protected]</span></i></a><i><br /></i><br />Investor Relations<br />281-293-5000<br /><a href="http://energynow.com/cdn-cgi/l/email-protection#cfa6a1b9aabcbba0bde1bdaaa3aebba6a0a1bc8faca0a1a0aca0bfa7a6a3a3a6bfbce1aca0a2" rel="nofollow"><i><span class="__cf_email__" data-cfemail="0a63647c6f797e657824786f666b7e636564794a6965646569657a62636666637a7924696567">[email protected]</span></i></a></p>
+<p><a href="http://www.businesswire.com/news/home/20250204791806/en/ConocoPhillips-reports-fourth-quarter-and-full-year-2024-results-announces-2025-guidance-and-quarterly-dividend/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39210Q6kUFgfHdOqgzuYnG7IySevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxZ2aUnrhs5Ui47LmUxN1qwXSfcWzNfFl9VuywhjtcyqiA==" target="_blank" rel="noreferrer noopener">Read full story here</a></p>
+<p><span style="float:left;display:inline;margin-top:13px;">Share This:  </span></p>
+<hr/>
+<h4 style="font-size: x-large;">More News Articles</h4>
+</p></div>
+<p><br />
+<br /><a href="https://energynow.com/2025/02/conocophillips-reports-fourth-quarter-and-full-year-2024-results-announces-2025-guidance-and-quarterly-dividend/">Source link </a></p>
+
+    <div class="xs_social_share_widget xs_share_url after_content 		main_content  wslu-style-1 wslu-share-box-shaped wslu-fill-colored wslu-none wslu-share-horizontal wslu-theme-font-no wslu-main_content">
+
+		
+        <ul>
+			        </ul>
+    </div> 
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"container py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"ConocoPhillips Reports Fourth-Quarter and Full-Year 2024 Results; Announces 2025 Guidance and Quarterly Dividend – Energy News, Top Headlines, Commentaries, Features & Events\",\"description\":\"Completed the acquisition of Marathon Oil, adding high-quality, low cost of supply inventory adjacent to the company’s leading U.S. unconventional position. Rep\",\"datePublished\":\"2025-02-06\",\"author\":{\"@type\":\"Organization\",\"name\":\"DigitechLifestyle Editorial\"}}"}}],["$","div",null,{"style":{"display":"grid","gap":"32px","gridTemplateColumns":"1fr","alignItems":"start"},"className":"blog-two-col","children":[["$","article",null,{"children":[["$","div",null,{"style":{"borderRadius":"12px","overflow":"hidden","marginBottom":"24px","maxHeight":"420px"},"children":["$","img",null,{"src":"https://www.digitechlifestyle.com/wp-content/uploads/2025/02/Conoco-Phillips_400x270.jpg","alt":"ConocoPhillips Reports Fourth-Quarter and Full-Year 2024 Results; Announces 2025 Guidance and Quarterly Dividend – Energy News, Top Headlines, Commentaries, Features & Events","style":{"width":"100%","height":"100%","objectFit":"cover","display":"block"}}]}],["$","div",null,{"className":"surface rounded-lg p-6 md:p-10","children":[["$","div",null,{"className":"flex flex-wrap gap-2 text-sm text-slate-400","children":[["$","span",null,{"className":"rounded-full bg-white/5 px-3 py-1 text-[var(--accent)]","children":"Artificial Intelligence"}],["$","span",null,{"children":"19 min read"}],["$","span",null,{"children":"February 6, 2025"}]]}],["$","h1",null,{"className":"mt-5 text-4xl font-black leading-tight text-white md:text-5xl","children":"ConocoPhillips Reports Fourth-Quarter and Full-Year 2024 Results; Announces 2025 Guidance and Quarterly Dividend – Energy News, Top Headlines, Commentaries, Features & Events"}],["$","p",null,{"className":"mt-5 text-xl leading-8 text-[var(--muted)]","children":"Completed the acquisition of Marathon Oil, adding high-quality, low cost of supply inventory adjacent to the company’s leading U.S. unconventional position. Rep"}]]}],["$","div",null,{"className":"prose-content mt-8","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eoOZKes8Mnqd7JDZr5hOO"}
+3:["$","div",null,{"style":{"display":"flex","flexWrap":"wrap","gap":"10px","alignItems":"center","margin":"32px 0 0","padding":"20px","background":"var(--bg-card)","borderRadius":"12px","border":"1px solid var(--line)"},"children":[["$","span",null,{"style":{"fontSize":"12px","fontWeight":700,"color":"var(--muted)","textTransform":"uppercase","letterSpacing":"0.08em","marginRight":"4px"},"children":"Share:"}],["$","a",null,{"href":"https://twitter.com/intent/tweet?text=ConocoPhillips%20Reports%20Fourth-Quarter%20and%20Full-Year%202024%20Results%3B%20Announces%202025%20Guidance%20and%20Quarterly%20Dividend%20%E2%80%93%20Energy%20News%2C%20Top%20Headlines%2C%20Commentaries%2C%20Features%20%26%20Events&url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fconocophillips-reports-fourth-quarter-and-full-year-2024-results-announces-2025-guidance-and-quarterly-dividend-energy-news-top-headlines-commentaries-features-events&via=DigiTechLife","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#000","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L1.254 2.25H8.08l4.253 5.622zm-1.161 17.52h1.833L7.084 4.126H5.117z"}]}],"X / Twitter"]}],["$","a",null,{"href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fconocophillips-reports-fourth-quarter-and-full-year-2024-results-announces-2025-guidance-and-quarterly-dividend-energy-news-top-headlines-commentaries-features-events","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#1877f2","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"}]}],"Facebook"]}],["$","a",null,{"href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fconocophillips-reports-fourth-quarter-and-full-year-2024-results-announces-2025-guidance-and-quarterly-dividend-energy-news-top-headlines-commentaries-features-events","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#0a66c2","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"}]}],"LinkedIn"]}],["$","a",null,{"href":"https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fconocophillips-reports-fourth-quarter-and-full-year-2024-results-announces-2025-guidance-and-quarterly-dividend-energy-news-top-headlines-commentaries-features-events&description=ConocoPhillips%20Reports%20Fourth-Quarter%20and%20Full-Year%202024%20Results%3B%20Announces%202025%20Guidance%20and%20Quarterly%20Dividend%20%E2%80%93%20Energy%20News%2C%20Top%20Headlines%2C%20Commentaries%2C%20Features%20%26%20Events&media=https%3A%2F%2Fwww.digitechlifestyle.com%2Fwp-content%2Fuploads%2F2025%2F02%2FConoco-Phillips_400x270.jpg","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#e60023","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":["$L8","Pinterest"]}]]}]
+4:["$","div",null,{"className":"mt-10","children":["$","section",null,{"className":"surface rounded-lg p-6 md:p-8","children":[["$","div",null,{"className":"grid gap-6 md:grid-cols-[1fr_auto] md:items-center","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-[0.22em] text-[var(--accent)]","children":"Partner picks"}],["$","h2",null,{"className":"mt-3 text-2xl font-semibold text-white md:text-3xl","children":"Build a smarter digital stack"}],["$","p",null,{"className":"mt-3 max-w-2xl text-sm leading-7 text-[var(--muted)] md:text-base","children":"Explore curated AI, automation, wealth, and creator tools selected for practical value, transparent pricing, and clear use cases."}]]}],["$","$L9",null,{"href":"/tool-directory","className":"inline-flex h-12 items-center justify-center gap-2 rounded-lg bg-[var(--accent)] px-5 text-sm font-bold text-slate-950","children":["Browse tools ",["$","$La",null,{"iconNode":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]],"className":"lucide-arrow-right","size":18}]]}]]}],["$","p",null,{"className":"mt-5 text-xs leading-6 text-slate-500","children":"Disclosure: some links may be affiliate links. DigitechLifestyle may earn a commission at no additional cost to you."}]]}]}]
+5:["$","aside",null,{"style":{"position":"sticky","top":"80px","display":"grid","gap":"16px","alignContent":"start"},"children":[["$","$Lb",null,{}],["$","form",null,{"className":"surface rounded-lg p-5 ","children":[["$","div",null,{"className":"flex items-center gap-3 text-[var(--accent)]","children":[["$","$La",null,{"iconNode":[["path",{"d":"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7","key":"132q7q"}],["rect",{"x":"2","y":"4","width":"20","height":"16","rx":"2","key":"izxlao"}]],"className":"lucide-mail","size":20}],["$","span",null,{"className":"text-sm font-semibold uppercase tracking-[0.2em]","children":"Newsletter"}]]}],["$","h2",null,{"className":"mt-4 text-2xl font-semibold text-white","children":"Get the Digital Living Brief"}],["$","p",null,{"className":"mt-3 text-sm leading-6 text-[var(--muted)]","children":"Weekly AI tools, automation ideas, affiliate opportunities, and digital wealth notes. No noise."}],["$","div",null,{"className":"mt-5 grid gap-3 sm:grid-cols-[1fr_auto]","children":[["$","input",null,{"aria-label":"Email address","type":"email","placeholder":"you@example.com","className":"h-12 rounded-lg border border-white/10 bg-black/30 px-4 text-sm text-white outline-none transition placeholder:text-slate-500 focus:border-[var(--accent)]"}],["$","button",null,{"className":"h-12 rounded-lg bg-white px-5 text-sm font-bold text-slate-950","type":"submit","children":"Join free"}]]}]]}]]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/12gi4g22zq5ft.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+8:["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 01.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"}]}]
+e:null

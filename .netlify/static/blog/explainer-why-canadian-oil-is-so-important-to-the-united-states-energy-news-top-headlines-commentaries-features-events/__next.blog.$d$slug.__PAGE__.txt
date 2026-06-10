@@ -1,0 +1,111 @@
+1:"$Sreact.fragment"
+9:I[22016,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],""]
+a:I[5014,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],"default"]
+b:I[12862,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],"SidebarAds"]
+c:I[97367,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+:HL["https://www.digitechlifestyle.com/wp-content/uploads/2025/02/Liquids_Pipelines_Cheecham_Terminal_Why-Canadian-Oil-is-So-Important-to-the-United-States-1200x810-1.jpeg","image"]
+2:T23da,<p> <br />
+</p>
+<div itemprop="text">
+<h2><strong>Complementary production in Canada and the U.S. boosts energy security</strong></h2>
+<p><strong>By <a href="https://www.canadianenergycentre.ca/author/djaremko2/" target="_blank" rel="noopener">Deborah Jaremko</a></strong>
+</p>
+<p><strong>Follow CEC on LinkedIn  <a href="https://www.linkedin.com/company/canadian-energy-centre/" target="_blank" rel="noopener">CEC LinkedIn</a><br />Follow CEC on Facebook <a href="https://www.facebook.com/CDNEnergyCentre/" target="_blank" rel="noopener">CEC Facebook</a><br />Follow CEC on Twitter <a href="https://twitter.com/CDNEnergyCentre" target="_blank" rel="noopener">CEC Twitter</a></strong>
+</p>
+<p><img fetchpriority="high" fetchpriority="high" decoding="async" width="1024" height="691" class="aligncenter size-large wp-image-603903" src="https://energynow.com/wp-content/uploads/Liquids_Pipelines_Cheecham_Terminal_Why-Canadian-Oil-is-So-Important-to-the-United-States-1200x810-1-1024x691.jpg" alt="liquids pipelines cheecham terminal why canadian oil is so important to the united states 1200x810" srcset="https://energynow.com/wp-content/uploads/Liquids_Pipelines_Cheecham_Terminal_Why-Canadian-Oil-is-So-Important-to-the-United-States-1200x810-1-1024x691.jpg 1024w, https://energynow.com/wp-content/uploads/Liquids_Pipelines_Cheecham_Terminal_Why-Canadian-Oil-is-So-Important-to-the-United-States-1200x810-1-300x203.jpg 300w, https://energynow.com/wp-content/uploads/Liquids_Pipelines_Cheecham_Terminal_Why-Canadian-Oil-is-So-Important-to-the-United-States-1200x810-1-400x270.jpg 400w, https://energynow.com/wp-content/uploads/Liquids_Pipelines_Cheecham_Terminal_Why-Canadian-Oil-is-So-Important-to-the-United-States-1200x810-1-768x518.jpg 768w, https://energynow.com/wp-content/uploads/Liquids_Pipelines_Cheecham_Terminal_Why-Canadian-Oil-is-So-Important-to-the-United-States-1200x810-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px"/>
+</p>
+<p style="text-align: center;"><em>Enbridge’s Cheecham Terminal near Fort McMurray, Alberta is a key oil storage hub that moves light and heavy crude along the Enbridge network. Photo courtesy Enbridge</em>
+</p>
+<p>The United States is now the world’s largest oil producer, but its reliance on oil imports from Canada has never been higher.
+</p>
+<p>Through a vast handshake of pipelines and refineries, Canadian oil and U.S. oil complement each other, strengthening North American energy security.
+</p>
+<p>Here’s why.
+</p>
+<h3><strong>Decades in the making</strong></h3>
+<p>Twenty years ago, the North American energy market looked a lot different than it does today.
+</p>
+<p>In the early 2000s, U.S. oil production had been declining for more than 20 years. By 2005, it dropped to its lowest level since 1949, <a href="https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&amp;s=mcrfpus1&amp;f=a" target="_blank" rel="noopener">according to</a> the U.S. Energy Information Administration (EIA).
+</p>
+<p>America’s imports of oil from foreign nations were on the rise.
+</p>
+<p>But then, the first of two powerhouse North American oil plays started ramping up.
+</p>
+<p>In Canada’s oil sands, a drilling technology called SAGD – steam-assisted gravity drainage – unlocked enormous resources that could not be economically produced by the established surface mining processes. And the first new mines in nearly 25 years started coming online.
+</p>
+<p>In about 2010, the second massive play – U.S. light, tight oil – emerged on the scene, thanks to hydraulic fracturing technology.
+</p>
+<p>Oil sands production jumped from about one million barrels per day in 2005 to 2.5 million barrels per day in 2015, reaching an average 3.5 million barrels per day last year, <a href="https://www.cer-rec.gc.ca/en/data-analysis/energy-commodities/crude-oil-petroleum-products/statistics/estimated-production-canadian-crude-oil-equivalent.html" target="_blank" rel="noopener">according to</a> the Canada Energy Regulator.
+</p>
+<p>Meanwhile, U.S. oil production skyrocketed from 5.5 million barrels per day in 2005 to 9.4 million barrels per day in 2015 and 13.3 million barrels per day in 2024, according to the EIA.
+</p>
+<p>Together the United States and Canada now produce more oil than anywhere else on earth, <a href="https://www.greencarcongress.com/2023/12/20231213-sandp.html" target="_blank" rel="noopener">according to</a> S&amp;P Global.
+</p>
+<p>As a result, overall U.S. foreign oil imports declined by 35 per cent between 2005 and 2023. But imports from Canada have steadily gone up.</p>
+<p>In 2005, Mexico, Saudi Arabia, Venezuela and Nigeria together supplied 52 per cent of U.S. oil imports. Canada was at just 16 per cent.
+</p>
+<p>In 2024, Canada supplied 62 per cent of American oil imports, with Mexico, Saudi Arabia and Venezuela together supplying just 14 per cent, according to the EIA.
+</p>
+<h3><strong>“Light” and “heavy” oil</strong></h3>
+<p>Canadian and U.S. oil production are complementary because they are different from each other in composition.
+</p>
+<p>Canada’s oil exports to the U.S. are primarily “heavy” oil from the oil sands, while U.S. production is primarily “light” oil from the Permian Basin in Texas and New Mexico.
+</p>
+<p>One way to think of it is that heavy oil is thick and does not flow easily, while light oil is thin and flows freely – like orange juice compared to fudge.
+</p>
+<p>The components that make the oil like this require different refinery equipment to generate products including gasoline, jet fuel and base petrochemicals.
+</p>
+<p>Of the oil the U.S. imported from Canada from January to October last year, 75 per cent was heavy, six per cent was light, and the remaining 19 per cent was “medium,” which basically has qualities in between the two.
+</p>
+<h3><strong>Tailored for Canadian crude</strong></h3>
+<p>Many refineries in the United States are specifically designed to process heavy oil, primarily in the U.S. Midwest and U.S. Gulf Coast.
+</p>
+<p>Overall, there are about 130 operable oil refineries in the United States, <a href="https://afpm.org/data-reports/annual-report" target="_blank" rel="noopener">according to</a> the American Fuel and Petrochemical Manufacturers.
+</p>
+<p>The Alberta Petroleum Marketing Commission (APMC) estimates that 25 consistently use oil from Alberta.
+</p>
+<p>According to APMC, the top five U.S. refineries running the most Alberta crude are:
+</p>
+<ul>
+<li>Marathon Petroleum, Robinson, Illinois (100% Alberta crude)</li>
+<li>Exxon Mobil, Joliet, Illinois (96% Alberta crude)</li>
+<li>CHS Inc., Laurel, Montana (95% Alberta crude)</li>
+<li>Phillips 66, Billings, Montana (92% Alberta crude)</li>
+<li>Citgo, Lemont, Illinois (78% Alberta crude)</li>
+</ul>
+<p>Since 2010, virtually 100 per cent of oil imports to the U.S. Midwest have come from Canada, <a href="https://www.eia.gov/dnav/pet/pet_move_impcp_d_r20_Z00_mbblpd_m.htm" target="_blank" rel="noopener">according to</a> the EIA.
+</p>
+<p>In recent years, new pipeline access and crude-by-rail have allowed more Canadian oil to reach refineries on the U.S. Gulf Coast, rising from about 140,000 barrels per day in 2010 to about 450,000 barrels per day in 2024.
+</p>
+<h3><strong>U.S. oil exports</strong></h3>
+<p>The United States banned oil exports from 1975 to the end of 2015. Since, exports have surged, averaging 4.1 million barrels per day last year, <a href="https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&amp;s=MCREXUS2&amp;f=M" target="_blank" rel="noopener">according to</a> the EIA.
+</p>
+<p>That is nearly equivalent to the 4.6 million barrels per day of Canadian oil imported into the U.S. over the same time period, indicating that Canadian crude imports enable sales of U.S. oil to global markets.
+</p>
+<h3><strong>Future outlook</strong></h3>
+<p>Twenty-five years from now, the U.S. will need to import virtually exactly the same amount of oil as it does today (7.0 million barrels per day in 2050 compared to 6.98 million barrels per day in 2023), <a href="https://www.eia.gov/outlooks/aeo/data/browser/#/?id=1-AEO2023&amp;region=0-0&amp;cases=ref2023&amp;start=2021&amp;end=2050&amp;f=A&amp;linechart=ref2023-d020623a.3-1-AEO2023~ref2023-d020623a.15-1-AEO2023~ref2023-d020623a.30-1-AEO2023~ref2023-d020623a.17-1-AEO2023&amp;map=&amp;ctype=linechart&amp;sourcekey=0" target="_blank" rel="noopener">according to</a> the EIA.
+</p>
+<p><em><strong>The unaltered reproduction of this content is free of charge with attribution to the Canadian Energy Centre.</strong></em></p>
+<p><span style="float:left;display:inline;margin-top:13px;">Share This:  </span></p>
+<hr/>
+<h4 style="font-size: x-large;">More News Articles</h4>
+</p></div>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><br />
+<br /><br />
+<br /><a href="https://energynow.com/2025/02/explainer-why-canadian-oil-is-so-important-to-the-united-states/">Source link </a></p>
+
+    <div class="xs_social_share_widget xs_share_url after_content 		main_content  wslu-style-1 wslu-share-box-shaped wslu-fill-colored wslu-none wslu-share-horizontal wslu-theme-font-no wslu-main_content">
+
+		
+        <ul>
+			        </ul>
+    </div> 
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"container py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Explainer: Why Canadian Oil is So Important to the United States – Energy News, Top Headlines, Commentaries, Features & Events\",\"description\":\"Complementary production in Canada and the U.S. boosts energy security By Deborah Jaremko Follow CEC on LinkedIn CEC LinkedInFollow CEC on Facebook CEC Facebook\",\"datePublished\":\"2025-02-01\",\"author\":{\"@type\":\"Organization\",\"name\":\"DigitechLifestyle Editorial\"}}"}}],["$","div",null,{"style":{"display":"grid","gap":"32px","gridTemplateColumns":"1fr","alignItems":"start"},"className":"blog-two-col","children":[["$","article",null,{"children":[["$","div",null,{"style":{"borderRadius":"12px","overflow":"hidden","marginBottom":"24px","maxHeight":"420px"},"children":["$","img",null,{"src":"https://www.digitechlifestyle.com/wp-content/uploads/2025/02/Liquids_Pipelines_Cheecham_Terminal_Why-Canadian-Oil-is-So-Important-to-the-United-States-1200x810-1.jpeg","alt":"Explainer: Why Canadian Oil is So Important to the United States – Energy News, Top Headlines, Commentaries, Features & Events","style":{"width":"100%","height":"100%","objectFit":"cover","display":"block"}}]}],["$","div",null,{"className":"surface rounded-lg p-6 md:p-10","children":[["$","div",null,{"className":"flex flex-wrap gap-2 text-sm text-slate-400","children":[["$","span",null,{"className":"rounded-full bg-white/5 px-3 py-1 text-[var(--accent)]","children":"Artificial Intelligence"}],["$","span",null,{"children":"5 min read"}],["$","span",null,{"children":"February 1, 2025"}]]}],["$","h1",null,{"className":"mt-5 text-4xl font-black leading-tight text-white md:text-5xl","children":"Explainer: Why Canadian Oil is So Important to the United States – Energy News, Top Headlines, Commentaries, Features & Events"}],["$","p",null,{"className":"mt-5 text-xl leading-8 text-[var(--muted)]","children":"Complementary production in Canada and the U.S. boosts energy security By Deborah Jaremko Follow CEC on LinkedIn CEC LinkedInFollow CEC on Facebook CEC Facebook"}]]}],["$","div",null,{"className":"prose-content mt-8","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eoOZKes8Mnqd7JDZr5hOO"}
+3:["$","div",null,{"style":{"display":"flex","flexWrap":"wrap","gap":"10px","alignItems":"center","margin":"32px 0 0","padding":"20px","background":"var(--bg-card)","borderRadius":"12px","border":"1px solid var(--line)"},"children":[["$","span",null,{"style":{"fontSize":"12px","fontWeight":700,"color":"var(--muted)","textTransform":"uppercase","letterSpacing":"0.08em","marginRight":"4px"},"children":"Share:"}],["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Explainer%3A%20Why%20Canadian%20Oil%20is%20So%20Important%20to%20the%20United%20States%20%E2%80%93%20Energy%20News%2C%20Top%20Headlines%2C%20Commentaries%2C%20Features%20%26%20Events&url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fexplainer-why-canadian-oil-is-so-important-to-the-united-states-energy-news-top-headlines-commentaries-features-events&via=DigiTechLife","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#000","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L1.254 2.25H8.08l4.253 5.622zm-1.161 17.52h1.833L7.084 4.126H5.117z"}]}],"X / Twitter"]}],["$","a",null,{"href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fexplainer-why-canadian-oil-is-so-important-to-the-united-states-energy-news-top-headlines-commentaries-features-events","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#1877f2","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"}]}],"Facebook"]}],["$","a",null,{"href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fexplainer-why-canadian-oil-is-so-important-to-the-united-states-energy-news-top-headlines-commentaries-features-events","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#0a66c2","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"}]}],"LinkedIn"]}],["$","a",null,{"href":"https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fexplainer-why-canadian-oil-is-so-important-to-the-united-states-energy-news-top-headlines-commentaries-features-events&description=Explainer%3A%20Why%20Canadian%20Oil%20is%20So%20Important%20to%20the%20United%20States%20%E2%80%93%20Energy%20News%2C%20Top%20Headlines%2C%20Commentaries%2C%20Features%20%26%20Events&media=https%3A%2F%2Fwww.digitechlifestyle.com%2Fwp-content%2Fuploads%2F2025%2F02%2FLiquids_Pipelines_Cheecham_Terminal_Why-Canadian-Oil-is-So-Important-to-the-United-States-1200x810-1.jpeg","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#e60023","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":["$L8","Pinterest"]}]]}]
+4:["$","div",null,{"className":"mt-10","children":["$","section",null,{"className":"surface rounded-lg p-6 md:p-8","children":[["$","div",null,{"className":"grid gap-6 md:grid-cols-[1fr_auto] md:items-center","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-[0.22em] text-[var(--accent)]","children":"Partner picks"}],["$","h2",null,{"className":"mt-3 text-2xl font-semibold text-white md:text-3xl","children":"Build a smarter digital stack"}],["$","p",null,{"className":"mt-3 max-w-2xl text-sm leading-7 text-[var(--muted)] md:text-base","children":"Explore curated AI, automation, wealth, and creator tools selected for practical value, transparent pricing, and clear use cases."}]]}],["$","$L9",null,{"href":"/tool-directory","className":"inline-flex h-12 items-center justify-center gap-2 rounded-lg bg-[var(--accent)] px-5 text-sm font-bold text-slate-950","children":["Browse tools ",["$","$La",null,{"iconNode":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]],"className":"lucide-arrow-right","size":18}]]}]]}],["$","p",null,{"className":"mt-5 text-xs leading-6 text-slate-500","children":"Disclosure: some links may be affiliate links. DigitechLifestyle may earn a commission at no additional cost to you."}]]}]}]
+5:["$","aside",null,{"style":{"position":"sticky","top":"80px","display":"grid","gap":"16px","alignContent":"start"},"children":[["$","$Lb",null,{}],["$","form",null,{"className":"surface rounded-lg p-5 ","children":[["$","div",null,{"className":"flex items-center gap-3 text-[var(--accent)]","children":[["$","$La",null,{"iconNode":[["path",{"d":"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7","key":"132q7q"}],["rect",{"x":"2","y":"4","width":"20","height":"16","rx":"2","key":"izxlao"}]],"className":"lucide-mail","size":20}],["$","span",null,{"className":"text-sm font-semibold uppercase tracking-[0.2em]","children":"Newsletter"}]]}],["$","h2",null,{"className":"mt-4 text-2xl font-semibold text-white","children":"Get the Digital Living Brief"}],["$","p",null,{"className":"mt-3 text-sm leading-6 text-[var(--muted)]","children":"Weekly AI tools, automation ideas, affiliate opportunities, and digital wealth notes. No noise."}],["$","div",null,{"className":"mt-5 grid gap-3 sm:grid-cols-[1fr_auto]","children":[["$","input",null,{"aria-label":"Email address","type":"email","placeholder":"you@example.com","className":"h-12 rounded-lg border border-white/10 bg-black/30 px-4 text-sm text-white outline-none transition placeholder:text-slate-500 focus:border-[var(--accent)]"}],["$","button",null,{"className":"h-12 rounded-lg bg-white px-5 text-sm font-bold text-slate-950","type":"submit","children":"Join free"}]]}]]}]]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/12gi4g22zq5ft.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+8:["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 01.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"}]}]
+e:null

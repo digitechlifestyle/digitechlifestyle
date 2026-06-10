@@ -1,0 +1,117 @@
+1:"$Sreact.fragment"
+8:I[22016,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],""]
+9:I[5014,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],"default"]
+a:I[12862,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],"SidebarAds"]
+b:I[97367,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+:HL["https://picsum.photos/seed/crypto-tax-uk-2025/800/500","image"]
+2:T2fe1,<p><script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Crypto Tax UK 2025: What You Owe HMRC (And How to Avoid Overpaying)","author":{"@type":"Person","name":"Joe Robertson","url":"https://www.digitechlifestyle.com/author/digitechlifestylegmail-com/"},"publisher":{"@type":"Organization","name":"DigitechLifestyle","url":"https://www.digitechlifestyle.com/"},"description":"UK crypto tax guide 2025: when Capital Gains Tax applies, how HMRC taxes staking rewards, the annual CGT allowance, and how to report crypto to HMRC.","datePublished":"2025-01-01","dateModified":"2025-01-01"}</script></p>
+<div style="background:#f0f4ff;border:1.5px solid #1a2744;border-radius:10px;padding:22px 26px;margin:24px 0 28px;font-family:sans-serif"><span style="font-size:.68rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#1a2744;display:block;margin-bottom:6px">Quick Summary</span><span style="font-size:2rem;font-weight:700;color:#1a2744">CGT applies to most crypto</span><span style="font-size:.95rem;color:#2d3748;display:block;margin-top:10px;line-height:1.6">Selling or swapping crypto triggers Capital Gains Tax in the UK. The 2025/26 annual CGT allowance is £3,000 — profits below this are tax-free. Staking and mining rewards are taxed as income when received. You must report gains to HMRC via Self Assessment.</span></div>
+<p>Most UK crypto holders know they should probably be paying tax on their gains, but have no idea where to start. HMRC&#8217;s rules aren&#8217;t complicated once you know the basics — and the good news is that plenty of people owe less than they think.</p>
+<p>This guide explains exactly what tax you owe, when you owe it, and how to report it. We use plain English, not accounting jargon.</p>
+<h2>Do You Have to Pay Tax on Crypto in the UK?</h2>
+<p>Yes — but only when a taxable event occurs. Simply holding Bitcoin, Ethereum, or any other cryptocurrency in a wallet is not a taxable event. HMRC treats crypto as a capital asset (similar to shares or property), so tax is triggered when you dispose of it.</p>
+<p>The main taxable events are: selling crypto for GBP, swapping one cryptocurrency for another, using crypto to pay for goods or services, and gifting crypto to someone other than your spouse.</p>
+<p>Things that are <em>not</em> taxable: buying crypto with GBP, moving crypto between wallets you own, holding crypto that goes up in value (until you sell).</p>
+<h2>Capital Gains Tax on Crypto — How It Works</h2>
+<p>When you dispose of a crypto asset, you calculate your gain as: <strong>proceeds (what you received) minus allowable costs (what you paid)</strong>. The resulting profit is your capital gain.</p>
+<p>The CGT rates for 2025 are:</p>
+<ul>
+<li><strong>18%</strong> if your total income plus gains keep you in the basic rate tax band</li>
+<li><strong>24%</strong> if any of your gains push you into the higher rate band</li>
+</ul>
+<p>These rates apply to crypto as well as shares and most other assets (property has slightly different rates).</p>
+<p>One important rule: if you buy and sell the same crypto within 30 days, HMRC applies the &#8220;bed and breakfast&#8221; rule, which prevents you from selling at a loss to crystallise a gain then immediately rebuying. The cost basis for the repurchase gets matched to the sale.</p>
+<h2>The UK Crypto CGT Allowance for 2025/26</h2>
+<p>Every UK taxpayer has an annual Capital Gains Tax allowance — the amount of gains you can make each year completely tax-free. For 2025/26, this is <strong>£3,000</strong>.</p>
+<p>This covers your total gains across all assets, not just crypto. If you&#8217;ve also sold shares or a second property in the same tax year, those gains count towards the same £3,000 allowance.</p>
+<p>Note: the allowance was £12,300 as recently as 2022/23 and has been cut significantly. HMRC is actively encouraging compliance — don&#8217;t assume small gains are invisible.</p>
+<div style="overflow-x:auto;margin:24px 0">
+<table style="width:100%;border-collapse:collapse;font-family:sans-serif;font-size:.92rem">
+<thead>
+<tr style="background:#1a2744;color:#fff">
+<th style="padding:10px 14px;text-align:left">Activity</th>
+<th style="padding:10px 14px;text-align:left">Tax Type</th>
+<th style="padding:10px 14px;text-align:left">When Does Tax Apply?</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom:1px solid #e2e8f0">
+<td style="padding:10px 14px">Selling crypto for GBP</td>
+<td style="padding:10px 14px">Capital Gains Tax</td>
+<td style="padding:10px 14px">When you sell</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;background:#f8fafc">
+<td style="padding:10px 14px">Swapping coin for coin</td>
+<td style="padding:10px 14px">Capital Gains Tax</td>
+<td style="padding:10px 14px">At point of swap</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0">
+<td style="padding:10px 14px">Staking rewards</td>
+<td style="padding:10px 14px">Income Tax</td>
+<td style="padding:10px 14px">When received</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;background:#f8fafc">
+<td style="padding:10px 14px">Mining income</td>
+<td style="padding:10px 14px">Income Tax</td>
+<td style="padding:10px 14px">When received</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0">
+<td style="padding:10px 14px">Airdrops</td>
+<td style="padding:10px 14px">Income Tax (usually)</td>
+<td style="padding:10px 14px">When received</td>
+</tr>
+<tr>
+<td style="padding:10px 14px">Moving between own wallets</td>
+<td style="padding:10px 14px">Not taxable</td>
+<td style="padding:10px 14px">No tax event</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Crypto Income Tax — Staking, Mining, and Airdrops</h2>
+<p>Not all crypto is taxed as capital gains. If you receive crypto as income — through staking, mining, or certain airdrops — it&#8217;s taxed as income at your marginal rate (20%, 40%, or 45%).</p>
+<p>For staking rewards, HMRC says you must declare the GBP value of the tokens on the day you receive them as income. When you later sell those staking rewards, you&#8217;ll also owe CGT on any increase in value since you received them.</p>
+<p>Airdrops are usually taxable as income unless they were received without doing anything to earn them. If you signed up to a project or completed tasks to receive tokens, HMRC considers that income. If tokens were dropped to your wallet completely unsolicited, they may not be taxable until disposal — but this area is still developing in HMRC guidance.</p>
+<h2>How to Report Crypto to HMRC</h2>
+<p>Crypto gains must be reported on your Self Assessment tax return. The deadline for online Self Assessment is 31 January following the tax year end (5 April). So for the 2024/25 tax year, you must file and pay by 31 January 2026.</p>
+<p>If you&#8217;ve never done Self Assessment before, you&#8217;ll need to register with HMRC first — do this well before the deadline as it can take a few weeks to get your Unique Taxpayer Reference (UTR).</p>
+<p>To fill in your return, you&#8217;ll need records of every disposal: date, amount sold, proceeds in GBP, and original cost in GBP. This is why keeping records from day one matters — reconstructing transaction history years later is painful.</p>
+<div style="background:#fffbf0;border:1.5px solid #d97706;border-radius:10px;padding:24px 28px;margin:32px 0;font-family:sans-serif"><span style="font-size:.68rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#b45309;display:block;margin-bottom:8px">Keep Your Crypto Safe</span><span style="font-size:1.15rem;font-weight:700;color:#1a2744;display:block;margin-bottom:8px;line-height:1.3">Protect your assets with a Ledger hardware wallet</span><span style="font-size:.92rem;color:#4a5568;display:block;margin-bottom:16px;line-height:1.55">While you&#8217;re getting your tax records in order, make sure your crypto is safe. A Ledger hardware wallet keeps your private keys offline permanently.</span><a href="https://shop.ledger.com/?referral_code=FN50B8J0VZNVR" style="display:inline-block;background:#d97706;color:#fff;font-weight:700;font-size:.95rem;padding:12px 28px;border-radius:6px;text-decoration:none" target="_blank" rel="nofollow noopener">Shop Ledger →</a><span style="font-size:.72rem;color:#718096;display:block;margin-top:10px">Affiliate link — I earn a commission at no cost to you.</span></div>
+<h2>How to Reduce Your Crypto Tax Bill Legally</h2>
+<p><strong>Use your full CGT allowance each year.</strong> If you haven&#8217;t realised £3,000 in gains yet, consider selling some profitable holdings before 5 April to use up the allowance, then rebuying (after 30 days to avoid the bed-and-breakfast rule).</p>
+<p><strong>Offset losses against gains.</strong> Crypto losses can be used to reduce your taxable gains. If you sold at a loss in the same tax year, those losses reduce your overall gain. You can even carry losses forward to future years if you report them on your Self Assessment return.</p>
+<p><strong>Transfer to your spouse.</strong> Transfers between spouses or civil partners are exempt from CGT. If your partner has unused CGT allowance, transferring some holdings to them before selling can halve your tax bill.</p>
+<p><strong>Use crypto tracking software.</strong> Tools like <a href="https://koinly.io" target="_blank" rel="noopener">Koinly</a> and <a href="https://cointracking.info" target="_blank" rel="noopener">CoinTracking</a> connect to exchanges via API and calculate your gains automatically. They also generate HMRC-compatible tax reports. The cost of the software is itself tax-deductible as an allowable cost.</p>
+<h2>What Happens If You Don&#8217;t Report?</h2>
+<p>HMRC has significantly increased its focus on crypto non-compliance. They use a system called Connect, which cross-references data from banks, exchanges, and third parties. Major UK exchanges (Coinbase, Kraken) share customer data with HMRC.</p>
+<p>HMRC has sent thousands of &#8220;nudge letters&#8221; to crypto holders encouraging them to check whether they owe tax. Penalties for failure to declare gains range from 30% to 100% of the unpaid tax, plus interest. Deliberate evasion can lead to criminal prosecution.</p>
+<p>The risk of being caught is real and growing. If you&#8217;ve had gains in previous years you haven&#8217;t declared, HMRC&#8217;s Voluntary Disclosure service lets you come forward — penalties are much lower than if HMRC finds you first.</p>
+<h2>Frequently Asked Questions</h2>
+<h3>Do I pay tax when I buy crypto?</h3>
+<p>No. Buying crypto with GBP is not a taxable event. Tax is only triggered when you dispose of it (sell, swap, spend, or gift).</p>
+<h3>What if I made a loss on my crypto?</h3>
+<p>Losses can be offset against gains in the same tax year or carried forward to reduce future gains. You must report losses to HMRC to use them — they aren&#8217;t automatically applied.</p>
+<h3>Do I need to declare crypto under £3,000?</h3>
+<p>If your gains are below the £3,000 CGT allowance, you don&#8217;t owe any tax. But you should still keep records, and you may need to disclose if your total proceeds (not profits) were over £50,000 in the tax year.</p>
+<h3>Is crypto-to-crypto taxable in the UK?</h3>
+<p>Yes. Swapping Bitcoin for Ethereum (or any other coin-to-coin trade) is a disposal and triggers CGT on any gain. This catches many people off guard — you don&#8217;t need to convert to GBP for tax to apply.</p>
+<p>Ready to keep your crypto safe while you sort your taxes? Check out our <a href="https://www.digitechlifestyle.com/best-crypto-wallets-uk-2025/">best crypto wallets UK guide</a>, or find a regulated exchange in our <a href="https://www.digitechlifestyle.com/best-crypto-exchanges-uk-2025/">best crypto exchanges UK comparison</a>.</p>
+<div class="xs_social_share_widget xs_share_url after_content 		main_content  wslu-style-1 wslu-share-box-shaped wslu-fill-colored wslu-none wslu-share-horizontal wslu-theme-font-no wslu-main_content">
+<ul>
+			        </ul>
+</p></div>
+
+    <div class="xs_social_share_widget xs_share_url after_content 		main_content  wslu-style-1 wslu-share-box-shaped wslu-fill-colored wslu-none wslu-share-horizontal wslu-theme-font-no wslu-main_content">
+
+		
+        <ul>
+			        </ul>
+    </div> 
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"container py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Crypto Tax UK 2025: What You Owe HMRC (And How to Avoid Overpaying)\",\"description\":\"UK crypto tax guide 2025: when Capital Gains Tax applies, staking income tax, the £3,000 CGT allowance, and how to report crypto gains to HMRC.\",\"datePublished\":\"2026-05-08\",\"author\":{\"@type\":\"Organization\",\"name\":\"DigitechLifestyle Editorial\"}}"}}],["$","div",null,{"style":{"display":"grid","gap":"32px","gridTemplateColumns":"1fr","alignItems":"start"},"className":"blog-two-col","children":[["$","article",null,{"children":[["$","div",null,{"style":{"borderRadius":"12px","overflow":"hidden","marginBottom":"24px","maxHeight":"420px"},"children":["$","img",null,{"src":"https://picsum.photos/seed/crypto-tax-uk-2025/800/500","alt":"Crypto Tax UK 2025: What You Owe HMRC (And How to Avoid Overpaying)","style":{"width":"100%","height":"100%","objectFit":"cover","display":"block"}}]}],["$","div",null,{"className":"surface rounded-lg p-6 md:p-10","children":[["$","div",null,{"className":"flex flex-wrap gap-2 text-sm text-slate-400","children":[["$","span",null,{"className":"rounded-full bg-white/5 px-3 py-1 text-[var(--accent)]","children":"Crypto Tax"}],["$","span",null,{"children":"7 min read"}],["$","span",null,{"children":"May 8, 2026"}]]}],["$","h1",null,{"className":"mt-5 text-4xl font-black leading-tight text-white md:text-5xl","children":"Crypto Tax UK 2025: What You Owe HMRC (And How to Avoid Overpaying)"}],["$","p",null,{"className":"mt-5 text-xl leading-8 text-[var(--muted)]","children":"UK crypto tax guide 2025: when Capital Gains Tax applies, staking income tax, the £3,000 CGT allowance, and how to report crypto gains to HMRC."}]]}],["$","div",null,{"className":"prose-content mt-8","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eoOZKes8Mnqd7JDZr5hOO"}
+3:["$","div",null,{"style":{"display":"flex","flexWrap":"wrap","gap":"10px","alignItems":"center","margin":"32px 0 0","padding":"20px","background":"var(--bg-card)","borderRadius":"12px","border":"1px solid var(--line)"},"children":[["$","span",null,{"style":{"fontSize":"12px","fontWeight":700,"color":"var(--muted)","textTransform":"uppercase","letterSpacing":"0.08em","marginRight":"4px"},"children":"Share:"}],["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Crypto%20Tax%20UK%202025%3A%20What%20You%20Owe%20HMRC%20(And%20How%20to%20Avoid%20Overpaying)&url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fcrypto-tax-uk-2025&via=DigiTechLife","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#000","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L1.254 2.25H8.08l4.253 5.622zm-1.161 17.52h1.833L7.084 4.126H5.117z"}]}],"X / Twitter"]}],["$","a",null,{"href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fcrypto-tax-uk-2025","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#1877f2","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"}]}],"Facebook"]}],["$","a",null,{"href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fcrypto-tax-uk-2025","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#0a66c2","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"}]}],"LinkedIn"]}],["$","a",null,{"href":"https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fcrypto-tax-uk-2025&description=Crypto%20Tax%20UK%202025%3A%20What%20You%20Owe%20HMRC%20(And%20How%20to%20Avoid%20Overpaying)&media=https%3A%2F%2Fpicsum.photos%2Fseed%2Fcrypto-tax-uk-2025%2F800%2F500","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#e60023","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 01.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"}]}],"Pinterest"]}]]}]
+4:["$","div",null,{"className":"mt-10","children":["$","section",null,{"className":"surface rounded-lg p-6 md:p-8","children":[["$","div",null,{"className":"grid gap-6 md:grid-cols-[1fr_auto] md:items-center","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-[0.22em] text-[var(--accent)]","children":"Partner picks"}],["$","h2",null,{"className":"mt-3 text-2xl font-semibold text-white md:text-3xl","children":"Build a smarter digital stack"}],["$","p",null,{"className":"mt-3 max-w-2xl text-sm leading-7 text-[var(--muted)] md:text-base","children":"Explore curated AI, automation, wealth, and creator tools selected for practical value, transparent pricing, and clear use cases."}]]}],["$","$L8",null,{"href":"/tool-directory","className":"inline-flex h-12 items-center justify-center gap-2 rounded-lg bg-[var(--accent)] px-5 text-sm font-bold text-slate-950","children":["Browse tools ",["$","$L9",null,{"iconNode":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]],"className":"lucide-arrow-right","size":18}]]}]]}],["$","p",null,{"className":"mt-5 text-xs leading-6 text-slate-500","children":"Disclosure: some links may be affiliate links. DigitechLifestyle may earn a commission at no additional cost to you."}]]}]}]
+5:["$","aside",null,{"style":{"position":"sticky","top":"80px","display":"grid","gap":"16px","alignContent":"start"},"children":[["$","$La",null,{}],["$","form",null,{"className":"surface rounded-lg p-5 ","children":[["$","div",null,{"className":"flex items-center gap-3 text-[var(--accent)]","children":[["$","$L9",null,{"iconNode":[["path",{"d":"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7","key":"132q7q"}],["rect",{"x":"2","y":"4","width":"20","height":"16","rx":"2","key":"izxlao"}]],"className":"lucide-mail","size":20}],["$","span",null,{"className":"text-sm font-semibold uppercase tracking-[0.2em]","children":"Newsletter"}]]}],["$","h2",null,{"className":"mt-4 text-2xl font-semibold text-white","children":"Get the Digital Living Brief"}],["$","p",null,{"className":"mt-3 text-sm leading-6 text-[var(--muted)]","children":"Weekly AI tools, automation ideas, affiliate opportunities, and digital wealth notes. No noise."}],["$","div",null,{"className":"mt-5 grid gap-3 sm:grid-cols-[1fr_auto]","children":[["$","input",null,{"aria-label":"Email address","type":"email","placeholder":"you@example.com","className":"h-12 rounded-lg border border-white/10 bg-black/30 px-4 text-sm text-white outline-none transition placeholder:text-slate-500 focus:border-[var(--accent)]"}],["$","button",null,{"className":"h-12 rounded-lg bg-white px-5 text-sm font-bold text-slate-950","type":"submit","children":"Join free"}]]}]]}]]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/12gi4g22zq5ft.js","async":true}]
+7:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null

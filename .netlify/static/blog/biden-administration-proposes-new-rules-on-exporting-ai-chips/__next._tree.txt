@@ -1,0 +1,3 @@
+:HL["/_next/static/chunks/0x9zo~19df4rw.css","style"]
+:HL["https://www.digitechlifestyle.com/wp-content/uploads/2025/01/urlhttps3A2F2Fassets.apnews.com2F152F5d2F5113b4b58188197bce8b29f060d62F2164c8ceed28408490df.jpeg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"biden-administration-proposes-new-rules-on-exporting-ai-chips","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"eoOZKes8Mnqd7JDZr5hOO"}

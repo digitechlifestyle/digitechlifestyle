@@ -1,0 +1,3 @@
+:HL["/_next/static/chunks/0x9zo~19df4rw.css","style"]
+:HL["https://picsum.photos/seed/bitcoin-starts-june-at-73k-as-etf-outflows-break-records-and-coinbase-gets-futures-approval/800/500","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"bitcoin-starts-june-at-73k-as-etf-outflows-break-records-and-coinbase-gets-futures-approval","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"eoOZKes8Mnqd7JDZr5hOO"}

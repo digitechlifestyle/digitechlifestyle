@@ -1,0 +1,3 @@
+:HL["/_next/static/chunks/0x9zo~19df4rw.css","style"]
+:HL["https://www.digitechlifestyle.com/wp-content/uploads/2025/04/brutal-monday-crypto-crash-13-trillion-market-wipeout-sparks-chaos-for-bitcoin-ethereum-xrp-solana-and-dogecoin-4-scaled.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"brutal-monday-crypto-crash-1-3-trillion-market-wipeout-sparks-chaos-for-bitcoin-ethereum-xrp-solana-and-dogecoin","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"eoOZKes8Mnqd7JDZr5hOO"}

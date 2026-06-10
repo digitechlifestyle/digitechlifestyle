@@ -1,0 +1,3 @@
+:HL["/_next/static/chunks/0x9zo~19df4rw.css","style"]
+:HL["https://www.digitechlifestyle.com/wp-content/uploads/2025/01/Qwen2.5-max-alibaba-qwen-2.5-deepseek-v3-ai-models-artificial-intelligence-benchmarks.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"qwen-2-5-max-outperforms-deepseek-v3-in-some-benchmarks","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"eoOZKes8Mnqd7JDZr5hOO"}

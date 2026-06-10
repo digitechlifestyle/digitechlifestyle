@@ -1,0 +1,268 @@
+1:"$Sreact.fragment"
+2:I[2971,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"Header"]
+3:I[39756,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[22016,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],""]
+e:I[68027,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/_next/static/chunks/0x9zo~19df4rw.css","style"]
+0:{"P":null,"c":["","blog","deepseek-down-live-chinese-ai-app-not-working-properly-amid-huge-interest-in-chatgpt-competitor",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","deepseek-down-live-chinese-ai-app-not-working-properly-amid-huge-interest-in-chatgpt-competitor","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x9zo~19df4rw.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01t~ug1wspbnf.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"DigiTech Lifestyle\",\"url\":\"https://www.digitechlifestyle.com\",\"description\":\"Educational guides, honest reviews, and breaking news on crypto, AI, and digital lifestyle. Independent writing from a crypto enthusiast since 2017.\"}"}}],["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"style":{"display":"grid","gridTemplateColumns":"1.4fr 1fr 1fr","gap":"32px","marginBottom":"24px"},"children":[["$","div",null,{"children":[["$","div",null,{"style":{"fontFamily":"Sora, sans-serif","fontWeight":900,"fontSize":"17px","letterSpacing":"-0.02em","marginBottom":"10px"},"children":["Digi",["$","span",null,{"style":{"color":"var(--blue)"},"children":"Tech"}]," Lifestyle"]}],["$","p",null,{"style":{"fontSize":"13px","color":"var(--muted)","lineHeight":1.6,"maxWidth":"320px","margin":0},"children":"Educational guides, honest reviews, and breaking news on crypto, AI, and digital lifestyle. Independent writing from a crypto enthusiast since 2017."}]]}],["$","div",null,{"children":[["$","div",null,{"className":"section-title","style":{"marginBottom":"12px"},"children":"Explore"}],["$","div",null,{"style":{"display":"grid","gap":"6px"},"children":[["$","$L5","/blog",{"href":"/blog","style":{"fontSize":"13px","color":"var(--muted)"},"className":"hover:text-white transition-colors","children":"Blog"}],["$","$L5","/free-tools",{"href":"/free-tools","style":{"fontSize":"13px","color":"var(--muted)"},"className":"hover:text-white transition-colors","children":"Free AI Tools"}],["$","$L5","/news",{"href":"/news","style":{"fontSize":"13px","color":"var(--muted)"},"className":"hover:text-white transition-colors","children":"News"}],["$","$L5","/blog?category=Reviews",{"href":"/blog?category=Reviews","style":{"fontSize":"13px","color":"var(--muted)"},"className":"hover:text-white transition-colors","children":"Reviews"}],["$","$L5","/about",{"href":"/about","style":{"fontSize":"13px","color":"var(--muted)"},"className":"hover:text-white transition-colors","children":"About"}],["$","$L5","/contact",{"href":"/contact","style":{"fontSize":"13px","color":"var(--muted)"},"className":"hover:text-white transition-colors","children":"Contact"}]]}]]}],"$L6"]}],"$L7"]}]}],"$L8"]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"eoOZKes8Mnqd7JDZr5hOO"}
+10:I[95439,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"NewsletterPopup"]
+12:I[97367,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+16:I[97367,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+18:I[97367,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+6:["$","div",null,{"children":[["$","div",null,{"className":"section-title","style":{"marginBottom":"12px"},"children":"Legal"}],["$","div",null,{"style":{"display":"grid","gap":"6px"},"children":[["$","$L5","/privacy-policy",{"href":"/privacy-policy","style":{"fontSize":"13px","color":"var(--muted)"},"className":"hover:text-white transition-colors","children":"Privacy Policy"}],["$","$L5","/affiliate-disclosure",{"href":"/affiliate-disclosure","style":{"fontSize":"13px","color":"var(--muted)"},"className":"hover:text-white transition-colors","children":"Affiliate Disclosure"}],["$","$L5","/terms",{"href":"/terms","style":{"fontSize":"13px","color":"var(--muted)"},"className":"hover:text-white transition-colors","children":"Terms"}]]}]]}]
+7:["$","div",null,{"className":"footer-inner","style":{"paddingTop":"16px","borderTop":"1px solid var(--line)"},"children":[["$","span",null,{"children":"© 2026 DigiTech Lifestyle. Informational content only. Not financial advice."}],["$","div",null,{"className":"footer-links","children":[["$","a",null,{"href":"https://x.com/DigiTechLife","target":"_blank","rel":"noopener","children":"Twitter / X"}],["$","a",null,{"href":"https://www.youtube.com/@digitechlifestyle","target":"_blank","rel":"noopener","children":"YouTube"}],["$","a",null,{"href":"https://www.facebook.com/digitechlifestyle","target":"_blank","rel":"noopener","children":"Facebook"}]]}]]}]
+8:["$","$L10",null,{}]
+9:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L11",[["$","script","script-0",{"src":"/_next/static/chunks/12gi4g22zq5ft.js","async":true,"nonce":"$undefined"}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}]
+15:[]
+c:"$W15"
+d:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":"$L19"}]}]}],null]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x9zo~19df4rw.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+:HL["https://www.digitechlifestyle.com/wp-content/uploads/2025/01/GettyImages-2196335619.jpg","image"]
+1a:T470d,<p> <br />
+</p>
+<div id="main">
+<div class="sc-1kv918u-0 dwlIgv">
+<figure class="sc-1cbdeug-0 lkeWpK sc-1balrqd-0 kFYoTy"><figcaption class="sc-1cbdeug-1 sc-1cbdeug-3 fWLHSZ hfwDDP">Trump views Chinese DeepSeek AI as &#8216;wake-up call&#8217; for US</figcaption></figure>
+</div>
+<div class="hydrate-root" data-component="Newsletter" data-loading="lazy" data-theme-name="base-light">
+<div class="sc-1230l3a-0 cXWKwW newsletter-component sc-1ge0fwe-0 kcXonm" data-newsletter-key="receiveTech">
+<div class="sc-1ykbqwm-0 eshVLV sc-1ykbqwm-1 btPefi"><img decoding="async" src="https://static.independent.co.uk/static-assets/images/newsletters/indyTech1_1.png" loading="lazy" alt="IndyTech" class="sc-1mc30lb-0 bNNNXy"/></div>
+<div class="sc-tuvb20-0 dbefri">
+<div class="sc-1gqjrv9-3 jQGkpO sc-1gqjrv9-8 KIBZt">
+<p><h3 data-nosnippet="" class="sc-1gqjrv9-4 gQaMJW">Sign up to our free weekly IndyTech newsletter delivered straight to your inbox</h3>
+<h3 class="sc-1gqjrv9-5 sc-1gqjrv9-6 focVkI kzxhaH">Sign up to our free IndyTech newsletter</h3>
+<h3 data-nosnippet="" class="sc-1gqjrv9-5 focVkI">Sign up to our free IndyTech newsletter</h3>
+</p>
+</div>
+</div>
+</div>
+</div>
+<p>OpenAI has reportedly claimed it has evidence that Chinese competitor DeepSeek used the company’s own model <a href="https://www.independent.co.uk/tech/deepseek-ai-trump-china-new-b2687622.html" title="What is DeepSeek? Everything we know about the Chinese AI that has ‘changed everything’">to train its rival chatbot</a>.</p>
+<p>The release of Deepseek’s open source R1 model has shocked Silicon Valley and <a href="https://www.independent.co.uk/news/fed-ap-wall-street-asian-deepseek-b2688141.html" title="Stock market today: Asian stocks advance ahead of the Fed's rate decision as panic over AI fades">caused tech shares to plunge</a>, with the Chinese startup&#8217;s supposedly low cost model prompting investors to question huge spending plans by leading AI firms in the United States.</p>
+<p>OpenAI and its major backer, Microsoft, have been investigating whether DeepSeek obtained data in an unauthorised manner, after observing some individuals exporting large amounts of data from OpenAI’s products, Bloomberg News reported.</p>
+<p>The Financial Times also reported that OpenAI, led by Sam Altman, said it had seen some evidence of “distillation”, which it suspects to be from DeepSeek. Distillation refers to the process of transferring knowledge from a large model to a smaller one.</p>
+<p>Global share prices steadied on Wednesday. Japan’s Topix index rose by 0.7%, while Australia’s ASX rose by 2.9%. The FTSE 100 was roughly flat at the opening bell.</p>
+<p>Attention now turns to Wall Street, with markets opening later in the day.</p>
+<div class="hydrate-root" data-component="LiveBlog" data-theme-name="base-light">
+<div class="sc-q414ag-0 hzxuJO">
+<div id="post-1949930" class="sc-1wyow5i-0 eStrmo"><a href="#post-1949930" class="sc-1wyow5i-1 vofyp"><span title="Wed Jan 29 2025 10:59:02 GMT+0000 (Coordinated Universal Time)"/></a></p>
+<div class="sc-1wyow5i-2 jFkliG">
+<h3 class="sc-1wyow5i-7 kEnziO">European shares hit record high as ASML lifts tech stocks</h3>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>European shares hit a record high on Wednesday, as chip equipment maker ASML led technology stocks higher after reporting strong quarterly results.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>The pan-European STOXX 600 .STOXX was up 0.5%, as of 0923 GMT, rising past Tuesday&#8217;s all-time high close.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>ASML&#8217;s shares ASML.AS jumped 11.2% after the Dutch company reported better-than-expected fourth-quarter bookings of 7.09 billion euros ($7.39 billion).</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>ASML&#8217;s earnings also reassured investors that AI chip prospects were still healthy, as they recovered from a selloff earlier this week sparked by the release of China&#8217;s DeepSeek&#8217;s model, which uses less computing power than those of rivals.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>STMicroelectronics STMPA.PA, BE Semiconductor BESI.AS and ASM International ASMI.AS gained between 2.1% and 7.2%.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>Technology .SX8P was the top winning sector, soaring 4.5%, and was set for its best single day in a year.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>&#8220;Today you see that at least ASML is still profiting from demand from the chip sector&#8230; It seems that for now, the fears for the whole AI and supply chain for AI have been overblown,&#8221; said Teeuwe Mevissen, Senior Market Economist at Rabobank.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>Other AI-exposed stocks such as Schneider Electric SCHN.PA and Siemens Energy ENR1n.DE, which took a hit on Monday, were trading 5.8% and 1.7% higher, respectively.</p>
+</div>
+</div>
+<div class="sc-1wyow5i-3 fYVnKh">
+<p><span class="sc-1wyow5i-5 YUkqs">Jabed Ahmed</span><span class="sc-1wyow5i-6 izYWgO">29 January 2025 10:59</span></p>
+</div>
+</div>
+<div id="post-1950029" class="sc-1wyow5i-0 eStrmo"><a href="#post-1950029" class="sc-1wyow5i-1 vofyp"><span title="Wed Jan 29 2025 10:46:58 GMT+0000 (Coordinated Universal Time)"/></a></p>
+<div class="sc-1wyow5i-2 jFkliG">
+<h3 class="sc-1wyow5i-7 kEnziO">DeepSeek down amid huge interest</h3>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>DeepSeek doesn’t seem to be working properly this morning. The service is intermittent and does seem to function occasionally.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>The app’s official status page says that it has been suffering from “degraded performance”, but says that a fix was rolled out overnight.</p>
+</div>
+</div>
+<div class="sc-1wyow5i-3 fYVnKh">
+<p><span class="sc-1wyow5i-5 YUkqs">Andrew Griffin</span><span class="sc-1wyow5i-6 izYWgO">29 January 2025 10:46</span></p>
+</div>
+</div>
+<div id="post-1949908" class="sc-1wyow5i-0 eStrmo"><a href="#post-1949908" class="sc-1wyow5i-1 vofyp"><span title="Wed Jan 29 2025 10:29:18 GMT+0000 (Coordinated Universal Time)"/></a></p>
+<div class="sc-1wyow5i-2 jFkliG">
+<h3 class="sc-1wyow5i-7 kEnziO">DeepSeek says it built its chatbot cheap. What does that mean for AI&#8217;s energy needs and the climate?</h3>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>AI uses vast amounts of energy, much of which comes from burning fossil fuels, which causes climate change. </p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>Tech companies have said their electricity use is going up, when it was supposed to be ramping down, ruining their carefully-laid plans to address climate change.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>Making AI more efficient could be less taxing on the environment, experts say, even if its huge electricity needs are not going away.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>When there&#8217;s an innovative technology that&#8217;s useful to the general population and it&#8217;s affordable, people will use it, said Vic Shao, founder of DC Grid, which delivers off-grid, direct current power to data centers and electric vehicle charging stations.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>That means data centers will still be built, though they may be able to operate more efficiently, said Travis Miller, an energy and utilities strategist at Morningstar Securities Research.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>“We think that the growth in electricity demand will end up at the lower end of most of the ranges out there,” he said.</p>
+</div>
+</div>
+<div class="sc-1wyow5i-3 fYVnKh">
+<p><span class="sc-1wyow5i-5 YUkqs">Jabed Ahmed</span><span class="sc-1wyow5i-6 izYWgO">29 January 2025 10:29</span></p>
+</div>
+</div>
+<div id="post-1949890" class="sc-1wyow5i-0 eStrmo"><a href="#post-1949890" class="sc-1wyow5i-1 vofyp"><span title="Wed Jan 29 2025 09:58:20 GMT+0000 (Coordinated Universal Time)"/></a></p>
+<div class="sc-1wyow5i-2 jFkliG">
+<h3 class="sc-1wyow5i-7 kEnziO">&#8216;DeepSeek has the potential to reshape the future of AI,&#8217; expert says </h3>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>DeepSeek’s arrival could herald a new era of intense competition in the space that stretches beyond the US tech industry. The company’s biggest markets include the Middle East and Russia, where download rates of its app have been more than 300 per cent higher than its rivals, according to data shared with <em>The Independent</em> by app tracking firm Sensor Tower.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>“DeepSeek has the potential to reshape the future of AI. This new rivalry will drive faster progress, spark fresh ideas, and deliver technologies that benefit people, businesses, and economies worldwide,” said Russ Shaw, founder of Global Tech Advocates. </p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>“More importantly, it could fuel economic growth and unlock opportunities to develop talent and skills on a massive scale. It’s clear we’re at a pivotal moment that could shape innovation and economic progress for years to come.”</p>
+</div>
+</div>
+<div class="sc-1wyow5i-3 fYVnKh">
+<p><span class="sc-1wyow5i-5 YUkqs">Jabed Ahmed</span><span class="sc-1wyow5i-6 izYWgO">29 January 2025 09:58</span></p>
+</div>
+</div>
+<div id="post-1949855" class="sc-1wyow5i-0 eStrmo"><a href="#post-1949855" class="sc-1wyow5i-1 vofyp"><span title="Wed Jan 29 2025 09:21:39 GMT+0000 (Coordinated Universal Time)"/></a></p>
+<div class="sc-1wyow5i-2 jFkliG">
+<h3 class="sc-1wyow5i-7 kEnziO">Tech stocks rebound in Asia as DeepSeek worries ease</h3>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>Technology stocks led gains in Asia-Pacific markets on Wednesday, tracking advances on Wall Street as investor angst ebbed over the emergence of a low-cost Chinese AI model that some see rivalling U.S. dominance of the industry.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>The dollar remained relatively firm as traders rotated back into the currency from safe-haven peers such as the Japanese yen, while also getting a boost from fresh tariff warnings from the Donald Trump administration. </p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>Trading was thinned in Asia by Lunar New Year holidays that shuttered exchanges in mainland China and Hong Kong, as well as Taiwan, Singapore and South Korea.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>Japan&#8217;s Nikkei share average .N225 advanced 1% on the day, snapping three straight days of declines.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>Australia&#8217;s stock benchmark .AXJO added 0.6%, with a subindex of tech names .AXIJ climbing 1.8%.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>Futures for the U.S. S&amp;P 500 EScv1 rose 0.2%, following a 0.9% rise for the cash index overnight. Nasdaq futures NQc1 pointed 0.4% higher following a 2% rally.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>The tech-heavy Nasdaq had tumbled more than 3% in the previous session, after the spiking popularity of Chinese startup DeepSeek&#8217;s app called into question sky-high valuations for U.S. chipmaker Nvidia NVDA.O and others at the forefront of the AI revolution.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>&#8220;There appeared to be a level of relief in the rally, mostly because of a forming consensus that while ostensibly impressive, DeepSeek will either lack the scalability to truly disrupt the AI space and, if anything, the company&#8217;s low-cost model will actually increase demand for GPUs,&#8221; said Kyle Rodda, senior financial market analyst at Capital.com.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>Attention now turns to mega-cap tech company earnings coming up on Wall Street later in the day from Facebook owner Meta Platforms META.O, Microsoft MSFT.O and Tesla TSLA.O. </p>
+</div>
+</div>
+<div class="sc-1wyow5i-3 fYVnKh">
+<p><span class="sc-1wyow5i-5 YUkqs">Jabed Ahmed</span><span class="sc-1wyow5i-6 izYWgO">29 January 2025 09:21</span></p>
+</div>
+</div>
+<div id="post-1949700" class="sc-1wyow5i-0 eStrmo"><a href="#post-1949700" class="sc-1wyow5i-1 vofyp"><span title="Wed Jan 29 2025 07:59:14 GMT+0000 (Coordinated Universal Time)"/></a></p>
+<div class="sc-1wyow5i-2 jFkliG">
+<h3 class="sc-1wyow5i-7 kEnziO">DeepSeek goes quiet for lunar new year despite worldwide buzz</h3>
+</div>
+<div class="sc-1wyow5i-3 fYVnKh">
+<p><span class="sc-1wyow5i-5 YUkqs">Jabed Ahmed</span><span class="sc-1wyow5i-6 izYWgO">29 January 2025 07:59</span></p>
+</div>
+</div>
+<div id="post-1949647" class="sc-1wyow5i-0 eStrmo"><a href="#post-1949647" class="sc-1wyow5i-1 vofyp"><span title="Wed Jan 29 2025 07:30:48 GMT+0000 (Coordinated Universal Time)"/></a></p>
+<div class="sc-1wyow5i-2 jFkliG">
+<h3 class="sc-1wyow5i-7 kEnziO">Chinese firm Alibaba releases AI update it claims surpasses DeepSeek </h3>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>Chinese tech company Alibaba released a new version of its Qwen 2.5 artificial intelligence model on Wednesday that it claimed surpassed DeepSeek-V3.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>The unusual timing of the Qwen 2.5-Max’s release, on the first day of the Lunar New Year when most Chinese people are off work and with their families, points to the pressure Chinese AI startup DeepSeek‘s meteoric rise in the past three weeks has placed on not just overseas rivals, but also its domestic competition.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>“Qwen 2.5-Max outperforms &#8230; almost across the board GPT-4o, DeepSeek-V3 and Llama-3.1-405B,” Alibaba’s cloud unit said in an announcement posted on its official WeChat account, referring to OpenAI and Meta’s most advanced open-source AI models.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>The 10 January release of DeepSeek‘s AI assistant, powered by the DeepSeek-V3 model, as well as the later release of its R1 model, has shocked Silicon Valley and caused tech shares to plunge, with the Chinese startup’s purportedly low development and usage costs prompting investors to question huge spending plans by leading AI firms in the United States.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>But DeepSeek‘s success has also led to a scramble among its domestic competitors to upgrade their own AI models.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>Two days after the release of DeepSeek-R1, TikTok owner ByteDance released an update to its flagship AI model, which it claimed outperformed Microsoft-backed OpenAI’s o1 in AIME, a benchmark test that measures how well AI models understand and respond to complex instructions.</p>
+</div>
+</div>
+<div class="sc-1wyow5i-3 fYVnKh">
+<p><span class="sc-1wyow5i-5 YUkqs">Angus Thompson</span><span class="sc-1wyow5i-6 izYWgO">29 January 2025 07:30</span></p>
+</div>
+</div>
+<div id="post-1949385" class="sc-1wyow5i-0 eStrmo"><a href="#post-1949385" class="sc-1wyow5i-1 vofyp"><span title="Wed Jan 29 2025 07:00:00 GMT+0000 (Coordinated Universal Time)"/></a></p>
+<div class="sc-1wyow5i-2 jFkliG">
+<h3 class="sc-1wyow5i-7 kEnziO">What is DeepSeek? Everything we know about the Chinese AI that has rocked the world</h3>
+</div>
+<div class="sc-1wyow5i-3 fYVnKh">
+<p><span class="sc-1wyow5i-5 YUkqs">Bryony Gooch</span><span class="sc-1wyow5i-6 izYWgO">29 January 2025 07:00</span></p>
+</div>
+</div>
+<div id="post-1949381" class="sc-1wyow5i-0 eStrmo"><a href="#post-1949381" class="sc-1wyow5i-1 vofyp"><span title="Wed Jan 29 2025 06:00:00 GMT+0000 (Coordinated Universal Time)"/></a></p>
+<div class="sc-1wyow5i-2 jFkliG">
+<h3 class="sc-1wyow5i-7 kEnziO">DeepSeek evades Tiananmen Square questions</h3>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>DeepSeek is unable to describe student-led protests against the Chinese government at Tiananmen Square in 1989, replying: “Sorry, that’s beyond my current scope.”</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>Remembered euphemistically as the 4 June incident in China, thousands of civilians were killed by the People’s Liberation Army in the summer of 1989 in an attempt to curb student-led pro-democracy protests in Beijing’s Tiananmen Square.</p>
+</div>
+<div class="sc-1xg2xhv-1 gLwLUJ">
+<p>Chinese media never mentions Tiananmen Square. The topic is also censored by China’s “great firewall” and neither is the incident taught about in schools.</p>
+</div>
+<div class="sc-1rirswj-0 iMoqRn sc-1xg2xhv-0 cNRKEt image align-none">
+<figure class="sc-1cbdeug-0 lkeWpK">
+<div class="sc-1rirswj-1 cAGkHr"><img decoding="async" src="https://static.independent.co.uk/2025/01/28/11/IMG-20250128-WA0003.jpg?quality=75&amp;width=320&amp;auto=webp 320w, https://static.independent.co.uk/2025/01/28/11/IMG-20250128-WA0003.jpg?quality=75&amp;width=640&amp;auto=webp 640w" loading="lazy" alt="DeepSeek’s AI evades response to questions about Tiananmen Square massacre" class="sc-1mc30lb-0 bNNNXy"/></div><figcaption class="sc-1cbdeug-1 sc-1cbdeug-2 fWLHSZ Sjglt">DeepSeek’s AI evades response to questions about Tiananmen Square massacre<span class="sc-1cbdeug-7 eUTWtv"> <!-- -->(<!-- -->Vishwam Sankaran/DeepSeek<!-- -->)</span></figcaption></figure>
+</div>
+</div>
+<div class="sc-1wyow5i-3 fYVnKh">
+<p><span class="sc-1wyow5i-5 YUkqs">Bryony Gooch</span><span class="sc-1wyow5i-6 izYWgO">29 January 2025 06:00</span></p>
+</div>
+</div>
+<div id="post-1949391" class="sc-1wyow5i-0 eStrmo"><a href="#post-1949391" class="sc-1wyow5i-1 vofyp"><span title="Wed Jan 29 2025 05:00:00 GMT+0000 (Coordinated Universal Time)"/></a></p>
+<div class="sc-1wyow5i-2 jFkliG">
+<h3 class="sc-1wyow5i-7 kEnziO">DeepSeek is a lesson from history we should have learned by now</h3>
+</div>
+<div class="sc-1wyow5i-3 fYVnKh">
+<p><span class="sc-1wyow5i-5 YUkqs">Bryony Gooch</span><span class="sc-1wyow5i-6 izYWgO">29 January 2025 05:00</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><br />
+<br /><a href="https://www.independent.co.uk/tech/deepseek-ai-china-r1-nvidia-stock-price-trump-live-updates-b2688097.html">Source link </a></p>
+
+    <div class="xs_social_share_widget xs_share_url after_content 		main_content  wslu-style-1 wslu-share-box-shaped wslu-fill-colored wslu-none wslu-share-horizontal wslu-theme-font-no wslu-main_content">
+
+		
+        <ul>
+			        </ul>
+    </div> 
+11:["$","main",null,{"className":"container py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"DeepSeek down live: Chinese AI app not working properly amid huge interest in ChatGPT competitor\",\"description\":\"Trump views Chinese DeepSeek AI as &#8216;wake-up call&#8217; for US Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up…\",\"datePublished\":\"2025-01-29\",\"author\":{\"@type\":\"Organization\",\"name\":\"DigitechLifestyle Editorial\"}}"}}],["$","div",null,{"style":{"display":"grid","gap":"32px","gridTemplateColumns":"1fr","alignItems":"start"},"className":"blog-two-col","children":[["$","article",null,{"children":[["$","div",null,{"style":{"borderRadius":"12px","overflow":"hidden","marginBottom":"24px","maxHeight":"420px"},"children":["$","img",null,{"src":"https://www.digitechlifestyle.com/wp-content/uploads/2025/01/GettyImages-2196335619.jpg","alt":"DeepSeek down live: Chinese AI app not working properly amid huge interest in ChatGPT competitor","style":{"width":"100%","height":"100%","objectFit":"cover","display":"block"}}]}],["$","div",null,{"className":"surface rounded-lg p-6 md:p-10","children":[["$","div",null,{"className":"flex flex-wrap gap-2 text-sm text-slate-400","children":[["$","span",null,{"className":"rounded-full bg-white/5 px-3 py-1 text-[var(--accent)]","children":"Artificial Intelligence"}],["$","span",null,{"children":"8 min read"}],["$","span",null,{"children":"January 29, 2025"}]]}],["$","h1",null,{"className":"mt-5 text-4xl font-black leading-tight text-white md:text-5xl","children":"DeepSeek down live: Chinese AI app not working properly amid huge interest in ChatGPT competitor"}],["$","p",null,{"className":"mt-5 text-xl leading-8 text-[var(--muted)]","children":"Trump views Chinese DeepSeek AI as &#8216;wake-up call&#8217; for US Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up…"}]]}],["$","div",null,{"className":"prose-content mt-8","dangerouslySetInnerHTML":{"__html":"$1a"}}],"$L1b","$L1c"]}],"$L1d"]}]]}]
+14:null
+19:[["$","title","0",{"children":"DeepSeek down live: Chinese AI app not working properly amid huge interest in ChatGPT competitor | DigiTech Lifestyle"}],["$","meta","1",{"name":"description","content":"Trump views Chinese DeepSeek AI as &#8216;wake-up call&#8217; for US Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up…"}],["$","link","2",{"rel":"canonical","href":"https://www.digitechlifestyle.com/blog/deepseek-down-live-chinese-ai-app-not-working-properly-amid-huge-interest-in-chatgpt-competitor/"}],["$","meta","3",{"property":"og:title","content":"DeepSeek down live: Chinese AI app not working properly amid huge interest in ChatGPT competitor"}],["$","meta","4",{"property":"og:description","content":"Trump views Chinese DeepSeek AI as &#8216;wake-up call&#8217; for US Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up…"}],["$","meta","5",{"property":"og:type","content":"article"}],["$","meta","6",{"property":"article:published_time","content":"2025-01-29"}],["$","meta","7",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","8",{"name":"twitter:title","content":"DigiTech Lifestyle"}],["$","meta","9",{"name":"twitter:description","content":"Educational guides, honest reviews, and breaking news on crypto, AI, and digital lifestyle. Independent writing from a crypto enthusiast since 2017."}]]
+1f:I[5014,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],"default"]
+20:I[12862,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],"SidebarAds"]
+1b:["$","div",null,{"style":{"display":"flex","flexWrap":"wrap","gap":"10px","alignItems":"center","margin":"32px 0 0","padding":"20px","background":"var(--bg-card)","borderRadius":"12px","border":"1px solid var(--line)"},"children":[["$","span",null,{"style":{"fontSize":"12px","fontWeight":700,"color":"var(--muted)","textTransform":"uppercase","letterSpacing":"0.08em","marginRight":"4px"},"children":"Share:"}],["$","a",null,{"href":"https://twitter.com/intent/tweet?text=DeepSeek%20down%20live%3A%20Chinese%20AI%20app%20not%20working%20properly%20amid%20huge%20interest%20in%20ChatGPT%20competitor&url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fdeepseek-down-live-chinese-ai-app-not-working-properly-amid-huge-interest-in-chatgpt-competitor&via=DigiTechLife","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#000","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L1.254 2.25H8.08l4.253 5.622zm-1.161 17.52h1.833L7.084 4.126H5.117z"}]}],"X / Twitter"]}],["$","a",null,{"href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fdeepseek-down-live-chinese-ai-app-not-working-properly-amid-huge-interest-in-chatgpt-competitor","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#1877f2","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"}]}],"Facebook"]}],["$","a",null,{"href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fdeepseek-down-live-chinese-ai-app-not-working-properly-amid-huge-interest-in-chatgpt-competitor","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#0a66c2","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"}]}],"LinkedIn"]}],["$","a",null,{"href":"https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fdeepseek-down-live-chinese-ai-app-not-working-properly-amid-huge-interest-in-chatgpt-competitor&description=DeepSeek%20down%20live%3A%20Chinese%20AI%20app%20not%20working%20properly%20amid%20huge%20interest%20in%20ChatGPT%20competitor&media=https%3A%2F%2Fwww.digitechlifestyle.com%2Fwp-content%2Fuploads%2F2025%2F01%2FGettyImages-2196335619.jpg","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#e60023","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":["$L1e","Pinterest"]}]]}]
+1c:["$","div",null,{"className":"mt-10","children":["$","section",null,{"className":"surface rounded-lg p-6 md:p-8","children":[["$","div",null,{"className":"grid gap-6 md:grid-cols-[1fr_auto] md:items-center","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-[0.22em] text-[var(--accent)]","children":"Partner picks"}],["$","h2",null,{"className":"mt-3 text-2xl font-semibold text-white md:text-3xl","children":"Build a smarter digital stack"}],["$","p",null,{"className":"mt-3 max-w-2xl text-sm leading-7 text-[var(--muted)] md:text-base","children":"Explore curated AI, automation, wealth, and creator tools selected for practical value, transparent pricing, and clear use cases."}]]}],["$","$L5",null,{"href":"/tool-directory","className":"inline-flex h-12 items-center justify-center gap-2 rounded-lg bg-[var(--accent)] px-5 text-sm font-bold text-slate-950","children":["Browse tools ",["$","$L1f",null,{"ref":"$undefined","iconNode":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]],"className":"lucide-arrow-right","size":18}]]}]]}],["$","p",null,{"className":"mt-5 text-xs leading-6 text-slate-500","children":"Disclosure: some links may be affiliate links. DigitechLifestyle may earn a commission at no additional cost to you."}]]}]}]
+1d:["$","aside",null,{"style":{"position":"sticky","top":"80px","display":"grid","gap":"16px","alignContent":"start"},"children":[["$","$L20",null,{}],["$","form",null,{"className":"surface rounded-lg p-5 ","children":[["$","div",null,{"className":"flex items-center gap-3 text-[var(--accent)]","children":[["$","$L1f",null,{"ref":"$undefined","iconNode":[["path",{"d":"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7","key":"132q7q"}],["rect",{"x":"2","y":"4","width":"20","height":"16","rx":"2","key":"izxlao"}]],"className":"lucide-mail","size":20}],["$","span",null,{"className":"text-sm font-semibold uppercase tracking-[0.2em]","children":"Newsletter"}]]}],["$","h2",null,{"className":"mt-4 text-2xl font-semibold text-white","children":"Get the Digital Living Brief"}],["$","p",null,{"className":"mt-3 text-sm leading-6 text-[var(--muted)]","children":"Weekly AI tools, automation ideas, affiliate opportunities, and digital wealth notes. No noise."}],["$","div",null,{"className":"mt-5 grid gap-3 sm:grid-cols-[1fr_auto]","children":[["$","input",null,{"aria-label":"Email address","type":"email","placeholder":"you@example.com","className":"h-12 rounded-lg border border-white/10 bg-black/30 px-4 text-sm text-white outline-none transition placeholder:text-slate-500 focus:border-[var(--accent)]"}],["$","button",null,{"className":"h-12 rounded-lg bg-white px-5 text-sm font-bold text-slate-950","type":"submit","children":"Join free"}]]}]]}]]}]
+1e:["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 01.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"}]}]

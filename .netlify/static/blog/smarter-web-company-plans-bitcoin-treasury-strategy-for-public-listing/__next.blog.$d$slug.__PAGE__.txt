@@ -1,0 +1,172 @@
+1:"$Sreact.fragment"
+9:I[22016,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],""]
+a:I[5014,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],"default"]
+b:I[12862,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],"SidebarAds"]
+c:I[97367,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+:HL["https://www.digitechlifestyle.com/wp-content/uploads/2025/04/Smarter-Web-Company-Plans-Public-Listing-With-Bitcoin-Treasury-Strategy.jpeg","image"]
+2:T3b74,		<div data-elementor-type="wp-post" data-elementor-id="13945" class="elementor elementor-13945" data-elementor-post-type="post">
+				<div class="elementor-element elementor-element-15fbec9a e-flex e-con-boxed e-con e-parent" data-id="15fbec9a" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-52c697c6 elementor-widget elementor-widget-text-editor" data-id="52c697c6" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>In 2009, Andrew Webley founded a small web services firm in the UK. Fast forward to today, and this 15-year-old company is making headlines for its bold move into the world of digital assets. By 2023, they began accepting payments in <strong>bitcoin</strong>, setting the stage for a groundbreaking strategy.</p>
+<p>Now, they’re preparing for a <em>public listing</em> on the AQUIS Stock Exchange through a reverse takeover of a company established in 1907. This innovative approach accelerates their entry into the public market, planned for April 2025. Their dual focus? Maintaining excellence in web services while pioneering <strong>crypto treasury strategies</strong>.</p>
+<p>With a lean team and proprietary CMS technology, this firm is betting big on the future of digital assets. Their journey shows how traditional businesses can embrace innovation while staying true to their roots.</p>
+<h3>Key Takeaways</h3>
+<ul>
+<li>A 15-year-old UK web services firm is making corporate history with digital assets.</li>
+<li>They began accepting bitcoin payments in 2023, two years before their planned public listing.</li>
+<li>A reverse takeover strategy will accelerate their entry into the public market by April 2025.</li>
+<li>Their proprietary CMS technology supports their innovative approach.</li>
+<li>They aim to maintain web services excellence while pioneering crypto treasury strategies.</li>
+</ul>
+<h2>The Smarter Web Company’s Path to Going Public</h2>
+<p>From crafting websites to embracing digital currencies, this company’s journey is remarkable. What started as a traditional web services provider has now positioned itself as a leader in digital asset innovation. Their evolution reflects a bold vision for the future.</p>
+<h3>From Web Services to Bitcoin Adoption</h3>
+<p>Originally focused on web design, development, and online marketing, the firm has always prioritized excellence. In 2023, they took a groundbreaking step by allowing clients to pay with digital assets. This move not only modernized their operations but also attracted a new wave of tech-savvy customers.</p>
+<p>By integrating digital currencies into their payment options, they’ve demonstrated a commitment to innovation. This decision has strengthened their reputation as a forward-thinking organization. Their <strong>organic growth</strong> continues to fuel their strategic investments in digital assets.</p>
+<h3>Reverse Takeover and AQUIS Stock Exchange Plans</h3>
+<p>To accelerate their entry into the public market, the company opted for a <strong>reverse takeover</strong>. They acquired Uranium Energy Exploration Plc, a shell company, to streamline the process. This approach saves time compared to a traditional IPO, allowing them to focus on their core mission.</p>
+<p>Their listing on the <strong>AQUIS Stock Exchange</strong> is set for April 2025, with a £2M IPO target. This exchange was chosen for its liquidity and accessibility, making it an ideal platform for their growth. The ticker SWC will represent their shares, marking a new chapter in their story.</p>
+<p>This strategic move not only benefits the company but also provides existing clients with enhanced opportunities. By leveraging their web service revenue, they’re funding acquisitions in the digital asset space, ensuring long-term value for stakeholders.</p>
+<h2>Smarter Web Company Plans Public Listing With Bitcoin Treasury Strategy</h2>
+<p>Innovative firms are turning to digital assets to secure long-term value. The Smarter Web Company is no exception, with a formal <strong>digital assets treasury policy</strong> in development. This policy aims to balance BTC holdings with traditional cash reserves, ensuring financial stability while embracing innovation.</p>
+<p><img fetchpriority="high" decoding="async" src="https://digitechlifestyle-com-206789.hostingersite.com/wp-content/uploads/2025/04/bitcoin-treasury-strategy-1024x585.jpeg" alt="bitcoin treasury strategy" title="bitcoin treasury strategy" width="640" height="366" class="aligncenter size-large wp-image-13947" srcset="https://www.digitechlifestyle.com/wp-content/uploads/2025/04/bitcoin-treasury-strategy-1024x585.jpeg 1024w, https://www.digitechlifestyle.com/wp-content/uploads/2025/04/bitcoin-treasury-strategy-300x171.jpeg 300w, https://www.digitechlifestyle.com/wp-content/uploads/2025/04/bitcoin-treasury-strategy-768x439.jpeg 768w, https://www.digitechlifestyle.com/wp-content/uploads/2025/04/bitcoin-treasury-strategy.jpeg 1344w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+<h3>Why Bitcoin? Inflation Hedge and Long-Term Value</h3>
+<p>Bitcoin is increasingly seen as a reliable <strong>hedge</strong> against inflation. Unlike traditional assets like gold, BTC offers portability and decentralization. The company’s undisclosed BTC holdings reflect this belief, positioning them to benefit from long-term value appreciation.</p>
+<p>Their approach mirrors successful strategies by firms like <strong>MicroStrategy</strong>, which has integrated BTC into its <strong>balance sheet</strong>. By adopting a similar model, they aim to protect their <strong>capital</strong> from economic volatility while maximizing growth potential.</p>
+<h3>Digital Assets Treasury Policy: Balancing BTC and Cash</h3>
+<p>Their treasury strategy is built on three pillars: cash reserves, BTC holdings, and equity raises. This balanced approach ensures liquidity while leveraging the benefits of digital assets. Tyler Evans, who plays a dual role at the company and UTXO Management, is instrumental in shaping this policy.</p>
+<p>Compared to Metaplanet’s 3,350 BTC stash, their holdings are undisclosed but strategically aligned. This focus on portable, non-sovereign assets is particularly relevant for UK mid-caps navigating economic uncertainty.</p>
+<h3>Following the Footsteps of MicroStrategy and Metaplanet</h3>
+<p>By mirroring <strong>MicroStrategy’s</strong> convertible note approach, they plan to raise additional <strong>capital</strong> in the future. This strategy allows them to fund acquisitions and expand their digital asset portfolio without diluting equity.</p>
+<p>Their journey underscores the growing importance of digital assets in corporate finance. As they prepare for their public listing, their innovative approach sets a new standard for mid-sized businesses.</p>
+<h2>Bitcoin-Native Investors Backing the Vision</h2>
+<p>The rise of digital assets has attracted a new wave of <strong>investors</strong> with a shared vision. These backers are not just funding projects; they’re shaping the future of innovation. Their focus on mission-aligned strategies sets them apart from traditional venture capital.</p>
+<p><img decoding="async" src="https://digitechlifestyle-com-206789.hostingersite.com/wp-content/uploads/2025/04/bitcoin-native-investors-1024x585.jpeg" alt="bitcoin-native investors" title="bitcoin-native investors" width="640" height="366" class="aligncenter size-large wp-image-13948" srcset="https://www.digitechlifestyle.com/wp-content/uploads/2025/04/bitcoin-native-investors-1024x585.jpeg 1024w, https://www.digitechlifestyle.com/wp-content/uploads/2025/04/bitcoin-native-investors-300x171.jpeg 300w, https://www.digitechlifestyle.com/wp-content/uploads/2025/04/bitcoin-native-investors-768x439.jpeg 768w, https://www.digitechlifestyle.com/wp-content/uploads/2025/04/bitcoin-native-investors.jpeg 1344w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+<h3>UTXO Management’s £1M Pre-IPO Funding</h3>
+<p><strong>UTXO Management</strong>, a significant player in the digital asset space, has committed £1M in pre-IPO funding. This move highlights their confidence in the company’s strategy. With a stake exceeding 3%, UTXO meets the U.K.’s threshold for a significant investor.</p>
+<p>Their involvement goes beyond capital. UTXO brings expertise from their work with firms like <strong>Metaplanet</strong>, ensuring a robust foundation for growth. This partnership underscores the importance of aligned capital in driving long-term success.</p>
+<h3>The Role of 210k Capital and Mission-Aligned Backers</h3>
+<p>Another key player is <strong>210k Capital</strong>, a Bitcoin-focused hedge fund. Unlike traditional <strong>investors</strong>, 210k prioritizes operational involvement over passive funding. Their approach ensures that the company’s vision remains intact post-IPO.</p>
+<p>Mission-aligned backers like 210k and UTXO provide more than just financial support. They offer strategic guidance, governance, and a shared commitment to innovation. This alignment prevents strategic drift and ensures sustained growth.</p>
+<table>
+<tr>
+<th>Investor</th>
+<th>Contribution</th>
+<th>Focus</th>
+</tr>
+<tr>
+<td>UTXO Management</td>
+<td>£1M Pre-IPO Funding</td>
+<td>Digital <strong>Assets</strong> Strategy</td>
+</tr>
+<tr>
+<td>210k Capital</td>
+<td>Operational Involvement</td>
+<td>Mission-Aligned Growth</td>
+</tr>
+</table>
+<p>With an additional £2M raise underway, the company is well-positioned to achieve its goals. This funding will support acquisitions and expand their digital asset portfolio. The backing of these <strong>investors</strong> ensures a strong foundation for future success.</p>
+<h2>Implications for Mid-Sized Businesses and Crypto Markets</h2>
+<p>Mid-sized businesses are increasingly leveraging digital assets to enhance their financial strategies. This shift is not just about adopting new technologies but also about rethinking traditional approaches to capital management. The integration of digital assets offers a unique opportunity for growth and efficiency.</p>
+<h3>Bitcoin as a Capital Efficiency Tool for Growth</h3>
+<p>Bitcoin is proving to be a powerful tool for <strong>capital efficiency</strong>. By allocating a portion of their reserves to BTC, businesses can protect against inflation and reduce reliance on traditional cash reserves. This strategy is particularly beneficial for <strong>mid-sized businesses</strong> looking to optimize their financial performance.</p>
+<p>For example, a £1M BTC allocation could outperform traditional cash reserves in terms of long-term value appreciation. This approach not only enhances financial stability but also positions businesses to take advantage of opportunities in the <strong>crypto markets</strong>.</p>
+<h3>Transparency and Investor Disclosures Post-Listing</h3>
+<p>Transparency is crucial for maintaining investor trust, especially in the volatile world of digital assets. Post-listing, businesses must commit to regular updates on their BTC holdings and <strong>acquisitions</strong>. This includes disclosing BTC wallet addresses and acquisition criteria in quarterly reports.</p>
+<p>Such <strong>investor disclosures</strong> ensure that stakeholders are well-informed and can make decisions based on accurate data. This level of transparency is essential for fostering confidence and attracting institutional investors.</p>
+<ul>
+<li>Case study: How £1M BTC allocation could outperform cash reserves.</li>
+<li>Explore SWC&#8217;s blueprint for SME treasury transformation.</li>
+<li>Learn why local listings matter for institutional adoption.</li>
+<li>Breakdown their disclosure plan: from BTC wallet addresses to acquisition criteria.</li>
+<li>Discover how SWC bridges traditional finance and crypto-native strategies.</li>
+</ul>
+<h2>Conclusion</h2>
+<p>The journey from traditional web services to embracing digital assets marks a pivotal shift in corporate innovation. The <strong>smarter web company</strong> has navigated this transformation seamlessly, evolving from a web services provider to a pioneer in <em>bitcoin treasury strategy</em>. Their upcoming <strong>public listing</strong> is a testament to their forward-thinking approach.</p>
+<p>This move could spark a domino effect among UK SMEs, encouraging more businesses to explore <em>corporate adoption</em> of digital assets. With the rise of Bitcoin ETFs, the timing is strategic. Companies have a unique window to integrate digital assets into their financial strategies before the market becomes saturated.</p>
+<p>For corporate leaders, the message is clear: the barriers are falling. Now is the time to act. By blending traditional expertise with innovative monetary strategies, businesses can achieve <strong>capital preservation</strong> and long-term growth. The <em>smarter web company</em> stands as a model for balancing legacy with innovation, proving that the future belongs to those who adapt.</p>
+<section class="schema-section">
+<h2>FAQ</h2>
+<div>
+<h3>What is the Smarter Web Company’s approach to adopting digital assets?</h3>
+<div>
+<div>
+<p>The firm is integrating Bitcoin into its treasury strategy to hedge against inflation and enhance long-term value, following the lead of other forward-thinking businesses.</p>
+</div>
+</div>
+</div>
+<div>
+<h3>How does the company plan to go public?</h3>
+<div>
+<div>
+<p>Through a reverse takeover, the business aims to list on the AQUIS Stock Exchange, combining its web services expertise with a focus on digital assets.</p>
+</div>
+</div>
+</div>
+<div>
+<h3>Why is Bitcoin a key part of the treasury strategy?</h3>
+<div>
+<div>
+<p>Bitcoin serves as an inflation hedge and a tool for capital efficiency, aligning with the firm’s growth and investment goals.</p>
+</div>
+</div>
+</div>
+<div>
+<h3>Who is backing this vision financially?</h3>
+<div>
+<div>
+<p>Bitcoin-native investors, including UTXO Management and 210k Capital, have provided significant pre-IPO funding to support the mission.</p>
+</div>
+</div>
+</div>
+<div>
+<h3>What role does transparency play post-listing?</h3>
+<div>
+<div>
+<p>The company is committed to clear investor disclosures, ensuring transparency in its digital assets and overall financial strategy.</p>
+</div>
+</div>
+</div>
+<div>
+<h3>How does this strategy benefit mid-sized businesses?</h3>
+<div>
+<div>
+<p>By adopting Bitcoin, the firm demonstrates how digital assets can be used as a capital efficiency tool, inspiring other businesses to explore similar strategies.</p>
+</div>
+</div>
+</div>
+<div>
+<h3>What is the balance between Bitcoin and cash in the treasury?</h3>
+<div>
+<div>
+<p>The firm maintains a balanced approach, holding both Bitcoin and cash to ensure flexibility and stability in its financial operations.</p>
+</div>
+</div>
+</div>
+</section>
+
+
+<p></p>
+								</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		
+    <div class="xs_social_share_widget xs_share_url after_content 		main_content  wslu-style-1 wslu-share-box-shaped wslu-fill-colored wslu-none wslu-share-horizontal wslu-theme-font-no wslu-main_content">
+
+		
+        <ul>
+			        </ul>
+    </div> 
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"container py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Smarter Web Company Plans Bitcoin Treasury Strategy for Public Listing\",\"description\":\"Discover how Smarter Web Company plans to go public with a Bitcoin treasury strategy, blending crypto innovation with traditional finance.\",\"datePublished\":\"2025-04-25\",\"author\":{\"@type\":\"Organization\",\"name\":\"DigitechLifestyle Editorial\"}}"}}],["$","div",null,{"style":{"display":"grid","gap":"32px","gridTemplateColumns":"1fr","alignItems":"start"},"className":"blog-two-col","children":[["$","article",null,{"children":[["$","div",null,{"style":{"borderRadius":"12px","overflow":"hidden","marginBottom":"24px","maxHeight":"420px"},"children":["$","img",null,{"src":"https://www.digitechlifestyle.com/wp-content/uploads/2025/04/Smarter-Web-Company-Plans-Public-Listing-With-Bitcoin-Treasury-Strategy.jpeg","alt":"Smarter Web Company Plans Bitcoin Treasury Strategy for Public Listing","style":{"width":"100%","height":"100%","objectFit":"cover","display":"block"}}]}],["$","div",null,{"className":"surface rounded-lg p-6 md:p-10","children":[["$","div",null,{"className":"flex flex-wrap gap-2 text-sm text-slate-400","children":[["$","span",null,{"className":"rounded-full bg-white/5 px-3 py-1 text-[var(--accent)]","children":"Cryptocurrencies"}],["$","span",null,{"children":"9 min read"}],["$","span",null,{"children":"April 25, 2025"}]]}],["$","h1",null,{"className":"mt-5 text-4xl font-black leading-tight text-white md:text-5xl","children":"Smarter Web Company Plans Bitcoin Treasury Strategy for Public Listing"}],["$","p",null,{"className":"mt-5 text-xl leading-8 text-[var(--muted)]","children":"Discover how Smarter Web Company plans to go public with a Bitcoin treasury strategy, blending crypto innovation with traditional finance."}]]}],["$","div",null,{"className":"prose-content mt-8","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eoOZKes8Mnqd7JDZr5hOO"}
+3:["$","div",null,{"style":{"display":"flex","flexWrap":"wrap","gap":"10px","alignItems":"center","margin":"32px 0 0","padding":"20px","background":"var(--bg-card)","borderRadius":"12px","border":"1px solid var(--line)"},"children":[["$","span",null,{"style":{"fontSize":"12px","fontWeight":700,"color":"var(--muted)","textTransform":"uppercase","letterSpacing":"0.08em","marginRight":"4px"},"children":"Share:"}],["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Smarter%20Web%20Company%20Plans%20Bitcoin%20Treasury%20Strategy%20for%20Public%20Listing&url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fsmarter-web-company-plans-bitcoin-treasury-strategy-for-public-listing&via=DigiTechLife","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#000","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L1.254 2.25H8.08l4.253 5.622zm-1.161 17.52h1.833L7.084 4.126H5.117z"}]}],"X / Twitter"]}],["$","a",null,{"href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fsmarter-web-company-plans-bitcoin-treasury-strategy-for-public-listing","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#1877f2","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"}]}],"Facebook"]}],["$","a",null,{"href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fsmarter-web-company-plans-bitcoin-treasury-strategy-for-public-listing","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#0a66c2","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"}]}],"LinkedIn"]}],["$","a",null,{"href":"https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fsmarter-web-company-plans-bitcoin-treasury-strategy-for-public-listing&description=Smarter%20Web%20Company%20Plans%20Bitcoin%20Treasury%20Strategy%20for%20Public%20Listing&media=https%3A%2F%2Fwww.digitechlifestyle.com%2Fwp-content%2Fuploads%2F2025%2F04%2FSmarter-Web-Company-Plans-Public-Listing-With-Bitcoin-Treasury-Strategy.jpeg","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#e60023","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":"$L8"}],"Pinterest"]}]]}]
+4:["$","div",null,{"className":"mt-10","children":["$","section",null,{"className":"surface rounded-lg p-6 md:p-8","children":[["$","div",null,{"className":"grid gap-6 md:grid-cols-[1fr_auto] md:items-center","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-[0.22em] text-[var(--accent)]","children":"Partner picks"}],["$","h2",null,{"className":"mt-3 text-2xl font-semibold text-white md:text-3xl","children":"Build a smarter digital stack"}],["$","p",null,{"className":"mt-3 max-w-2xl text-sm leading-7 text-[var(--muted)] md:text-base","children":"Explore curated AI, automation, wealth, and creator tools selected for practical value, transparent pricing, and clear use cases."}]]}],["$","$L9",null,{"href":"/tool-directory","className":"inline-flex h-12 items-center justify-center gap-2 rounded-lg bg-[var(--accent)] px-5 text-sm font-bold text-slate-950","children":["Browse tools ",["$","$La",null,{"iconNode":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]],"className":"lucide-arrow-right","size":18}]]}]]}],["$","p",null,{"className":"mt-5 text-xs leading-6 text-slate-500","children":"Disclosure: some links may be affiliate links. DigitechLifestyle may earn a commission at no additional cost to you."}]]}]}]
+5:["$","aside",null,{"style":{"position":"sticky","top":"80px","display":"grid","gap":"16px","alignContent":"start"},"children":[["$","$Lb",null,{}],["$","form",null,{"className":"surface rounded-lg p-5 ","children":[["$","div",null,{"className":"flex items-center gap-3 text-[var(--accent)]","children":[["$","$La",null,{"iconNode":[["path",{"d":"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7","key":"132q7q"}],["rect",{"x":"2","y":"4","width":"20","height":"16","rx":"2","key":"izxlao"}]],"className":"lucide-mail","size":20}],["$","span",null,{"className":"text-sm font-semibold uppercase tracking-[0.2em]","children":"Newsletter"}]]}],["$","h2",null,{"className":"mt-4 text-2xl font-semibold text-white","children":"Get the Digital Living Brief"}],["$","p",null,{"className":"mt-3 text-sm leading-6 text-[var(--muted)]","children":"Weekly AI tools, automation ideas, affiliate opportunities, and digital wealth notes. No noise."}],["$","div",null,{"className":"mt-5 grid gap-3 sm:grid-cols-[1fr_auto]","children":[["$","input",null,{"aria-label":"Email address","type":"email","placeholder":"you@example.com","className":"h-12 rounded-lg border border-white/10 bg-black/30 px-4 text-sm text-white outline-none transition placeholder:text-slate-500 focus:border-[var(--accent)]"}],["$","button",null,{"className":"h-12 rounded-lg bg-white px-5 text-sm font-bold text-slate-950","type":"submit","children":"Join free"}]]}]]}]]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/12gi4g22zq5ft.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+8:["$","path",null,{"d":"M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 01.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"}]
+e:null

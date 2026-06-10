@@ -1,0 +1,507 @@
+1:"$Sreact.fragment"
+8:I[22016,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],""]
+9:I[5014,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],"default"]
+a:I[12862,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],"SidebarAds"]
+b:I[97367,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+:HL["https://www.digitechlifestyle.com/wp-content/uploads/2025/04/exploring-ai-ethics-in-the-age-of-automation-1-scaled.jpeg","image"]
+2:T4abb,		<div data-elementor-type="wp-post" data-elementor-id="15464" class="elementor elementor-15464" data-elementor-post-type="post">
+				<div class="elementor-element elementor-element-47e78a1d e-flex e-con-boxed e-con e-parent" data-id="47e78a1d" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5b46e221 elementor-widget elementor-widget-text-editor" data-id="5b46e221" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									
+<figure class="wp-block-image"><img decoding="async" src="https://images.pexels.com/photos/6801639/pexels-photo-6801639.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="https://www.pexels.com/photo/statistics-survey-sheet-6801639/"/></figure>
+
+
+
+<p><strong>Is the AI bubble bursting, or are we on the cusp of a new era?</strong> 🤖💥</p>
+
+
+
+<p>The world of artificial intelligence has been riding high on a wave of investment and optimism, with predictions of revolutionary changes to our economy and society. But as we enter a potential &#8220;funding winter&#8221; for AI, investors and industry leaders are left wondering: <em>Has the AI boom reached its peak, or is this just a temporary setback?</em></p>
+
+
+
+<p>As we navigate this post-boom landscape, crucial questions emerge about AI&#8217;s role in future economic growth and the challenges that lie ahead. From the potential for a productivity boom to the uncertainties surrounding AI&#8217;s immediate transformative effects, the path forward is far from clear. In this blog post, we&#8217;ll explore the current state of AI investment, examine its broader economic implications, and offer strategies for thriving in this evolving landscape. <strong>Are you ready to uncover the truth about AI&#8217;s future and its impact on our world?</strong> Let&#8217;s dive in.</p>
+
+
+
+<h1 class="wp-block-heading">The Current State of AI Investment</h1>
+
+
+
+<p><img decoding="async" src="https://pixabay.com/get/g4fc7dc7d8e770cd782fdafe600ad33b0640067706011af0ab31b1e5394e655c2d305ac423e49cd2eccbe49d41432c1c69f0cfcaabb3b1d16c23bc1b9908324cc_1280.jpg"></p>
+
+
+
+<h3 class="wp-block-heading">A. Contrasting perspectives on AI&#8217;s economic impact</h3>
+
+
+
+<p>The current state of AI investment presents a complex landscape with contrasting perspectives on its economic impact. While there&#8217;s significant enthusiasm and growth in certain areas, there are also signs of caution and uncertainty.</p>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Positive Indicators</th><th>Challenges</th></tr></thead><tbody><tr><td>AI startups secured $42.5B in 2023</td><td>10% YoY decline in funding</td></tr><tr><td>Only 10% decline vs. 42% in overall VC</td><td>24% decrease in deal volume</td></tr><tr><td>48% of funding to generative AI</td><td>Fewer new AI unicorns (22, down 39%)</td></tr></tbody></table></figure>
+
+
+
+<p>Despite a broader venture capital downturn, AI investments have shown resilience. In 2023, AI startups secured $42.5 billion across 2,500 equity rounds, reflecting only a 10% year-over-year decline compared to the overall venture funding drop of 42%. This indicates a continued strong interest in AI technologies.</p>
+
+
+
+<h3 class="wp-block-heading">B. Potential for significant economic growth</h3>
+
+
+
+<p>The potential for significant economic growth in AI is evident from several key factors:</p>
+
+
+
+<ol class="wp-block-list">
+<li>Increased average deal size: Rose by 21% YoY to $23.4 million</li>
+
+
+
+<li>Record high M&amp;A activity: 317 exits, signaling industry consolidation</li>
+
+
+
+<li>Strategic investments: Google emerged as the most active AI investor</li>
+
+
+
+<li>Government funding: U.S. agencies allocated $1.7B for AI research in 2023</li>
+</ol>
+
+
+
+<p>These trends suggest that investors and corporations are betting on AI&#8217;s long-term potential, despite short-term market fluctuations.</p>
+
+
+
+<h3 class="wp-block-heading">C. Uncertainty regarding immediate transformative effects</h3>
+
+
+
+<p>However, there&#8217;s uncertainty about AI&#8217;s immediate transformative effects:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Declining private investments: AI investments fell by one-third in 2022</li>
+
+
+
+<li>Rising costs: Training large language models like ChatGPT has become increasingly expensive</li>
+
+
+
+<li>Environmental concerns: AI development consumes vast computing resources and generates substantial carbon emissions</li>
+
+
+
+<li>Varied public perception: While 78% of Chinese respondents view AI positively, only 35% of Americans and 31% of French respondents share this sentiment</li>
+</ul>
+
+
+
+<p>These factors contribute to a more cautious outlook on AI&#8217;s immediate economic impact, despite its long-term potential.</p>
+
+
+
+<p>With this complex landscape in mind, we&#8217;ll next explore AI&#8217;s Role in Future Economic Growth, examining how these current trends might shape the technology&#8217;s long-term economic influence.</p>
+
+
+
+<h1 class="wp-block-heading">AI&#8217;s Role in Future Economic Growth</h1>
+
+
+
+<p><img decoding="async" src="https://images.pexels.com/photos/5561914/pexels-photo-5561914.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="https://www.pexels.com/photo/clipboard-with-statistical-data-and-digital-tablet-with-stock-market-display-on-screen-5561914/"></p>
+
+
+
+<p>Now that we&#8217;ve examined the current state of AI investment, let&#8217;s explore AI&#8217;s role in future economic growth. This section delves into the potential impact of AI on productivity and labor markets.</p>
+
+
+
+<h3 class="wp-block-heading">A. Generative AI as a substitute for human labor</h3>
+
+
+
+<p>Generative AI is poised to transform various industries by automating tasks traditionally performed by humans. According to research:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Approximately 20% of tasks in the U.S. labor market could be replaced or augmented by AI technologies</li>
+
+
+
+<li>Only about 5% of these tasks could be performed profitably by AI</li>
+</ul>
+
+
+
+<p>This shift is expected to affect knowledge workers significantly, particularly in fields such as marketing, sales, banking, and pharmaceuticals.</p>
+
+
+
+<h3 class="wp-block-heading">B. Anticipated productivity boom</h3>
+
+
+
+<p>The integration of AI into various sectors is projected to drive substantial economic growth:</p>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Timeframe</th><th>Productivity Increase</th><th>Potential GDP Growth</th></tr></thead><tbody><tr><td>Next decade</td><td>0.7% (AI-driven)</td><td>1.1% to 1.8%</td></tr><tr><td>By 2040</td><td>0.5% to 3.4%</td><td>Not specified</td></tr></tbody></table></figure>
+
+
+
+<p>These figures suggest a cautious optimism for AI&#8217;s impact on overall economic productivity. However, it&#8217;s important to note that the benefits may not be evenly distributed across all sectors and workforce segments.</p>
+
+
+
+<h3 class="wp-block-heading">C. Cautious optimism for AI-driven advancement</h3>
+
+
+
+<p>While the potential for AI-driven growth is significant, several factors warrant a measured approach:</p>
+
+
+
+<ol class="wp-block-list">
+<li>Uneven distribution of benefits:
+<ul class="wp-block-list">
+<li>Large companies are currently investing more in AI</li>
+
+
+
+<li>Smaller enterprises, which perform many AI-suitable tasks, lag in adoption</li>
+</ul>
+</li>
+
+
+
+<li>Potential negative implications:
+<ul class="wp-block-list">
+<li>Possible welfare declines despite GDP growth</li>
+
+
+
+<li>Disproportionate impact on low-educated workers, particularly women</li>
+</ul>
+</li>
+
+
+
+<li>Need for strategic reorientation:
+<ul class="wp-block-list">
+<li>Focus on delivering reliable, context-dependent information for problem-solving tasks</li>
+
+
+
+<li>Shift away from general conversational AI towards profession-specific applications</li>
+</ul>
+</li>
+</ol>
+
+
+
+<p>As we look ahead to the challenges in the AI investment landscape, it&#8217;s clear that harnessing AI&#8217;s potential for economic growth will require careful navigation of these complexities and strategic decision-making by businesses, policymakers, and individuals alike.</p>
+
+
+
+<h1 class="wp-block-heading">Challenges in the AI Investment Landscape</h1>
+
+
+
+<p><img decoding="async" src="https://pixabay.com/get/gad034aaa7ed9644c75d96c9dd3eabdb1eb523a4e4df7c2f55c9e69ce814acb21a154dd8b00cfc112a8f7cf7c9c62e518311abce8d6dd620aafdd034f4d953adf_1280.jpg"></p>
+
+
+
+<p>Now that we&#8217;ve explored AI&#8217;s role in future economic growth, let&#8217;s delve into the challenges facing the AI investment landscape.</p>
+
+
+
+<h3 class="wp-block-heading">A. Possible plateau in AI investment boom</h3>
+
+
+
+<p>The AI investment boom may be reaching a plateau as the financial industry grapples with evolving risks and complexities. While AI technologies offer tremendous potential, they also amplify existing challenges such as fraud, cyber-attacks, and market manipulation. The rapid and large-scale operations enabled by AI have heightened these concerns, leading to a more cautious approach from investors and regulators alike.</p>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Traditional Risks</th><th>AI-Amplified Risks</th></tr></thead><tbody><tr><td>Fraud</td><td>Hyper-personalized phishing</td></tr><tr><td>Cyber-attacks</td><td>AI-driven trading algorithm manipulation</td></tr><tr><td>Market manipulation</td><td>Spoofing and layering at scale</td></tr></tbody></table></figure>
+
+
+
+<h3 class="wp-block-heading">B. Balancing expectations with realistic outcomes</h3>
+
+
+
+<p>As the AI landscape matures, there&#8217;s a growing need to balance high expectations with realistic outcomes. The emergence of generative AI and large language models has created both excitement and apprehension in the investment community. While these technologies promise groundbreaking advancements, they also present new challenges:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Accountability issues with agentic AI systems</li>
+
+
+
+<li>Potential for misleading outputs from large language models</li>
+
+
+
+<li>Risks of data privacy violations and deceptive marketing claims</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">C. Navigating uncertainties in AI&#8217;s development</h3>
+
+
+
+<p>The financial industry must navigate significant uncertainties as AI continues to develop. Key strategies for managing these uncertainties include:</p>
+
+
+
+<ol class="wp-block-list">
+<li>Adapting existing regulatory frameworks rather than creating entirely new ones</li>
+
+
+
+<li>Implementing comprehensive governance and risk management strategies</li>
+
+
+
+<li>Establishing cross-functional committees for AI oversight</li>
+
+
+
+<li>Enhancing cybersecurity measures with advanced authentication and AI-driven analytics</li>
+
+
+
+<li>Promoting industry collaboration to share information on emerging threats</li>
+
+
+
+<li>Investing in AI education to ensure responsible usage and strategic decision-making</li>
+</ol>
+
+
+
+<p>As we look towards the broader economic implications of AI&#8217;s funding winter, it&#8217;s clear that the challenges in the AI investment landscape are shaping a more cautious and strategic approach to AI development and implementation.</p>
+
+
+
+<h1 class="wp-block-heading">Broader Economic Implications</h1>
+
+
+
+<p><img decoding="async" src="https://pixabay.com/get/g4ada3a52b9405dae063e6745d8e56e78a6ea8af4159ef1a14e268d3b378deb269b0de16ee3b14235cd533694e7632fcdd026963ca26041cec9e2ae5fb0fba1cb_1280.jpg"></p>
+
+
+
+<p>Now that we have covered the challenges in the AI investment landscape, let&#8217;s explore the broader economic implications of AI&#8217;s development and adoption.</p>
+
+
+
+<h3 class="wp-block-heading">A. American trade policies and their effects</h3>
+
+
+
+<p>The rise of AI technology has significant implications for global trade dynamics, particularly in relation to American trade policies. As AI continues to reshape industries and economies, the United States faces both opportunities and challenges in maintaining its competitive edge. The integration of AI into various sectors may lead to shifts in trade patterns, potentially affecting the traditional significance of exchange rate adjustments.</p>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Factor</th><th>Impact on Trade</th></tr></thead><tbody><tr><td>AI Integration</td><td>Reshaping industry competitiveness</td></tr><tr><td>Productivity Gains</td><td>Potential decrease in exchange rate importance</td></tr><tr><td>Non-tradable Sector</td><td>Inverse Balassa-Samuelson effect</td></tr></tbody></table></figure>
+
+
+
+<h3 class="wp-block-heading">B. Potential vulnerabilities of the dollar</h3>
+
+
+
+<p>The widespread adoption of AI technologies may introduce new vulnerabilities to the dollar&#8217;s position as the world&#8217;s dominant currency. As AI-driven productivity advancements diminish the traditional importance of exchange rate adjustments, particularly in the non-tradable sector, it could lead to an inverse Balassa-Samuelson effect. This phenomenon may have implications for the dollar&#8217;s strength and stability in the global financial system.</p>
+
+
+
+<h3 class="wp-block-heading">C. Challenges for emerging markets in a shifting landscape</h3>
+
+
+
+<p>Emerging markets face unique challenges in the AI-driven economic landscape:</p>
+
+
+
+<ol class="wp-block-list">
+<li>Lower exposure to AI: Only about 40% of jobs in emerging markets are exposed to AI, compared to 60% in advanced economies.</li>
+
+
+
+<li>Lack of infrastructure: Emerging markets often lack the necessary digital infrastructure to fully leverage AI&#8217;s advantages.</li>
+
+
+
+<li>Potential for widening inequality: The disparity in AI readiness between advanced and emerging economies could exacerbate global inequality.</li>
+</ol>
+
+
+
+<p>To address these challenges, policymakers in emerging markets must focus on:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Establishing foundational investments in AI infrastructure</li>
+
+
+
+<li>Developing labor-market policies to support AI adoption</li>
+
+
+
+<li>Creating social safety nets and retraining programs for vulnerable workers</li>
+</ul>
+
+
+
+<p>With this in mind, next, we&#8217;ll explore strategies for navigating the post-boom AI landscape, focusing on how both advanced and emerging economies can adapt to these broader economic implications and leverage AI&#8217;s potential for sustainable growth.</p>
+
+
+
+<h1 class="wp-block-heading">Strategies for Navigating the Post-Boom AI Landscape</h1>
+
+
+
+<p><img decoding="async" src="https://images.pexels.com/photos/31695020/pexels-photo-31695020.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="https://www.pexels.com/photo/lush-green-field-with-wooden-fence-in-spring-31695020/"></p>
+
+
+
+<p>Now that we&#8217;ve explored the broader economic implications of AI&#8217;s funding winter, let&#8217;s delve into strategies for navigating this post-boom landscape. The shift in the AI investment climate necessitates a recalibration of approaches to capitalize on the technology&#8217;s potential while mitigating risks.</p>
+
+
+
+<h3 class="wp-block-heading">Adapting investment approaches</h3>
+
+
+
+<p>In the current AI landscape, investors must evolve their strategies to align with the changing market dynamics:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Focus on practical applications rather than buzzwords</li>
+
+
+
+<li>Evaluate AI projects based on their real-world impact</li>
+
+
+
+<li>Prioritize companies with robust data infrastructures</li>
+
+
+
+<li>Seek collaborations between businesses and governments for scalable solutions</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Balancing risk and potential rewards</h3>
+
+
+
+<p>The AI sector presents a mix of opportunities and challenges, requiring a nuanced approach to risk management:</p>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Risk factors</th><th>Potential rewards</th></tr></thead><tbody><tr><td>Overhyped projects</td><td>High returns on genuine innovations</td></tr><tr><td>Lack of solid foundations</td><td>Scalability across sectors</td></tr><tr><td>Regulatory uncertainties</td><td>Transformative capabilities</td></tr></tbody></table></figure>
+
+
+
+<p>Investors should conduct thorough due diligence to distinguish between authentic AI applications and those merely leveraging the AI label for marketing purposes.</p>
+
+
+
+<h3 class="wp-block-heading">Identifying promising AI applications and sectors</h3>
+
+
+
+<p>To navigate the post-boom landscape successfully, investors should target sectors and applications with demonstrated potential:</p>
+
+
+
+<ol class="wp-block-list">
+<li>Healthcare: AI-driven diagnostic tools and telemedicine</li>
+
+
+
+<li>Finance: Predictive analytics and fraud detection</li>
+
+
+
+<li>Manufacturing: Smart factories and predictive maintenance</li>
+
+
+
+<li>Public markets: Established players like Nvidia, Alphabet, and Microsoft</li>
+</ol>
+
+
+
+<p>Additionally, consider geographical variations in AI investments:</p>
+
+
+
+<ul class="wp-block-list">
+<li>United States: Leading in innovation and venture capital</li>
+
+
+
+<li>China: Benefiting from government backing and private investment</li>
+
+
+
+<li>Europe: Focusing on ethical AI and sustainability</li>
+</ul>
+
+
+
+<p>By adopting these strategies, investors can position themselves to capitalize on AI&#8217;s long-term potential while navigating the challenges of the current investment landscape.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://images.pexels.com/photos/31679217/pexels-photo-31679217.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="https://www.pexels.com/photo/indonesian-rupiah-hand-close-up-with-100-000-idr-31679217/"/></figure>
+
+
+
+<p>The AI investment landscape is undergoing a significant shift, with the initial boom giving way to a more cautious approach. While the potential for AI to drive economic growth remains substantial, investors and businesses must navigate challenges in the current market. The contrasting perspectives from economists and industry experts highlight the complexity of AI&#8217;s impact on the global economy.</p>
+
+
+
+<p>As we move forward, it&#8217;s crucial to adopt a balanced outlook on AI&#8217;s role in shaping our economic future. While the technology&#8217;s transformative potential is undeniable, realistic expectations and strategic planning are essential. Companies and investors should focus on developing sustainable AI applications that address real-world problems and drive tangible productivity gains. By doing so, they can position themselves to thrive in the evolving AI landscape and contribute to long-term economic growth.</p>
+								</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		
+    <div class="xs_social_share_widget xs_share_url after_content 		main_content  wslu-style-1 wslu-share-box-shaped wslu-fill-colored wslu-none wslu-share-horizontal wslu-theme-font-no wslu-main_content">
+
+		
+        <ul>
+			        </ul>
+    </div> 
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"container py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"AI’s Funding Winter: Navigating the Post-Boom Landscape\",\"description\":\"Is the AI bubble bursting, or are we on the cusp of a new era? 🤖💥 The world of artificial intelligence has been riding high…\",\"datePublished\":\"2025-04-20\",\"author\":{\"@type\":\"Organization\",\"name\":\"DigitechLifestyle Editorial\"}}"}}],["$","div",null,{"style":{"display":"grid","gap":"32px","gridTemplateColumns":"1fr","alignItems":"start"},"className":"blog-two-col","children":[["$","article",null,{"children":[["$","div",null,{"style":{"borderRadius":"12px","overflow":"hidden","marginBottom":"24px","maxHeight":"420px"},"children":["$","img",null,{"src":"https://www.digitechlifestyle.com/wp-content/uploads/2025/04/exploring-ai-ethics-in-the-age-of-automation-1-scaled.jpeg","alt":"AI’s Funding Winter: Navigating the Post-Boom Landscape","style":{"width":"100%","height":"100%","objectFit":"cover","display":"block"}}]}],["$","div",null,{"className":"surface rounded-lg p-6 md:p-10","children":[["$","div",null,{"className":"flex flex-wrap gap-2 text-sm text-slate-400","children":[["$","span",null,{"className":"rounded-full bg-white/5 px-3 py-1 text-[var(--accent)]","children":"Artificial Intelligence"}],["$","span",null,{"children":"9 min read"}],["$","span",null,{"children":"April 20, 2025"}]]}],["$","h1",null,{"className":"mt-5 text-4xl font-black leading-tight text-white md:text-5xl","children":"AI’s Funding Winter: Navigating the Post-Boom Landscape"}],["$","p",null,{"className":"mt-5 text-xl leading-8 text-[var(--muted)]","children":"Is the AI bubble bursting, or are we on the cusp of a new era? 🤖💥 The world of artificial intelligence has been riding high…"}]]}],["$","div",null,{"className":"prose-content mt-8","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eoOZKes8Mnqd7JDZr5hOO"}
+3:["$","div",null,{"style":{"display":"flex","flexWrap":"wrap","gap":"10px","alignItems":"center","margin":"32px 0 0","padding":"20px","background":"var(--bg-card)","borderRadius":"12px","border":"1px solid var(--line)"},"children":[["$","span",null,{"style":{"fontSize":"12px","fontWeight":700,"color":"var(--muted)","textTransform":"uppercase","letterSpacing":"0.08em","marginRight":"4px"},"children":"Share:"}],["$","a",null,{"href":"https://twitter.com/intent/tweet?text=AI%E2%80%99s%20Funding%20Winter%3A%20Navigating%20the%20Post-Boom%20Landscape&url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fais-funding-winter-navigating-the-post-boom-landscape&via=DigiTechLife","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#000","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L1.254 2.25H8.08l4.253 5.622zm-1.161 17.52h1.833L7.084 4.126H5.117z"}]}],"X / Twitter"]}],["$","a",null,{"href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fais-funding-winter-navigating-the-post-boom-landscape","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#1877f2","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"}]}],"Facebook"]}],["$","a",null,{"href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fais-funding-winter-navigating-the-post-boom-landscape","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#0a66c2","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"}]}],"LinkedIn"]}],["$","a",null,{"href":"https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fais-funding-winter-navigating-the-post-boom-landscape&description=AI%E2%80%99s%20Funding%20Winter%3A%20Navigating%20the%20Post-Boom%20Landscape&media=https%3A%2F%2Fwww.digitechlifestyle.com%2Fwp-content%2Fuploads%2F2025%2F04%2Fexploring-ai-ethics-in-the-age-of-automation-1-scaled.jpeg","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#e60023","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 01.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"}]}],"Pinterest"]}]]}]
+4:["$","div",null,{"className":"mt-10","children":["$","section",null,{"className":"surface rounded-lg p-6 md:p-8","children":[["$","div",null,{"className":"grid gap-6 md:grid-cols-[1fr_auto] md:items-center","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-[0.22em] text-[var(--accent)]","children":"Partner picks"}],["$","h2",null,{"className":"mt-3 text-2xl font-semibold text-white md:text-3xl","children":"Build a smarter digital stack"}],["$","p",null,{"className":"mt-3 max-w-2xl text-sm leading-7 text-[var(--muted)] md:text-base","children":"Explore curated AI, automation, wealth, and creator tools selected for practical value, transparent pricing, and clear use cases."}]]}],["$","$L8",null,{"href":"/tool-directory","className":"inline-flex h-12 items-center justify-center gap-2 rounded-lg bg-[var(--accent)] px-5 text-sm font-bold text-slate-950","children":["Browse tools ",["$","$L9",null,{"iconNode":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]],"className":"lucide-arrow-right","size":18}]]}]]}],["$","p",null,{"className":"mt-5 text-xs leading-6 text-slate-500","children":"Disclosure: some links may be affiliate links. DigitechLifestyle may earn a commission at no additional cost to you."}]]}]}]
+5:["$","aside",null,{"style":{"position":"sticky","top":"80px","display":"grid","gap":"16px","alignContent":"start"},"children":[["$","$La",null,{}],["$","form",null,{"className":"surface rounded-lg p-5 ","children":[["$","div",null,{"className":"flex items-center gap-3 text-[var(--accent)]","children":[["$","$L9",null,{"iconNode":[["path",{"d":"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7","key":"132q7q"}],["rect",{"x":"2","y":"4","width":"20","height":"16","rx":"2","key":"izxlao"}]],"className":"lucide-mail","size":20}],["$","span",null,{"className":"text-sm font-semibold uppercase tracking-[0.2em]","children":"Newsletter"}]]}],["$","h2",null,{"className":"mt-4 text-2xl font-semibold text-white","children":"Get the Digital Living Brief"}],["$","p",null,{"className":"mt-3 text-sm leading-6 text-[var(--muted)]","children":"Weekly AI tools, automation ideas, affiliate opportunities, and digital wealth notes. No noise."}],["$","div",null,{"className":"mt-5 grid gap-3 sm:grid-cols-[1fr_auto]","children":[["$","input",null,{"aria-label":"Email address","type":"email","placeholder":"you@example.com","className":"h-12 rounded-lg border border-white/10 bg-black/30 px-4 text-sm text-white outline-none transition placeholder:text-slate-500 focus:border-[var(--accent)]"}],["$","button",null,{"className":"h-12 rounded-lg bg-white px-5 text-sm font-bold text-slate-950","type":"submit","children":"Join free"}]]}]]}]]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/12gi4g22zq5ft.js","async":true}]
+7:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null

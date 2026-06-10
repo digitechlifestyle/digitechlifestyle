@@ -1,0 +1,401 @@
+1:"$Sreact.fragment"
+8:I[22016,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],""]
+9:I[5014,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],"default"]
+a:I[12862,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],"SidebarAds"]
+b:I[97367,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+:HL["https://www.digitechlifestyle.com/wp-content/uploads/2025/03/rk305BxI5.jpg","image"]
+2:T61df,<p> <br />
+</p>
+<div><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>31 Interesting Vintage Things Young People Haven&#8217;t Seen </title><link rel="preconnect" href="https://cdn.permutive.com"/><link rel="preconnect" href="https://img.buzzfeed.com/buzzfeed-static"/><link rel="dns-prefetch" href="https://img.buzzfeed.com/buzzfeed-static"/><link rel="preconnect" href="https://abeagle-public.buzzfeed.com" crossorigin=""/><link rel="dns-prefetch" href="https://abeagle-public.buzzfeed.com"/><link rel="dns-prefetch" href="https://c.amazon-adsystem.com"/><link rel="preconnect" href="https://c.amazon-adsystem.com" crossorigin=""/><link rel="dns-prefetch" href="https://c.aps.amazon-adsystem.com"/><link rel="preconnect" href="https://c.aps.amazon-adsystem.com" crossorigin=""/><link rel="dns-prefetch" href="https://www.googletagmanager.com"/><link rel="dns-prefetch" href="https://www.google-analytics.com"/><link rel="dns-prefetch" href="https://c.amazon-adsystem.com"/><link rel="dns-prefetch" href="https://tagan.adlightning.com"/><link rel="dns-prefetch" href="https://cd.connatix.com"/><link rel="dns-prefetch" href="https://cds.connatix.com"/><link rel="dns-prefetch" href="https://cdn.permutive.com"/><link rel="dns-prefetch" href="https://use.typekit.net"/><link rel="dns-prefetch" href="https://p.typekit.net"/><link rel="dns-prefetch" href="https://recsys-api.buzzfeed.com/web"/><link rel="dns-prefetch" href="https://sentry.io"/><link rel="dns-prefetch" href="https://www.google.com"/><link rel="dns-prefetch" href="https://www.gstatic.com"/><link rel="dns-prefetch" href="https://s.pinimg.com"/><link rel="dns-prefetch" href="https://cdn-gl.imrworldwide.com"/><link rel="dns-prefetch" href="https://sb.scorecardresearch.com"/><link rel="dns-prefetch" href="https://amplify.outbrain.com"/><link rel="dns-prefetch" href="https://tr.outbrain.com"/><link rel="dns-prefetch" href="https://cdn-magiclinks.trackonomics.net"/><link rel="dns-prefetch" href="https://js.stripe.com"/><link rel="preload" crossorigin="anonymous" href="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" as="script"/><link rel="preload" href="https://www.buzzfeed.com/static-assets/js/vendor.7108a39869c999f3999a.js?brotli=allow" as="script"/><link rel="preload" href="https://www.buzzfeed.com/static-assets/js/subbuzzes.b687d429499862e20c81.js?brotli=allow" as="script"/><link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script"/><meta name="copyright" content="Copyright BuzzFeed, Inc. All rights reserved."/><meta name="apple-mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="BuzzFeed"/><meta name="theme-color" content="#ee3322"/><link rel="shortcut icon" crossorigin="" href="https://www.buzzfeed.com/static-assets/_next/static/images/favicon-496b7cee633e6a7dca162654e1bb39c9.ico" type="image/x-icon"/><link rel="manifest" crossorigin="use-credentials" href="https://www.buzzfeed.com/manifest.json"/><meta name="title" content="31 Interesting Vintage Things Young People Haven't Seen "/><meta name="description" content="If you recognize these...you might just be old enough to be considered &quot;vintage,&quot; TBH."/><meta property="bf:buzzid" content="7835099"/><meta property="bf:userid" content="8502445"/><link rel="canonical" href="https://www.buzzfeed.com/angelicaamartinez/old-things-young-people-dont-know-reddit"/><link rel="image_src" href="https://img.buzzfeed.com/buzzfeed-static/static/2025-02/26/19/campaign_images/b5ad7dc2a88c/31-interesting-as-hell-old-school-things-most-you-2-478-1740597890-0_dblbig.jpg"/><meta name="robots" content="max-snippet:-1,max-image-preview:large,max-video-preview:-1"/><meta property="author" content="Angelica Martinez"/><meta property="pin:media" content="https://img-mkr.buzzfeed.com/buzzfeed-static/static/2025-02/26/19/campaign_images/b5ad7dc2a88c/31-interesting-as-hell-old-school-things-most-you-2-478-1740597890-0_dblbig.jpg?template=pinterest-vertical-dots-v1&amp;title=MzEgSW50ZXJlc3RpbmctQXMtSGVsbCBPbGQgU2Nob29sIFRoaW5ncyBNb3N0IFlvdW5nIFBlb3BsZSBIYXZlIE5ldmVyIFNlZW4gQmVmb3Jl&amp;color1=red"/><meta property="pin:description" content="31 Interesting-As-Hell Old School Things Most Young People Have Never Seen Before"/><meta property="fb:smart_publish:robots" content="noauto"/><meta property="fb:app_id" content="45075597673"/><meta property="al:ios:app_store_id"/><meta property="al:ios:app_name"/><meta property="al:ios:url"/><meta property="article:section" content="Culture"/><meta property="article:publisher" content="https://www.facebook.com/BuzzFeed"/><meta property="article:content_tier" content="free"/><meta property="article:opinion" content="false"/><meta property="article:tag" content=""/><meta property="article:tag" content="bestofinternet-reddit"/><meta property="article:tag" content="evergreen"/><meta property="og:url" content="https://www.buzzfeed.com/angelicaamartinez/old-things-young-people-dont-know-reddit"/><meta property="og:site_name" content="BuzzFeed"/><meta property="og:image" content="https://img.buzzfeed.com/buzzfeed-static/static/2025-02/26/19/thumb/rk305BxI5.jpg?crop=2000:1050;0,0%26downsize=1250:*"/><meta property="og:image:alt" content="Two babies in window cages, popular in 1930s London for &quot;airing out&quot; babies, with text explanation"/><meta property="og:title" content="31 Interesting-As-Hell Old School Things Most Young People Haven't Seen Before"/><meta property="og:description" content="If you recognize these...you might just be old enough to be considered &quot;vintage,&quot; TBH."/><meta property="og:type" content="article"/><meta name="twitter:app:id:iphone" content="352969997"/><meta name="twitter:app:url:iphone" content="buzzfeed://buzz/angelicaamartinez/old-things-young-people-dont-know-reddit"/><meta name="twitter:app:id:ipad" content="352969997"/><meta name="twitter:app:url:ipad" content="buzzfeed://buzz/angelicaamartinez/old-things-young-people-dont-know-reddit"/><meta name="twitter:app:id:googleplay" content="com.buzzfeed.android"/><meta name="twitter:app:url:googleplay" content="https://www.buzzfeed.com/angelicaamartinez/old-things-young-people-dont-know-reddit"/><meta name="twitter:site" content="@buzzfeed"/><meta name="twitter:creator" content=""/><meta name="twitter:url" content="https://www.buzzfeed.com/angelicaamartinez/old-things-young-people-dont-know-reddit"/><meta name="twitter:title" content="31 Interesting-As-Hell Old School Things Most Young People Have Never Seen Before"/><meta name="twitter:description" content="If you recognize these...you might just be old enough to be considered &quot;vintage,&quot; TBH."/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:image" content="https://img.buzzfeed.com/buzzfeed-static/static/2025-02/26/19/thumb/rk305BxI5.jpg?crop=2000:1000;0,0%26downsize=1250:*"/><meta itemprop="articleSection" content="US"/><meta name="next-head-count" content="96"/><noscript data-n-css=""/></head><body id="wp_automatic_ReadabilityBody"></p>
+<div id="__next" data-reactroot="">
+<div class="DestinationWrapper_buzzfeed__LdORv"><main aria-hidden="false" id="buzz-content" class="post_main__leFIt post_buzzfeed__G3TlM embed-content"></p>
+<div class="post_article__U0mpv post_default__QLsRf post_buzzfeed__G3TlM embed-post">
+<div class="post_content__w3pdf">
+<article>
+<div>
+<div class="&#10;          buzz--list&#10;          buzz--Culture&#10;          subbuzzes-wrapper&#10;          subbuzzes--buzzfeed&#10;        ">
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-0&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">1.</span></p>
+<p>      <span class="js-subbuzz__title-text">These antique glass perfume Nips (or ampules) that date back to the &#8217;30s through &#8217;50s:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-1&#10;  &#10;  &#10;  &#10;  &#10;  " data-keywords="cleaning" data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">2.</span></p>
+<p>      <span class="js-subbuzz__title-text">This colorful 1957 GE Electric Kitchen, which came complete with a two-in-one washer and dryer as well as a dishwasher:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-2&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">3.</span></p>
+<p>      <span class="js-subbuzz__title-text">This very old bottle of cocaine someone found in their grandma&#8217;s belongings:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-3&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">4.</span></p>
+<p>      <span class="js-subbuzz__title-text">This Woodstock ticket, which — according to an inflation calculator — would have cost about $60 in today&#8217;s money:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-4&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">5.</span></p>
+<p>      <span class="js-subbuzz__title-text">These Orange Lily vaginal suppositories for &#8220;female diseases&#8221; used in the late 1800s and early 1900s:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-5&#10;  &#10;  &#10;  &#10;  &#10;  " data-keywords="fast fashion" data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">6.</span></p>
+<p>      <span class="js-subbuzz__title-text">This metal purse that — surprise! — is actually a makeup compact:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-6&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">7.</span></p>
+<p>      <span class="js-subbuzz__title-text">And there&#8217;s this super convenient gun-shaped makeup compact from the &#8217;20s, too:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-7&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">8.</span></p>
+<p>      <span class="js-subbuzz__title-text">These baby cages popular in 1930s London that — yes, you saw that right! — suspended babies outside the window of residences without outdoor spaces to &#8220;<a href="https://www.goodhousekeeping.com/life/news/a33058/hanging-baby-cages/" target="_blank">air</a>&#8221; them out:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-8&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">9.</span></p>
+<p>      <span class="js-subbuzz__title-text">This TV remote from the late &#8217;60s that really explains why some people still call it a &#8220;clicker&#8221;:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-9&#10;  &#10;  &#10;  &#10;  &#10;  " data-keywords="fast fashion" data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">10.</span></p>
+<p>      <span class="js-subbuzz__title-text">And this late 1950s Philco Predicta TV set:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-10&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">11.</span></p>
+<p>      <span class="js-subbuzz__title-text">This &#8220;civil defense preparedness&#8221; card someone found in a wallet from the &#8217;60s, explaining what to do in a nuclear crisis:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-11&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">12.</span></p>
+<p>      <span class="js-subbuzz__title-text">This wooden table from the 1890s with built-in bowls:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-12&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">13.</span></p>
+<p>      <span class="js-subbuzz__title-text">This 1970s Electrohome Saturn record player that looks like it&#8217;s straight out of outer space:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-13&#10;  &#10;  &#10;  &#10;  &#10;  " data-keywords="fast fashion" data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">14.</span></p>
+<p>      <span class="js-subbuzz__title-text">This cute as hell Lenox spice village from 1989:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-14&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">15.</span></p>
+<p>      <span class="js-subbuzz__title-text">This evidently old school metal shopping list:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-15&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">16.</span></p>
+<p>      <span class="js-subbuzz__title-text">This bottle of cough medicine from 1919 that&#8217;s so old, it was made with heroin:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-16&#10;  &#10;  &#10;  &#10;  &#10;  " data-keywords="cleaning" data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">17.</span></p>
+<p>      <span class="js-subbuzz__title-text">This wheelable dishwasher from the &#8217;70s that had to be rolled over to the sink and connected to the faucet to work:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-17&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">18.</span></p>
+<p>      <span class="js-subbuzz__title-text">This roll top writing desk that — according to OP — was made back in the 1880s and restored in the &#8217;70s:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-18&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">19.</span></p>
+<p>      <span class="js-subbuzz__title-text">This neon salesman&#8217;s sample case dating back to the &#8217;30s:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-19&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">20.</span></p>
+<p>      <span class="js-subbuzz__title-text">This “Welcome to Bell” telephone operator employee pamphlet that belonged to OP&#8217;s grandma, dated May 30th, 1954:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-20&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">21.</span></p>
+<p>      <span class="js-subbuzz__title-text">These photos of various airplanes in the 1940s, which were generally a) more spacious and b) a place where you&#8217;d entertain yourself by talking to your seatmate:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-21&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">22.</span></p>
+<p>      <span class="js-subbuzz__title-text">These morphine vials from WWII:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-22&#10;  &#10;  &#10;  &#10;  &#10;  " data-keywords="fast fashion" data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">23.</span></p>
+<p>      <span class="js-subbuzz__title-text">This retro metallic wallpaper that I&#8217;d argue needs to make a comeback, TBH:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-23&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">24.</span></p>
+<p>      <span class="js-subbuzz__title-text">This mimeograph machine — invented in the 1870s and used throughout a good chunk of the 1900s — which made copies using a stencil:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-24&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">25.</span></p>
+<p>      <span class="js-subbuzz__title-text">This typewriter from the &#8217;50s made specifically for sheet music:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-25&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">26.</span></p>
+<p>      <span class="js-subbuzz__title-text">This Lucite purse from back in the &#8217;50s:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-26&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">27.</span></p>
+<p>      <span class="js-subbuzz__title-text">These perhaps not-so-slightly phallic-looking telephones from Sweden in the &#8217;50s:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-27&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">28.</span></p>
+<p>      <span class="js-subbuzz__title-text">This 18th-century condom that was made from sheep&#8217;s intestine:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-28&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">29.</span></p>
+<p>      <span class="js-subbuzz__title-text">This unopened bottle of whiskey from 1910:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+<div class="js-subbuzz-wrapper">
+<div>
+<div class="subbuzz buzz-width--standard__subbuzz buzz-type--list__subbuzz subbuzz-image&#10;  subbuzz-index-30&#10;  &#10;  &#10;  &#10;  &#10;  " data-module="subbuzz-image">
+<h2 class="subbuzz__header subbuzz__header--standard subbuzz__title ">
+<p>      <span class="subbuzz__number">31.</span></p>
+<p>      <span class="js-subbuzz__title-text">And finally, these smallpox vaccine vials OP found in their grandmother&#8217;s house:</span></p>
+</h2>
+<figure class="subbuzz__media">
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+<p></main></div>
+</div>
+<p></body></div>
+<p><br />
+<br /><a href="https://www.buzzfeed.com/angelicaamartinez/old-things-young-people-dont-know-reddit">Source link </a></p>
+
+    <div class="xs_social_share_widget xs_share_url after_content 		main_content  wslu-style-1 wslu-share-box-shaped wslu-fill-colored wslu-none wslu-share-horizontal wslu-theme-font-no wslu-main_content">
+
+		
+        <ul>
+			        </ul>
+    </div> 
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"container py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"31 Interesting Vintage Things Young People Haven’t Seen\",\"description\":\"31 Interesting Vintage Things Young People Haven&#8217;t Seen 1. These antique glass perfume Nips (or ampules) that date back to the &#8217;30s through &#8217;5\",\"datePublished\":\"2025-03-02\",\"author\":{\"@type\":\"Organization\",\"name\":\"DigitechLifestyle Editorial\"}}"}}],["$","div",null,{"style":{"display":"grid","gap":"32px","gridTemplateColumns":"1fr","alignItems":"start"},"className":"blog-two-col","children":[["$","article",null,{"children":[["$","div",null,{"style":{"borderRadius":"12px","overflow":"hidden","marginBottom":"24px","maxHeight":"420px"},"children":["$","img",null,{"src":"https://www.digitechlifestyle.com/wp-content/uploads/2025/03/rk305BxI5.jpg","alt":"31 Interesting Vintage Things Young People Haven’t Seen","style":{"width":"100%","height":"100%","objectFit":"cover","display":"block"}}]}],["$","div",null,{"className":"surface rounded-lg p-6 md:p-10","children":[["$","div",null,{"className":"flex flex-wrap gap-2 text-sm text-slate-400","children":[["$","span",null,{"className":"rounded-full bg-white/5 px-3 py-1 text-[var(--accent)]","children":"Artificial Intelligence"}],["$","span",null,{"children":"3 min read"}],["$","span",null,{"children":"March 2, 2025"}]]}],["$","h1",null,{"className":"mt-5 text-4xl font-black leading-tight text-white md:text-5xl","children":"31 Interesting Vintage Things Young People Haven’t Seen"}],["$","p",null,{"className":"mt-5 text-xl leading-8 text-[var(--muted)]","children":"31 Interesting Vintage Things Young People Haven&#8217;t Seen 1. These antique glass perfume Nips (or ampules) that date back to the &#8217;30s through &#8217;5"}]]}],["$","div",null,{"className":"prose-content mt-8","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eoOZKes8Mnqd7JDZr5hOO"}
+3:["$","div",null,{"style":{"display":"flex","flexWrap":"wrap","gap":"10px","alignItems":"center","margin":"32px 0 0","padding":"20px","background":"var(--bg-card)","borderRadius":"12px","border":"1px solid var(--line)"},"children":[["$","span",null,{"style":{"fontSize":"12px","fontWeight":700,"color":"var(--muted)","textTransform":"uppercase","letterSpacing":"0.08em","marginRight":"4px"},"children":"Share:"}],["$","a",null,{"href":"https://twitter.com/intent/tweet?text=31%20Interesting%20Vintage%20Things%20Young%20People%20Haven%E2%80%99t%20Seen&url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2F31-interesting-vintage-things-young-people-havent-seen&via=DigiTechLife","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#000","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L1.254 2.25H8.08l4.253 5.622zm-1.161 17.52h1.833L7.084 4.126H5.117z"}]}],"X / Twitter"]}],["$","a",null,{"href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2F31-interesting-vintage-things-young-people-havent-seen","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#1877f2","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"}]}],"Facebook"]}],["$","a",null,{"href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2F31-interesting-vintage-things-young-people-havent-seen","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#0a66c2","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"}]}],"LinkedIn"]}],["$","a",null,{"href":"https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2F31-interesting-vintage-things-young-people-havent-seen&description=31%20Interesting%20Vintage%20Things%20Young%20People%20Haven%E2%80%99t%20Seen&media=https%3A%2F%2Fwww.digitechlifestyle.com%2Fwp-content%2Fuploads%2F2025%2F03%2Frk305BxI5.jpg","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#e60023","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 01.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"}]}],"Pinterest"]}]]}]
+4:["$","div",null,{"className":"mt-10","children":["$","section",null,{"className":"surface rounded-lg p-6 md:p-8","children":[["$","div",null,{"className":"grid gap-6 md:grid-cols-[1fr_auto] md:items-center","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-[0.22em] text-[var(--accent)]","children":"Partner picks"}],["$","h2",null,{"className":"mt-3 text-2xl font-semibold text-white md:text-3xl","children":"Build a smarter digital stack"}],["$","p",null,{"className":"mt-3 max-w-2xl text-sm leading-7 text-[var(--muted)] md:text-base","children":"Explore curated AI, automation, wealth, and creator tools selected for practical value, transparent pricing, and clear use cases."}]]}],["$","$L8",null,{"href":"/tool-directory","className":"inline-flex h-12 items-center justify-center gap-2 rounded-lg bg-[var(--accent)] px-5 text-sm font-bold text-slate-950","children":["Browse tools ",["$","$L9",null,{"iconNode":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]],"className":"lucide-arrow-right","size":18}]]}]]}],["$","p",null,{"className":"mt-5 text-xs leading-6 text-slate-500","children":"Disclosure: some links may be affiliate links. DigitechLifestyle may earn a commission at no additional cost to you."}]]}]}]
+5:["$","aside",null,{"style":{"position":"sticky","top":"80px","display":"grid","gap":"16px","alignContent":"start"},"children":[["$","$La",null,{}],["$","form",null,{"className":"surface rounded-lg p-5 ","children":[["$","div",null,{"className":"flex items-center gap-3 text-[var(--accent)]","children":[["$","$L9",null,{"iconNode":[["path",{"d":"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7","key":"132q7q"}],["rect",{"x":"2","y":"4","width":"20","height":"16","rx":"2","key":"izxlao"}]],"className":"lucide-mail","size":20}],["$","span",null,{"className":"text-sm font-semibold uppercase tracking-[0.2em]","children":"Newsletter"}]]}],["$","h2",null,{"className":"mt-4 text-2xl font-semibold text-white","children":"Get the Digital Living Brief"}],["$","p",null,{"className":"mt-3 text-sm leading-6 text-[var(--muted)]","children":"Weekly AI tools, automation ideas, affiliate opportunities, and digital wealth notes. No noise."}],["$","div",null,{"className":"mt-5 grid gap-3 sm:grid-cols-[1fr_auto]","children":[["$","input",null,{"aria-label":"Email address","type":"email","placeholder":"you@example.com","className":"h-12 rounded-lg border border-white/10 bg-black/30 px-4 text-sm text-white outline-none transition placeholder:text-slate-500 focus:border-[var(--accent)]"}],["$","button",null,{"className":"h-12 rounded-lg bg-white px-5 text-sm font-bold text-slate-950","type":"submit","children":"Join free"}]]}]]}]]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/12gi4g22zq5ft.js","async":true}]
+7:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null

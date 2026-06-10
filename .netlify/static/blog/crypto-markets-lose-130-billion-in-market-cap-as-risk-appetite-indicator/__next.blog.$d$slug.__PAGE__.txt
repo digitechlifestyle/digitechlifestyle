@@ -1,0 +1,133 @@
+1:"$Sreact.fragment"
+9:I[22016,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],""]
+a:I[5014,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],"default"]
+b:I[12862,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12gi4g22zq5ft.js"],"SidebarAds"]
+c:I[97367,["/_next/static/chunks/01t~ug1wspbnf.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+:HL["https://picsum.photos/seed/crypto-markets-lose-130-billion-in-market-cap-as-risk-appetite-indicator/800/500","image"]
+2:T2dbe,<p><img decoding="async" src="https://storage.googleapis.com/48877118-7272-4a4d-b302-0465d8aa4548/d3666cb4-117c-46be-bdf7-c84a2bdd0c82/06b8c842-bc42-48aa-a183-f13aa12342f5.jpg" alt="Crypto Markets Lose $130 Billion in Market Cap as Risk Appetite Indicator" /></p>
+<p>On March 28, 2025, the digital asset space experienced one of its most significant single-day losses. Over $130 billion vanished from the total market cap, dropping it from $2.3 trillion to $2.17 trillion. This event marked the largest decline since March 2025, sending shockwaves through the industry.</p>
+<p>Bitcoin and Ethereum, the two leading assets, were at the forefront of this plunge. Bitcoin fell by 6.15%, dropping from $65,000 to $61,000, while Ethereum saw a 6.58% decline, moving from $3,800 to $3,550. Trading volumes skyrocketed, with Bitcoin hitting $45 billion and Ethereum reaching $22 billion in just 24 hours.</p>
+<p>What makes this event particularly noteworthy is the role of the risk appetite indicator. This metric, often referred to as the market&#8217;s &#8220;mood ring,&#8221; flashed red, signaling a shift in investor sentiment. The timing also raised eyebrows, as the drop occurred right before the weekend, a period when markets typically consolidate.</p>
+<p>As we unpack this event, it&#8217;s clear that the implications extend beyond just numbers. The sudden shift in risk appetite could have lasting effects on how investors approach digital assets in the future.</p>
+<h3>Key Takeaways</h3>
+<ul>
+<li>The digital asset market lost $130 billion in a single day, the largest drop since March 2025.</li>
+<li>Bitcoin and Ethereum led the decline, with significant percentage drops.</li>
+<li>Trading volumes for both assets reached unprecedented levels.</li>
+<li>The risk appetite indicator signaled a shift in investor sentiment.</li>
+<li>The event occurred just before the weekend, adding to its significance.</li>
+</ul>
+<h2>Crypto Markets Lose $130 Billion in Market Cap as Risk Appetite Indicator</h2>
+<p><iframe title="Undervalued Billion Dollar Security Stock - $ADT" width="500" height="281" src="https://www.youtube.com/embed/UxQyZp3ak1k?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p>The digital asset landscape faced a seismic shift as billions evaporated in a single day. This dramatic drop was led by Bitcoin and Ethereum, the two giants of the space. Their declines sent ripples across the entire ecosystem, leaving investors scrambling to understand the implications.</p>
+<h3>Bitcoin and Ethereum at the Forefront</h3>
+<p>Bitcoin, often seen as the bellwether of the market, experienced a 6% drop, wiping out over $28 billion in value. Ethereum wasn’t far behind, with its price sliding by a similar margin. But it wasn’t just about the <strong>price</strong>—Ethereum’s network activity also took a hit, with active addresses dropping by 8%.</p>
+<h3>Panic Selling and Record Volumes</h3>
+<p>As the market tumbled, panic selling lit up exchanges. Binance’s BTC/USDT pair saw volumes surge by 50%, jumping from $30 billion to $45 billion in just 24 hours. This spike in <strong>trading</strong> activity was a clear sign of investor anxiety.</p>
+<p>Leveraged traders bore the brunt of the crash, with $1.37 billion in long positions liquidated. This added fuel to the fire, accelerating the downward spiral. The sheer scale of these <strong>losses</strong> was reminiscent of past market collapses, but this time, the numbers were even more staggering.</p>
+<ul>
+<li>Bitcoin’s decline accounted for over $28 billion of the total <strong>market cap</strong> drop.</li>
+<li>Ethereum’s network activity chilled, with 64,000 fewer active addresses.</li>
+<li>Binance’s BTC/USDT pair volumes jumped by $15 billion in a single day.</li>
+<li>Leveraged traders lost $1.37 billion in long positions.</li>
+</ul>
+<p>This event wasn’t just a blip—it was a wake-up call. The <strong>crypto market</strong> showed its volatility once again, reminding everyone that even the giants aren’t immune to sudden shifts.</p>
+<h2>Behind the $130B Crypto Market Crash</h2>
+<p><img decoding="async" src="https://storage.googleapis.com/48877118-7272-4a4d-b302-0465d8aa4548/d3666cb4-117c-46be-bdf7-c84a2bdd0c82/f5323e14-f132-4af8-b6f5-34baf3a83c60.jpg" alt="Market crash analysis" /></p>
+<p>The digital asset space faced a perfect storm of challenges in late March 2025. A combination of macroeconomic uncertainty, leveraged liquidations, and geopolitical tensions created a domino effect. This led to one of the most significant drops in recent <strong>time</strong>.</p>
+<h3>Macroeconomic Uncertainty and Fed Policy Jitters</h3>
+<p>The Federal Reserve’s decision to hold rates at 4.25-4.5% during the FOMC meeting left traders guessing. Many wondered if Chair Powell would hint at future cuts. This uncertainty added pressure to the <strong>market</strong>, especially for leveraged positions.</p>
+<p>At the same time, the Arizona Senate’s approval of the Bitcoin Reserve Act sent mixed signals. While it showed states embracing digital assets, it also raised questions about regulatory clarity. These factors combined to create a volatile environment.</p>
+<h3>Leveraged Liquidations Worsen the Sell-Off</h3>
+<p>Leveraged traders were hit hard during the crash. Over $1.37 billion in long positions were liquidated, accelerating the downward spiral. Bitcoin futures trading volumes surged, highlighting the high leverage usage in the <strong>market</strong>.</p>
+<p>“The scale of liquidations was staggering,” noted one analyst. “It reminded everyone of the risks involved in leveraged trading.” This added fuel to the fire, deepening the sell-off.</p>
+<h3>Geopolitical Tensions and Tariff Fears</h3>
+<p>Geopolitical events also played a role. Trump’s announcement of 25% tariffs on Canadian goods sparked inflation fears. This, combined with the $1.5 billion Bybit hack, added to the chaos.</p>
+<p>XRP took an extra hit, dropping 9.6% after the hack news. Traders watched closely as Bitcoin tested the 50 SMA ($98.3k) as a key support level. A break below this line could signal further declines.</p>
+<ul>
+<li>Fed’s rate pause created uncertainty among traders.</li>
+<li>Leveraged liquidations totaled $1.37 billion, worsening the crash.</li>
+<li>Geopolitical tensions and the Bybit hack added to the volatility.</li>
+</ul>
+<p>This event was a stark reminder of the interconnected nature of global <strong>markets</strong>. It also highlighted the need for caution in such a dynamic environment.</p>
+<h2>Technical Indicators and Market Sentiment</h2>
+<p><img decoding="async" src="https://storage.googleapis.com/48877118-7272-4a4d-b302-0465d8aa4548/d3666cb4-117c-46be-bdf7-c84a2bdd0c82/5650e1dc-fdc1-46b3-b1e4-29380e1b1fbf.jpg" alt="Technical indicators analysis" /></p>
+<p>Technical indicators painted a grim picture as the market took a sharp turn. Investors were met with bearish signals across the board, raising concerns about the near-term outlook. Let’s dive into the data to understand what happened.</p>
+<h3>RSI and MACD Flash Bearish Signals</h3>
+<p>Bitcoin’s Relative Strength Index (RSI) plummeted from 70, indicating overbought conditions, to 45, a neutral zone. This sharp drop signaled a loss of momentum. At the same <strong>time</strong>, the Moving Average Convergence Divergence (MACD) confirmed a bearish crossover on March 28. These two indicators combined to create a technical double whammy.</p>
+<p>“The MACD crossover was a clear warning sign,” noted one analyst. “It’s rare to see both RSI and MACD align so bearishly in such a short <strong>time</strong> frame.” This alignment left traders cautious, with many reducing their positions.</p>
+<h3>On-Chain Data Reveals Investor Caution</h3>
+<p>On-chain metrics told a similar story. Bitcoin’s active addresses dropped by 10%, from 1.2 million to 1.08 million. This decline suggested that investors were pulling back, likely due to the uncertain <strong>market</strong> conditions. The data painted a picture of growing caution among participants.</p>
+<p>Solana also faced challenges, with network congestion issues resurfacing during the crash. Despite its <strong>price</strong> holding at $142, the network’s struggles added to the overall bearish sentiment. Investors were reminded that even promising projects aren’t immune to technical hiccups.</p>
+<p>Amid the gloom, there was a silver lining. Bitcoin’s 50-day Simple Moving Average (SMA) held strong, acting as a key support level. This resilience gave bulls hope for a potential V-shaped recovery. As one trader put it, “The 50 SMA is the line in the sand. If it holds, we could see a bounce.”</p>
+<ul>
+<li>Bitcoin’s RSI dropped sharply, signaling a loss of momentum.</li>
+<li>MACD confirmed a bearish crossover, adding to the technical pressure.</li>
+<li>Active BTC addresses fell by 10%, reflecting investor caution.</li>
+<li>Solana’s network congestion issues resurfaced, adding to the challenges.</li>
+<li>Bitcoin’s 50 SMA held strong, offering a glimmer of hope for recovery.</li>
+</ul>
+<h2>Conclusion: Is a Rebound Possible?</h2>
+<p>The recent turbulence in the digital asset space has left many wondering what’s next. History suggests that pullbacks like this are normal, especially in bull markets. Bitcoin has seen similar <strong>losses</strong> before, often followed by strong recoveries.</p>
+<p>Upcoming events could act as catalysts. Nvidia’s earnings might boost AI-related tokens, while April’s CPI data could shift Fed expectations. These factors could reignite investor confidence.</p>
+<p>DeepSeek’s AI model predicts Bitcoin could reach $100-150k by 2025, though some speculate even higher. For now, smart money is cautious but optimistic.</p>
+<p>Keep an eye on the 50 SMA ($98.3k). Holding above this level could signal a bullish trend, while a break below might mean more volatility ahead. This is a stress test for the <strong>market</strong>, but surviving it could pave the way for a brighter future.</p>
+<section class="schema-section">
+<h2>FAQ</h2>
+<div>
+<h3>What caused the recent drop in digital asset values?</h3>
+<div>
+<div>
+<p>The decline was driven by macroeconomic uncertainty, Federal Reserve policy concerns, and heightened geopolitical tensions, which reduced investor confidence.</p>
+</div>
+</div>
+</div>
+<div>
+<h3>Which assets were most affected by the sell-off?</h3>
+<div>
+<div>
+<p>Bitcoin and Ethereum saw significant losses, leading the downturn as trading volumes surged, indicating widespread panic selling.</p>
+</div>
+</div>
+</div>
+<div>
+<h3>How did leveraged positions impact the market?</h3>
+<div>
+<div>
+<p>Leveraged liquidations exacerbated the sell-off, forcing traders to exit positions quickly and adding downward pressure on prices.</p>
+</div>
+</div>
+</div>
+<div>
+<h3>What do technical indicators suggest about the market?</h3>
+<div>
+<div>
+<p>Bearish signals from RSI and MACD, combined with on-chain data, show increased investor caution and a lack of buying momentum.</p>
+</div>
+</div>
+</div>
+<div>
+<h3>Is a recovery likely in the near future?</h3>
+<div>
+<div>
+<p>While market sentiment remains weak, potential rebounds depend on improving macroeconomic conditions and renewed investor confidence.</p>
+</div>
+</div>
+</div>
+</section>
+
+    <div class="xs_social_share_widget xs_share_url after_content 		main_content  wslu-style-1 wslu-share-box-shaped wslu-fill-colored wslu-none wslu-share-horizontal wslu-theme-font-no wslu-main_content">
+
+		
+        <ul>
+			        </ul>
+    </div> 
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"container py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Crypto Loses $130B as Risk Appetite Indicator Plummets\",\"description\":\"Crypto markets lose $130B as risk appetite plummets. Find out what&#8217;s behind the sharp decline in market cap.\",\"datePublished\":\"2025-03-28\",\"author\":{\"@type\":\"Organization\",\"name\":\"DigitechLifestyle Editorial\"}}"}}],["$","div",null,{"style":{"display":"grid","gap":"32px","gridTemplateColumns":"1fr","alignItems":"start"},"className":"blog-two-col","children":[["$","article",null,{"children":[["$","div",null,{"style":{"borderRadius":"12px","overflow":"hidden","marginBottom":"24px","maxHeight":"420px"},"children":["$","img",null,{"src":"https://picsum.photos/seed/crypto-markets-lose-130-billion-in-market-cap-as-risk-appetite-indicator/800/500","alt":"Crypto Loses $130B as Risk Appetite Indicator Plummets","style":{"width":"100%","height":"100%","objectFit":"cover","display":"block"}}]}],["$","div",null,{"className":"surface rounded-lg p-6 md:p-10","children":[["$","div",null,{"className":"flex flex-wrap gap-2 text-sm text-slate-400","children":[["$","span",null,{"className":"rounded-full bg-white/5 px-3 py-1 text-[var(--accent)]","children":"News"}],["$","span",null,{"children":"8 min read"}],["$","span",null,{"children":"March 28, 2025"}]]}],["$","h1",null,{"className":"mt-5 text-4xl font-black leading-tight text-white md:text-5xl","children":"Crypto Loses $130B as Risk Appetite Indicator Plummets"}],["$","p",null,{"className":"mt-5 text-xl leading-8 text-[var(--muted)]","children":"Crypto markets lose $130B as risk appetite plummets. Find out what&#8217;s behind the sharp decline in market cap."}]]}],["$","div",null,{"className":"prose-content mt-8","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eoOZKes8Mnqd7JDZr5hOO"}
+3:["$","div",null,{"style":{"display":"flex","flexWrap":"wrap","gap":"10px","alignItems":"center","margin":"32px 0 0","padding":"20px","background":"var(--bg-card)","borderRadius":"12px","border":"1px solid var(--line)"},"children":[["$","span",null,{"style":{"fontSize":"12px","fontWeight":700,"color":"var(--muted)","textTransform":"uppercase","letterSpacing":"0.08em","marginRight":"4px"},"children":"Share:"}],["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Crypto%20Loses%20%24130B%20as%20Risk%20Appetite%20Indicator%20Plummets&url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fcrypto-markets-lose-130-billion-in-market-cap-as-risk-appetite-indicator&via=DigiTechLife","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#000","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L1.254 2.25H8.08l4.253 5.622zm-1.161 17.52h1.833L7.084 4.126H5.117z"}]}],"X / Twitter"]}],["$","a",null,{"href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fcrypto-markets-lose-130-billion-in-market-cap-as-risk-appetite-indicator","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#1877f2","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"}]}],"Facebook"]}],["$","a",null,{"href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fcrypto-markets-lose-130-billion-in-market-cap-as-risk-appetite-indicator","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#0a66c2","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":["$","path",null,{"d":"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"}]}],"LinkedIn"]}],["$","a",null,{"href":"https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.digitechlifestyle.com%2Fblog%2Fcrypto-markets-lose-130-billion-in-market-cap-as-risk-appetite-indicator&description=Crypto%20Loses%20%24130B%20as%20Risk%20Appetite%20Indicator%20Plummets&media=https%3A%2F%2Fpicsum.photos%2Fseed%2Fcrypto-markets-lose-130-billion-in-market-cap-as-risk-appetite-indicator%2F800%2F500","target":"_blank","rel":"noopener noreferrer","style":{"display":"inline-flex","alignItems":"center","gap":"6px","background":"#e60023","color":"#fff","fontWeight":700,"fontSize":"12px","padding":"8px 14px","borderRadius":"8px","textDecoration":"none"},"children":[["$","svg",null,{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"currentColor","children":"$L8"}],"Pinterest"]}]]}]
+4:["$","div",null,{"className":"mt-10","children":["$","section",null,{"className":"surface rounded-lg p-6 md:p-8","children":[["$","div",null,{"className":"grid gap-6 md:grid-cols-[1fr_auto] md:items-center","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-[0.22em] text-[var(--accent)]","children":"Partner picks"}],["$","h2",null,{"className":"mt-3 text-2xl font-semibold text-white md:text-3xl","children":"Build a smarter digital stack"}],["$","p",null,{"className":"mt-3 max-w-2xl text-sm leading-7 text-[var(--muted)] md:text-base","children":"Explore curated AI, automation, wealth, and creator tools selected for practical value, transparent pricing, and clear use cases."}]]}],["$","$L9",null,{"href":"/tool-directory","className":"inline-flex h-12 items-center justify-center gap-2 rounded-lg bg-[var(--accent)] px-5 text-sm font-bold text-slate-950","children":["Browse tools ",["$","$La",null,{"iconNode":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]],"className":"lucide-arrow-right","size":18}]]}]]}],["$","p",null,{"className":"mt-5 text-xs leading-6 text-slate-500","children":"Disclosure: some links may be affiliate links. DigitechLifestyle may earn a commission at no additional cost to you."}]]}]}]
+5:["$","aside",null,{"style":{"position":"sticky","top":"80px","display":"grid","gap":"16px","alignContent":"start"},"children":[["$","$Lb",null,{}],["$","form",null,{"className":"surface rounded-lg p-5 ","children":[["$","div",null,{"className":"flex items-center gap-3 text-[var(--accent)]","children":[["$","$La",null,{"iconNode":[["path",{"d":"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7","key":"132q7q"}],["rect",{"x":"2","y":"4","width":"20","height":"16","rx":"2","key":"izxlao"}]],"className":"lucide-mail","size":20}],["$","span",null,{"className":"text-sm font-semibold uppercase tracking-[0.2em]","children":"Newsletter"}]]}],["$","h2",null,{"className":"mt-4 text-2xl font-semibold text-white","children":"Get the Digital Living Brief"}],["$","p",null,{"className":"mt-3 text-sm leading-6 text-[var(--muted)]","children":"Weekly AI tools, automation ideas, affiliate opportunities, and digital wealth notes. No noise."}],["$","div",null,{"className":"mt-5 grid gap-3 sm:grid-cols-[1fr_auto]","children":[["$","input",null,{"aria-label":"Email address","type":"email","placeholder":"you@example.com","className":"h-12 rounded-lg border border-white/10 bg-black/30 px-4 text-sm text-white outline-none transition placeholder:text-slate-500 focus:border-[var(--accent)]"}],["$","button",null,{"className":"h-12 rounded-lg bg-white px-5 text-sm font-bold text-slate-950","type":"submit","children":"Join free"}]]}]]}]]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/12gi4g22zq5ft.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+8:["$","path",null,{"d":"M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 01.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"}]
+e:null
