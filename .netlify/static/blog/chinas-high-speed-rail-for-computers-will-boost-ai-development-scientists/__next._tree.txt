@@ -1,3 +1,0 @@
-:HL["/_next/static/chunks/0x9zo~19df4rw.css","style"]
-:HL["https://www.digitechlifestyle.com/wp-content/uploads/2025/01/fef9737f-cf13-4972-a902-533f1ceb02dd_0afaa1e5.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"chinas-high-speed-rail-for-computers-will-boost-ai-development-scientists","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"eoOZKes8Mnqd7JDZr5hOO"}

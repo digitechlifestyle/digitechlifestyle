@@ -1,3 +1,0 @@
-:HL["/_next/static/chunks/0x9zo~19df4rw.css","style"]
-:HL["https://www.digitechlifestyle.com/wp-content/uploads/2025/02/1739328315_1280x720.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"state-of-play-confirmed-for-wednesday-40-minutes-of-ps5-news-and-updates","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"eoOZKes8Mnqd7JDZr5hOO"}

@@ -1,3 +1,0 @@
-:HL["/_next/static/chunks/0x9zo~19df4rw.css","style"]
-:HL["https://www.digitechlifestyle.com/wp-content/uploads/2025/03/NFT-sales-decline-Bitcoin-NFT-slump-cryptocurrency-market-trends-NFT-market-d.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"weekly-nft-sales-decline-5-3-to-100-9m-bitcoin-nft-sales-plummet-30-amidst-market-volatility","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"eoOZKes8Mnqd7JDZr5hOO"}

@@ -1,3 +1,0 @@
-:HL["/_next/static/chunks/0x9zo~19df4rw.css","style"]
-:HL["https://www.digitechlifestyle.com/wp-content/uploads/2025/03/658cc6336e857250fea8bc238d96748cef5213d0-2560x1707.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"what-next-for-xrp-doge-as-bitcoin-price-action-shows-bearish-double-top-formation","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"eoOZKes8Mnqd7JDZr5hOO"}

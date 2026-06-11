@@ -1,3 +1,0 @@
-:HL["/_next/static/chunks/0x9zo~19df4rw.css","style"]
-:HL["https://www.digitechlifestyle.com/wp-content/uploads/2025/03/anthropic-claude-web-search-virtual-assistant-chatbots-ai-artificial-intelligence-models.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"anthropics-ai-assistant-claude-learns-to-search-the-web","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"eoOZKes8Mnqd7JDZr5hOO"}

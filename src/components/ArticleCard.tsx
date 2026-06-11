@@ -17,23 +17,23 @@ function fmtDate(d: string) {
 
 export function ArticleCard({ article }: { article: Article }) {
   return (
-    <article className="post-card">
-      {article.image && (
-        <div className="post-card-img">
-          <img src={article.image} alt={article.title} loading="lazy" />
+    <Link href={`/blog/${article.slug}`} style={{ textDecoration: "none", display: "block" }}>
+      <article className="post-card">
+        {article.image && (
+          <div className="post-card-img">
+            <img src={article.image} alt={article.title} loading="lazy" />
+          </div>
+        )}
+        <div className="post-card-body">
+          <span className={`tag ${tagClass(article.category)}`}>{article.category}</span>
+          <h3 style={{ color: "var(--fg)" }}>{article.title}</h3>
+          <p className="post-card-excerpt">{article.description}</p>
+          <div className="post-card-footer">
+            <span className="read-more">Read article →</span>
+            <time className="post-date" dateTime={article.date}>{fmtDate(article.date)}</time>
+          </div>
         </div>
-      )}
-      <div className="post-card-body">
-        <span className={`tag ${tagClass(article.category)}`}>{article.category}</span>
-        <h3>
-          <Link href={`/blog/${article.slug}`}>{article.title}</Link>
-        </h3>
-        <p className="post-card-excerpt">{article.description}</p>
-        <div className="post-card-footer">
-          <Link href={`/blog/${article.slug}`} className="read-more">Read article →</Link>
-          <time className="post-date" dateTime={article.date}>{fmtDate(article.date)}</time>
-        </div>
-      </div>
-    </article>
+      </article>
+    </Link>
   );
 }

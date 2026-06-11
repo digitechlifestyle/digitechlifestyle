@@ -141,19 +141,17 @@ export default function ResourcesPage() {
             }}>
               {DOWNLOADS.map((d) => (
                 <div key={d.title} style={{ display: "flex", flexDirection: "column", gap: "8px" }}>
-                  <Link href={d.pdf} style={{ textDecoration: "none", display: "block" }}>
-                    <BrandImageCard
-                      src={d.img}
-                      alt={d.alt}
-                      size="thumb"
-                      title={d.title}
-                      description={d.text}
-                      badge={d.badge}
-                      ctaLabel="Get it free →"
-                      ctaHref={d.pdf}
-                      accentColor={d.accent}
-                    />
-                  </Link>
+                  <BrandImageCard
+                    src={d.img}
+                    alt={d.alt}
+                    size="thumb"
+                    title={d.title}
+                    description={d.text}
+                    badge={d.badge}
+                    ctaLabel="Get it free →"
+                    ctaHref={d.pdf}
+                    accentColor={d.accent}
+                  />
                   {d.affiliates.length > 0 && (
                     <div style={{ display: "flex", flexWrap: "wrap", gap: "6px", padding: "0 2px" }}>
                       {d.affiliates.map((aff) => (

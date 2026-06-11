@@ -34,21 +34,23 @@ function tagClass(category: string) {
 
 function ArticleRowItem({ article }: { article: Article }) {
   return (
-    <div className="article-row">
-      <div>
-        <div className="article-row-meta">
-          <span className={`tag ${tagClass(article.category)}`}>{article.category}</span>
-          <span className="meta-date">{fmtDate(article.date)}{article.readingTime ? ` · ${article.readingTime}` : ""}</span>
+    <Link href={`/blog/${article.slug}`} style={{ textDecoration: "none", display: "block" }}>
+      <div className="article-row">
+        <div>
+          <div className="article-row-meta">
+            <span className={`tag ${tagClass(article.category)}`}>{article.category}</span>
+            <span className="meta-date">{fmtDate(article.date)}{article.readingTime ? ` · ${article.readingTime}` : ""}</span>
+          </div>
+          <h3 style={{ color: "var(--fg)" }}>{article.title}</h3>
+          <div className="article-row-author">Joe Robertson</div>
         </div>
-        <h3><Link href={`/blog/${article.slug}`}>{article.title}</Link></h3>
-        <div className="article-row-author">Joe Robertson</div>
+        {article.image && (
+          <div className="article-row-thumb">
+            <img src={article.image} alt={article.title} loading="lazy" />
+          </div>
+        )}
       </div>
-      {article.image && (
-        <div className="article-row-thumb">
-          <img src={article.image} alt={article.title} loading="lazy" />
-        </div>
-      )}
-    </div>
+    </Link>
   );
 }
 

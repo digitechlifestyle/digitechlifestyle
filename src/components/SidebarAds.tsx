@@ -110,7 +110,7 @@ export function SidebarAds() {
     <div>
       {/* Promo image card — Automation Playbook */}
       <Link
-        href="/resources"
+        href="/newsletter?resource=automation-playbook"
         style={{ display: "block", textDecoration: "none", marginBottom: "12px" }}
       >
         <div style={{
@@ -153,7 +153,7 @@ export function SidebarAds() {
 
       {/* Promo image card — Trade Smarter */}
       <a
-        href="/blog?category=Reviews"
+        href="/newsletter?resource=trade-smarter"
         style={{ display: "block", textDecoration: "none", marginBottom: "12px" }}
       >
         <div style={{
