@@ -8,7 +8,7 @@ const NAV = [
   { label: "Tools",        href: "/tool-directory",                              external: false },
   { label: "Free AI Tools",href: "/free-tools?popup=1",                          external: false },
   { label: "News",         href: "/news",                                        external: false },
-  { label: "Reviews",      href: "/blog?category=Reviews",                       external: false },
+  { label: "Reviews",      href: "/reviews",                                     external: false },
   { label: "Videos",       href: "https://www.youtube.com/@digitechlifestyle",   external: true  },
   { label: "About",        href: "/about",                                       external: false },
 ];
