@@ -21,7 +21,7 @@ export function FreeToolsModal() {
 
   useEffect(() => {
     if (sessionStorage.getItem(DISMISSED_KEY)) return;
-    const timer = setTimeout(() => setOpen(true), 8000);
+    const timer = setTimeout(() => setOpen(true), 5000);
     return () => clearTimeout(timer);
   }, []);
 
