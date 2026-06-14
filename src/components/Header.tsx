@@ -3,15 +3,10 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 
-function openFreeTools(e: React.MouseEvent) {
-  e.preventDefault();
-  window.dispatchEvent(new CustomEvent("openFreeToolsModal"));
-}
-
-const NAV: Array<{ label: string; href: string; external: boolean; onClick?: (e: React.MouseEvent) => void }> = [
+const NAV = [
   { label: "Blog",         href: "/blog",                                        external: false },
   { label: "Tools",        href: "/tool-directory",                              external: false },
-  { label: "Free AI Tools",href: "/free-tools",                                  external: false, onClick: openFreeTools },
+  { label: "Free AI Tools",href: "/free-tools",                                  external: false },
   { label: "News",         href: "/news",                                        external: false },
   { label: "Reviews",      href: "/blog?category=Reviews",                       external: false },
   { label: "Videos",       href: "https://www.youtube.com/@digitechlifestyle",   external: true  },
@@ -85,9 +80,7 @@ export function Header() {
             {NAV.map((item) => (
               item.external
                 ? <a key={item.href} href={item.href} target="_blank" rel="noopener">{item.label}</a>
-                : item.onClick
-                  ? <a key={item.href} href={item.href} onClick={item.onClick} style={{ cursor: "pointer" }}>{item.label}</a>
-                  : <Link key={item.href} href={item.href}>{item.label}</Link>
+                : <Link key={item.href} href={item.href}>{item.label}</Link>
             ))}
           </nav>
         </div>
