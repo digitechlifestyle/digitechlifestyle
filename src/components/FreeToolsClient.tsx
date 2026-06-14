@@ -51,6 +51,13 @@ export function FreeToolsClient() {
     setLoading(false);
     setShowPopup(false);
     setUnlocked(true);
+    // Trigger download of the bundle
+    const link = document.createElement("a");
+    link.href = "/downloads/7-free-ai-tools-bundle.html";
+    link.download = "7-Free-AI-Tools-DigiTech.html";
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
   }
 
   return (
@@ -85,10 +92,10 @@ export function FreeToolsClient() {
               🔓 Free access
             </p>
             <h2 style={{ fontSize: "24px", fontWeight: 800, color: "var(--fg)", lineHeight: 1.15, margin: "0 0 10px" }}>
-              Unlock 7 free AI tools
+              Get the free AI tools bundle
             </h2>
             <p style={{ fontSize: "14px", lineHeight: 1.65, color: "var(--muted)", margin: "0 0 24px" }}>
-              Enter your email and get instant access. No paid plans, no credit cards. I&apos;ll also send you useful tools and tips as I find them.
+              Enter your email and your bundle downloads instantly — 7 free AI tools that replace paid subscriptions. No credit cards, no catch.
             </p>
             <form onSubmit={handleSubmit} style={{ display: "grid", gap: "10px" }}>
               <input type="text" name="name" placeholder="Your first name (optional)"
@@ -101,7 +108,7 @@ export function FreeToolsClient() {
                 fontFamily: "inherit", cursor: loading ? "not-allowed" : "pointer",
                 opacity: loading ? 0.7 : 1, transition: "opacity 0.12s",
               }}>
-                {loading ? "One moment…" : "Unlock free tools →"}
+                {loading ? "One moment…" : "Download free bundle →"}
               </button>
             </form>
             <p style={{ fontSize: "11px", color: "var(--muted)", textAlign: "center", margin: "14px 0 0" }}>
@@ -113,10 +120,17 @@ export function FreeToolsClient() {
 
       {/* Success banner */}
       {unlocked && (
-        <div style={{ background: "oklch(73% 0.17 78 / 0.10)", border: "1px solid oklch(73% 0.17 78 / 0.30)", borderRadius: "10px", padding: "14px 20px", marginBottom: "24px" }}>
+        <div style={{ background: "oklch(73% 0.17 78 / 0.10)", border: "1px solid oklch(73% 0.17 78 / 0.30)", borderRadius: "10px", padding: "14px 20px", marginBottom: "24px", display: "flex", alignItems: "center", justifyContent: "space-between", flexWrap: "wrap", gap: "10px" }}>
           <p style={{ fontSize: "14px", color: "var(--muted)", margin: 0 }}>
             🎉 <strong style={{ color: "var(--fg)" }}>You&apos;re in.</strong> Your tools are below — bookmark this page.
           </p>
+          <a
+            href="/downloads/7-free-ai-tools-bundle.html"
+            download="7-Free-AI-Tools-DigiTech.html"
+            style={{ fontSize: "13px", fontWeight: 700, color: "var(--amber)", whiteSpace: "nowrap" }}
+          >
+            ⬇ Download bundle
+          </a>
         </div>
       )}
 
