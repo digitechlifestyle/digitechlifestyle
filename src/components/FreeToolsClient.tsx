@@ -29,7 +29,9 @@ export function FreeToolsClient() {
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
-    if (sessionStorage.getItem(STORAGE_KEY)) {
+    const params = new URLSearchParams(window.location.search);
+    const forcePopup = params.get("popup") === "1";
+    if (!forcePopup && sessionStorage.getItem(STORAGE_KEY)) {
       setUnlocked(true);
     } else {
       setShowPopup(true);

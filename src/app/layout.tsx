@@ -3,7 +3,6 @@ import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { NewsletterPopup } from "@/components/NewsletterPopup";
-import { FreeToolsModal } from "@/components/FreeToolsModal";
 import { site } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -46,7 +45,6 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         {children}
         <Footer />
         <NewsletterPopup />
-        <FreeToolsModal />
       </body>
     </html>
   );
