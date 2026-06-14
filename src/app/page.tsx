@@ -1,8 +1,6 @@
 import Link from "next/link";
 import { getArticles } from "@/lib/articles";
 import type { Article } from "@/lib/articles";
-import { BrandHeroImage } from "@/components/BrandHeroImage";
-import { MobileBannerStrip } from "@/components/BrandImageCard";
 import { SidebarAds } from "@/components/SidebarAds";
 
 const TOPICS = [
@@ -115,19 +113,6 @@ export default async function Home() {
           </div>
         </div>
 
-        {/* RESOURCE HUB BANNER */}
-        <div style={{ marginTop: "32px", marginBottom: "8px" }}>
-          <BrandHeroImage
-            variant="resource-hub"
-            heading="Discover smarter crypto & AI resources"
-            subheading="Guides, checklists, tools, and playbooks to help you grow faster."
-            ctaLabel="Explore the Resource Hub"
-            ctaHref="/resources"
-            secondaryLabel="Free AI tools"
-            secondaryHref="/free-tools"
-          />
-        </div>
-
         {/* FEATURED + sidebar */}
         {featured && (
           <div className="content-grid" style={{ marginTop: "36px" }}>
@@ -149,14 +134,45 @@ export default async function Home() {
                 {latest.map((article, i) => (
                   <>
                     <ArticleRowItem key={article.slug} article={article} />
-                    {/* Mobile banner strip after article 4 */}
+                    {/* Free Tools promo strip after article 4 */}
                     {i === 3 && (
-                      <div key="mobile-banner" style={{ margin: "4px 0" }}>
-                        <MobileBannerStrip
-                          src="/images/resource-hub-hero.png"
-                          alt="DigiTech Lifestyle Resource Hub — free crypto and AI guides"
-                          ctaHref="/resources"
-                        />
+                      <div key="free-tools-strip" style={{
+                        margin: "4px 0",
+                        background: "oklch(14% 0.025 78 / 0.6)",
+                        border: "1px solid oklch(73% 0.17 78 / 0.25)",
+                        borderRadius: "10px",
+                        padding: "16px 20px",
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "space-between",
+                        gap: "16px",
+                        flexWrap: "wrap",
+                      }}>
+                        <div>
+                          <p style={{ margin: 0, fontSize: "11px", fontWeight: 700, letterSpacing: "0.15em", textTransform: "uppercase", color: "var(--amber)", marginBottom: "4px" }}>
+                            🔓 Free download
+                          </p>
+                          <p style={{ margin: 0, fontSize: "14px", fontWeight: 700, color: "var(--fg)", lineHeight: 1.3 }}>
+                            7 free AI tools — no subscriptions needed
+                          </p>
+                          <p style={{ margin: "4px 0 0", fontSize: "12px", color: "var(--muted)" }}>
+                            Enter your email and download the full list instantly.
+                          </p>
+                        </div>
+                        <Link href="/free-tools" style={{
+                          display: "inline-block",
+                          background: "var(--amber)",
+                          color: "oklch(8% 0.015 60)",
+                          fontWeight: 800,
+                          fontSize: "12px",
+                          padding: "9px 18px",
+                          borderRadius: "7px",
+                          textDecoration: "none",
+                          whiteSpace: "nowrap",
+                          flexShrink: 0,
+                        }}>
+                          Get free bundle →
+                        </Link>
                       </div>
                     )}
                   </>
