@@ -1,26 +1,34 @@
 "use client";
 
-import { useEffect, useState, useCallback } from "react";
+import { useEffect, useState } from "react";
 
-// Separate key from /free-tools page unlock — just tracks whether modal was dismissed this session
-const DISMISSED_KEY = "dtl_modal_dismissed";
+const DISMISSED_KEY = "dtl_free_popup_dismissed";
+
+const TOOLS = [
+  { emoji: "🌐", name: "ComfyCloud", desc: "free AI image generation" },
+  { emoji: "💬", name: "Z.ai", desc: "free Claude and GPT access" },
+  { emoji: "🧠", name: "Qwen AI", desc: "free reasoning model" },
+  { emoji: "🎬", name: "HunyuanVideo", desc: "free AI video" },
+  { emoji: "✂️", name: "Vider AI", desc: "free video editor" },
+  { emoji: "⚔️", name: "Arena AI", desc: "compare any AI free" },
+  { emoji: "🔍", name: "Perplexity AI", desc: "free AI search" },
+];
 
 export function FreeToolsModal() {
   const [open, setOpen] = useState(false);
   const [loading, setLoading] = useState(false);
   const [done, setDone] = useState(false);
 
-  // Auto-show after 5 seconds on first visit (any page)
   useEffect(() => {
     if (sessionStorage.getItem(DISMISSED_KEY)) return;
-    const timer = setTimeout(() => setOpen(true), 5000);
+    const timer = setTimeout(() => setOpen(true), 8000);
     return () => clearTimeout(timer);
   }, []);
 
-  const close = useCallback(() => {
+  function dismiss() {
     sessionStorage.setItem(DISMISSED_KEY, "1");
     setOpen(false);
-  }, []);
+  }
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
@@ -32,14 +40,9 @@ export function FreeToolsModal() {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ email: fd.get("email"), name: fd.get("name") }),
       });
-    } catch { /* unlock regardless */ }
+    } catch { /* subscribe regardless */ }
 
-    // Mark as dismissed so modal won't re-show this session
-    sessionStorage.setItem(DISMISSED_KEY, "1");
-    setLoading(false);
-    setDone(true);
-
-    // Trigger download of the bundle
+    // Trigger bundle download
     const link = document.createElement("a");
     link.href = "/downloads/7-free-ai-tools-bundle.html";
     link.download = "7-Free-AI-Tools-DigiTech.html";
@@ -47,95 +50,133 @@ export function FreeToolsModal() {
     link.click();
     document.body.removeChild(link);
 
-    // After 2.2s close and navigate to the tools page
-    setTimeout(() => {
-      setOpen(false);
-      window.location.href = "/free-tools";
-    }, 2200);
+    sessionStorage.setItem(DISMISSED_KEY, "1");
+    setLoading(false);
+    setDone(true);
+    setTimeout(dismiss, 2500);
   }
 
   if (!open) return null;
 
   return (
     <div
-      role="dialog"
-      aria-modal="true"
-      aria-label="Unlock free AI tools"
       style={{
         position: "fixed", inset: 0, zIndex: 99999,
         display: "grid", placeItems: "center",
-        background: "oklch(0% 0 0 / 0.84)", padding: "20px",
+        background: "rgba(0,0,0,0.6)", padding: "16px",
       }}
-      onClick={(e) => { if (e.target === e.currentTarget) close(); }}
+      onClick={(e) => { if (e.target === e.currentTarget) dismiss(); }}
     >
       <div style={{
-        background: "var(--bg-panel)",
-        border: "1px solid oklch(73% 0.17 78 / 0.4)",
-        borderRadius: "16px", padding: "36px 32px",
-        width: "100%", maxWidth: "440px", position: "relative",
+        background: "#f5a623",
+        borderRadius: "12px",
+        padding: "28px 28px 22px",
+        width: "100%",
+        maxWidth: "380px",
+        position: "relative",
+        boxShadow: "0 20px 60px rgba(0,0,0,0.5)",
       }}>
-        {/* Amber top bar */}
-        <div style={{
-          position: "absolute", top: 0, left: "32px", right: "32px",
-          height: "3px", background: "var(--amber)", borderRadius: "0 0 3px 3px",
-        }} />
-
         {/* Close */}
         <button
-          onClick={close}
+          onClick={dismiss}
           aria-label="Close"
           style={{
-            position: "absolute", top: "14px", right: "14px",
-            background: "none", border: "none", color: "var(--muted)",
-            fontSize: "20px", lineHeight: 1, cursor: "pointer", padding: "4px 8px",
+            position: "absolute", top: "12px", right: "14px",
+            background: "none", border: "none",
+            color: "rgba(0,0,0,0.5)", fontSize: "20px",
+            lineHeight: 1, cursor: "pointer", padding: "4px 8px",
+            fontWeight: 700,
           }}
-        >✕</button>
+        >×</button>
 
         {!done ? (
           <>
-            <p style={{ fontSize: "11px", fontWeight: 700, letterSpacing: "0.18em", textTransform: "uppercase", color: "var(--amber)", margin: "0 0 14px" }}>
-              🔓 Free download
+            {/* Badge */}
+            <p style={{
+              fontSize: "10px", fontWeight: 800,
+              letterSpacing: "0.18em", textTransform: "uppercase",
+              color: "rgba(0,0,0,0.55)", margin: "0 0 8px",
+            }}>
+              Free for DigiTech Readers
             </p>
-            <h2 style={{ fontSize: "24px", fontWeight: 800, color: "var(--fg)", lineHeight: 1.15, margin: "0 0 10px" }}>
-              Get the free AI tools bundle
+
+            {/* Heading */}
+            <h2 style={{
+              fontSize: "22px", fontWeight: 900,
+              color: "#000", lineHeight: 1.15, margin: "0 0 14px",
+            }}>
+              7 Free AI Tools<br />You Should Be Using
             </h2>
-            <p style={{ fontSize: "14px", lineHeight: 1.65, color: "var(--muted)", margin: "0 0 24px" }}>
-              Enter your email and download instantly — 7 free AI tools that replace paid subscriptions. No credit card, no catch.
-            </p>
-            <form onSubmit={handleSubmit} style={{ display: "grid", gap: "10px" }}>
+
+            {/* Tool list */}
+            <ul style={{ listStyle: "none", padding: 0, margin: "0 0 18px", display: "grid", gap: "5px" }}>
+              {TOOLS.map((t) => (
+                <li key={t.name} style={{ fontSize: "13px", color: "rgba(0,0,0,0.85)", lineHeight: 1.4 }}>
+                  {t.emoji} <strong>{t.name}</strong> – {t.desc}
+                </li>
+              ))}
+            </ul>
+
+            {/* Form */}
+            <form onSubmit={handleSubmit} style={{ display: "grid", gap: "8px" }}>
               <input
-                type="text" name="name" placeholder="Your first name (optional)"
-                style={{ height: "44px", borderRadius: "8px", border: "1px solid var(--line)", background: "var(--bg)", padding: "0 14px", fontSize: "14px", color: "var(--fg)", fontFamily: "inherit", outline: "none" }}
+                type="text" name="name" placeholder="Your first name"
+                style={{
+                  height: "42px", borderRadius: "6px",
+                  border: "none", padding: "0 14px",
+                  fontSize: "14px", color: "#111",
+                  fontFamily: "inherit", outline: "none",
+                  background: "#fff",
+                }}
               />
               <input
                 type="email" name="email" required placeholder="your@email.com"
-                style={{ height: "44px", borderRadius: "8px", border: "1px solid var(--line)", background: "var(--bg)", padding: "0 14px", fontSize: "14px", color: "var(--fg)", fontFamily: "inherit", outline: "none" }}
+                style={{
+                  height: "42px", borderRadius: "6px",
+                  border: "none", padding: "0 14px",
+                  fontSize: "14px", color: "#111",
+                  fontFamily: "inherit", outline: "none",
+                  background: "#fff",
+                }}
               />
               <button
                 type="submit" disabled={loading}
                 style={{
-                  height: "46px", borderRadius: "8px", background: "var(--amber)",
-                  color: "var(--bg)", border: "none", fontSize: "15px", fontWeight: 700,
+                  height: "44px", borderRadius: "6px",
+                  background: "#f5a623",
+                  border: "2px solid rgba(0,0,0,0.2)",
+                  color: "#000", fontSize: "14px", fontWeight: 800,
                   fontFamily: "inherit", cursor: loading ? "not-allowed" : "pointer",
-                  opacity: loading ? 0.7 : 1, transition: "opacity 0.12s",
+                  opacity: loading ? 0.7 : 1,
+                  boxShadow: "0 2px 0 rgba(0,0,0,0.15)",
                 }}
               >
-                {loading ? "One moment…" : "Download free bundle →"}
+                {loading ? "One moment…" : "Send me the free list →"}
               </button>
             </form>
-            <p style={{ fontSize: "11px", color: "var(--muted)", textAlign: "center", margin: "14px 0 0" }}>
-              Free forever · No spam · Unsubscribe anytime
+
+            <p style={{ fontSize: "11px", color: "rgba(0,0,0,0.5)", textAlign: "center", margin: "10px 0 4px" }}>
+              No spam. Unsubscribe any time.
+            </p>
+            <p style={{ textAlign: "center", margin: 0 }}>
+              <button onClick={dismiss} style={{
+                background: "none", border: "none",
+                fontSize: "12px", color: "rgba(0,0,0,0.45)",
+                cursor: "pointer", textDecoration: "underline",
+                fontFamily: "inherit",
+              }}>
+                No thanks
+              </button>
             </p>
           </>
         ) : (
           <div style={{ textAlign: "center", padding: "12px 0" }}>
-            <div style={{ fontSize: "48px", marginBottom: "16px" }}>🎉</div>
-            <h2 style={{ fontSize: "22px", fontWeight: 800, color: "var(--fg)", margin: "0 0 10px" }}>
-              Your download is starting!
+            <div style={{ fontSize: "40px", marginBottom: "12px" }}>🎉</div>
+            <h2 style={{ fontSize: "20px", fontWeight: 800, color: "#000", margin: "0 0 8px" }}>
+              Download starting!
             </h2>
-            <p style={{ fontSize: "14px", color: "var(--muted)", lineHeight: 1.65 }}>
-              Check your downloads folder for <strong style={{ color: "var(--fg)" }}>7-Free-AI-Tools-DigiTech.html</strong>.<br />
-              Taking you to the tools page now…
+            <p style={{ fontSize: "13px", color: "rgba(0,0,0,0.65)", lineHeight: 1.5 }}>
+              Check your downloads for <strong>7-Free-AI-Tools-DigiTech.html</strong>
             </p>
           </div>
         )}
