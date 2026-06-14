@@ -2,28 +2,25 @@
 
 import { useEffect, useState, useCallback } from "react";
 
-const STORAGE_KEY = "dtl_tools_unlocked";
+// Separate key from /free-tools page unlock — just tracks whether modal was dismissed this session
+const DISMISSED_KEY = "dtl_modal_dismissed";
 
 export function FreeToolsModal() {
   const [open, setOpen] = useState(false);
   const [loading, setLoading] = useState(false);
   const [done, setDone] = useState(false);
 
-  // Listen for open event fired by nav link
+  // Auto-show after 5 seconds on first visit (any page)
   useEffect(() => {
-    const handler = () => {
-      // If already unlocked, skip popup and go straight to /free-tools
-      if (sessionStorage.getItem(STORAGE_KEY)) {
-        window.location.href = "/free-tools";
-        return;
-      }
-      setOpen(true);
-    };
-    window.addEventListener("openFreeToolsModal", handler);
-    return () => window.removeEventListener("openFreeToolsModal", handler);
+    if (sessionStorage.getItem(DISMISSED_KEY)) return;
+    const timer = setTimeout(() => setOpen(true), 5000);
+    return () => clearTimeout(timer);
   }, []);
 
-  const close = useCallback(() => setOpen(false), []);
+  const close = useCallback(() => {
+    sessionStorage.setItem(DISMISSED_KEY, "1");
+    setOpen(false);
+  }, []);
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
@@ -37,8 +34,8 @@ export function FreeToolsModal() {
       });
     } catch { /* unlock regardless */ }
 
-    // Mark as unlocked
-    sessionStorage.setItem(STORAGE_KEY, "1");
+    // Mark as dismissed so modal won't re-show this session
+    sessionStorage.setItem(DISMISSED_KEY, "1");
     setLoading(false);
     setDone(true);
 
