@@ -17,6 +17,59 @@ const REVIEW_CATEGORIES = [
   { label: "Wallets",         href: "/reviews?type=wallet" },
 ];
 
+const FEATURED_REVIEWS = [
+  {
+    category: "Crypto Exchanges",
+    items: [
+      { name: "Best Crypto Exchanges UK 2026", badge: "Comparison", href: "/reviews/best-crypto-exchanges-uk", desc: "Coinbase vs Kraken vs Binance vs Bybit — fees, safety, FCA status" },
+      { name: "Coinbase UK Review", badge: "9/10", href: "/reviews/coinbase-uk-review", desc: "Best for beginners — GBP deposits, FCA registered, simple app" },
+      { name: "Kraken UK Review", badge: "9/10", href: "/reviews/kraken-uk-review", desc: "Best value — lowest fees, staking, never been hacked" },
+    ],
+  },
+  {
+    category: "Hardware Wallets",
+    items: [
+      { name: "Best Hardware Wallets UK 2026", badge: "Comparison", href: "/reviews/best-hardware-wallets-uk", desc: "Ledger vs Trezor — which to buy, full comparison" },
+      { name: "Ledger Wallet Review 2026", badge: "8.5/10", href: "/reviews/ledger-wallet-review", desc: "Nano S Plus vs Ledger Flex — secure element, 5,500+ coins" },
+      { name: "Trezor Wallet Review 2026", badge: "8.5/10", href: "/reviews/trezor-wallet-review", desc: "Model One vs Safe 3 — open-source firmware, EAL6+ security" },
+    ],
+  },
+  {
+    category: "Crypto Tax Tools",
+    items: [
+      { name: "Best Crypto Tax Tools UK 2026", badge: "Comparison", href: "/reviews/best-crypto-tax-tools-uk", desc: "Koinly vs Recap vs CoinTracker — HMRC CGT comparison" },
+      { name: "Koinly UK Review 2026", badge: "8.5/10", href: "/reviews/koinly-uk-review", desc: "Best for HMRC — Section 104 pooling, 700+ exchange integrations" },
+    ],
+  },
+  {
+    category: "AI Tools",
+    items: [
+      { name: "Best AI Tools for Bloggers 2026", badge: "Comparison", href: "/reviews/best-ai-tools-bloggers", desc: "Writesonic, ChatGPT, Surfer SEO — ranked for content creators" },
+      { name: "Best AI Tools for Small Businesses UK 2026", badge: "Comparison", href: "/reviews/best-ai-tools-small-business", desc: "Save time and cut costs — honest picks for UK SMEs" },
+      { name: "Writesonic Review 2026", badge: "7.5/10", href: "/reviews/writesonic-review", desc: "AI writing for blogs and marketing — honest verdict" },
+    ],
+  },
+  {
+    category: "Beginner Guides",
+    items: [
+      { name: "Best Crypto Resources for UK Beginners 2026", badge: "Guide", href: "/reviews/best-crypto-resources-beginners", desc: "Where to start, how to stay safe, HMRC tax — everything in one place" },
+    ],
+  },
+  {
+    category: "UK Comparison Guides 2026",
+    items: [
+      { name: "Best Crypto Exchanges UK 2026", badge: "Updated", href: "/best-crypto-exchanges-uk", desc: "Kraken vs Coinbase vs Binance — fees, FCA status, GBP deposits compared" },
+      { name: "Best Hardware Wallets UK 2026", badge: "Updated", href: "/best-hardware-wallets-uk", desc: "Ledger Nano X vs Trezor Model T — which protects your coins best" },
+      { name: "Best Crypto Tax Software UK", badge: "Updated", href: "/best-crypto-tax-software-uk", desc: "Koinly vs Recap vs CoinTracker — HMRC-compatible self-assessment tools" },
+      { name: "Best Crypto Wallets for Beginners", badge: "New", href: "/best-crypto-wallets-beginners", desc: "MetaMask vs Trust Wallet vs Exodus — best starter wallets explained" },
+      { name: "Best AI Tools for Bloggers 2026", badge: "Updated", href: "/best-ai-tools-bloggers", desc: "Claude vs ChatGPT vs Surfer SEO — what actually moves the needle" },
+      { name: "Best Web Hosting for a Crypto Blog", badge: "New", href: "/best-web-hosting-crypto-blog", desc: "Hostinger vs SiteGround vs Cloudways for UK bloggers" },
+      { name: "Crypto Scam Checker", badge: "New", href: "/crypto-scam-checker", desc: "Is this platform legit? UK verification checklist and red flags" },
+      { name: "Beginner Crypto Toolkit UK 2026", badge: "New", href: "/beginner-crypto-toolkit", desc: "Everything you need to start safely — exchange, wallet, tax, security" },
+    ],
+  },
+];
+
 function fmtDate(d: string) {
   return new Date(d).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
 }
@@ -90,6 +143,35 @@ export default async function ReviewsPage() {
         <div className="content-grid">
           {/* Main column */}
           <div>
+            {/* Featured money pages — affiliate hub */}
+            <div style={{ marginBottom: "40px" }}>
+              {FEATURED_REVIEWS.map((section) => (
+                <div key={section.category} style={{ marginBottom: "28px" }}>
+                  <p style={{ fontSize: "11px", fontWeight: 700, letterSpacing: "0.18em", textTransform: "uppercase", color: "var(--amber)", margin: "0 0 12px" }}>
+                    {section.category}
+                  </p>
+                  <div style={{ display: "grid", gap: "10px" }}>
+                    {section.items.map((item) => (
+                      <Link key={item.href} href={item.href} style={{ textDecoration: "none" }}>
+                        <div style={{ background: "var(--bg-card)", border: "1px solid var(--line)", borderRadius: "10px", padding: "16px 20px", display: "flex", alignItems: "center", justifyContent: "space-between", gap: "12px", flexWrap: "wrap" }}>
+                          <div>
+                            <div style={{ display: "flex", alignItems: "center", gap: "10px", marginBottom: "4px" }}>
+                              <span style={{ fontSize: "14px", fontWeight: 800, color: "var(--fg)" }}>{item.name}</span>
+                              <span style={{ fontSize: "11px", fontWeight: 700, padding: "2px 8px", borderRadius: "20px", background: "oklch(73% 0.17 78 / 0.15)", color: "var(--amber)", border: "1px solid oklch(73% 0.17 78 / 0.3)" }}>{item.badge}</span>
+                            </div>
+                            <p style={{ fontSize: "13px", color: "var(--muted)", margin: 0 }}>{item.desc}</p>
+                          </div>
+                          <span style={{ fontSize: "13px", fontWeight: 700, color: "var(--amber)", flexShrink: 0 }}>Read →</span>
+                        </div>
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              ))}
+              <hr style={{ border: "none", borderTop: "1px solid var(--line)", margin: "32px 0 28px" }} />
+              <p style={{ fontSize: "12px", fontWeight: 700, letterSpacing: "0.15em", textTransform: "uppercase", color: "var(--muted)", margin: "0 0 16px" }}>All Published Reviews</p>
+            </div>
+
             <div style={{ marginBottom: "24px" }}>
               <p style={{ fontSize: "12px", color: "var(--muted)", margin: 0 }}>
                 {reviews.length} reviews published
