@@ -76,11 +76,11 @@ export default function BestCryptoTaxSoftwareUK() {
         HMRC expects UK crypto holders to report capital gains and income from staking, mining, and interest. The right tax software automates 90% of the work. Here's what actually works for UK self-assessment.
       </p>
 
-      <div style={{ fontSize: "12px", color: "var(--muted)", padding: "12px 16px", background: "var(--bg-tint-amber)", border: "1px solid oklch(73% 0.17 78 / 0.2)", borderRadius: "8px", marginBottom: "20px", lineHeight: 1.6 }}>
+      <div style={{ fontSize: "12px", color: "var(--muted)", padding: "12px 16px", background: "var(--bg-tint-amber)", border: "1px solid var(--tint-amber-border)", borderRadius: "8px", marginBottom: "20px", lineHeight: 1.6 }}>
         <strong style={{ color: "var(--fg)" }}>Affiliate disclosure:</strong> Some links are affiliate links. Rankings based on merit only.
       </div>
 
-      <div style={{ padding: "16px 20px", background: "var(--bg-tint-blue)", border: "1px solid oklch(40% 0.05 240 / 0.3)", borderRadius: "8px", marginBottom: "32px" }}>
+      <div style={{ padding: "16px 20px", background: "var(--bg-tint-blue)", border: "1px solid var(--tint-blue-border)", borderRadius: "8px", marginBottom: "32px" }}>
         <p style={{ fontSize: "12px", fontWeight: 700, color: "var(--amber)", margin: "0 0 6px" }}>UK Tax Key Facts</p>
         <ul style={{ margin: 0, paddingLeft: "18px", display: "grid", gap: "4px" }}>
           {["CGT annual allowance: £3,000 (2026/27)", "CGT rate on crypto: 18% (basic) / 24% (higher rate)", "Income tax applies to staking, mining, and airdrop rewards", "UK uses Section 104 pooling — not FIFO or LIFO", "Self-assessment deadline: 31 January each year"].map(t => (
@@ -102,7 +102,7 @@ export default function BestCryptoTaxSoftwareUK() {
 
             <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(140px, 1fr))", gap: "8px", marginBottom: "16px" }}>
               {[{ label: "Price", value: t.price }, { label: "HMRC Report", value: t.hmrc }, { label: "Exchanges", value: t.exchanges }, { label: "Blockchains", value: t.chains }].map(s => (
-                <div key={s.label} style={{ padding: "10px 12px", background: "oklch(8% 0.01 240 / 0.5)", borderRadius: "8px" }}>
+                <div key={s.label} style={{ padding: "10px 12px", background: "var(--tint-blue)", borderRadius: "8px" }}>
                   <div style={{ fontSize: "10px", color: "var(--muted)", fontWeight: 700, textTransform: "uppercase", letterSpacing: "0.08em", marginBottom: "4px" }}>{s.label}</div>
                   <div style={{ fontSize: "12px", color: "var(--fg)", fontWeight: 600 }}>{s.value}</div>
                 </div>
@@ -121,7 +121,7 @@ export default function BestCryptoTaxSoftwareUK() {
             </div>
 
             <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "10px", marginBottom: "16px" }}>
-              <div style={{ padding: "10px 14px", background: "var(--bg-tint-green)", border: "1px solid oklch(55% 0.15 140 / 0.25)", borderRadius: "8px" }}>
+              <div style={{ padding: "10px 14px", background: "var(--bg-tint-green)", border: "1px solid var(--tint-green-border)", borderRadius: "8px" }}>
                 <p style={{ fontSize: "10px", fontWeight: 700, color: "#4ade80", textTransform: "uppercase", margin: "0 0 4px" }}>Best for</p>
                 <p style={{ fontSize: "12px", color: "var(--muted)", margin: 0, lineHeight: 1.5 }}>{t.bestFor}</p>
               </div>

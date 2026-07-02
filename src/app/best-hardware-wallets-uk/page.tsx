@@ -113,16 +113,16 @@ export default function BestHardwareWalletsUK() {
         If you're holding more crypto than you can afford to lose on an exchange, you need a hardware wallet. I've used Ledger and Trezor devices since 2018. Here's what I recommend for UK holders in 2026.
       </p>
 
-      <div style={{ fontSize: "12px", color: "var(--muted)", padding: "12px 16px", background: "var(--bg-tint-amber)", border: "1px solid oklch(73% 0.17 78 / 0.2)", borderRadius: "8px", marginBottom: "20px", lineHeight: 1.6 }}>
+      <div style={{ fontSize: "12px", color: "var(--muted)", padding: "12px 16px", background: "var(--bg-tint-amber)", border: "1px solid var(--tint-amber-border)", borderRadius: "8px", marginBottom: "20px", lineHeight: 1.6 }}>
         <strong style={{ color: "var(--fg)" }}>Affiliate disclosure:</strong> Some links are affiliate links. We may earn a small commission if you buy via our links — at no extra cost to you. Rankings are based on merit, not commission.
       </div>
 
-      <div style={{ padding: "16px 20px", background: "var(--bg-tint-red)", border: "1px solid oklch(55% 0.15 25 / 0.3)", borderRadius: "8px", marginBottom: "32px" }}>
+      <div style={{ padding: "16px 20px", background: "var(--bg-tint-red)", border: "1px solid var(--tint-red-border)", borderRadius: "8px", marginBottom: "32px" }}>
         <p style={{ fontSize: "12px", fontWeight: 700, color: "#f87171", margin: "0 0 6px" }}>⚠️ Only buy from official sources</p>
         <p style={{ fontSize: "12px", color: "var(--muted)", margin: 0, lineHeight: 1.6 }}>Never buy a hardware wallet from Amazon, eBay, or third-party sellers. Tampered devices have been used to steal crypto. Buy directly from Ledger.com or Trezor.io only.</p>
       </div>
 
-      <div style={{ padding: "18px 22px", background: "var(--bg-tint-blue)", border: "1px solid oklch(40% 0.04 240 / 0.3)", borderRadius: "10px", marginBottom: "32px" }}>
+      <div style={{ padding: "18px 22px", background: "var(--bg-tint-blue)", border: "1px solid var(--tint-blue-border)", borderRadius: "10px", marginBottom: "32px" }}>
         <p style={{ fontSize: "12px", fontWeight: 700, textTransform: "uppercase", letterSpacing: "0.1em", color: "var(--amber)", margin: "0 0 10px" }}>Key Takeaways</p>
         <ul style={{ margin: 0, paddingLeft: "18px", display: "grid", gap: "5px" }}>
           {["Ledger Nano X is best overall — widest coin support, excellent app", "Trezor Model T is best for security purists — fully open source", "Trezor Model One is best value — £59, trusted, open source", "Never store your seed phrase digitally or in a photo", "Not your keys, not your coins — hardware wallets are non-negotiable for serious holders"].map(t => (
@@ -144,7 +144,7 @@ export default function BestHardwareWalletsUK() {
 
             <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(140px, 1fr))", gap: "8px", marginBottom: "16px" }}>
               {[{ label: "Price (UK)", value: w.price }, { label: "Coins", value: w.coins }, { label: "Bluetooth", value: w.bluetooth }, { label: "Open Source", value: w.openSource }].map(s => (
-                <div key={s.label} style={{ padding: "10px 12px", background: "oklch(8% 0.01 240 / 0.5)", borderRadius: "8px" }}>
+                <div key={s.label} style={{ padding: "10px 12px", background: "var(--tint-blue)", borderRadius: "8px" }}>
                   <div style={{ fontSize: "10px", color: "var(--muted)", fontWeight: 700, textTransform: "uppercase", letterSpacing: "0.08em", marginBottom: "4px" }}>{s.label}</div>
                   <div style={{ fontSize: "12px", color: "var(--fg)", fontWeight: 600 }}>{s.value}</div>
                 </div>
@@ -163,7 +163,7 @@ export default function BestHardwareWalletsUK() {
             </div>
 
             <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "10px", marginBottom: "16px" }}>
-              <div style={{ padding: "10px 14px", background: "var(--bg-tint-green)", border: "1px solid oklch(55% 0.15 140 / 0.25)", borderRadius: "8px" }}>
+              <div style={{ padding: "10px 14px", background: "var(--bg-tint-green)", border: "1px solid var(--tint-green-border)", borderRadius: "8px" }}>
                 <p style={{ fontSize: "10px", fontWeight: 700, color: "#4ade80", textTransform: "uppercase", margin: "0 0 4px" }}>Best for</p>
                 <p style={{ fontSize: "12px", color: "var(--muted)", margin: 0, lineHeight: 1.5 }}>{w.bestFor}</p>
               </div>

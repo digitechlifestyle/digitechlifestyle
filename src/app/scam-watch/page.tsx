@@ -392,7 +392,7 @@ export default function ScamWatchPage() {
       </div>
 
       {/* Disclaimer */}
-      <div style={{ fontSize: "13px", color: "var(--muted)", lineHeight: 1.75, marginBottom: "40px", padding: "16px 20px", background: "var(--bg-tint-red)", border: "1px solid oklch(55% 0.15 25 / 0.3)", borderRadius: "8px" }}>
+      <div style={{ fontSize: "13px", color: "var(--muted)", lineHeight: 1.75, marginBottom: "40px", padding: "16px 20px", background: "var(--bg-tint-red)", border: "1px solid var(--tint-red-border)", borderRadius: "8px" }}>
         <strong style={{ color: "var(--fg)" }}>Disclaimer:</strong> This page is for educational purposes only and does not constitute financial or legal advice. If you have been a victim of fraud, report it to{" "}
         <a href="https://www.actionfraud.police.uk" target="_blank" rel="noopener noreferrer" style={{ color: "var(--amber)" }}>Action Fraud</a> (0300 123 2040) and the{" "}
         <a href="https://register.fca.org.uk" target="_blank" rel="noopener noreferrer" style={{ color: "var(--amber)" }}>FCA</a>. If you are in immediate financial danger, contact your bank immediately and ask them to reverse any recent payments.
@@ -467,7 +467,7 @@ export default function ScamWatchPage() {
         <p style={{ fontSize: "14px", color: "var(--muted)", margin: "0 0 22px", lineHeight: 1.65 }}>Twelve actions that will dramatically reduce your risk of losing money to crypto fraud. Work through these one by one if you have not already.</p>
         <div style={{ display: "grid", gap: "12px" }}>
           {SAFETY_CHECKLIST.map((item, idx) => (
-            <div key={item.text} style={{ display: "flex", gap: "12px", alignItems: "flex-start", padding: "12px 14px", background: "oklch(8% 0.015 240 / 0.5)", borderRadius: "8px" }}>
+            <div key={item.text} style={{ display: "flex", gap: "12px", alignItems: "flex-start", padding: "12px 14px", background: "var(--tint-blue)", borderRadius: "8px" }}>
               <span style={{ color: "var(--amber)", fontWeight: 900, fontSize: "13px", flexShrink: 0, marginTop: "1px", minWidth: "20px" }}>{idx + 1}.</span>
               <span style={{ fontSize: "13px", color: "var(--muted)", lineHeight: 1.7 }}>
                 {item.href ? (
@@ -484,7 +484,7 @@ export default function ScamWatchPage() {
       </div>
 
       {/* Report fraud */}
-      <div id="report-fraud" style={{ padding: "24px 26px", background: "var(--bg-tint-red)", border: "2px solid oklch(55% 0.15 25 / 0.4)", borderRadius: "12px", marginBottom: "40px" }}>
+      <div id="report-fraud" style={{ padding: "24px 26px", background: "var(--bg-tint-red)", border: "2px solid var(--tint-red-border)", borderRadius: "12px", marginBottom: "40px" }}>
         <h2 style={{ fontSize: "19px", fontWeight: 800, color: "var(--fg)", margin: "0 0 8px" }}>Been scammed? Report it immediately.</h2>
         <p style={{ fontSize: "14px", color: "var(--muted)", margin: "0 0 20px", lineHeight: 1.75 }}>
           Reporting matters. It helps authorities identify patterns, share intelligence, and shut down operations before more people are harmed. The vast majority of crypto scam victims do not report — often from embarrassment or the belief that nothing can be done. Both are understandable, but reporting takes less than ten minutes and could prevent someone else from losing their savings.
@@ -497,7 +497,7 @@ export default function ScamWatchPage() {
             { label: "Citizens Advice — free confidential fraud advice and next steps", href: "https://www.citizensadvice.org.uk", note: "Call 0808 223 1133 for free consumer advice. Can help you understand your rights and next steps after fraud." },
             { label: "National Cyber Security Centre — report online cybercrime and phishing", href: "https://www.ncsc.gov.uk/section/about-this-website/report-scam-website", note: "Report phishing websites, fake exchanges, and suspicious emails directly to NCSC." },
           ].map((link) => (
-            <div key={link.href} style={{ padding: "14px 16px", background: "oklch(8% 0.01 25 / 0.4)", borderRadius: "8px" }}>
+            <div key={link.href} style={{ padding: "14px 16px", background: "var(--tint-red)", borderRadius: "8px" }}>
               <a href={link.href} target="_blank" rel="noopener noreferrer"
                 style={{ fontSize: "14px", fontWeight: 700, color: "var(--amber)", textDecoration: "none", display: "block", marginBottom: "4px" }}>
                 → {link.label}

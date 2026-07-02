@@ -117,7 +117,7 @@ export default function BestAIToolsBloggersPage() {
       </p>
 
       {/* Warning */}
-      <div style={{ padding: "16px 20px", background: "var(--bg-tint-purple)", border: "1px solid oklch(55% 0.15 280 / 0.3)", borderRadius: "10px", marginBottom: "24px" }}>
+      <div style={{ padding: "16px 20px", background: "var(--bg-tint-purple)", border: "1px solid var(--tint-purple-border)", borderRadius: "10px", marginBottom: "24px" }}>
         <p style={{ fontSize: "13px", fontWeight: 700, color: "oklch(72% 0.18 280)", margin: "0 0 4px" }}>💡 Use AI as a first draft, not a final product</p>
         <p style={{ fontSize: "13px", color: "var(--muted)", lineHeight: 1.6, margin: 0 }}>
           Google's helpful content updates target low-quality AI output. Every article needs your perspective, verified facts, and editorial judgment before publishing. AI tools save time — they don't replace expertise.
@@ -125,7 +125,7 @@ export default function BestAIToolsBloggersPage() {
       </div>
 
       {/* Disclaimer */}
-      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid oklch(73% 0.17 78 / 0.2)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "40px" }}>
+      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid var(--tint-amber-border)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "40px" }}>
         <strong style={{ color: "var(--fg)" }}>Disclaimer:</strong> Educational content only. Some links are affiliate links — we may earn a commission at no extra cost to you.
       </div>
 

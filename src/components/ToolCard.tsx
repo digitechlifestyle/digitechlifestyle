@@ -17,9 +17,9 @@ export function ToolCard({ tool }: { tool: Tool }) {
         <span>Best for: {tool.bestFor}</span>
         <span>Pricing: {tool.pricing}</span>
       </div>
-      <Link href={tool.href} className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-[var(--accent)]">
+      <a href={tool.href} target="_blank" rel="noopener noreferrer" className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-[var(--accent)]">
         View guide <ArrowUpRight size={16} />
-      </Link>
+      </a>
     </article>
   );
 }

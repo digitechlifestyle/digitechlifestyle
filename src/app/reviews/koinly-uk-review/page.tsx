@@ -53,7 +53,7 @@ export default function KoinlyUKReviewPage() {
       </p>
 
       {/* Verdict */}
-      <div style={{ padding: "20px 24px", background: "var(--bg-tint-green-strong)", border: "1px solid oklch(55% 0.2 140 / 0.4)", borderRadius: "12px", marginBottom: "24px" }}>
+      <div style={{ padding: "20px 24px", background: "var(--bg-tint-green-strong)", border: "1px solid var(--tint-green-border)", borderRadius: "12px", marginBottom: "24px" }}>
         <p style={{ fontSize: "12px", fontWeight: 700, letterSpacing: "0.15em", textTransform: "uppercase", color: "#22c55e", margin: "0 0 8px" }}>Quick verdict — 8.5/10</p>
         <p style={{ fontSize: "14px", color: "var(--muted)", margin: 0, lineHeight: 1.7 }}>
           Koinly is the most popular crypto tax tool for UK users and earns that reputation. HMRC Section 104 pooling support, 700+ exchange integrations, and a clean interface make it the default recommendation. The free plan covers tracking. Paid plans start at £49/year.
@@ -61,7 +61,7 @@ export default function KoinlyUKReviewPage() {
       </div>
 
       {/* Disclaimer */}
-      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid oklch(73% 0.17 78 / 0.2)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "36px" }}>
+      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid var(--tint-amber-border)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "36px" }}>
         <strong style={{ color: "var(--fg)" }}>Disclaimer:</strong> Educational content only — not tax or financial advice. Always consult a qualified UK crypto tax accountant for your specific situation. Some links are affiliate links — we may earn a commission at no extra cost to you.
       </div>
 
@@ -135,7 +135,7 @@ export default function KoinlyUKReviewPage() {
       </div>
 
       {/* HMRC note */}
-      <div style={{ padding: "20px 24px", background: "var(--bg-tint-red)", border: "1px solid oklch(55% 0.15 25 / 0.3)", borderRadius: "12px", marginBottom: "36px" }}>
+      <div style={{ padding: "20px 24px", background: "var(--bg-tint-red)", border: "1px solid var(--tint-red-border)", borderRadius: "12px", marginBottom: "36px" }}>
         <h3 style={{ fontSize: "15px", fontWeight: 800, color: "var(--fg)", margin: "0 0 10px" }}>⚠️ Important for UK Users</h3>
         <p style={{ fontSize: "13px", color: "var(--muted)", lineHeight: 1.7, margin: 0 }}>
           HMRC treats cryptocurrency as a capital asset. You are legally required to report gains above the annual CGT allowance (£3,000 for 2024/25) on your self-assessment tax return. Koinly helps you calculate this — but the responsibility to file correctly sits with you. For holdings above £10,000 or complex DeFi activity, use a qualified UK crypto tax accountant alongside Koinly. See <a href="https://www.gov.uk/government/publications/tax-on-cryptoassets" target="_blank" rel="noopener" style={{ color: "var(--amber)" }}>HMRC's cryptoassets guidance</a>.
@@ -174,7 +174,7 @@ export default function KoinlyUKReviewPage() {
       </div>
 
       {/* Bottom CTA */}
-      <div style={{ padding: "28px", background: "var(--bg-tint-amber-strong)", border: "1px solid oklch(73% 0.17 78 / 0.25)", borderRadius: "14px", textAlign: "center" }}>
+      <div style={{ padding: "28px", background: "var(--bg-tint-amber-strong)", border: "1px solid var(--tint-amber-border)", borderRadius: "14px", textAlign: "center" }}>
         <p style={{ fontSize: "18px", fontWeight: 900, color: "var(--fg)", margin: "0 0 8px" }}>Sort your crypto tax before the HMRC deadline</p>
         <p style={{ fontSize: "13px", color: "var(--muted)", margin: "0 0 18px" }}>Free to start. Paid plan only needed when you download tax reports.</p>
         <a href="https://koinly.io/?via=digitechlifestyle" target="_blank" rel="noopener sponsored"

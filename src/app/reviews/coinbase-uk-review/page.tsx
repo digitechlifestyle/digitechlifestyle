@@ -53,7 +53,7 @@ export default function CoinbaseUKReviewPage() {
       </p>
 
       {/* Score + verdict */}
-      <div style={{ display: "grid", gridTemplateColumns: "auto 1fr", gap: "20px", alignItems: "center", padding: "20px 24px", background: "var(--bg-tint-green-strong)", border: "1px solid oklch(55% 0.2 140 / 0.4)", borderRadius: "12px", marginBottom: "24px" }}>
+      <div style={{ display: "grid", gridTemplateColumns: "auto 1fr", gap: "20px", alignItems: "center", padding: "20px 24px", background: "var(--bg-tint-green-strong)", border: "1px solid var(--tint-green-border)", borderRadius: "12px", marginBottom: "24px" }}>
         <div style={{ textAlign: "center", minWidth: "80px" }}>
           <span style={{ fontSize: "42px", fontWeight: 900, color: "var(--amber)", lineHeight: 1 }}>9</span>
           <span style={{ fontSize: "20px", fontWeight: 900, color: "var(--amber)" }}>/10</span>
@@ -68,7 +68,7 @@ export default function CoinbaseUKReviewPage() {
       </div>
 
       {/* Disclaimer */}
-      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid oklch(73% 0.17 78 / 0.2)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "36px" }}>
+      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid var(--tint-amber-border)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "36px" }}>
         <strong style={{ color: "var(--fg)" }}>Disclaimer:</strong> Educational content only — not financial advice. Crypto is high risk. Some links are affiliate links. We may earn a commission at no extra cost to you. Always verify FCA status at <a href="https://register.fca.org.uk" target="_blank" rel="noopener" style={{ color: "var(--amber)" }}>register.fca.org.uk</a>.
       </div>
 
@@ -136,7 +136,7 @@ export default function CoinbaseUKReviewPage() {
       </div>
 
       {/* Advanced tip */}
-      <div style={{ padding: "20px 24px", background: "var(--bg-tint-purple)", border: "1px solid oklch(55% 0.15 280 / 0.3)", borderRadius: "12px", marginBottom: "36px" }}>
+      <div style={{ padding: "20px 24px", background: "var(--bg-tint-purple)", border: "1px solid var(--tint-purple-border)", borderRadius: "12px", marginBottom: "36px" }}>
         <h3 style={{ fontSize: "15px", fontWeight: 800, color: "var(--fg)", margin: "0 0 10px" }}>💡 Use Coinbase Advanced to Cut Fees</h3>
         <p style={{ fontSize: "13px", color: "var(--muted)", lineHeight: 1.7, margin: 0 }}>
           Coinbase Advanced is free for all Coinbase account holders. Go to advanced.coinbase.com or switch in the app. Maker fees start at 0.40% and drop with volume — significantly cheaper than the standard 0.5–1.5% on simple buys. For any purchase over £100, use Coinbase Advanced. Same account, same funds, lower costs.
@@ -176,7 +176,7 @@ export default function CoinbaseUKReviewPage() {
       </div>
 
       {/* Bottom CTA */}
-      <div style={{ padding: "28px", background: "var(--bg-tint-amber-strong)", border: "1px solid oklch(73% 0.17 78 / 0.25)", borderRadius: "14px", textAlign: "center" }}>
+      <div style={{ padding: "28px", background: "var(--bg-tint-amber-strong)", border: "1px solid var(--tint-amber-border)", borderRadius: "14px", textAlign: "center" }}>
         <p style={{ fontSize: "18px", fontWeight: 900, color: "var(--fg)", margin: "0 0 8px" }}>Start buying crypto in minutes</p>
         <p style={{ fontSize: "13px", color: "var(--muted)", margin: "0 0 18px" }}>FCA registered · GBP bank transfers · Free to sign up</p>
         <a href="https://www.coinbase.com/join/jrobertson_1A8sYA" target="_blank" rel="noopener sponsored"

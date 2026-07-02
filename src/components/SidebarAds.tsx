@@ -49,7 +49,7 @@ const CATEGORIES: Category[] = [
   {
     label: "📊 Crypto Tax",
     partners: [
-      { id: "koinly",      brand: "Koinly",               initial: "K", tagline: "HMRC Crypto Tax — Done",       accent: "#10b981", url: "https://koinly.io" },
+      { id: "koinly",      brand: "Koinly",               initial: "K", tagline: "HMRC Crypto Tax — Done",       accent: "#10b981", url: "https://koinly.io/?via=digitechlifestyle" },
       { id: "tokentax",    brand: "TokenTax",             initial: "T", tagline: "Crypto Taxes Made Easy",       accent: "#0ea5e9", url: "https://tokentax.co?via=digitech" },
     ],
   },

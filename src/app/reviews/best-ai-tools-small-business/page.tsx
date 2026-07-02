@@ -133,7 +133,7 @@ export default function BestAIToolsSmallBusinessPage() {
       </p>
 
       {/* Disclaimer */}
-      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid oklch(73% 0.17 78 / 0.2)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "40px" }}>
+      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid var(--tint-amber-border)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "40px" }}>
         <strong style={{ color: "var(--fg)" }}>Disclaimer:</strong> Educational content only. Some links are affiliate links — we may earn a commission at no extra cost to you. All prices approximate GBP equivalent at June 2026 rates.
       </div>
 

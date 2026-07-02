@@ -53,7 +53,7 @@ export default function WritesonicReviewPage() {
       </p>
 
       {/* Score */}
-      <div style={{ display: "grid", gridTemplateColumns: "auto 1fr", gap: "20px", alignItems: "center", padding: "20px 24px", background: "var(--bg-tint-green-strong)", border: "1px solid oklch(55% 0.2 140 / 0.4)", borderRadius: "12px", marginBottom: "24px" }}>
+      <div style={{ display: "grid", gridTemplateColumns: "auto 1fr", gap: "20px", alignItems: "center", padding: "20px 24px", background: "var(--bg-tint-green-strong)", border: "1px solid var(--tint-green-border)", borderRadius: "12px", marginBottom: "24px" }}>
         <div style={{ textAlign: "center", minWidth: "80px" }}>
           <span style={{ fontSize: "42px", fontWeight: 900, color: "var(--amber)", lineHeight: 1 }}>7.5</span>
           <span style={{ fontSize: "20px", fontWeight: 900, color: "var(--amber)" }}>/10</span>
@@ -68,7 +68,7 @@ export default function WritesonicReviewPage() {
       </div>
 
       {/* Disclaimer */}
-      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid oklch(73% 0.17 78 / 0.2)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "36px" }}>
+      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid var(--tint-amber-border)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "36px" }}>
         <strong style={{ color: "var(--fg)" }}>Disclaimer:</strong> Educational content only. Some links are affiliate links — we may earn a commission at no extra cost to you.
       </div>
 
@@ -133,7 +133,7 @@ export default function WritesonicReviewPage() {
       </div>
 
       {/* Who it's for */}
-      <div style={{ padding: "20px 24px", background: "var(--bg-tint-purple)", border: "1px solid oklch(55% 0.15 280 / 0.3)", borderRadius: "12px", marginBottom: "36px" }}>
+      <div style={{ padding: "20px 24px", background: "var(--bg-tint-purple)", border: "1px solid var(--tint-purple-border)", borderRadius: "12px", marginBottom: "36px" }}>
         <h3 style={{ fontSize: "15px", fontWeight: 800, color: "var(--fg)", margin: "0 0 12px" }}>Who Is Writesonic For?</h3>
         <div style={{ display: "grid", gap: "10px" }}>
           {[
@@ -182,7 +182,7 @@ export default function WritesonicReviewPage() {
       </div>
 
       {/* Bottom CTA */}
-      <div style={{ padding: "28px", background: "var(--bg-tint-amber-strong)", border: "1px solid oklch(73% 0.17 78 / 0.25)", borderRadius: "14px", textAlign: "center" }}>
+      <div style={{ padding: "28px", background: "var(--bg-tint-amber-strong)", border: "1px solid var(--tint-amber-border)", borderRadius: "14px", textAlign: "center" }}>
         <p style={{ fontSize: "18px", fontWeight: 900, color: "var(--fg)", margin: "0 0 8px" }}>Speed up your content workflow</p>
         <p style={{ fontSize: "13px", color: "var(--muted)", margin: "0 0 18px" }}>Free trial — no credit card required</p>
         <a href="https://writesonic.com/" target="_blank" rel="noopener sponsored"

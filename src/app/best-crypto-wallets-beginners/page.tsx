@@ -71,11 +71,11 @@ export default function BestCryptoWalletsBeginners() {
         Not your keys, not your coins. Leaving crypto on an exchange means the exchange controls your funds. Here's which wallet to use — and when to upgrade to hardware.
       </p>
 
-      <div style={{ fontSize: "12px", color: "var(--muted)", padding: "12px 16px", background: "var(--bg-tint-amber)", border: "1px solid oklch(73% 0.17 78 / 0.2)", borderRadius: "8px", marginBottom: "20px", lineHeight: 1.6 }}>
+      <div style={{ fontSize: "12px", color: "var(--muted)", padding: "12px 16px", background: "var(--bg-tint-amber)", border: "1px solid var(--tint-amber-border)", borderRadius: "8px", marginBottom: "20px", lineHeight: 1.6 }}>
         <strong style={{ color: "var(--fg)" }}>Affiliate disclosure:</strong> Some links may be affiliate links. Rankings are based on merit only.
       </div>
 
-      <div style={{ padding: "16px 20px", background: "var(--bg-tint-blue)", border: "1px solid oklch(40% 0.04 240 / 0.3)", borderRadius: "8px", marginBottom: "32px" }}>
+      <div style={{ padding: "16px 20px", background: "var(--bg-tint-blue)", border: "1px solid var(--tint-blue-border)", borderRadius: "8px", marginBottom: "32px" }}>
         <p style={{ fontSize: "12px", fontWeight: 700, color: "var(--amber)", margin: "0 0 6px" }}>Custodial vs Non-Custodial — what it means</p>
         <p style={{ fontSize: "12px", color: "var(--muted)", margin: 0, lineHeight: 1.7 }}>
           <strong style={{ color: "var(--fg)" }}>Custodial wallets</strong> (exchanges like Coinbase) hold your keys. If they go bust, your funds may be at risk.<br />
@@ -96,7 +96,7 @@ export default function BestCryptoWalletsBeginners() {
 
             <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(140px, 1fr))", gap: "8px", marginBottom: "16px" }}>
               {[{ label: "Type", value: w.type }, { label: "Cost", value: w.cost }, { label: "Custody", value: w.custodial }].map(s => (
-                <div key={s.label} style={{ padding: "10px 12px", background: "oklch(8% 0.01 240 / 0.5)", borderRadius: "8px" }}>
+                <div key={s.label} style={{ padding: "10px 12px", background: "var(--tint-blue)", borderRadius: "8px" }}>
                   <div style={{ fontSize: "10px", color: "var(--muted)", fontWeight: 700, textTransform: "uppercase", letterSpacing: "0.08em", marginBottom: "4px" }}>{s.label}</div>
                   <div style={{ fontSize: "12px", color: "var(--fg)", fontWeight: 600 }}>{s.value}</div>
                 </div>
@@ -115,7 +115,7 @@ export default function BestCryptoWalletsBeginners() {
             </div>
 
             <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "10px", marginBottom: "16px" }}>
-              <div style={{ padding: "10px 14px", background: "var(--bg-tint-green)", border: "1px solid oklch(55% 0.15 140 / 0.25)", borderRadius: "8px" }}>
+              <div style={{ padding: "10px 14px", background: "var(--bg-tint-green)", border: "1px solid var(--tint-green-border)", borderRadius: "8px" }}>
                 <p style={{ fontSize: "10px", fontWeight: 700, color: "#4ade80", textTransform: "uppercase", margin: "0 0 4px" }}>Best for</p>
                 <p style={{ fontSize: "12px", color: "var(--muted)", margin: 0, lineHeight: 1.5 }}>{w.bestFor}</p>
               </div>

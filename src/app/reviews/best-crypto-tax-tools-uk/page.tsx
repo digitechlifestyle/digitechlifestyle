@@ -101,7 +101,7 @@ export default function BestCryptoTaxToolsUKPage() {
       </p>
 
       {/* HMRC alert */}
-      <div style={{ padding: "16px 20px", background: "var(--bg-tint-red-strong)", border: "1px solid oklch(60% 0.2 25 / 0.4)", borderRadius: "10px", marginBottom: "24px" }}>
+      <div style={{ padding: "16px 20px", background: "var(--bg-tint-red-strong)", border: "1px solid var(--tint-red-border)", borderRadius: "10px", marginBottom: "24px" }}>
         <p style={{ fontSize: "13px", fontWeight: 700, color: "#f87171", margin: "0 0 4px" }}>⚠️ HMRC Crypto Tax Reminder</p>
         <p style={{ fontSize: "13px", color: "var(--muted)", lineHeight: 1.6, margin: 0 }}>
           UK self-assessment deadline: <strong style={{ color: "var(--fg)" }}>31 January</strong> for online filing. CGT allowance 2024/25: <strong style={{ color: "var(--fg)" }}>£3,000</strong>. Always consult a qualified UK crypto tax accountant for significant holdings. See <a href="https://www.gov.uk/government/publications/tax-on-cryptoassets" target="_blank" rel="noopener" style={{ color: "var(--amber)" }}>HMRC cryptoassets guidance</a>.
@@ -109,7 +109,7 @@ export default function BestCryptoTaxToolsUKPage() {
       </div>
 
       {/* Disclaimer */}
-      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid oklch(73% 0.17 78 / 0.2)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "40px" }}>
+      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid var(--tint-amber-border)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "40px" }}>
         <strong style={{ color: "var(--fg)" }}>Disclaimer:</strong> Educational content only — not tax or financial advice. Some links are affiliate links. We may earn a commission at no extra cost to you.
       </div>
 
@@ -181,7 +181,7 @@ export default function BestCryptoTaxToolsUKPage() {
       </div>
 
       {/* Bottom CTA */}
-      <div style={{ padding: "28px", background: "var(--bg-tint-amber-strong)", border: "1px solid oklch(73% 0.17 78 / 0.25)", borderRadius: "14px", textAlign: "center" }}>
+      <div style={{ padding: "28px", background: "var(--bg-tint-amber-strong)", border: "1px solid var(--tint-amber-border)", borderRadius: "14px", textAlign: "center" }}>
         <p style={{ fontSize: "18px", fontWeight: 900, color: "var(--fg)", margin: "0 0 8px" }}>Don't pay more tax than you owe</p>
         <p style={{ fontSize: "13px", color: "var(--muted)", margin: "0 0 18px" }}>Free to start — pay only when you download your HMRC report</p>
         <a href="https://koinly.io/?via=digitechlifestyle" target="_blank" rel="noopener sponsored"

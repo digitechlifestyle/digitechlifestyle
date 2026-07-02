@@ -116,7 +116,7 @@ export default function BestHardwareWalletsUKPage() {
       </p>
 
       {/* Quick picks */}
-      <div style={{ padding: "20px 24px", background: "var(--bg-tint-purple)", border: "1px solid oklch(55% 0.15 280 / 0.3)", borderRadius: "12px", marginBottom: "24px" }}>
+      <div style={{ padding: "20px 24px", background: "var(--bg-tint-purple)", border: "1px solid var(--tint-purple-border)", borderRadius: "12px", marginBottom: "24px" }}>
         <p style={{ fontSize: "12px", fontWeight: 700, letterSpacing: "0.15em", textTransform: "uppercase", color: "oklch(72% 0.18 280)", margin: "0 0 12px" }}>Quick picks</p>
         <div style={{ display: "grid", gap: "8px" }}>
           {[
@@ -134,7 +134,7 @@ export default function BestHardwareWalletsUKPage() {
       </div>
 
       {/* Disclaimer */}
-      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid oklch(73% 0.17 78 / 0.2)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "40px" }}>
+      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid var(--tint-amber-border)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "40px" }}>
         <strong style={{ color: "var(--fg)" }}>Disclaimer:</strong> Educational content only — not financial advice. Some links are affiliate links. We may earn a commission at no extra cost to you. This never changes our recommendations — buy only from official manufacturer websites.
       </div>
 
@@ -174,7 +174,7 @@ export default function BestHardwareWalletsUKPage() {
       </div>
 
       {/* Safety rules */}
-      <div style={{ padding: "24px 28px", background: "var(--bg-tint-red-strong)", border: "1px solid oklch(55% 0.15 25 / 0.3)", borderRadius: "12px", marginBottom: "36px" }}>
+      <div style={{ padding: "24px 28px", background: "var(--bg-tint-red-strong)", border: "1px solid var(--tint-red-border)", borderRadius: "12px", marginBottom: "36px" }}>
         <h2 style={{ fontSize: "17px", fontWeight: 800, color: "var(--fg)", margin: "0 0 14px" }}>🔒 Hardware Wallet Safety Rules</h2>
         <ul style={{ margin: 0, padding: "0 0 0 18px", display: "grid", gap: "8px" }}>
           {[

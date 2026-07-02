@@ -72,7 +72,7 @@ export default function BestWebHostingCryptoBlog() {
         I've hosted DigiTech Lifestyle on Hostinger since 2023. I've tested SiteGround and Cloudways too. Here's the honest comparison for UK crypto and affiliate bloggers in 2026.
       </p>
 
-      <div style={{ fontSize: "12px", color: "var(--muted)", padding: "12px 16px", background: "var(--bg-tint-amber)", border: "1px solid oklch(73% 0.17 78 / 0.2)", borderRadius: "8px", marginBottom: "32px", lineHeight: 1.6 }}>
+      <div style={{ fontSize: "12px", color: "var(--muted)", padding: "12px 16px", background: "var(--bg-tint-amber)", border: "1px solid var(--tint-amber-border)", borderRadius: "8px", marginBottom: "32px", lineHeight: 1.6 }}>
         <strong style={{ color: "var(--fg)" }}>Affiliate disclosure:</strong> Some links below are affiliate links. DigiTech Lifestyle runs on Hostinger — this genuinely influences the #1 ranking because I can vouch for it from direct use.
       </div>
 
@@ -83,14 +83,14 @@ export default function BestWebHostingCryptoBlog() {
               <span style={{ fontSize: "12px", fontWeight: 700, color: "var(--muted)" }}>#{h.rank}</span>
               <h2 style={{ fontSize: "20px", fontWeight: 900, color: "var(--fg)", margin: 0 }}>{h.name}</h2>
               <span style={{ fontSize: "11px", fontWeight: 700, padding: "3px 10px", borderRadius: "20px", background: h.badgeColor, color: "#fff" }}>{h.badge}</span>
-              {h.note && <span style={{ fontSize: "10px", fontWeight: 700, padding: "2px 8px", borderRadius: "4px", background: "oklch(73% 0.17 78 / 0.2)", color: "var(--amber)" }}>★ {h.note}</span>}
+              {h.note && <span style={{ fontSize: "10px", fontWeight: 700, padding: "2px 8px", borderRadius: "4px", background: "var(--tint-amber-border)", color: "var(--amber)" }}>★ {h.note}</span>}
               <span style={{ fontSize: "13px", fontWeight: 700, color: "var(--amber)", marginLeft: "auto" }}>{h.score}</span>
             </div>
             <p style={{ fontSize: "13px", color: "var(--muted)", margin: "0 0 16px", lineHeight: 1.6 }}>{h.tagline}</p>
 
             <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(130px, 1fr))", gap: "8px", marginBottom: "16px" }}>
               {[{ label: "Price/mo", value: h.price }, { label: "WordPress", value: h.wordpress }, { label: "Speed", value: h.speed }, { label: "UK Servers", value: h.uk }].map(s => (
-                <div key={s.label} style={{ padding: "10px 12px", background: "oklch(8% 0.01 240 / 0.5)", borderRadius: "8px" }}>
+                <div key={s.label} style={{ padding: "10px 12px", background: "var(--tint-blue)", borderRadius: "8px" }}>
                   <div style={{ fontSize: "10px", color: "var(--muted)", fontWeight: 700, textTransform: "uppercase", letterSpacing: "0.08em", marginBottom: "4px" }}>{s.label}</div>
                   <div style={{ fontSize: "12px", color: "var(--fg)", fontWeight: 600 }}>{s.value}</div>
                 </div>
@@ -109,7 +109,7 @@ export default function BestWebHostingCryptoBlog() {
             </div>
 
             <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "10px", marginBottom: "16px" }}>
-              <div style={{ padding: "10px 14px", background: "var(--bg-tint-green)", border: "1px solid oklch(55% 0.15 140 / 0.25)", borderRadius: "8px" }}>
+              <div style={{ padding: "10px 14px", background: "var(--bg-tint-green)", border: "1px solid var(--tint-green-border)", borderRadius: "8px" }}>
                 <p style={{ fontSize: "10px", fontWeight: 700, color: "#4ade80", textTransform: "uppercase", margin: "0 0 4px" }}>Best for</p>
                 <p style={{ fontSize: "12px", color: "var(--muted)", margin: 0, lineHeight: 1.5 }}>{h.bestFor}</p>
               </div>

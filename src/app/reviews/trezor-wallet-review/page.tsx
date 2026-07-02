@@ -76,7 +76,7 @@ export default function TrezorWalletReviewPage() {
       </p>
 
       {/* Verdict */}
-      <div style={{ padding: "20px 24px", background: "var(--bg-tint-green-strong)", border: "1px solid oklch(55% 0.2 140 / 0.4)", borderRadius: "12px", marginBottom: "24px" }}>
+      <div style={{ padding: "20px 24px", background: "var(--bg-tint-green-strong)", border: "1px solid var(--tint-green-border)", borderRadius: "12px", marginBottom: "24px" }}>
         <p style={{ fontSize: "12px", fontWeight: 700, letterSpacing: "0.15em", textTransform: "uppercase", color: "#22c55e", margin: "0 0 8px" }}>Quick verdict</p>
         <p style={{ fontSize: "14px", color: "var(--muted)", margin: 0, lineHeight: 1.7 }}>
           Trezor Safe 3 at £79 is the pick — secure element chip plus fully open-source firmware. If budget is tight, the Model One at £49 still works for Bitcoin and Ethereum holders. Both are solid. Neither should be bought secondhand.
@@ -84,7 +84,7 @@ export default function TrezorWalletReviewPage() {
       </div>
 
       {/* Disclaimer */}
-      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid oklch(73% 0.17 78 / 0.2)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "36px" }}>
+      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid var(--tint-amber-border)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "36px" }}>
         <strong style={{ color: "var(--fg)" }}>Disclaimer:</strong> Educational content only — not financial advice. Some links are affiliate links. We may earn a commission at no extra cost to you. This never changes our recommendations.
       </div>
 
@@ -185,7 +185,7 @@ export default function TrezorWalletReviewPage() {
       </div>
 
       {/* Bottom CTA */}
-      <div style={{ padding: "28px", background: "var(--bg-tint-amber-strong)", border: "1px solid oklch(73% 0.17 78 / 0.25)", borderRadius: "14px", textAlign: "center" }}>
+      <div style={{ padding: "28px", background: "var(--bg-tint-amber-strong)", border: "1px solid var(--tint-amber-border)", borderRadius: "14px", textAlign: "center" }}>
         <p style={{ fontSize: "18px", fontWeight: 900, color: "var(--fg)", margin: "0 0 8px" }}>Keep your crypto off exchanges</p>
         <p style={{ fontSize: "13px", color: "var(--muted)", margin: "0 0 18px" }}>Buy from trezor.io only — never buy secondhand.</p>
         <a href="https://trezor.io/" target="_blank" rel="noopener"

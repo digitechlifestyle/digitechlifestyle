@@ -90,7 +90,7 @@ export default function BestCryptoResourcesBeginnersPage() {
       </p>
 
       {/* Disclaimer */}
-      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid oklch(73% 0.17 78 / 0.2)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "40px" }}>
+      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid var(--tint-amber-border)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "40px" }}>
         <strong style={{ color: "var(--fg)" }}>Disclaimer:</strong> Educational content only — not financial advice. Crypto is high risk. Some links are affiliate links. We may earn a commission at no extra cost to you.
       </div>
 
@@ -125,7 +125,7 @@ export default function BestCryptoResourcesBeginnersPage() {
       ))}
 
       {/* Safety checklist */}
-      <div style={{ padding: "24px 28px", background: "var(--bg-tint-red-strong)", border: "1px solid oklch(55% 0.15 25 / 0.3)", borderRadius: "12px", marginBottom: "40px" }}>
+      <div style={{ padding: "24px 28px", background: "var(--bg-tint-red-strong)", border: "1px solid var(--tint-red-border)", borderRadius: "12px", marginBottom: "40px" }}>
         <h2 style={{ fontSize: "18px", fontWeight: 800, color: "var(--fg)", margin: "0 0 16px" }}>🔒 UK Beginner Safety Checklist</h2>
         <div style={{ display: "grid", gap: "8px" }}>
           {CHECKLIST.map((item, i) => (

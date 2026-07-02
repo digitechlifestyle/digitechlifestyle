@@ -76,7 +76,7 @@ export default function LedgerWalletReviewPage() {
       </p>
 
       {/* Verdict box */}
-      <div style={{ padding: "20px 24px", background: "var(--bg-tint-green-strong)", border: "1px solid oklch(55% 0.2 140 / 0.4)", borderRadius: "12px", marginBottom: "24px" }}>
+      <div style={{ padding: "20px 24px", background: "var(--bg-tint-green-strong)", border: "1px solid var(--tint-green-border)", borderRadius: "12px", marginBottom: "24px" }}>
         <p style={{ fontSize: "12px", fontWeight: 700, letterSpacing: "0.15em", textTransform: "uppercase", color: "#22c55e", margin: "0 0 8px" }}>Quick verdict</p>
         <p style={{ fontSize: "14px", color: "var(--muted)", margin: 0, lineHeight: 1.7 }}>
           Ledger remains the go-to hardware wallet for most UK users. The <strong style={{ color: "var(--fg)" }}>Nano S Plus at £79</strong> is the best value. The Flex is excellent but expensive. Buy direct from Ledger only — never secondhand.
@@ -84,7 +84,7 @@ export default function LedgerWalletReviewPage() {
       </div>
 
       {/* Disclaimer */}
-      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid oklch(73% 0.17 78 / 0.2)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "36px" }}>
+      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid var(--tint-amber-border)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "36px" }}>
         <strong style={{ color: "var(--fg)" }}>Disclaimer:</strong> Educational content only — not financial advice. Some links are affiliate links. We may earn a commission if you buy via our link at no extra cost to you. This never changes our recommendations.
       </div>
 
@@ -135,7 +135,7 @@ export default function LedgerWalletReviewPage() {
       </div>
 
       {/* Security section */}
-      <div style={{ padding: "24px 28px", background: "var(--bg-tint-purple)", border: "1px solid oklch(55% 0.15 280 / 0.3)", borderRadius: "12px", marginBottom: "36px" }}>
+      <div style={{ padding: "24px 28px", background: "var(--bg-tint-purple)", border: "1px solid var(--tint-purple-border)", borderRadius: "12px", marginBottom: "36px" }}>
         <h2 style={{ fontSize: "17px", fontWeight: 800, color: "var(--fg)", margin: "0 0 14px" }}>🔐 How Ledger Security Works</h2>
         <div style={{ display: "grid", gap: "12px" }}>
           {[
@@ -154,7 +154,7 @@ export default function LedgerWalletReviewPage() {
       </div>
 
       {/* Recover controversy */}
-      <div style={{ padding: "20px 24px", background: "var(--bg-tint-red)", border: "1px solid oklch(55% 0.15 25 / 0.3)", borderRadius: "12px", marginBottom: "36px" }}>
+      <div style={{ padding: "20px 24px", background: "var(--bg-tint-red)", border: "1px solid var(--tint-red-border)", borderRadius: "12px", marginBottom: "36px" }}>
         <h3 style={{ fontSize: "15px", fontWeight: 800, color: "var(--fg)", margin: "0 0 10px" }}>⚠️ About Ledger Recover</h3>
         <p style={{ fontSize: "13px", color: "var(--muted)", lineHeight: 1.7, margin: 0 }}>
           Ledger Recover is an optional paid service (£7.99/month) that backs up your seed phrase in encrypted shards with three custodians. It caused controversy in 2023 because it revealed Ledger devices <em>can</em> extract and transmit seed phrases — contradicting earlier claims. You <strong style={{ color: "var(--fg)" }}>do not need to use Recover</strong>. It is opt-in and requires ID verification. If you don't sign up, your seed phrase stays on your device only. This doesn't change the core security of the device for non-Recover users.
@@ -194,7 +194,7 @@ export default function LedgerWalletReviewPage() {
       </div>
 
       {/* Bottom CTA */}
-      <div style={{ padding: "28px", background: "var(--bg-tint-amber-strong)", border: "1px solid oklch(73% 0.17 78 / 0.25)", borderRadius: "14px", textAlign: "center" }}>
+      <div style={{ padding: "28px", background: "var(--bg-tint-amber-strong)", border: "1px solid var(--tint-amber-border)", borderRadius: "14px", textAlign: "center" }}>
         <p style={{ fontSize: "18px", fontWeight: 900, color: "var(--fg)", margin: "0 0 8px" }}>Ready to secure your crypto?</p>
         <p style={{ fontSize: "13px", color: "var(--muted)", margin: "0 0 18px" }}>Buy direct from Ledger only. Never buy secondhand.</p>
         <a href="https://shop.ledger.com/?referral_code=FN50B8J0VZNVR" target="_blank" rel="noopener sponsored"

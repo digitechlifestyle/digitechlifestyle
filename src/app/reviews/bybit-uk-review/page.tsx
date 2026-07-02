@@ -68,7 +68,7 @@ export default function BybitUKReviewPage() {
       </div>
 
       {/* Warning */}
-      <div style={{ padding: "16px 20px", background: "var(--bg-tint-red-strong)", border: "1px solid oklch(60% 0.2 25 / 0.5)", borderRadius: "10px", marginBottom: "24px" }}>
+      <div style={{ padding: "16px 20px", background: "var(--bg-tint-red-strong)", border: "1px solid var(--tint-red-border)", borderRadius: "10px", marginBottom: "24px" }}>
         <p style={{ fontSize: "13px", fontWeight: 700, color: "#f87171", margin: "0 0 6px" }}>⚠️ Not FCA Registered — Check Before Using</p>
         <p style={{ fontSize: "13px", color: "var(--muted)", lineHeight: 1.6, margin: 0 }}>
           Bybit is not currently FCA registered for UK users. Verify at{" "}
@@ -78,7 +78,7 @@ export default function BybitUKReviewPage() {
       </div>
 
       {/* Disclaimer */}
-      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid oklch(73% 0.17 78 / 0.2)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "36px" }}>
+      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid var(--tint-amber-border)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "36px" }}>
         <strong style={{ color: "var(--fg)" }}>Disclaimer:</strong> Educational content only — not financial advice. Crypto is high risk. Some links are affiliate links.
       </div>
 
@@ -125,7 +125,7 @@ export default function BybitUKReviewPage() {
       </div>
 
       {/* Who it's for */}
-      <div style={{ padding: "20px 24px", background: "var(--bg-tint-purple)", border: "1px solid oklch(55% 0.15 280 / 0.3)", borderRadius: "12px", marginBottom: "36px" }}>
+      <div style={{ padding: "20px 24px", background: "var(--bg-tint-purple)", border: "1px solid var(--tint-purple-border)", borderRadius: "12px", marginBottom: "36px" }}>
         <h3 style={{ fontSize: "15px", fontWeight: 800, color: "var(--fg)", margin: "0 0 12px" }}>Who Is Bybit For?</h3>
         <div style={{ display: "grid", gap: "10px" }}>
           {[

@@ -104,12 +104,12 @@ export default function BestCryptoExchangesUKPage() {
       </p>
 
       {/* Disclaimer */}
-      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid oklch(73% 0.17 78 / 0.2)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "36px" }}>
+      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid var(--tint-amber-border)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "36px" }}>
         <strong style={{ color: "var(--fg)" }}>Disclaimer:</strong> This is educational content only — not financial advice. Crypto is high-risk. You can lose money. Some links on this page are affiliate links. If you sign up via one, we may earn a commission at no extra cost to you. This never changes our recommendation. Always do your own research and check the FCA register before using any exchange: <a href="https://register.fca.org.uk" target="_blank" rel="noopener" style={{ color: "var(--amber)" }}>register.fca.org.uk</a>.
       </div>
 
       {/* Quick pick */}
-      <div style={{ padding: "20px 24px", background: "var(--bg-tint-purple)", border: "1px solid oklch(55% 0.15 280 / 0.3)", borderRadius: "12px", marginBottom: "36px" }}>
+      <div style={{ padding: "20px 24px", background: "var(--bg-tint-purple)", border: "1px solid var(--tint-purple-border)", borderRadius: "12px", marginBottom: "36px" }}>
         <p style={{ fontSize: "12px", fontWeight: 700, letterSpacing: "0.15em", textTransform: "uppercase", color: "oklch(72% 0.18 280)", margin: "0 0 10px" }}>Quick pick</p>
         <div style={{ display: "grid", gap: "10px" }}>
           {[
@@ -166,7 +166,7 @@ export default function BestCryptoExchangesUKPage() {
       </div>
 
       {/* Safety section */}
-      <div style={{ padding: "24px 28px", background: "var(--bg-tint-red-strong)", border: "1px solid oklch(55% 0.15 25 / 0.3)", borderRadius: "12px", marginBottom: "36px" }}>
+      <div style={{ padding: "24px 28px", background: "var(--bg-tint-red-strong)", border: "1px solid var(--tint-red-border)", borderRadius: "12px", marginBottom: "36px" }}>
         <h2 style={{ fontSize: "17px", fontWeight: 800, color: "var(--fg)", margin: "0 0 12px" }}>🔒 How to Stay Safe</h2>
         <ul style={{ margin: 0, padding: "0 0 0 18px", display: "grid", gap: "8px" }}>
           {[

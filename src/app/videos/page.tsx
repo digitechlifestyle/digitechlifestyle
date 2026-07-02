@@ -34,7 +34,7 @@ export default function VideosPage() {
       <div style={{ display: "grid", gap: "32px", gridTemplateColumns: "1fr", alignItems: "start" }} className="blog-two-col">
         <div>
           <p className="text-sm font-semibold uppercase tracking-[0.22em] text-[var(--accent)]">Watch</p>
-          <h1 className="mt-4 text-4xl font-black text-white md:text-6xl">Videos</h1>
+          <h1 className="mt-4 text-4xl font-black md:text-6xl" style={{ color: "var(--fg)" }}>Videos</h1>
           <p className="mt-5 max-w-3xl text-lg leading-8 text-[var(--muted)]">
             Crypto, AI, and digital wealth — video guides for UK readers. Subscribe on YouTube for new content every week.
           </p>
@@ -87,7 +87,7 @@ export default function VideosPage() {
 
           {/* Topics */}
           <div style={{ marginTop: "40px" }}>
-            <h2 style={{ fontSize: "20px", fontWeight: 800, color: "#fff", marginBottom: "20px" }}>
+            <h2 style={{ fontSize: "20px", fontWeight: 800, color: "var(--fg)", marginBottom: "20px" }}>
               What we cover
             </h2>
             <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(240px, 1fr))", gap: "16px" }}>
@@ -107,7 +107,7 @@ export default function VideosPage() {
                     transition: "border-color 0.2s",
                   }}
                 >
-                  <div style={{ fontSize: "15px", fontWeight: 700, color: "#fff", marginBottom: "8px" }}>{p.title}</div>
+                  <div style={{ fontSize: "15px", fontWeight: 700, color: "var(--fg)", marginBottom: "8px" }}>{p.title}</div>
                   <div style={{ fontSize: "13px", color: "var(--muted)", lineHeight: 1.6 }}>{p.description}</div>
                   <div style={{ fontSize: "12px", color: "var(--accent)", marginTop: "12px", fontWeight: 600 }}>Watch on YouTube →</div>
                 </a>
@@ -117,7 +117,7 @@ export default function VideosPage() {
 
           {/* Latest video embed placeholder */}
           <div style={{ marginTop: "40px" }}>
-            <h2 style={{ fontSize: "20px", fontWeight: 800, color: "#fff", marginBottom: "16px" }}>Latest video</h2>
+            <h2 style={{ fontSize: "20px", fontWeight: 800, color: "var(--fg)", marginBottom: "16px" }}>Latest video</h2>
             <div style={{ position: "relative", paddingBottom: "56.25%", height: 0, borderRadius: "12px", overflow: "hidden", background: "var(--bg-card)", border: "1px solid var(--line)" }}>
               <iframe
                 src="https://www.youtube.com/embed?listType=user_uploads&list=digitechlifestyle&index=1"

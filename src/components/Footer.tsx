@@ -5,7 +5,7 @@ const NAV = [
   { label: "Blog",           href: "/blog" },
   { label: "Free AI Tools",  href: "/free-tools" },
   { label: "News",           href: "/news" },
-  { label: "Reviews",        href: "/blog?category=Reviews" },
+  { label: "Reviews",        href: "/reviews" },
   { label: "About",          href: "/about" },
   { label: "Contact",        href: "/contact" },
 ];
@@ -16,11 +16,20 @@ const LEGAL = [
   { label: "Terms",               href: "/terms" },
 ];
 
+const REVIEWS = [
+  { label: "Best Crypto Exchanges UK",        href: "/reviews/best-crypto-exchanges-uk" },
+  { label: "Ledger Wallet Review",            href: "/reviews/ledger-wallet-review" },
+  { label: "Koinly UK Review",                href: "/reviews/koinly-uk-review" },
+  { label: "Best AI Tools for Bloggers",      href: "/reviews/best-ai-tools-bloggers" },
+  { label: "Best AI Tools — Small Business",  href: "/reviews/best-ai-tools-small-business" },
+  { label: "Crypto Resources for Beginners",  href: "/reviews/best-crypto-resources-beginners" },
+];
+
 export function Footer() {
   return (
     <footer className="site-footer">
       <div className="wrap">
-        <div style={{ display: "grid", gridTemplateColumns: "1.4fr 1fr 1fr", gap: "32px", marginBottom: "24px" }}>
+        <div style={{ display: "grid", gridTemplateColumns: "1.4fr 1fr 1fr 1fr", gap: "32px", marginBottom: "24px" }}>
           <div>
             <div style={{ fontFamily: "Sora, sans-serif", fontWeight: 900, fontSize: "17px", letterSpacing: "-0.02em", marginBottom: "10px" }}>
               Digi<span style={{ color: "var(--blue)" }}>Tech</span> Lifestyle
@@ -42,6 +51,15 @@ export function Footer() {
             <div className="section-title" style={{ marginBottom: "12px" }}>Legal</div>
             <div style={{ display: "grid", gap: "6px" }}>
               {LEGAL.map((item) => (
+                <Link key={item.href} href={item.href} style={{ fontSize: "13px", color: "var(--muted)" }}
+                  className="hover:text-white transition-colors">{item.label}</Link>
+              ))}
+            </div>
+          </div>
+          <div>
+            <div className="section-title" style={{ marginBottom: "12px" }}>Top Reviews</div>
+            <div style={{ display: "grid", gap: "6px" }}>
+              {REVIEWS.map((item) => (
                 <Link key={item.href} href={item.href} style={{ fontSize: "13px", color: "var(--muted)" }}
                   className="hover:text-white transition-colors">{item.label}</Link>
               ))}

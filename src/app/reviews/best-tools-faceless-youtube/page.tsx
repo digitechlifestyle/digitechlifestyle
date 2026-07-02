@@ -135,12 +135,12 @@ export default function BestToolsFacelessYoutubePage() {
       </p>
 
       {/* Disclaimer */}
-      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid oklch(73% 0.17 78 / 0.2)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "40px" }}>
+      <div style={{ padding: "14px 18px", background: "var(--bg-tint-amber)", border: "1px solid var(--tint-amber-border)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6, marginBottom: "40px" }}>
         <strong style={{ color: "var(--fg)" }}>Disclaimer:</strong> Educational content only. Some links are affiliate links — we may earn a commission at no extra cost to you.
       </div>
 
       {/* Recommended stack */}
-      <div style={{ padding: "22px 26px", background: "var(--bg-tint-purple)", border: "1px solid oklch(55% 0.15 280 / 0.3)", borderRadius: "12px", marginBottom: "40px" }}>
+      <div style={{ padding: "22px 26px", background: "var(--bg-tint-purple)", border: "1px solid var(--tint-purple-border)", borderRadius: "12px", marginBottom: "40px" }}>
         <h2 style={{ fontSize: "16px", fontWeight: 800, color: "var(--fg)", margin: "0 0 16px" }}>⚡ Full AI Stack — 30 Min Per Video</h2>
         <div style={{ display: "grid", gap: "8px" }}>
           {STACK.map((s) => (

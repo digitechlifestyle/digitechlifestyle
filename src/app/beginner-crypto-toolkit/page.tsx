@@ -114,7 +114,7 @@ export default function BeginnerCryptoToolkit() {
         Everything you need to start investing in crypto safely in the UK — the right exchange, wallet, tax tool, and security checklist. I've been in crypto since 2017. Here's the no-hype starter kit I wish I'd had.
       </p>
 
-      <div style={{ fontSize: "12px", color: "var(--muted)", padding: "12px 16px", background: "var(--bg-tint-amber)", border: "1px solid oklch(73% 0.17 78 / 0.2)", borderRadius: "8px", marginBottom: "32px", lineHeight: 1.6 }}>
+      <div style={{ fontSize: "12px", color: "var(--muted)", padding: "12px 16px", background: "var(--bg-tint-amber)", border: "1px solid var(--tint-amber-border)", borderRadius: "8px", marginBottom: "32px", lineHeight: 1.6 }}>
         <strong style={{ color: "var(--fg)" }}>Affiliate disclosure:</strong> Some links in this toolkit are affiliate links. DigiTech Lifestyle may earn a commission — at no extra cost to you. This doesn't affect what we recommend.
       </div>
 
@@ -164,7 +164,7 @@ export default function BeginnerCryptoToolkit() {
       </div>
 
       {/* Newsletter */}
-      <div style={{ padding: "24px", background: "var(--bg-tint-amber-strong)", border: "1px solid oklch(73% 0.17 78 / 0.25)", borderRadius: "12px", marginBottom: "40px" }}>
+      <div style={{ padding: "24px", background: "var(--bg-tint-amber-strong)", border: "1px solid var(--tint-amber-border)", borderRadius: "12px", marginBottom: "40px" }}>
         <p style={{ fontSize: "13px", fontWeight: 800, color: "var(--fg)", margin: "0 0 6px" }}>📬 Stay ahead — free weekly newsletter for UK crypto beginners</p>
         <p style={{ fontSize: "12px", color: "var(--muted)", margin: "0 0 14px" }}>Every Thursday. Plain English. No spam. Unsubscribe any time.</p>
         <Link href="/newsletter" style={{ display: "inline-block", background: "var(--amber)", color: "oklch(8% 0.015 60)", fontWeight: 800, fontSize: "12px", padding: "9px 18px", borderRadius: "7px", textDecoration: "none" }}>

@@ -139,7 +139,7 @@ export function BrandImageCard({
       {hasText && !isMobile && (
         <div style={{
           padding: size === "sidebar" ? "14px" : "20px",
-          background: "oklch(8% 0.018 270)",
+          background: "var(--tint-purple)",
         }}>
           {title && (
             <h3 style={{

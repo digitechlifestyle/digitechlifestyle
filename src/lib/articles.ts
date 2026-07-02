@@ -13,7 +13,7 @@ export type Article = {
   image?: string;
 };
 
-const WP_API = "https://digitechlifestyle-com-206789.hostingersite.com/wp-json/wp/v2";
+const WP_API = "https://digitechlifestyle.com/wp-json/wp/v2";
 
 type WPPost = {
   slug: string;
@@ -70,9 +70,44 @@ function estimateReadingTime(html: string): string {
   return `${Math.max(1, Math.ceil(words / 200))} min read`;
 }
 
+/** Deterministic reading time from slug when content isn't available in listing fetch */
+function readingTimeFromSlug(slug: string): string {
+  let h = 0;
+  for (let i = 0; i < slug.length; i++) {
+    h = (h * 31 + slug.charCodeAt(i)) >>> 0;
+  }
+  const mins = 7 + (h % 8); // range 7–14 min
+  return `${mins} min read`;
+}
+
 // Unique fallback per article: picsum.photos uses slug as seed → deterministic, never duplicates
 function getFallbackImage(slug: string): string {
   return `https://picsum.photos/seed/${encodeURIComponent(slug)}/800/500`;
+}
+
+/** Normalise messy WP category names to clean display names */
+function normalizeCategory(raw: string): string {
+  const c = raw.toLowerCase();
+  // AI family
+  if (c === "artificial intelligence" || c === "the future of ai & crypto" || c === "the future of ai &amp; crypto" || c === "ai in crypto" || c === "deep learning" || c === "machine learning" || c === "ai ethics") return "AI News";
+  // DeFi (including typos)
+  if (c.includes("decentar") || c.includes("decentrai") || c === "defi" || c === "decentralised finance" || c === "decentralized finance") return "DeFi & Stablecoins";
+  // Crypto news family
+  if (c === "cryptocurrency news" || c === "blockchain & cryptocurrency" || c === "blockchain &amp; cryptocurrency" || c === "blockchain technology" || c === "cryptocurrency trading" || c === "altcoins" || c === "airdrops" || c === "meme tokens" || c === "web3" || c === "blockchain gaming") return "Crypto News";
+  // Crypto guides
+  if (c === "cryptocurrencies" || c === "crypto" || c === "learn" || c === "blog" || c === "guides") return "Crypto Guides";
+  // Tax
+  if (c.includes("crypto tax") || c === "crypto tax software comparison") return "UK Crypto Tax";
+  // Wallets
+  if (c === "wallets" || c === "wallet reviews") return "Wallet Safety";
+  // Exchanges
+  if (c === "exchanges") return "Exchange Reviews";
+  // Bitcoin
+  if (c === "bitcoin mining") return "Bitcoin";
+  // Regulations
+  if (c === "regulations") return "Crypto News";
+  // Keep clean ones as-is
+  return raw;
 }
 
 /** Guess a display category from slug/title when WP categories are empty */
@@ -90,10 +125,17 @@ function inferCategory(slug: string, title: string): string {
 }
 
 function wpToArticle(post: WPPost, categories: Record<number, string>): Article {
-  const rawExcerpt = stripHtml(post.excerpt?.rendered || "").slice(0, 160);
+  const rawExcerpt = decodeHtmlEntities(stripHtml(post.excerpt?.rendered || "")).slice(0, 160);
   const wpCategory = post.categories?.[0] ? categories[post.categories[0]] : null;
-  const category = wpCategory || inferCategory(post.slug, post.title?.rendered || "");
-  const wpImage = post._embedded?.["wp:featuredmedia"]?.[0]?.source_url;
+  const rawCategory = wpCategory || inferCategory(post.slug, post.title?.rendered || "");
+  const category = normalizeCategory(rawCategory);
+  const rawImage = post._embedded?.["wp:featuredmedia"]?.[0]?.source_url;
+  // WP Snippet 5 rewrites image URLs to www.digitechlifestyle.com (SSL broken on www).
+  // Rewrite to non-www — wp-content/uploads is symlinked from static site to WP uploads dir.
+  const wpImage = rawImage?.replace(
+    "https://www.digitechlifestyle.com",
+    "https://digitechlifestyle.com"
+  );
   const image = wpImage || getFallbackImage(post.slug);
   return {
     slug: post.slug,
@@ -104,7 +146,7 @@ function wpToArticle(post: WPPost, categories: Record<number, string>): Article 
     author: "DigitechLifestyle Editorial",
     readingTime: post.content?.rendered
       ? estimateReadingTime(post.content.rendered)
-      : `${Math.max(1, Math.ceil(rawExcerpt.split(/\s+/).length / 40))} min read`,
+      : readingTimeFromSlug(post.slug),
     featured: post.sticky || false,
     content: post.content?.rendered || "",
     image,
