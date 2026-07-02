@@ -124,6 +124,19 @@
   --radius: 8px;
   --radius-lg: 14px;
   --shadow: 0 2px 12px oklch(0% 0 0 / 0.50);
+
+  /* Tinted card backgrounds — adapt in light mode */
+  --tint-amber:        oklch(14% 0.02  78  / 0.45);
+  --tint-amber-border: oklch(73% 0.17  78  / 0.25);
+  --tint-amber-strong: oklch(14% 0.025 78  / 0.55);
+  --tint-blue:         oklch(13% 0.025 240 / 0.50);
+  --tint-blue-border:  oklch(40% 0.04  240 / 0.30);
+  --tint-red:          oklch(13% 0.03  25  / 0.45);
+  --tint-red-border:   oklch(55% 0.15  25  / 0.30);
+  --tint-purple:       oklch(13% 0.03  280 / 0.50);
+  --tint-purple-border:oklch(55% 0.15  280 / 0.30);
+  --tint-green:        oklch(13% 0.025 140 / 0.45);
+  --tint-green-border: oklch(55% 0.15  140 / 0.25);
 }
 
 /* ─── Light theme ─────────────────────────────────────────── */
@@ -152,6 +165,19 @@
   --blue-dim:   oklch(62% 0.18 70 / 0.15);
 
   --shadow: 0 2px 12px oklch(0% 0 0 / 0.10);
+
+  /* Tinted cards — light versions */
+  --tint-amber:        oklch(97% 0.008 78);
+  --tint-amber-border: oklch(80% 0.10  78  / 0.50);
+  --tint-amber-strong: oklch(96% 0.010 78);
+  --tint-blue:         oklch(95% 0.008 240);
+  --tint-blue-border:  oklch(78% 0.05  240 / 0.50);
+  --tint-red:          oklch(97% 0.008 25);
+  --tint-red-border:   oklch(78% 0.10  25  / 0.40);
+  --tint-purple:       oklch(96% 0.008 280);
+  --tint-purple-border:oklch(75% 0.10  280 / 0.40);
+  --tint-green:        oklch(96% 0.008 140);
+  --tint-green-border: oklch(75% 0.10  140 / 0.35);
 }
 
 /* Light theme overrides for hardcoded dark oklch card backgrounds */
