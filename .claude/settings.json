@@ -1,0 +1,26 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "jq -r '.tool_input.file_path // empty' | { read -r f; case \"$f\" in *articles.ts*|*deploy.sh*|*.htaccess*|*wp-api-proxy*|*prices.php*) echo '{\"hookSpecificOutput\":{\"hookEventName\":\"PreToolUse\",\"additionalContext\":\"⛔ PROTECTED FILE. Before proceeding: verify the image rewrite line in articles.ts is unchanged (www→non-www), deploy.sh still has --exclude=wp-content/, .htaccess still has CacheEnable off. If your edit touches any of these — STOP and explain to Joe what you are changing and why before making the change.\"},\"decision\":\"ask\",\"reason\":\"Protected file — requires explicit confirmation this edit does not break site rules\"}';;  *) echo '{\"hookSpecificOutput\":{\"hookEventName\":\"PreToolUse\",\"additionalContext\":\"Reminder: change ONLY what Joe asked. Nothing adjacent. Nothing improved.\"}}';;  esac; }"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "jq -r '.tool_input.file_path // empty' | { read -r f; case \"$f\" in *articles.ts*) grep -q '\"https://www.digitechlifestyle.com\"' \"$f\" && grep -q '\"https://digitechlifestyle.com\"' \"$f\" && echo '{\"hookSpecificOutput\":{\"hookEventName\":\"PostToolUse\",\"additionalContext\":\"✅ articles.ts image rewrite still intact.\"}}' || echo '{\"hookSpecificOutput\":{\"hookEventName\":\"PostToolUse\",\"additionalContext\":\"⛔ CRITICAL: articles.ts image rewrite has been broken by this edit. Revert immediately.\"},\"decision\":\"block\",\"reason\":\"Image rewrite removed — would break all blog images\"}}';;  *deploy.sh*) grep -q 'exclude=\"wp-content/\"' \"$f\" && echo '{\"hookSpecificOutput\":{\"hookEventName\":\"PostToolUse\",\"additionalContext\":\"✅ deploy.sh wp-content exclude intact.\"}}' || echo '{\"hookSpecificOutput\":{\"hookEventName\":\"PostToolUse\",\"additionalContext\":\"⛔ CRITICAL: deploy.sh missing wp-content exclude. Revert immediately.\"},\"decision\":\"block\",\"reason\":\"Missing exclude would delete server symlink and break all images\"}}';;  *) true;;  esac; }"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -7,7 +7,7 @@ import type { Article } from "@/lib/articles";
 
 const CATEGORY_NAV = [
   { label: "All",           href: "/blog",                           param: null },
-  { label: "Crypto",        href: "/blog?category=Cryptocurrencies", param: "Cryptocurrencies" },
+  { label: "Crypto",        href: "/blog?category=guides", param: "Cryptocurrencies" },
   { label: "XRP",           href: "/blog?category=XRP",              param: "XRP" },
   { label: "AI",            href: "/blog?category=AI",               param: "AI" },
   { label: "DeFi",          href: "/blog?category=DeFi",             param: "DeFi" },
@@ -17,7 +17,7 @@ const CATEGORY_NAV = [
 ];
 
 const EXPLORE = [
-  { label: "Crypto Guides",    href: "/blog?category=Cryptocurrencies" },
+  { label: "Crypto Guides",    href: "/blog?category=guides" },
   { label: "AI & Technology",  href: "/blog?category=AI" },
   { label: "Exchange Reviews", href: "/blog?category=Reviews" },
   { label: "Digital Tools",    href: "/free-tools" },

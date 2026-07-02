@@ -5,6 +5,7 @@ import { useEffect } from "react";
 const CATEGORY_NAV = [
   { label: "All",       href: "/blog",                           param: "" },
   { label: "Crypto",    href: "/blog?category=Cryptocurrencies", param: "cryptocurrencies" },
+  { label: "Guides",   href: "/blog?category=guides",          param: "guides" },
   { label: "XRP",       href: "/blog?category=XRP",              param: "xrp" },
   { label: "AI",        href: "/blog?category=AI",               param: "ai" },
   { label: "DeFi",      href: "/blog?category=DeFi",             param: "defi" },

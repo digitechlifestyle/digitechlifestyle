@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 };
 
 const EXPLORE = [
-  { label: "Crypto Guides",    href: "/blog?category=Cryptocurrencies" },
+  { label: "Crypto Guides",    href: "/blog?category=guides" },
   { label: "AI & Technology",  href: "/blog?category=AI" },
   { label: "Exchange Reviews", href: "/blog?category=Reviews" },
   { label: "Digital Tools",    href: "/free-tools" },
@@ -36,6 +36,7 @@ function tagClass(category: string) {
 
 function dataCat(category: string): string {
   const c = category.toLowerCase();
+  if (c === "crypto guides" || c === "uk crypto tax" || c === "wallet safety") return "guides";
   if (c.includes("bitcoin") || c.includes("crypto") || c.includes("blockchain") || c.includes("xrp") || c.includes("defi") || c.includes("ethereum")) return "cryptocurrencies xrp defi";
   if (c.includes("ai") || c.includes("artificial")) return "ai";
   if (c.includes("review")) return "reviews";

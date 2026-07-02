@@ -46,7 +46,7 @@ function ThemeToggle() {
 }
 
 const NAV = [
-  { label: "Crypto Guides", href: "/blog?category=Cryptocurrencies",  external: false },
+  { label: "Crypto Guides", href: "/blog?category=guides",  external: false },
   { label: "News",          href: "/news",                            external: false },
   { label: "AI Tools",      href: "/tool-directory",                  external: false },
   { label: "Reviews",       href: "/reviews",                         external: false },

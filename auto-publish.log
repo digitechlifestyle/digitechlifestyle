@@ -1,0 +1,16 @@
+[2026-06-26T16:33:27.615Z] === Auto-publish started ===
+[2026-06-26T16:33:27.616Z] Run count: 0
+[2026-06-26T16:33:28.965Z]   Existing: WP28033 2026-06-26 Top 4 Security Risks in Digital Assets and How to 
+[2026-06-26T16:33:28.966Z]   Existing: WP28031 2026-06-26 AI and Creativity: Can Machines Really Make Art an
+[2026-06-26T16:33:28.966Z]   Existing: WP28029 2026-06-26 Chatbots and Virtual Assistants: The Future of Cus
+[2026-06-26T16:33:28.967Z] Selected topics: Deep Learning vs Machine Learning: The Key Differences Explained | AI in Education: Personalised Learning and Automated Grading | The Importance of Self-Custody: Why You Should Own Your Crypto Keys
+[2026-06-26T16:33:28.968Z] Writing article 1: Deep Learning vs Machine Learning: The Key Differences Explained
+[2026-06-26T16:33:28.968Z] Calling Claude CLI...
+[2026-06-26T16:33:29.847Z] ❌ FAILED article 1: Claude CLI failed: 
+[2026-06-26T16:33:29.848Z] Writing article 2: AI in Education: Personalised Learning and Automated Grading
+[2026-06-26T16:33:29.848Z] Calling Claude CLI...
+[2026-06-26T16:33:30.702Z] ❌ FAILED article 2: Claude CLI failed: 
+[2026-06-26T16:33:30.702Z] Writing article 3: The Importance of Self-Custody: Why You Should Own Your Crypto Keys
+[2026-06-26T16:33:30.702Z] Calling Claude CLI...
+[2026-06-26T16:33:31.549Z] ❌ FAILED article 3: Claude CLI failed: 
+[2026-06-26T16:33:31.549Z] ERROR: Zero articles published. Not deploying.

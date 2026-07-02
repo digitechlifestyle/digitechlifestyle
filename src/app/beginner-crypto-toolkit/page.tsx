@@ -69,7 +69,7 @@ const STEPS = [
     desc: "Crypto moves fast. New scams appear every week. Follow reliable UK-focused sources and keep reading. DigiTech Lifestyle publishes new guides and news every day.",
     links: [
       { label: "Latest Crypto News →", href: "/news", external: false, sponsored: false },
-      { label: "All Crypto Guides →", href: "/blog?category=Cryptocurrencies", external: false, sponsored: false },
+      { label: "All Crypto Guides →", href: "/blog?category=guides", external: false, sponsored: false },
       { label: "Free Weekly Newsletter →", href: "/newsletter", external: false, sponsored: false },
     ],
     warning: null,

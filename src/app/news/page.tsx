@@ -29,7 +29,7 @@ export default async function NewsPage() {
               { label: "Reviews",          href: "/reviews" },
               { label: "Resources",        href: "/resources" },
               { label: "Free AI Tools",    href: "/free-tools" },
-              { label: "Crypto Guides",    href: "/blog?category=Cryptocurrencies" },
+              { label: "Crypto Guides",    href: "/blog?category=guides" },
               { label: "AI & Tech",        href: "/blog?category=AI" },
             ].map((l) => (
               <Link key={l.label} href={l.href} style={{

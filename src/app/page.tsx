@@ -4,7 +4,7 @@ import type { Article } from "@/lib/articles";
 import { SidebarAds } from "@/components/SidebarAds";
 
 const TOPICS = [
-  { label: "Bitcoin & Crypto",        href: "/blog?category=Cryptocurrencies" },
+  { label: "Bitcoin & Crypto",        href: "/blog?category=guides" },
   { label: "XRP & Ripple",            href: "/blog?category=XRP" },
   { label: "Artificial Intelligence", href: "/blog?category=AI" },
   { label: "DeFi & Blockchain",       href: "/blog?category=DeFi" },
@@ -13,7 +13,7 @@ const TOPICS = [
 ];
 
 const EXPLORE = [
-  { label: "Crypto Guides",      href: "/blog?category=Cryptocurrencies" },
+  { label: "Crypto Guides",      href: "/blog?category=guides" },
   { label: "AI & Technology",    href: "/blog?category=AI" },
   { label: "Exchange Reviews",   href: "/blog?category=Reviews" },
   { label: "Digital Tools",      href: "/free-tools" },
@@ -122,8 +122,8 @@ export default async function Home() {
           </p>
           <div style={{ display: "flex", flexWrap: "wrap", gap: "8px" }}>
             {[
-              { label: "What is Bitcoin?",          href: "/blog?category=Cryptocurrencies" },
-              { label: "How to buy crypto safely",  href: "/blog?category=Cryptocurrencies" },
+              { label: "What is Bitcoin?",          href: "/blog?category=guides" },
+              { label: "How to buy crypto safely",  href: "/blog?category=guides" },
               { label: "Best free AI tools",        href: "/free-tools" },
               { label: "Exchange reviews",          href: "/blog?category=Reviews" },
               { label: "DeFi explained",            href: "/blog?category=DeFi" },

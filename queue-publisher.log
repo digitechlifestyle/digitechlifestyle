@@ -1,0 +1,312 @@
+[2026-06-26T16:46:23.638Z] === Queue publisher started ===
+[2026-06-26T16:46:23.640Z] Queue: 14 articles waiting
+[2026-06-26T16:46:23.640Z] Publishing: Deep Learning vs Machine Learning: What's the Difference?
+[2026-06-26T16:46:23.640Z] [DRY RUN] Would publish: Deep Learning vs Machine Learning: What's the Difference? with image 3861969
+[2026-06-26T16:46:23.640Z] Publishing: Prompt Engineering: How to Get Better Results from AI Tools
+[2026-06-26T16:46:23.641Z] [DRY RUN] Would publish: Prompt Engineering: How to Get Better Results from AI Tools with image 8386440
+[2026-06-26T16:46:23.641Z] Published 2 articles. Deploying site...
+[2026-06-26T16:46:23.641Z] [DRY RUN] Would run deploy.sh
+[2026-06-26T16:46:23.641Z] Queue remaining: 14 articles
+[2026-06-26T16:46:23.641Z] === Done: 2/2 published ===
+[2026-06-26T16:46:23.641Z]   WP0: Deep Learning vs Machine Learning: What's the Difference?
+[2026-06-26T16:46:23.641Z]   WP0: Prompt Engineering: How to Get Better Results from AI Tools
+[2026-06-26T16:46:28.641Z] === Queue publisher started ===
+[2026-06-26T16:46:28.642Z] Queue: 14 articles waiting
+[2026-06-26T16:46:28.642Z] Publishing: Deep Learning vs Machine Learning: What's the Difference?
+[2026-06-26T16:46:28.642Z] Fetching image: 3861969
+[2026-06-26T16:46:30.410Z] Media uploaded: 28034
+[2026-06-26T16:46:31.849Z] Post created: WP28035 status=publish
+[2026-06-26T16:46:31.852Z] ✅ Done: WP28035 — Deep Learning vs Machine Learning: What's the Difference?
+[2026-06-26T16:46:31.852Z] Publishing: Prompt Engineering: How to Get Better Results from AI Tools
+[2026-06-26T16:46:31.853Z] Fetching image: 8386440
+[2026-06-26T16:46:32.946Z] Media uploaded: 28036
+[2026-06-26T16:46:34.303Z] Post created: WP28037 status=publish
+[2026-06-26T16:46:34.304Z] ✅ Done: WP28037 — Prompt Engineering: How to Get Better Results from AI Tools
+[2026-06-26T16:46:34.304Z] Published 2 articles. Deploying site...
+[2026-06-26T16:49:07.773Z] ✅ Deploy complete
+[2026-06-26T16:49:07.774Z] Queue remaining: 12 articles
+[2026-06-26T16:49:07.774Z] === Done: 2/2 published ===
+[2026-06-26T16:49:07.774Z]   WP28035: Deep Learning vs Machine Learning: What's the Difference?
+[2026-06-26T16:49:07.774Z]   WP28037: Prompt Engineering: How to Get Better Results from AI Tools
+[2026-06-26T17:58:09.939Z] === Queue publisher started ===
+[2026-06-26T17:58:09.940Z] Queue: 12 articles waiting
+[2026-06-26T17:58:09.940Z] Publishing: Crypto Tax UK: Complete HMRC Guide for 2026
+[2026-06-26T17:58:09.940Z] Fetching image: 6802042
+[2026-06-26T17:58:12.029Z] Media uploaded: 28044
+[2026-06-26T17:58:13.512Z] Post created: WP28045 status=publish
+[2026-06-26T17:58:13.515Z] ✅ Done: WP28045 — Crypto Tax UK: Complete HMRC Guide for 2026
+[2026-06-26T17:58:13.516Z] Publishing: AI and Water: How Data Centres Are Draining Our Resources
+[2026-06-26T17:58:13.516Z] Fetching image: 1108572
+[2026-06-26T17:58:14.814Z] Media uploaded: 28046
+[2026-06-26T17:58:16.225Z] Post created: WP28047 status=publish
+[2026-06-26T17:58:16.226Z] ✅ Done: WP28047 — AI and Water: How Data Centres Are Draining Our Resources
+[2026-06-26T17:58:16.226Z] Published 2 articles. Deploying site...
+[2026-06-26T18:00:47.137Z] ✅ Deploy complete
+[2026-06-26T18:00:47.137Z] Queue remaining: 10 articles
+[2026-06-26T18:00:47.137Z] === Done: 2/2 published ===
+[2026-06-26T18:00:47.137Z]   WP28045: Crypto Tax UK: Complete HMRC Guide for 2026
+[2026-06-26T18:00:47.137Z]   WP28047: AI and Water: How Data Centres Are Draining Our Resources
+[2026-06-27T08:00:46.972Z] === Queue publisher started ===
+[2026-06-27T08:00:46.972Z] === Queue publisher started ===
+[2026-06-27T08:00:46.974Z] Queue: 10 articles waiting
+[2026-06-27T08:00:46.974Z] Queue: 10 articles waiting
+[2026-06-27T08:00:48.084Z] Date slot 0: 2026-06-26T13:00:00
+[2026-06-27T08:00:48.084Z] Date slot 0: 2026-06-26T13:00:00
+[2026-06-27T08:00:48.085Z] Publishing: Bitcoin vs Ethereum: Which Should UK Investors Hold in 2026?
+[2026-06-27T08:00:48.085Z] Publishing: Bitcoin vs Ethereum: Which Should UK Investors Hold in 2026?
+[2026-06-27T08:00:48.086Z] Fetching image: 844124
+[2026-06-27T08:00:48.086Z] Fetching image: 844124
+[2026-06-27T08:00:49.545Z] Media uploaded: 28054
+[2026-06-27T08:00:49.545Z] Media uploaded: 28054
+[2026-06-27T08:00:50.950Z] Post created: WP28055 status=publish
+[2026-06-27T08:00:50.950Z] Post created: WP28055 status=publish
+[2026-06-27T08:00:50.952Z] ✅ Done: WP28055 — Bitcoin vs Ethereum: Which Should UK Investors Hold in 2026?
+[2026-06-27T08:00:50.952Z] ✅ Done: WP28055 — Bitcoin vs Ethereum: Which Should UK Investors Hold in 2026?
+[2026-06-27T08:00:51.457Z] Date slot 1: 2026-06-26T14:00:00
+[2026-06-27T08:00:51.457Z] Date slot 1: 2026-06-26T14:00:00
+[2026-06-27T08:00:51.458Z] Publishing: Staking Explained: How to Earn Passive Income from Crypto in 2026
+[2026-06-27T08:00:51.458Z] Publishing: Staking Explained: How to Earn Passive Income from Crypto in 2026
+[2026-06-27T08:00:51.458Z] Fetching image: 6770614
+[2026-06-27T08:00:51.458Z] Fetching image: 6770614
+[2026-06-27T08:00:52.042Z] Media uploaded: 28056
+[2026-06-27T08:00:52.042Z] Media uploaded: 28056
+[2026-06-27T08:00:53.242Z] Post created: WP28057 status=publish
+[2026-06-27T08:00:53.242Z] Post created: WP28057 status=publish
+[2026-06-27T08:00:53.242Z] ✅ Done: WP28057 — Staking Explained: How to Earn Passive Income from Crypto in 2026
+[2026-06-27T08:00:53.242Z] ✅ Done: WP28057 — Staking Explained: How to Earn Passive Income from Crypto in 2026
+[2026-06-27T08:00:53.243Z] Published 2 articles. Deploying site...
+[2026-06-27T08:00:53.243Z] Published 2 articles. Deploying site...
+[2026-06-27T08:00:59.307Z] ❌ Deploy failed: Command failed: bash "/Users/joerobertson/Claude - Flowstate/digitechlifestyle/deploy.sh"
+[2026-06-27T08:00:59.307Z] ❌ Deploy failed: Command failed: bash "/Users/joerobertson/Claude - Flowstate/digitechlifestyle/deploy.sh"
+[2026-06-27T08:00:59.307Z] Queue remaining: 8 articles
+[2026-06-27T08:00:59.307Z] Queue remaining: 8 articles
+[2026-06-27T08:00:59.307Z] === Done: 2/2 published ===
+[2026-06-27T08:00:59.307Z] === Done: 2/2 published ===
+[2026-06-27T08:00:59.307Z]   WP28055: Bitcoin vs Ethereum: Which Should UK Investors Hold in 2026?
+[2026-06-27T08:00:59.307Z]   WP28055: Bitcoin vs Ethereum: Which Should UK Investors Hold in 2026?
+[2026-06-27T08:00:59.307Z]   WP28057: Staking Explained: How to Earn Passive Income from Crypto in 2026
+[2026-06-27T08:00:59.307Z]   WP28057: Staking Explained: How to Earn Passive Income from Crypto in 2026
+[2026-06-27T21:42:50.801Z] === Queue publisher started ===
+[2026-06-27T21:42:50.802Z] Queue: 8 articles waiting
+[2026-06-27T21:42:51.937Z] Date slot 0: 2026-06-26T14:00:00
+[2026-06-27T21:42:51.938Z] Publishing: Dollar Cost Averaging Crypto: Does It Actually Work for UK Investors?
+[2026-06-27T21:42:51.938Z] [DRY RUN] Would publish: Dollar Cost Averaging Crypto: Does It Actually Work for UK Investors? with image 4386424
+[2026-06-27T21:42:52.345Z] Date slot 1: 2026-06-26T15:00:00
+[2026-06-27T21:42:52.346Z] Publishing: Self-Custody: Why You Should Own Your Crypto Keys
+[2026-06-27T21:42:52.346Z] [DRY RUN] Would publish: Self-Custody: Why You Should Own Your Crypto Keys with image 7047268
+[2026-06-27T21:42:52.346Z] Published 2 articles. Deploying site...
+[2026-06-27T21:42:52.346Z] [DRY RUN] Would run deploy.sh
+[2026-06-27T21:42:52.347Z] Queue remaining: 8 articles
+[2026-06-27T21:42:52.347Z] === Done: 2/2 published ===
+[2026-06-27T21:42:52.347Z]   WP0: Dollar Cost Averaging Crypto: Does It Actually Work for UK Investors?
+[2026-06-27T21:42:52.347Z]   WP0: Self-Custody: Why You Should Own Your Crypto Keys
+[2026-06-28T00:06:31.760Z] === Queue publisher started ===
+[2026-06-28T00:06:31.761Z] Queue: 8 articles waiting
+[2026-06-28T00:06:34.853Z] Date slot 0: 2026-06-26T14:00:00
+[2026-06-28T00:06:34.853Z] Publishing: Dollar Cost Averaging Crypto: Does It Actually Work for UK Investors?
+[2026-06-28T00:06:34.854Z] Fetching image: 4386424
+[2026-06-28T00:06:36.799Z] Media uploaded: 28058
+[2026-06-28T00:06:38.130Z] Post created: WP28059 status=publish
+[2026-06-28T00:06:38.132Z] ✅ Done: WP28059 — Dollar Cost Averaging Crypto: Does It Actually Work for UK Investors?
+[2026-06-28T00:06:38.639Z] Date slot 1: 2026-06-26T15:00:00
+[2026-06-28T00:06:38.640Z] Publishing: Self-Custody: Why You Should Own Your Crypto Keys
+[2026-06-28T00:06:38.640Z] Fetching image: 7047268
+[2026-06-28T00:06:39.359Z] Media uploaded: 28060
+[2026-06-28T00:06:40.664Z] Post created: WP28061 status=publish
+[2026-06-28T00:06:40.665Z] ✅ Done: WP28061 — Self-Custody: Why You Should Own Your Crypto Keys
+[2026-06-28T00:06:40.665Z] Published 2 articles. Deploying site...
+[2026-06-28T00:45:04.670Z] ❌ Deploy failed: spawnSync /bin/sh ETIMEDOUT
+[2026-06-28T00:45:04.671Z] Queue remaining: 6 articles
+[2026-06-28T00:45:04.671Z] === Done: 2/2 published ===
+[2026-06-28T00:45:04.671Z]   WP28059: Dollar Cost Averaging Crypto: Does It Actually Work for UK Investors?
+[2026-06-28T00:45:04.671Z]   WP28061: Self-Custody: Why You Should Own Your Crypto Keys
+[2026-06-28T08:00:02.856Z] === Queue publisher started ===
+[2026-06-28T08:00:02.856Z] === Queue publisher started ===
+[2026-06-28T08:00:02.858Z] Queue: 6 articles waiting
+[2026-06-28T08:00:02.858Z] Queue: 6 articles waiting
+[2026-06-28T08:00:05.760Z] Date slot 0: 2026-06-26T15:00:00
+[2026-06-28T08:00:05.760Z] Date slot 0: 2026-06-26T15:00:00
+[2026-06-28T08:00:05.761Z] Publishing: AI in UK Healthcare: How Technology Is Changing Diagnosis and Treatment
+[2026-06-28T08:00:05.761Z] Publishing: AI in UK Healthcare: How Technology Is Changing Diagnosis and Treatment
+[2026-06-28T08:00:05.761Z] Fetching image: 4386369
+[2026-06-28T08:00:05.761Z] Fetching image: 4386369
+[2026-06-28T08:00:07.905Z] Media uploaded: 28062
+[2026-06-28T08:00:07.905Z] Media uploaded: 28062
+[2026-06-28T08:00:09.341Z] Post created: WP28063 status=publish
+[2026-06-28T08:00:09.341Z] Post created: WP28063 status=publish
+[2026-06-28T08:00:09.342Z] ✅ Done: WP28063 — AI in UK Healthcare: How Technology Is Changing Diagnosis and Treatment
+[2026-06-28T08:00:09.342Z] ✅ Done: WP28063 — AI in UK Healthcare: How Technology Is Changing Diagnosis and Treatment
+[2026-06-28T08:00:09.849Z] Date slot 1: 2026-06-26T16:00:00
+[2026-06-28T08:00:09.849Z] Date slot 1: 2026-06-26T16:00:00
+[2026-06-28T08:00:09.852Z] Publishing: Chatbots and Customer Service: What AI Is Actually Changing
+[2026-06-28T08:00:09.852Z] Publishing: Chatbots and Customer Service: What AI Is Actually Changing
+[2026-06-28T08:00:09.852Z] Fetching image: 5669619
+[2026-06-28T08:00:09.852Z] Fetching image: 5669619
+[2026-06-28T08:00:11.596Z] Media uploaded: 28064
+[2026-06-28T08:00:11.596Z] Media uploaded: 28064
+[2026-06-28T08:00:13.025Z] Post created: WP28065 status=publish
+[2026-06-28T08:00:13.025Z] Post created: WP28065 status=publish
+[2026-06-28T08:00:13.025Z] ✅ Done: WP28065 — Chatbots and Customer Service: What AI Is Actually Changing
+[2026-06-28T08:00:13.025Z] ✅ Done: WP28065 — Chatbots and Customer Service: What AI Is Actually Changing
+[2026-06-28T08:00:13.025Z] Published 2 articles. Site rebuilds on next deploy-hourly run.
+[2026-06-28T08:00:13.025Z] Published 2 articles. Site rebuilds on next deploy-hourly run.
+[2026-06-28T08:00:13.025Z] Queue remaining: 4 articles
+[2026-06-28T08:00:13.025Z] Queue remaining: 4 articles
+[2026-06-28T08:00:13.025Z] === Done: 2/2 published ===
+[2026-06-28T08:00:13.025Z] === Done: 2/2 published ===
+[2026-06-28T08:00:13.025Z]   WP28063: AI in UK Healthcare: How Technology Is Changing Diagnosis and Treatment
+[2026-06-28T08:00:13.025Z]   WP28063: AI in UK Healthcare: How Technology Is Changing Diagnosis and Treatment
+[2026-06-28T08:00:13.025Z]   WP28065: Chatbots and Customer Service: What AI Is Actually Changing
+[2026-06-28T08:00:13.025Z]   WP28065: Chatbots and Customer Service: What AI Is Actually Changing
+[2026-06-29T08:11:14.071Z] === Queue publisher started ===
+[2026-06-29T08:11:14.071Z] === Queue publisher started ===
+[2026-06-29T08:11:14.072Z] Queue: 13 articles waiting
+[2026-06-29T08:11:14.072Z] Queue: 13 articles waiting
+[2026-06-29T08:11:14.072Z] Date slot 0: 2026-06-29T07:41:14
+[2026-06-29T08:11:14.072Z] Date slot 0: 2026-06-29T07:41:14
+[2026-06-29T08:11:14.073Z] Publishing: The Psychology of Crypto Investing: Avoiding FOMO and Panic Selling
+[2026-06-29T08:11:14.073Z] Publishing: The Psychology of Crypto Investing: Avoiding FOMO and Panic Selling
+[2026-06-29T08:11:14.073Z] Fetching image: 4386424
+[2026-06-29T08:11:14.073Z] Fetching image: 4386424
+[2026-06-29T08:11:20.873Z] Media uploaded: 28076
+[2026-06-29T08:11:20.873Z] Media uploaded: 28076
+[2026-06-29T08:11:22.319Z] Post created: WP28077 status=publish
+[2026-06-29T08:11:22.319Z] Post created: WP28077 status=publish
+[2026-06-29T08:11:22.322Z] ✅ Done: WP28077 — The Psychology of Crypto Investing: Avoiding FOMO and Panic Selling
+[2026-06-29T08:11:22.322Z] ✅ Done: WP28077 — The Psychology of Crypto Investing: Avoiding FOMO and Panic Selling
+[2026-06-29T08:11:22.322Z] Date slot 1: 2026-06-29T07:56:22
+[2026-06-29T08:11:22.322Z] Date slot 1: 2026-06-29T07:56:22
+[2026-06-29T08:11:22.323Z] Publishing: How AI Is Changing the UK Job Market in 2026
+[2026-06-29T08:11:22.323Z] Publishing: How AI Is Changing the UK Job Market in 2026
+[2026-06-29T08:11:22.323Z] Fetching image: 3184418
+[2026-06-29T08:11:22.323Z] Fetching image: 3184418
+[2026-06-29T08:11:23.548Z] Media uploaded: 28078
+[2026-06-29T08:11:23.548Z] Media uploaded: 28078
+[2026-06-29T08:11:24.759Z] Post created: WP28079 status=publish
+[2026-06-29T08:11:24.759Z] Post created: WP28079 status=publish
+[2026-06-29T08:11:24.760Z] ✅ Done: WP28079 — How AI Is Changing the UK Job Market in 2026
+[2026-06-29T08:11:24.760Z] ✅ Done: WP28079 — How AI Is Changing the UK Job Market in 2026
+[2026-06-29T08:11:24.760Z] Published 2 articles. Site rebuilds on next deploy-hourly run.
+[2026-06-29T08:11:24.760Z] Published 2 articles. Site rebuilds on next deploy-hourly run.
+[2026-06-29T08:11:24.760Z] Queue remaining: 11 articles
+[2026-06-29T08:11:24.760Z] Queue remaining: 11 articles
+[2026-06-29T08:11:24.760Z] === Done: 2/2 published ===
+[2026-06-29T08:11:24.760Z] === Done: 2/2 published ===
+[2026-06-29T08:11:24.760Z]   WP28077: The Psychology of Crypto Investing: Avoiding FOMO and Panic Selling
+[2026-06-29T08:11:24.760Z]   WP28077: The Psychology of Crypto Investing: Avoiding FOMO and Panic Selling
+[2026-06-29T08:11:24.760Z]   WP28079: How AI Is Changing the UK Job Market in 2026
+[2026-06-29T08:11:24.760Z]   WP28079: How AI Is Changing the UK Job Market in 2026
+[2026-06-30T08:04:23.129Z] === Queue publisher started ===
+[2026-06-30T08:04:23.129Z] === Queue publisher started ===
+[2026-06-30T08:04:23.134Z] Queue: 11 articles waiting
+[2026-06-30T08:04:23.134Z] Queue: 11 articles waiting
+[2026-06-30T08:04:23.134Z] Date slot 0: 2026-06-30T07:34:23
+[2026-06-30T08:04:23.134Z] Date slot 0: 2026-06-30T07:34:23
+[2026-06-30T08:04:23.135Z] Publishing: DeFi Explained: What Is Decentralised Finance and How Does It Work?
+[2026-06-30T08:04:23.135Z] Publishing: DeFi Explained: What Is Decentralised Finance and How Does It Work?
+[2026-06-30T08:04:23.135Z] Fetching image: 6801648
+[2026-06-30T08:04:23.135Z] Fetching image: 6801648
+[2026-06-30T08:04:26.809Z] Media uploaded: 28080
+[2026-06-30T08:04:26.809Z] Media uploaded: 28080
+[2026-06-30T08:04:28.091Z] Post created: WP28081 status=publish
+[2026-06-30T08:04:28.091Z] Post created: WP28081 status=publish
+[2026-06-30T08:04:28.092Z] ✅ Done: WP28081 — DeFi Explained: What Is Decentralised Finance and How Does It Work?
+[2026-06-30T08:04:28.092Z] ✅ Done: WP28081 — DeFi Explained: What Is Decentralised Finance and How Does It Work?
+[2026-06-30T08:04:28.092Z] Date slot 1: 2026-06-30T07:49:28
+[2026-06-30T08:04:28.092Z] Date slot 1: 2026-06-30T07:49:28
+[2026-06-30T08:04:28.093Z] Publishing: AI Regulation in the UK: What the New Rules Mean for Businesses and Consumers
+[2026-06-30T08:04:28.093Z] Publishing: AI Regulation in the UK: What the New Rules Mean for Businesses and Consumers
+[2026-06-30T08:04:28.093Z] Fetching image: 2582937
+[2026-06-30T08:04:28.093Z] Fetching image: 2582937
+[2026-06-30T08:04:29.769Z] Media uploaded: 28082
+[2026-06-30T08:04:29.769Z] Media uploaded: 28082
+[2026-06-30T08:04:31.050Z] Post created: WP28083 status=publish
+[2026-06-30T08:04:31.050Z] Post created: WP28083 status=publish
+[2026-06-30T08:04:31.051Z] ✅ Done: WP28083 — AI Regulation in the UK: What the New Rules Mean for Businesses and Consumers
+[2026-06-30T08:04:31.051Z] ✅ Done: WP28083 — AI Regulation in the UK: What the New Rules Mean for Businesses and Consumers
+[2026-06-30T08:04:31.051Z] Published 2 articles. Site rebuilds on next deploy-hourly run.
+[2026-06-30T08:04:31.051Z] Published 2 articles. Site rebuilds on next deploy-hourly run.
+[2026-06-30T08:04:31.051Z] Queue remaining: 9 articles
+[2026-06-30T08:04:31.051Z] Queue remaining: 9 articles
+[2026-06-30T08:04:31.051Z] === Done: 2/2 published ===
+[2026-06-30T08:04:31.051Z] === Done: 2/2 published ===
+[2026-06-30T08:04:31.052Z]   WP28081: DeFi Explained: What Is Decentralised Finance and How Does It Work?
+[2026-06-30T08:04:31.052Z]   WP28081: DeFi Explained: What Is Decentralised Finance and How Does It Work?
+[2026-06-30T08:04:31.052Z]   WP28083: AI Regulation in the UK: What the New Rules Mean for Businesses and Consumers
+[2026-06-30T08:04:31.052Z]   WP28083: AI Regulation in the UK: What the New Rules Mean for Businesses and Consumers
+[2026-07-01T08:00:00.320Z] === Queue publisher started ===
+[2026-07-01T08:00:00.320Z] === Queue publisher started ===
+[2026-07-01T08:00:00.341Z] Queue: 9 articles waiting
+[2026-07-01T08:00:00.341Z] Queue: 9 articles waiting
+[2026-07-01T08:00:00.341Z] Date slot 0: 2026-07-01T07:30:00
+[2026-07-01T08:00:00.341Z] Date slot 0: 2026-07-01T07:30:00
+[2026-07-01T08:00:00.341Z] Publishing: Crypto Lending Platforms: How They Work and the Risks for UK Investors
+[2026-07-01T08:00:00.341Z] Publishing: Crypto Lending Platforms: How They Work and the Risks for UK Investors
+[2026-07-01T08:00:00.341Z] Fetching image: 3861969
+[2026-07-01T08:00:00.341Z] Fetching image: 3861969
+[2026-07-01T08:00:05.132Z] Media uploaded: 28093
+[2026-07-01T08:00:05.132Z] Media uploaded: 28093
+[2026-07-01T08:00:09.629Z] Post created: WP28094 status=publish
+[2026-07-01T08:00:09.629Z] Post created: WP28094 status=publish
+[2026-07-01T08:00:09.631Z] ✅ Done: WP28094 — Crypto Lending Platforms: How They Work and the Risks for UK Investors
+[2026-07-01T08:00:09.631Z] ✅ Done: WP28094 — Crypto Lending Platforms: How They Work and the Risks for UK Investors
+[2026-07-01T08:00:09.631Z] Date slot 1: 2026-07-01T07:45:09
+[2026-07-01T08:00:09.631Z] Date slot 1: 2026-07-01T07:45:09
+[2026-07-01T08:00:09.632Z] Publishing: Computer Vision Explained: How AI Sees the World
+[2026-07-01T08:00:09.632Z] Publishing: Computer Vision Explained: How AI Sees the World
+[2026-07-01T08:00:09.632Z] Fetching image: 8386440
+[2026-07-01T08:00:09.632Z] Fetching image: 8386440
+[2026-07-01T08:00:13.146Z] Media uploaded: 28095
+[2026-07-01T08:00:13.146Z] Media uploaded: 28095
+[2026-07-01T08:00:16.181Z] Post created: WP28096 status=publish
+[2026-07-01T08:00:16.181Z] Post created: WP28096 status=publish
+[2026-07-01T08:00:16.182Z] ✅ Done: WP28096 — Computer Vision Explained: How AI Sees the World
+[2026-07-01T08:00:16.182Z] ✅ Done: WP28096 — Computer Vision Explained: How AI Sees the World
+[2026-07-01T08:00:16.182Z] Published 2 articles. Site rebuilds on next deploy-hourly run.
+[2026-07-01T08:00:16.182Z] Published 2 articles. Site rebuilds on next deploy-hourly run.
+[2026-07-01T08:00:16.183Z] Queue remaining: 7 articles
+[2026-07-01T08:00:16.183Z] Queue remaining: 7 articles
+[2026-07-01T08:00:16.183Z] === Done: 2/2 published ===
+[2026-07-01T08:00:16.183Z] === Done: 2/2 published ===
+[2026-07-01T08:00:16.183Z]   WP28094: Crypto Lending Platforms: How They Work and the Risks for UK Investors
+[2026-07-01T08:00:16.183Z]   WP28094: Crypto Lending Platforms: How They Work and the Risks for UK Investors
+[2026-07-01T08:00:16.183Z]   WP28096: Computer Vision Explained: How AI Sees the World
+[2026-07-01T08:00:16.183Z]   WP28096: Computer Vision Explained: How AI Sees the World
+[2026-07-02T08:07:05.703Z] === Queue publisher started ===
+[2026-07-02T08:07:05.703Z] === Queue publisher started ===
+[2026-07-02T08:07:05.705Z] Queue: 7 articles waiting
+[2026-07-02T08:07:05.705Z] Queue: 7 articles waiting
+[2026-07-02T08:07:05.705Z] Date slot 0: 2026-07-02T07:37:05
+[2026-07-02T08:07:05.705Z] Date slot 0: 2026-07-02T07:37:05
+[2026-07-02T08:07:05.706Z] Publishing: Hardware Wallets: A UK Buyer's Guide to Ledger and Trezor in 2026
+[2026-07-02T08:07:05.706Z] Publishing: Hardware Wallets: A UK Buyer's Guide to Ledger and Trezor in 2026
+[2026-07-02T08:07:05.706Z] Fetching image: 6802042
+[2026-07-02T08:07:05.706Z] Fetching image: 6802042
+[2026-07-02T08:07:07.788Z] Media uploaded: 28103
+[2026-07-02T08:07:07.788Z] Media uploaded: 28103
+[2026-07-02T08:07:09.088Z] Post created: WP28104 status=publish
+[2026-07-02T08:07:09.088Z] Post created: WP28104 status=publish
+[2026-07-02T08:07:09.090Z] ✅ Done: WP28104 — Hardware Wallets: A UK Buyer's Guide to Ledger and Trezor in 2026
+[2026-07-02T08:07:09.090Z] ✅ Done: WP28104 — Hardware Wallets: A UK Buyer's Guide to Ledger and Trezor in 2026
+[2026-07-02T08:07:09.090Z] Date slot 1: 2026-07-02T07:52:09
+[2026-07-02T08:07:09.090Z] Date slot 1: 2026-07-02T07:52:09
+[2026-07-02T08:07:09.091Z] Publishing: Reinforcement Learning: How AI Learns by Trial and Error
+[2026-07-02T08:07:09.091Z] Publishing: Reinforcement Learning: How AI Learns by Trial and Error
+[2026-07-02T08:07:09.091Z] Fetching image: 1108572
+[2026-07-02T08:07:09.091Z] Fetching image: 1108572
+[2026-07-02T08:07:11.312Z] Media uploaded: 28105
+[2026-07-02T08:07:11.312Z] Media uploaded: 28105
+[2026-07-02T08:07:12.638Z] Post created: WP28106 status=publish
+[2026-07-02T08:07:12.638Z] Post created: WP28106 status=publish
+[2026-07-02T08:07:12.639Z] ✅ Done: WP28106 — Reinforcement Learning: How AI Learns by Trial and Error
+[2026-07-02T08:07:12.639Z] ✅ Done: WP28106 — Reinforcement Learning: How AI Learns by Trial and Error
+[2026-07-02T08:07:12.639Z] Published 2 articles. Site rebuilds on next deploy-hourly run.
+[2026-07-02T08:07:12.639Z] Published 2 articles. Site rebuilds on next deploy-hourly run.
+[2026-07-02T08:07:12.639Z] Queue remaining: 5 articles
+[2026-07-02T08:07:12.639Z] Queue remaining: 5 articles
+[2026-07-02T08:07:12.639Z] === Done: 2/2 published ===
+[2026-07-02T08:07:12.639Z] === Done: 2/2 published ===
+[2026-07-02T08:07:12.639Z]   WP28104: Hardware Wallets: A UK Buyer's Guide to Ledger and Trezor in 2026
+[2026-07-02T08:07:12.639Z]   WP28104: Hardware Wallets: A UK Buyer's Guide to Ledger and Trezor in 2026
+[2026-07-02T08:07:12.639Z]   WP28106: Reinforcement Learning: How AI Learns by Trial and Error
+[2026-07-02T08:07:12.639Z]   WP28106: Reinforcement Learning: How AI Learns by Trial and Error

@@ -193,7 +193,7 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
             <div style={{ display: "flex", flexWrap: "wrap", gap: "8px" }}>
               {[
                 { label: "Latest News",        href: "/blog" },
-                { label: "Crypto Guides",      href: "/blog?category=Cryptocurrencies" },
+                { label: "Crypto Guides",      href: "/blog?category=guides" },
                 { label: "AI & Technology",    href: "/blog?category=AI" },
                 { label: "Exchange Reviews",   href: "/blog?category=Reviews" },
                 { label: "DeFi & Blockchain",  href: "/blog?category=DeFi" },
