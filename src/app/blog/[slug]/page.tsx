@@ -27,8 +27,17 @@ export async function generateMetadata({ params }: BlogPostProps): Promise<Metad
     openGraph: {
       title: article.title,
       description: article.description,
+      url: `https://digitechlifestyle.com/blog/${article.slug}`,
       type: "article",
       publishedTime: article.date,
+      siteName: "DigiTech Lifestyle",
+      ...(article.image ? { images: [{ url: article.image, width: 1200, height: 630, alt: article.title }] } : {}),
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: article.title,
+      description: article.description,
+      ...(article.image ? { images: [article.image] } : {}),
     },
   };
 }
@@ -39,13 +48,39 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
 
   if (!article) notFound();
 
+  const allArticles = await getArticles();
+  const related = allArticles
+    .filter((a) => a.category === article.category && a.slug !== slug)
+    .slice(0, 3);
+
   const schema = {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: article.title,
     description: article.description,
     datePublished: article.date,
-    author: { "@type": "Organization", name: article.author },
+    dateModified: article.date,
+    url: `https://digitechlifestyle.com/blog/${article.slug}`,
+    author: {
+      "@type": "Person",
+      name: "Joe Robertson",
+      url: "https://digitechlifestyle.com/about",
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "DigiTech Lifestyle",
+      url: "https://digitechlifestyle.com",
+      logo: { "@type": "ImageObject", url: "https://digitechlifestyle.com/favicon.svg" },
+    },
+    ...(article.image ? { image: { "@type": "ImageObject", url: article.image } } : {}),
+    breadcrumb: {
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        { "@type": "ListItem", position: 1, name: "Home", item: "https://digitechlifestyle.com" },
+        { "@type": "ListItem", position: 2, name: "Blog", item: "https://digitechlifestyle.com/blog" },
+        { "@type": "ListItem", position: 3, name: article.title, item: `https://digitechlifestyle.com/blog/${article.slug}` },
+      ],
+    },
   };
 
   return (
@@ -68,11 +103,69 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
               <span className="rounded-full bg-white/5 px-3 py-1 text-[var(--accent)]">{article.category}</span>
               <span>{article.readingTime}</span>
               <span>{new Date(article.date).toLocaleDateString("en", { month: "long", day: "numeric", year: "numeric" })}</span>
+              {new Date(article.date).getFullYear() >= 2026 && (
+                <span style={{ background: "oklch(73% 0.17 78 / 0.15)", border: "1px solid oklch(73% 0.17 78 / 0.4)", color: "var(--amber)", borderRadius: "20px", padding: "2px 10px", fontSize: "11px", fontWeight: 700 }}>✓ Updated for 2026</span>
+              )}
             </div>
             <h1 className="mt-5 text-4xl font-black leading-tight text-white md:text-5xl">{article.title}</h1>
             <p className="mt-5 text-xl leading-8 text-[var(--muted)]">{article.description}</p>
           </div>
           <div className="prose-content mt-8" dangerouslySetInnerHTML={{ __html: markdownToHtml(article.content) }} />
+
+          {/* Author bio */}
+          <div style={{
+            margin: "40px 0 0",
+            padding: "22px 24px",
+            background: "var(--bg-card)",
+            border: "1px solid var(--line)",
+            borderRadius: "12px",
+            display: "flex",
+            gap: "18px",
+            alignItems: "flex-start",
+          }}>
+            <div style={{
+              width: "52px", height: "52px", borderRadius: "50%",
+              background: "oklch(73% 0.17 78 / 0.2)", border: "2px solid oklch(73% 0.17 78 / 0.4)",
+              display: "flex", alignItems: "center", justifyContent: "center",
+              flexShrink: 0, fontSize: "20px", fontWeight: 900, color: "var(--amber)",
+            }}>JR</div>
+            <div style={{ flex: 1 }}>
+              <div style={{ display: "flex", gap: "8px", alignItems: "center", marginBottom: "6px", flexWrap: "wrap" }}>
+                <span style={{ fontSize: "14px", fontWeight: 800, color: "var(--fg)" }}>Joe Robertson</span>
+                <span style={{ fontSize: "10px", fontWeight: 700, padding: "2px 8px", borderRadius: "4px", background: "oklch(73% 0.17 78 / 0.15)", color: "var(--amber)", border: "1px solid oklch(73% 0.17 78 / 0.3)" }}>Author</span>
+              </div>
+              <p style={{ fontSize: "12px", color: "var(--muted)", margin: "0 0 10px", lineHeight: 1.65 }}>
+                Independent UK crypto and AI writer since 2017. I cover Bitcoin, Ethereum, DeFi, and digital lifestyle for everyday UK readers — plain English, no hype, no financial advice. DigiTech Lifestyle is my independent publication.
+              </p>
+              <div style={{ display: "flex", gap: "10px", flexWrap: "wrap" }}>
+                <a href="/about" style={{ fontSize: "11px", fontWeight: 700, color: "var(--amber)", textDecoration: "none" }}>About Joe →</a>
+                <a href="https://x.com/DigiTechLife" target="_blank" rel="noopener noreferrer" style={{ fontSize: "11px", fontWeight: 700, color: "var(--muted)", textDecoration: "none" }}>X / Twitter</a>
+                <a href="/newsletter" style={{ fontSize: "11px", fontWeight: 700, color: "var(--muted)", textDecoration: "none" }}>Newsletter</a>
+              </div>
+            </div>
+          </div>
+
+          {/* Inline newsletter CTA */}
+          <div style={{
+            margin: "40px 0 0",
+            padding: "24px 28px",
+            background: "oklch(13% 0.025 240 / 0.7)",
+            border: "1px solid oklch(55% 0.12 240 / 0.3)",
+            borderRadius: "12px",
+          }}>
+            <div style={{ fontSize: "11px", fontWeight: 700, letterSpacing: "0.12em", textTransform: "uppercase", color: "var(--amber)", marginBottom: "6px" }}>Free weekly newsletter</div>
+            <h3 style={{ fontSize: "18px", fontWeight: 800, color: "var(--fg)", margin: "0 0 8px" }}>Stay ahead of the market</h3>
+            <p style={{ fontSize: "13px", color: "var(--muted)", margin: "0 0 16px", lineHeight: 1.55 }}>
+              Weekly crypto, AI, and digital lifestyle insights every Thursday. Join our community of nearly 5,000 across YouTube, LinkedIn, X, and Facebook. No spam. Unsubscribe any time.
+            </p>
+            <form action="/newsletter" method="GET" style={{ display: "flex", gap: "8px", flexWrap: "wrap" }}>
+              <input type="email" name="email" placeholder="Your email address" required autoComplete="email"
+                style={{ flex: "1 1 200px", padding: "10px 14px", borderRadius: "8px", border: "1px solid var(--line)", background: "var(--bg-card)", color: "var(--fg)", fontSize: "13px" }} />
+              <button type="submit" style={{ padding: "10px 20px", borderRadius: "8px", background: "var(--amber)", color: "oklch(8% 0.015 60)", fontWeight: 800, fontSize: "13px", border: "none", cursor: "pointer", whiteSpace: "nowrap" }}>
+                Join free →
+              </button>
+            </form>
+          </div>
 
           {/* Social share buttons */}
           <div style={{
@@ -88,7 +181,7 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
           }}>
             <span style={{ fontSize: "12px", fontWeight: 700, color: "var(--muted)", textTransform: "uppercase", letterSpacing: "0.08em", marginRight: "4px" }}>Share:</span>
             <a
-              href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(article.title)}&url=${encodeURIComponent(`https://www.digitechlifestyle.com/blog/${article.slug}`)}&via=DigiTechLife`}
+              href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(article.title)}&url=${encodeURIComponent(`https://digitechlifestyle.com/blog/${article.slug}`)}&via=DigiTechLife`}
               target="_blank" rel="noopener noreferrer"
               style={{ display: "inline-flex", alignItems: "center", gap: "6px", background: "#000", color: "#fff", fontWeight: 700, fontSize: "12px", padding: "8px 14px", borderRadius: "8px", textDecoration: "none" }}
             >
@@ -96,7 +189,7 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
               X / Twitter
             </a>
             <a
-              href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`https://www.digitechlifestyle.com/blog/${article.slug}`)}`}
+              href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`https://digitechlifestyle.com/blog/${article.slug}`)}`}
               target="_blank" rel="noopener noreferrer"
               style={{ display: "inline-flex", alignItems: "center", gap: "6px", background: "#1877f2", color: "#fff", fontWeight: 700, fontSize: "12px", padding: "8px 14px", borderRadius: "8px", textDecoration: "none" }}
             >
@@ -104,7 +197,7 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
               Facebook
             </a>
             <a
-              href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(`https://www.digitechlifestyle.com/blog/${article.slug}`)}`}
+              href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(`https://digitechlifestyle.com/blog/${article.slug}`)}`}
               target="_blank" rel="noopener noreferrer"
               style={{ display: "inline-flex", alignItems: "center", gap: "6px", background: "#0a66c2", color: "#fff", fontWeight: 700, fontSize: "12px", padding: "8px 14px", borderRadius: "8px", textDecoration: "none" }}
             >
@@ -112,7 +205,7 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
               LinkedIn
             </a>
             <a
-              href={`https://pinterest.com/pin/create/button/?url=${encodeURIComponent(`https://www.digitechlifestyle.com/blog/${article.slug}`)}&description=${encodeURIComponent(article.title)}${article.image ? `&media=${encodeURIComponent(article.image)}` : ""}`}
+              href={`https://pinterest.com/pin/create/button/?url=${encodeURIComponent(`https://digitechlifestyle.com/blog/${article.slug}`)}&description=${encodeURIComponent(article.title)}${article.image ? `&media=${encodeURIComponent(article.image)}` : ""}`}
               target="_blank" rel="noopener noreferrer"
               style={{ display: "inline-flex", alignItems: "center", gap: "6px", background: "#e60023", color: "#fff", fontWeight: 700, fontSize: "12px", padding: "8px 14px", borderRadius: "8px", textDecoration: "none" }}
             >
@@ -121,8 +214,60 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
             </a>
           </div>
 
+          {/* Affiliate disclosure */}
+          <div style={{
+            marginTop: "32px",
+            padding: "14px 18px",
+            background: "var(--bg-tint-amber)",
+            border: "1px solid oklch(73% 0.17 78 / 0.2)",
+            borderRadius: "10px",
+            fontSize: "12px",
+            color: "var(--muted)",
+            lineHeight: 1.6,
+          }}>
+            <strong style={{ color: "var(--fg)" }}>Disclosure:</strong> Some links in this article may be affiliate links. If you click and purchase, DigiTech Lifestyle may earn a small commission at no extra cost to you. This never influences our editorial stance — we only recommend products we genuinely believe in.
+          </div>
+
           <div className="mt-10">
             <AffiliateCta />
+          </div>
+
+          {/* Related articles */}
+          {related.length > 0 && (
+            <div style={{ marginTop: "48px" }}>
+              <div className="section-title" style={{ marginBottom: "16px" }}>Related articles</div>
+              <div style={{ display: "grid", gap: "12px", gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))" }}>
+                {related.map((r) => (
+                  <a key={r.slug} href={`/blog/${r.slug}`} style={{ textDecoration: "none", display: "block", padding: "14px 16px", background: "var(--bg-card)", border: "1px solid var(--line)", borderRadius: "10px" }}>
+                    {r.image && (
+                      <img src={r.image} alt={r.title} loading="lazy" style={{ width: "100%", height: "110px", objectFit: "cover", borderRadius: "6px", marginBottom: "10px", display: "block" }} />
+                    )}
+                    <div style={{ fontSize: "10px", fontWeight: 700, letterSpacing: "0.08em", textTransform: "uppercase", color: "var(--muted)", marginBottom: "4px" }}>{r.category}</div>
+                    <div style={{ fontSize: "13px", fontWeight: 700, color: "var(--fg)", lineHeight: 1.4 }}>{r.title}</div>
+                    <div style={{ fontSize: "11px", color: "var(--amber)", marginTop: "8px", fontWeight: 600 }}>Read article →</div>
+                  </a>
+                ))}
+              </div>
+            </div>
+          )}
+          {/* Internal links nav */}
+          <div style={{ marginTop: "40px", padding: "18px 22px", background: "var(--bg-card)", border: "1px solid var(--line)", borderRadius: "10px" }}>
+            <div style={{ fontSize: "11px", fontWeight: 700, letterSpacing: "0.1em", textTransform: "uppercase", color: "var(--muted)", marginBottom: "10px" }}>More from DigiTech Lifestyle</div>
+            <div style={{ display: "flex", flexWrap: "wrap", gap: "8px" }}>
+              {[
+                { label: "Latest News",        href: "/blog" },
+                { label: "Crypto Guides",      href: "/blog?category=Cryptocurrencies" },
+                { label: "AI & Technology",    href: "/blog?category=AI" },
+                { label: "Exchange Reviews",   href: "/blog?category=Reviews" },
+                { label: "DeFi & Blockchain",  href: "/blog?category=DeFi" },
+                { label: "Free Tools",         href: "/free-tools" },
+                { label: "Resources",          href: "/resources" },
+              ].map((l) => (
+                <a key={l.label} href={l.href} style={{ fontSize: "12px", fontWeight: 600, padding: "6px 12px", borderRadius: "20px", border: "1px solid var(--line)", color: "var(--muted)", textDecoration: "none", background: "transparent" }}>
+                  {l.label}
+                </a>
+              ))}
+            </div>
           </div>
         </article>
         <aside style={{ position: "sticky", top: "80px", display: "grid", gap: "16px", alignContent: "start" }}>
