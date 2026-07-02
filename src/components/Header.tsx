@@ -3,14 +3,57 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 
+function isDaytime() {
+  const h = new Date().getHours();
+  return h >= 7 && h < 20;
+}
+
+function ThemeToggle() {
+  const [isDark, setIsDark] = useState(!isDaytime());
+
+  useEffect(() => {
+    if (isDark) {
+      document.documentElement.removeAttribute("data-theme");
+    } else {
+      document.documentElement.setAttribute("data-theme", "light");
+    }
+  }, [isDark]);
+
+  function toggle() {
+    setIsDark((prev) => !prev);
+  }
+
+  return (
+    <button
+      onClick={toggle}
+      aria-label={isDark ? "Switch to light mode" : "Switch to dark mode"}
+      style={{
+        background: "none",
+        border: "1px solid var(--line)",
+        borderRadius: "6px",
+        cursor: "pointer",
+        padding: "5px 8px",
+        color: "var(--muted)",
+        fontSize: "15px",
+        lineHeight: 1,
+        flexShrink: 0,
+        transition: "color 0.13s, border-color 0.13s",
+      }}
+    >
+      {isDark ? "☀️" : "🌙"}
+    </button>
+  );
+}
+
 const NAV = [
-  { label: "Blog",         href: "/blog",                                        external: false },
-  { label: "Tools",        href: "/tool-directory",                              external: false },
-  { label: "Free AI Tools",href: "/free-tools?popup=1",                          external: false },
-  { label: "News",         href: "/news",                                        external: false },
-  { label: "Reviews",      href: "/reviews",                                     external: false },
-  { label: "Videos",       href: "https://www.youtube.com/@digitechlifestyle",   external: true  },
-  { label: "About",        href: "/about",                                       external: false },
+  { label: "Crypto Guides", href: "/blog?category=Cryptocurrencies",  external: false },
+  { label: "News",          href: "/news",                            external: false },
+  { label: "AI Tools",      href: "/tool-directory",                  external: false },
+  { label: "Reviews",       href: "/reviews",                         external: false },
+  { label: "Scam Watch",    href: "/scam-watch",                      external: false },
+  { label: "Resources",     href: "/resources",                       external: false },
+  { label: "Newsletter",    href: "/newsletter",                      external: false },
+  { label: "About",         href: "/about",                           external: false },
 ];
 
 type Coin = { symbol: string; price: number; change: number };
@@ -24,7 +67,7 @@ function useTicker() {
 
   useEffect(() => {
     const fetch_ = () =>
-      fetch("/.netlify/functions/prices")
+      fetch("/prices.php")
         .then((r) => r.json())
         .then((arr: Array<{ symbol: string; price: number; change: number }>) => {
           if (Array.isArray(arr)) setCoins(arr);
@@ -83,6 +126,7 @@ export function Header() {
                 : <Link key={item.href} href={item.href}>{item.label}</Link>
             ))}
           </nav>
+          <ThemeToggle />
         </div>
       </div>
     </header>
