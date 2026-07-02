@@ -23,8 +23,11 @@ git push origin main
 - Author: Joe Robertson
 - Stack: Next.js static export (`output: "export"`), deployed via rsync to Hostinger
 
-## Banned content (FlowState copy — never use on this site)
+## Banned content (wrong branding — never use on this site)
 
+This site is **digitechlifestyle.com** — crypto, AI, UK news. Any copy that doesn't match must be rewritten.
+
+Specifically blocked by the digitech-guard hook (will hard-block your edit):
 - "Digital Living Brief"
 - "smarter workflows"
 - "stronger income channels"
