@@ -533,7 +533,7 @@ export default function ScamWatchPage() {
         <p style={{ fontSize: "12px", fontWeight: 700, color: "var(--muted)", textTransform: "uppercase", letterSpacing: "0.1em", margin: "0 0 12px" }}>Explore More</p>
         <div style={{ display: "flex", flexWrap: "wrap", gap: "8px" }}>
           {[
-            { label: "All Crypto Guides", href: "/blog?category=guides" },
+            { label: "All Crypto Guides", href: "/blog?category=Cryptocurrencies" },
             { label: "Exchange Reviews", href: "/reviews" },
             { label: "Wallet Safety Articles", href: "/blog?category=Wallets" },
             { label: "Resources Hub", href: "/resources" },
