@@ -14,9 +14,8 @@ export const metadata: Metadata = {
 export default async function NewsPage() {
   const all = await getArticles();
   // Show news-category articles; fallback: exclude evergreen/review categories so time-sensitive pieces show
-  const newsCategories = new Set(["News", "Crypto News", "AI News", "Blockchain", "Regulation", "Market", "Security"]);
-  const newsArticles = all.filter((a) => newsCategories.has(a.category));
-  const articles = newsArticles.length > 0 ? newsArticles : all.filter((a) => !["Reviews", "Exchange Reviews"].includes(a.category));
+  const excluded = new Set(["Reviews", "Exchange Reviews", "Crypto Guides", "UK Crypto Tax", "Wallet Safety"]);
+  const articles = all.filter((a) => !excluded.has(a.category)).slice(0, 60);
 
   return (
     <main className="container py-12">
