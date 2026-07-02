@@ -34,13 +34,13 @@ function NewsletterContent() {
     <main className="container py-12">
       <div className="grid gap-10 lg:grid-cols-[1fr_460px] lg:items-start">
         <div>
-          <p className="text-sm font-semibold uppercase tracking-[0.22em] text-[var(--accent)]">Inbox advantage</p>
-          <h1 className="mt-4 text-4xl font-black text-white md:text-6xl">Digital Living Brief</h1>
+          <p className="text-sm font-semibold uppercase tracking-[0.22em] text-[var(--accent)]">Free weekly newsletter</p>
+          <h1 className="mt-4 text-4xl font-black text-white md:text-6xl">Stay Ahead of Crypto & AI</h1>
           <p className="mt-5 max-w-3xl text-lg leading-8 text-[var(--muted)]">
-            A weekly digest for people building smarter workflows, stronger income channels, and more useful technology habits.
+            Join nearly 5,000 readers across YouTube, LinkedIn, X, and Facebook — plain-English crypto, DeFi, blockchain and AI insights every Thursday. No spam, no financial advice, no hype.
           </p>
           <div className="mt-8 grid gap-3 sm:grid-cols-3">
-            {["Tool picks", "Automation ideas", "Affiliate angles"].map((item) => (
+            {["Weekly crypto & AI news", "UK tax & regulation updates", "Honest exchange reviews"].map((item) => (
               <div key={item} className="surface rounded-lg p-4 text-sm font-semibold text-white">{item}</div>
             ))}
           </div>
@@ -58,7 +58,7 @@ export function NewsletterPageClient() {
         <div className="grid gap-10 lg:grid-cols-[1fr_460px] lg:items-start">
           <div>
             <p className="text-sm font-semibold uppercase tracking-[0.22em] text-[var(--accent)]">Inbox advantage</p>
-            <h1 className="mt-4 text-4xl font-black text-white md:text-6xl">Digital Living Brief</h1>
+            <h1 className="mt-4 text-4xl font-black text-white md:text-6xl">Stay Ahead of Crypto & AI</h1>
           </div>
           <NewsletterForm />
         </div>
