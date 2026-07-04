@@ -114,25 +114,6 @@ export function BrandImageCard({
           }} />
         )}
 
-        {/* Badge */}
-        {badge && (
-          <div style={{
-            position: "absolute",
-            top: "12px",
-            left: "12px",
-            background: `${accent}22`,
-            border: `1px solid ${accent}55`,
-            borderRadius: "20px",
-            padding: "3px 10px",
-            fontSize: "10px",
-            fontWeight: 700,
-            letterSpacing: "0.1em",
-            textTransform: "uppercase",
-            color: accent,
-          }}>
-            {badge}
-          </div>
-        )}
       </div>
 
       {/* Text content */}
@@ -141,6 +122,23 @@ export function BrandImageCard({
           padding: size === "sidebar" ? "14px" : "20px",
           background: "var(--tint-purple)",
         }}>
+          {badge && (
+            <div style={{
+              display: "inline-block",
+              marginBottom: "8px",
+              background: `${accent}22`,
+              border: `1px solid ${accent}55`,
+              borderRadius: "20px",
+              padding: "3px 10px",
+              fontSize: "10px",
+              fontWeight: 700,
+              letterSpacing: "0.1em",
+              textTransform: "uppercase",
+              color: accent,
+            }}>
+              {badge}
+            </div>
+          )}
           {title && (
             <h3 style={{
               margin: "0 0 6px",
