@@ -13,6 +13,9 @@ const NAV = [
 const LEGAL = [
   { label: "Privacy Policy",       href: "/privacy-policy" },
   { label: "Affiliate Disclosure", href: "/affiliate-disclosure" },
+  { label: "Editorial Policy",     href: "/editorial-policy" },
+  { label: "Review Methodology",   href: "/review-methodology" },
+  { label: "Corrections",          href: "/corrections" },
   { label: "Terms",                href: "/terms" },
   { label: "Disclaimer",           href: "/disclaimer" },
 ];

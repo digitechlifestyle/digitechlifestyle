@@ -143,7 +143,7 @@ function wpToArticle(post: WPPost, categories: Record<number, string>): Article 
     description: rawExcerpt || site.description,
     category,
     date: post.date.slice(0, 10),
-    author: "DigitechLifestyle Editorial",
+    author: "Joe Robertson",
     readingTime: post.content?.rendered
       ? estimateReadingTime(post.content.rendered)
       : readingTimeFromSlug(post.slug),

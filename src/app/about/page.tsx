@@ -26,13 +26,13 @@ export default function AboutPage() {
         <div style={{ padding: "24px 28px", background: "var(--bg-card)", border: "1px solid var(--line)", borderRadius: "14px" }}>
           <h2 style={{ fontSize: "17px", fontWeight: 800, color: "var(--fg)", margin: "0 0 14px" }}>Who Is Behind This Site</h2>
           <p style={{ fontSize: "14px", color: "var(--muted)", lineHeight: 1.8, margin: "0 0 12px" }}>
-            My name is Joe Robertson. I have been interested in cryptocurrency since 2017 — long before it became mainstream. Over the years I have watched the space evolve from niche internet money to a global financial system that is now being regulated, adopted by banks, and integrated with artificial intelligence.
+            My name is Joe Robertson. I have been involved in cryptocurrency since 2017 — through the bull runs, the crashes, the scams, and the slow grind towards legitimacy. For years I invested, tested platforms, and learned the hard lessons personally rather than writing about them.
           </p>
           <p style={{ fontSize: "14px", color: "var(--muted)", lineHeight: 1.8, margin: "0 0 12px" }}>
-            I started DigiTech Lifestyle because I could not find a UK site that explained crypto and AI clearly, honestly, and without trying to sell me something every other sentence. Everything I write is based on my own research, experience, and genuine interest in the subject.
+            I started writing in 2025, when it became clear that regulation was finally coming to the market. With the FCA tightening rules, banks entering the space, and millions of UK adults now holding crypto, ordinary readers needed plain-English coverage more than ever — and I could not find a UK site doing it without trying to sell something every other sentence. So I built one.
           </p>
           <p style={{ fontSize: "14px", color: "var(--muted)", lineHeight: 1.8, margin: 0 }}>
-            I am not a financial adviser. I do not give financial advice. What I do is explain how things work, review products honestly, and help UK readers make sense of a fast-moving space.
+            I am not a financial adviser. I do not give financial advice. What I do is explain how things work, review products honestly, warn about the scams I see, and help UK readers make sense of a fast-moving space. Questions or corrections: contact@digitechlifestyle.com — a real person replies, usually within two working days.
           </p>
         </div>
 

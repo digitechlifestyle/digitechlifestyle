@@ -4,7 +4,7 @@ export const site = {
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://digitechlifestyle.com",
   description:
     "Educational guides, honest reviews, and breaking news on crypto, AI, and digital lifestyle. Independent writing from a crypto enthusiast since 2017.",
-  email: "hello@digitechlifestyle.com",
+  email: "contact@digitechlifestyle.com",
 };
 
 export const navItems = [
