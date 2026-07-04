@@ -1,4 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="14" fill="#e8a33d"/>
-  <text x="32" y="43" font-family="Sora, Arial, sans-serif" font-size="26" font-weight="900" text-anchor="middle" fill="#171310">DL</text>
+  <rect width="64" height="64" rx="14" fill="#16110c"/>
+  <!-- D: white, geometric -->
+  <path fill="#f7f4f0" d="M12 16h14c8.8 0 15 6.5 15 16s-6.2 16-15 16H12V16zm9 8v16h5c4.4 0 7-3 7-8s-2.6-8-7-8h-5z"/>
+  <!-- T: orange, overlapping top-right with notch -->
+  <path fill="#ff6b00" d="M36 16h18v8h-5v24h-9V24h-7.5l3.5-8z"/>
 </svg>

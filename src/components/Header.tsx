@@ -114,9 +114,9 @@ export function Header() {
       {/* Main nav */}
       <div className="wrap">
         <div className="header-inner">
-          <Link href="/" className="site-logo">
-            <span className="logo-badge">DL</span>
-            Digi<span className="logo-accent">Tech</span>Lifestyle
+          <Link href="/" className="site-logo" aria-label="DigiTech Lifestyle Home">
+            <span className="dt-brand-main">Digitech</span>
+            <span className="dt-brand-sub">Lifestyle</span>
           </Link>
 
           <nav className="site-nav">

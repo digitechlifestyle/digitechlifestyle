@@ -289,31 +289,44 @@ h1, h2, h3, h4, h5 {
   height: 52px;
   gap: 20px;
 }
+/* DigiTech Lifestyle stacked wordmark */
 .site-logo {
-  font-family: "Sora", sans-serif;
-  font-weight: 700;
-  font-size: 15px;
-  letter-spacing: -0.01em;
-  color: var(--fg);
   flex-shrink: 0;
   display: flex;
-  align-items: center;
-  gap: 9px;
-}
-.logo-badge {
-  display: inline-flex;
-  align-items: center;
+  flex-direction: column;
   justify-content: center;
-  width: 30px;
-  height: 30px;
-  background: var(--amber);
-  color: var(--bg);
-  font-size: 12px;
-  font-weight: 900;
-  border-radius: 7px;
-  flex-shrink: 0;
+  line-height: 0.9;
+  user-select: none;
+  text-decoration: none;
+  transition: opacity 0.25s ease, transform 0.25s ease;
 }
-.logo-accent { color: var(--amber); }
+.site-logo:hover { opacity: 0.9; }
+.site-logo:active { transform: scale(0.98); }
+.dt-brand-main {
+  font-family: "Sora", sans-serif;
+  font-size: 21px;
+  font-weight: 800;
+  letter-spacing: -0.045em;
+  color: var(--fg);
+  text-transform: uppercase;
+  white-space: nowrap;
+  margin: 0;
+}
+.dt-brand-sub {
+  font-family: "Sora", sans-serif;
+  font-size: 7.5px;
+  font-weight: 700;
+  letter-spacing: 0.68em;
+  color: #ff6b00;
+  text-transform: uppercase;
+  margin-top: 3px;
+  padding-left: 0.15em;
+  white-space: nowrap;
+}
+@media (max-width: 768px) {
+  .dt-brand-main { font-size: 19px; }
+  .dt-brand-sub  { font-size: 6.8px; letter-spacing: 0.6em; }
+}
 .site-nav {
   display: flex;
   align-items: center;
