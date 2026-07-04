@@ -12,10 +12,10 @@ export function ToolCard({ tool }: { tool: Tool }) {
         </div>
         {tool.featured ? <span className="rounded-full bg-[var(--accent)] px-3 py-1 text-xs font-bold text-slate-950">Featured</span> : null}
       </div>
-      <p className="mt-4 text-sm leading-6 text-[var(--muted)]">{tool.description}</p>
-      <div className="mt-5 grid gap-2 text-sm text-slate-300">
-        <span>Best for: {tool.bestFor}</span>
-        <span>Pricing: {tool.pricing}</span>
+      <p className="mt-4 text-sm leading-6" style={{ color: "var(--muted)" }}>{tool.description}</p>
+      <div className="mt-5 grid gap-2 text-sm" style={{ color: "var(--fg)" }}>
+        <span><strong style={{ fontWeight: 700 }}>Best for:</strong> {tool.bestFor}</span>
+        <span><strong style={{ fontWeight: 700 }}>Pricing:</strong> {tool.pricing}</span>
       </div>
       <a href={tool.href} target="_blank" rel="noopener noreferrer" className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-[var(--accent)]">
         View guide <ArrowUpRight size={16} />

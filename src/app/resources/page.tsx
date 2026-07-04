@@ -224,15 +224,24 @@ export default function ResourcesPage() {
             <p style={{ color: "var(--muted)", fontSize: "13px", margin: "0 0 20px" }}>
               Curated AI, automation, crypto, and creator tools — reviewed and recommended.
             </p>
-            <div style={{
-              display: "grid",
-              gap: "12px",
-              gridTemplateColumns: "repeat(auto-fit, minmax(260px, 1fr))",
-            }}>
-              {tools.map((tool) => (
-                <ToolCard key={tool.name} tool={tool} />
-              ))}
-            </div>
+            {(() => {
+              const cryptoCats = new Set(["Crypto Exchange", "Crypto Wallet", "Hardware Wallet", "Crypto Tax"]);
+              const aiTools = tools.filter((t) => !cryptoCats.has(t.category));
+              const cryptoTools = tools.filter((t) => cryptoCats.has(t.category));
+              const grid: React.CSSProperties = { display: "grid", gap: "12px", gridTemplateColumns: "repeat(auto-fit, minmax(260px, 1fr))" };
+              return (
+                <>
+                  <h3 style={{ fontSize: "16px", fontWeight: 800, color: "var(--fg)", margin: "0 0 12px", fontFamily: "'Sora', sans-serif" }}>🤖 AI &amp; Digital Tools</h3>
+                  <div style={grid}>
+                    {aiTools.map((tool) => <ToolCard key={tool.name} tool={tool} />)}
+                  </div>
+                  <h3 style={{ fontSize: "16px", fontWeight: 800, color: "var(--fg)", margin: "28px 0 12px", fontFamily: "'Sora', sans-serif" }}>₿ Crypto Tools</h3>
+                  <div style={grid}>
+                    {cryptoTools.map((tool) => <ToolCard key={tool.name} tool={tool} />)}
+                  </div>
+                </>
+              );
+            })()}
           </section>
 
           {/* ── FAQ ── */}
