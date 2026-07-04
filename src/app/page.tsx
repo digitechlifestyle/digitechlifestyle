@@ -2,6 +2,7 @@ import Link from "next/link";
 import { getArticles } from "@/lib/articles";
 import type { Article } from "@/lib/articles";
 import { SidebarAds } from "@/components/SidebarAds";
+import { GoogleAd } from "@/components/GoogleAd";
 
 const TOPICS = [
   { label: "Bitcoin & Crypto",        href: "/blog?category=guides" },
@@ -170,6 +171,7 @@ export default async function Home() {
               </div>
 
               {/* LATEST */}
+              <GoogleAd position="middle" />
               <div className="section-title" style={{ marginTop: "28px" }}>Latest</div>
               <div className="article-list">
                 {latest.map((article, i) => (

@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import { GoogleAd } from "@/components/GoogleAd";
 
 type Partner = {
   id: string;
@@ -108,6 +109,7 @@ export function SidebarAds() {
 
   return (
     <div>
+      <GoogleAd position="sidebar" />
       {/* Promo image card — Automation Playbook */}
       <Link
         href="/newsletter?resource=automation-playbook"

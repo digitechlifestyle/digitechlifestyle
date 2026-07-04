@@ -4,6 +4,7 @@ import { SidebarAds } from "@/components/SidebarAds";
 import { AffiliateCta } from "@/components/AffiliateCta";
 import { NewsletterForm } from "@/components/NewsletterForm";
 import { getArticle, getArticles, markdownToHtml } from "@/lib/articles";
+import { GoogleAd } from "@/components/GoogleAd";
 
 type BlogPostProps = {
   params: Promise<{ slug: string }>;
@@ -80,7 +81,24 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
             <h1 className="mt-5 text-4xl font-black leading-tight text-white md:text-5xl">{article.title}</h1>
             <p className="mt-5 text-xl leading-8 text-[var(--muted)]">{article.description}</p>
           </div>
-          <div className="prose-content mt-8" dangerouslySetInnerHTML={{ __html: markdownToHtml(article.content) }} />
+          {(() => {
+            // Split article at the middle paragraph so a mid-content ad can sit between halves
+            const html = markdownToHtml(article.content);
+            const parts = html.split("</p>");
+            const mid = Math.floor(parts.length / 2);
+            if (parts.length < 6) {
+              return <div className="prose-content mt-8" dangerouslySetInnerHTML={{ __html: html }} />;
+            }
+            const first = parts.slice(0, mid).join("</p>") + "</p>";
+            const second = parts.slice(mid).join("</p>");
+            return (
+              <>
+                <div className="prose-content mt-8" dangerouslySetInnerHTML={{ __html: first }} />
+                <GoogleAd position="middle" />
+                <div className="prose-content" dangerouslySetInnerHTML={{ __html: second }} />
+              </>
+            );
+          })()}
 
           {/* Inline newsletter CTA */}
           <div style={{

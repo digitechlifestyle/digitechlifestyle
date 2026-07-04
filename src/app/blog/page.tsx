@@ -5,6 +5,7 @@ import { getArticles } from "@/lib/articles";
 import type { Article } from "@/lib/articles";
 import { SidebarAds } from "@/components/SidebarAds";
 import CategoryFilterClient from "@/components/CategoryFilterClient";
+import { GoogleAd } from "@/components/GoogleAd";
 
 export const metadata: Metadata = {
   title: "Blog — DigiTech Lifestyle",
@@ -99,6 +100,8 @@ export default async function BlogPage() {
                 </>
               )}
             </div>
+
+            <GoogleAd position="middle" />
 
             <div className="section-title" id="articles-section-title" style={{ marginTop: "28px" }}>Latest</div>
             <div className="article-list">

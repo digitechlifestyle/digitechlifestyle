@@ -4,6 +4,7 @@ import { SidebarAds } from "@/components/SidebarAds";
 import { ArticleCard } from "@/components/ArticleCard";
 import { NewsletterForm } from "@/components/NewsletterForm";
 import { getArticles } from "@/lib/articles";
+import { GoogleAd } from "@/components/GoogleAd";
 
 export const metadata: Metadata = {
   title: "Crypto & AI News — DigiTech Lifestyle",
@@ -45,7 +46,13 @@ export default async function NewsPage() {
           </p>
           <p style={{ marginTop: "8px", fontSize: "12px", color: "var(--muted)" }}>{articles.length} articles</p>
           <div className="mt-10 grid gap-4 md:grid-cols-2">
-            {articles.map((article) => (
+            {articles.slice(0, 12).map((article) => (
+              <ArticleCard key={article.slug} article={article} />
+            ))}
+          </div>
+          <GoogleAd position="middle" />
+          <div className="grid gap-4 md:grid-cols-2">
+            {articles.slice(12).map((article) => (
               <ArticleCard key={article.slug} article={article} />
             ))}
           </div>

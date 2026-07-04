@@ -4,19 +4,23 @@ import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { FreeToolsModal } from "@/components/FreeToolsModal";
 import { CleanUrl } from "@/components/CleanUrl";
+import { GoogleAd } from "@/components/GoogleAd";
 import { site } from "@/lib/site";
+
+const metaDescription =
+  "Plain-English crypto, AI, wallet safety, exchange reviews, scam warnings, and digital lifestyle guides for UK readers.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),
   title: {
-    default: `${site.name} | Digital Living, Wealth, AI & Automation`,
+    default: `${site.name} | Crypto, AI & Digital Lifestyle Guides`,
     template: `%s | ${site.name}`,
   },
-  description: site.description,
+  description: metaDescription,
   alternates: { canonical: "/" },
   openGraph: {
     title: site.name,
-    description: site.description,
+    description: metaDescription,
     url: site.url,
     siteName: site.name,
     type: "website",
@@ -25,7 +29,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: site.name,
-    description: site.description,
+    description: metaDescription,
     images: [`${site.url}/images/resource-hub-hero.png`],
   },
 };
@@ -65,6 +69,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
       <body>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
         <Header />
+        <GoogleAd position="header" />
         {children}
         <Footer />
         <FreeToolsModal />
