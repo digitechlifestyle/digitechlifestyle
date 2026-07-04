@@ -6,6 +6,7 @@ export type Article = {
   description: string;
   category: string;
   date: string;
+  updated: string;
   author: string;
   readingTime: string;
   featured: boolean;
@@ -21,6 +22,7 @@ type WPPost = {
   excerpt: { rendered: string };
   content: { rendered: string };
   date: string;
+  modified?: string;
   categories: number[];
   sticky: boolean;
   _embedded?: {
@@ -143,6 +145,7 @@ function wpToArticle(post: WPPost, categories: Record<number, string>): Article 
     description: rawExcerpt || site.description,
     category,
     date: post.date.slice(0, 10),
+    updated: (post.modified || post.date).slice(0, 10),
     author: "Joe Robertson",
     readingTime: post.content?.rendered
       ? estimateReadingTime(post.content.rendered)

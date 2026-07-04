@@ -36,7 +36,7 @@ export default function ToolDirectoryPage() {
             <a href="#crypto-tools" style={{ fontSize: "13px", fontWeight: 700, padding: "8px 16px", borderRadius: "20px", background: "var(--bg-card)", border: "1px solid var(--line)", color: "var(--fg)", textDecoration: "none" }}>₿ Crypto Tools ({cryptoTools.length})</a>
           </div>
           <Link href="/free-tools" style={{ display: "inline-flex", alignItems: "center", gap: "8px", marginTop: "20px", marginBottom: "8px", padding: "10px 18px", background: "oklch(73% 0.17 78 / 0.12)", border: "1px solid oklch(73% 0.17 78 / 0.35)", borderRadius: "8px", fontSize: "14px", fontWeight: 700, color: "var(--amber)", textDecoration: "none" }}>
-            🔓 Unlock 7 free AI tools — enter your email for instant access →
+            Get the free list: 7 AI tools most people pay for →
           </Link>
 
           <h2 id="ai-tools" style={{ scrollMarginTop: "90px", fontSize: "26px", fontWeight: 900, marginTop: "40px", color: "var(--fg)" }}>AI &amp; Digital Tools</h2>

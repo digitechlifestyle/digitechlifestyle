@@ -22,58 +22,29 @@ const CATEGORIES: Category[] = [
   {
     label: "🏦 Crypto Exchanges",
     partners: [
-      { id: "coinbase",    brand: "Coinbase UK",          initial: "C", tagline: "Buy Bitcoin in Minutes",       accent: "#0052ff", url: "https://www.coinbase.com/join/jrobertson_1A8sYA" },
-      { id: "kraken",      brand: "Kraken",               initial: "K", tagline: "Advanced Crypto Trading",      accent: "#7c3aed", url: "https://kraken.app.link/PzxrgWP7Qzb" },
-      { id: "cryptocom",   brand: "Crypto.com",           initial: "C", tagline: "Crypto App for Everyone",      accent: "#1199fa", url: "https://crypto.com/app/hwa7p9m8yh" },
-      { id: "bybit",       brand: "Bybit",                initial: "B", tagline: "Trade Crypto Like a Pro",      accent: "#f7a600", url: "https://www.bybit.com/invite?ref=2WKAA" },
-      { id: "binance",     brand: "Binance",              initial: "B", tagline: "World's Largest Exchange",     accent: "#f3ba2f", url: "https://www.binance.com/en/activity/referral-entry/CPA?ref=CPA_00JDHMDHBA" },
-      { id: "bitpanda",    brand: "Bitpanda",             initial: "B", tagline: "Crypto, Stocks and ETFs",      accent: "#05b0ff", url: "https://www.bitpanda.com/?ref=881962803509321830" },
-      { id: "bitrue",      brand: "Bitrue",               initial: "B", tagline: "Earn More on Your Crypto",     accent: "#1a6fc4", url: "https://www.bitrue.com/referral/landing?cn=600000&inviteCode=ZLZQZW" },
-      { id: "uphold",      brand: "Uphold",               initial: "U", tagline: "Multi-Asset Trading",          accent: "#00c4b4", url: "https://uphold.sjv.io/jr0kOM" },
+      { id: "coinbase",    brand: "Coinbase UK",          initial: "C", tagline: "FCA-registered, beginner-friendly", accent: "#0052ff", url: "https://www.coinbase.com/join/jrobertson_1A8sYA" },
+      { id: "kraken",      brand: "Kraken",               initial: "K", tagline: "Low fees, strong security record",  accent: "#7c3aed", url: "https://kraken.app.link/PzxrgWP7Qzb" },
+      { id: "cryptocom",   brand: "Crypto.com",           initial: "C", tagline: "All-in-one app with GBP support",   accent: "#1199fa", url: "https://crypto.com/app/hwa7p9m8yh" },
     ],
   },
   {
-    label: "🔐 Crypto Wallets",
+    label: "🔐 Hardware Wallets",
     partners: [
-      { id: "dcent",       brand: "D'CENT Wallet",        initial: "D", tagline: "Biometric Hardware Wallet",    accent: "#3b82f6", url: "https://dcentwallet.com" },
-      { id: "ledger",      brand: "Ledger",               initial: "L", tagline: "Secure Your Crypto",           accent: "#f59e0b", url: "https://shop.ledger.com/?referral_code=FN50B8J0VZNVR" },
-      { id: "trezor",      brand: "Trezor Safe 5",        initial: "T", tagline: "Open-Source Security",         accent: "#22c55e", url: "https://trezor.io" },
-      { id: "exodus",      brand: "Exodus Wallet",        initial: "E", tagline: "Your Crypto. Your Keys.",      accent: "#a855f7", url: "https://www.exodus.com" },
-    ],
-  },
-  {
-    label: "₿ Bitcoin",
-    partners: [
-      { id: "swan",        brand: "Swan Bitcoin",         initial: "S", tagline: "Stack Sats Automatically",     accent: "#f7931a", url: "https://www.swanbitcoin.com/digicoindigitalassetsinvestor" },
+      { id: "ledger",      brand: "Ledger",               initial: "L", tagline: "Cold storage, 5,500+ coins",        accent: "#f59e0b", url: "https://shop.ledger.com/?referral_code=FN50B8J0VZNVR" },
+      { id: "trezor",      brand: "Trezor Safe 5",        initial: "T", tagline: "Open-source security",              accent: "#22c55e", url: "https://trezor.io" },
     ],
   },
   {
     label: "📊 Crypto Tax",
     partners: [
-      { id: "koinly",      brand: "Koinly",               initial: "K", tagline: "HMRC Crypto Tax — Done",       accent: "#10b981", url: "https://koinly.io/?via=digitechlifestyle" },
-      { id: "tokentax",    brand: "TokenTax",             initial: "T", tagline: "Crypto Taxes Made Easy",       accent: "#0ea5e9", url: "https://tokentax.co?via=digitech" },
+      { id: "koinly",      brand: "Koinly",               initial: "K", tagline: "HMRC-ready reports",                accent: "#10b981", url: "https://koinly.io/?via=digitechlifestyle" },
     ],
   },
   {
-    label: "💰 Earn & Mine",
+    label: "🤖 AI & Web",
     partners: [
-      { id: "ledn",        brand: "Ledn",                 initial: "L", tagline: "Earn Interest on Bitcoin",     accent: "#3b82f6", url: "https://platform.ledn.io/join/a11e95377e48315b1ec0acccbd095014" },
-      { id: "ecos",        brand: "ECOS Mining",          initial: "E", tagline: "Mine Bitcoin — No Hardware",   accent: "#16a34a", url: "https://ecos.finance/en/cloud-mining?ref=ABxYnIJs" },
-    ],
-  },
-  {
-    label: "🤖 AI & Tools",
-    partners: [
-      { id: "writesonic",  brand: "Writesonic",           initial: "W", tagline: "AI Writing That Works",        accent: "#8b5cf6", url: "https://writesonic.com/botsonic?fpr=joe52" },
-      { id: "artsi",       brand: "Artsi.ai",             initial: "A", tagline: "AI Art for Your Brand",        accent: "#ec4899", url: "https://artsi.ai/ref/digitechlifestyle/" },
-      { id: "shipfast",    brand: "ShipFast",             initial: "S", tagline: "Launch Your SaaS in Days",     accent: "#4f46e5", url: "https://shipfa.st/?via=digitech" },
-    ],
-  },
-  {
-    label: "🌐 Web & Hosting",
-    partners: [
-      { id: "hostinger",   brand: "Hostinger",            initial: "H", tagline: "Fast Web Hosting — £1.99/mo", accent: "#673de6", url: "https://hostinger.co.uk?REFERRALCODE=1JOE975" },
-      { id: "freewebguys", brand: "Free Website Guys",    initial: "F", tagline: "Free Business Website",        accent: "#059669", url: "https://thefreewebsiteguys.com/?js=360012" },
+      { id: "writesonic",  brand: "Writesonic",           initial: "W", tagline: "AI writing platform",               accent: "#8b5cf6", url: "https://writesonic.com/botsonic?fpr=joe52" },
+      { id: "hostinger",   brand: "Hostinger",            initial: "H", tagline: "UK web hosting from £2.99/mo",      accent: "#673de6", url: "https://hostinger.co.uk?REFERRALCODE=1JOE975" },
     ],
   },
 ];
@@ -210,6 +181,11 @@ export function SidebarAds() {
           >✕</button>
         </div>
       </div>
+
+      {/* Disclosure — above the links, not buried below */}
+      <p style={{ fontSize: "10px", color: "var(--muted)", opacity: 0.7, padding: "8px 14px", margin: 0, borderBottom: "1px solid var(--line)", lineHeight: 1.5 }}>
+        Affiliate links — we may earn a commission at no cost to you. Never affects our reviews. <a href="/affiliate-disclosure/" style={{ color: "var(--muted)", textDecoration: "underline" }}>Details</a>
+      </p>
 
       {/* Partner list with category separators */}
       <div style={{ maxHeight: "520px", overflowY: "auto" }}>

@@ -51,8 +51,18 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
     headline: article.title,
     description: article.description,
     datePublished: article.date,
-    author: { "@type": "Organization", name: article.author },
+    dateModified: article.updated,
+    author: {
+      "@type": "Person",
+      name: "Joe Robertson",
+      url: "https://digitechlifestyle.com/about/",
+      sameAs: ["https://x.com/joedigitals", "https://www.linkedin.com/in/smartincome/"],
+    },
+    publisher: { "@type": "Organization", name: "DigiTech Lifestyle", url: "https://digitechlifestyle.com" },
   };
+
+  const isInvestmentTopic = /crypto|bitcoin|ethereum|xrp|defi|meme|airdrop|stablecoin|token|exchange|wallet/i
+    .test(article.category + " " + article.title);
 
   return (
     <main className="container py-8">
@@ -60,6 +70,11 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
       <div style={{ display: "grid", gap: "32px", gridTemplateColumns: "1fr", alignItems: "start" }}
            className="blog-two-col">
         <article>
+          {isInvestmentTopic && (
+            <div style={{ marginBottom: "16px", padding: "10px 16px", background: "var(--tint-amber)", border: "1px solid var(--tint-amber-border)", borderRadius: "10px", fontSize: "12px", color: "var(--muted)", lineHeight: 1.6 }}>
+              <strong style={{ color: "var(--fg)" }}>Risk warning:</strong> Cryptoassets are largely unregulated in the UK. You could lose all your money, and FSCS protection does not apply. This site provides education, not financial advice.
+            </div>
+          )}
           {article.image && (
             <div style={{ borderRadius: "12px", overflow: "hidden", marginBottom: "24px", maxHeight: "420px" }}>
               <img
@@ -80,6 +95,18 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
             </div>
             <h1 className="mt-5 text-4xl font-black leading-tight text-white md:text-5xl">{article.title}</h1>
             <p className="mt-5 text-xl leading-8 text-[var(--muted)]">{article.description}</p>
+            {/* Byline */}
+            <div style={{ display: "flex", alignItems: "center", gap: "12px", marginTop: "20px", paddingTop: "16px", borderTop: "1px solid var(--line)" }}>
+              <span style={{ width: "38px", height: "38px", borderRadius: "50%", background: "var(--amber)", color: "oklch(15% 0.02 60)", display: "inline-flex", alignItems: "center", justifyContent: "center", fontWeight: 800, fontSize: "14px", flexShrink: 0 }}>JR</span>
+              <div style={{ fontSize: "13px", lineHeight: 1.5 }}>
+                <a href="/about/" style={{ fontWeight: 700, color: "var(--fg)", textDecoration: "none" }}>Joe Robertson</a>
+                <span style={{ color: "var(--muted)" }}> · In crypto since 2017, writing since 2025</span>
+                <div style={{ color: "var(--muted)", fontSize: "12px" }}>
+                  Published {new Date(article.date).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" })}
+                  {article.updated !== article.date && ` · Updated ${new Date(article.updated).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" })}`}
+                </div>
+              </div>
+            </div>
           </div>
           {(() => {
             // Split article at the middle paragraph so a mid-content ad can sit between halves
