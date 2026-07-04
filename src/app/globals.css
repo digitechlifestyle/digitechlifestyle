@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800;900&family=Manrope:wght@400;500;600;700&display=swap");
 @import "tailwindcss";
+@source not "../../out";
+@source not "../../out-backup-2026-07-03";
 
 /* ─── Brand image animations ─────────────────────────────── */
 

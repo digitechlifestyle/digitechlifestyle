@@ -11,9 +11,19 @@ const NAV = [
 ];
 
 const LEGAL = [
-  { label: "Privacy Policy",      href: "/privacy-policy" },
-  { label: "Affiliate Disclosure",href: "/affiliate-disclosure" },
-  { label: "Terms",               href: "/terms" },
+  { label: "Privacy Policy",       href: "/privacy-policy" },
+  { label: "Affiliate Disclosure", href: "/affiliate-disclosure" },
+  { label: "Terms",                href: "/terms" },
+  { label: "Disclaimer",           href: "/disclaimer" },
+];
+
+const SOCIALS = [
+  { label: "Twitter / X",  count: "812",   href: "https://x.com/joedigitals",                          color: "#000", icon: "𝕏" },
+  { label: "Facebook",     count: "872",   href: "https://www.facebook.com/digitechlifestyle/",         color: "#1877f2", icon: "f" },
+  { label: "YouTube",      count: "198",   href: "https://www.youtube.com/@digitechlifestyle",          color: "#ff0000", icon: "▶" },
+  { label: "Instagram",    count: "2.6K",  href: "https://www.instagram.com/joedigitals/",             color: "#e1306c", icon: "📷" },
+  { label: "LinkedIn",     count: "3K",    href: "https://www.linkedin.com/in/smartincome/",            color: "#0077b5", icon: "in" },
+  { label: "Pinterest",    count: "",      href: "https://uk.pinterest.com/digitechlifestyle/",         color: "#e60023", icon: "P" },
 ];
 
 const REVIEWS = [
@@ -34,9 +44,30 @@ export function Footer() {
             <div style={{ fontFamily: "Sora, sans-serif", fontWeight: 900, fontSize: "17px", letterSpacing: "-0.02em", marginBottom: "10px" }}>
               Digi<span style={{ color: "var(--blue)" }}>Tech</span> Lifestyle
             </div>
-            <p style={{ fontSize: "13px", color: "var(--muted)", lineHeight: 1.6, maxWidth: "320px", margin: 0 }}>
+            <p style={{ fontSize: "13px", color: "var(--muted)", lineHeight: 1.6, maxWidth: "320px", margin: "0 0 16px" }}>
               {site.description}
             </p>
+            <div style={{ display: "flex", flexWrap: "wrap", gap: "8px" }}>
+              {SOCIALS.map((s) => (
+                <a
+                  key={s.label}
+                  href={s.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  title={s.count ? `${s.label} — ${s.count} followers` : s.label}
+                  style={{
+                    display: "inline-flex", alignItems: "center", gap: "5px",
+                    fontSize: "11px", fontWeight: 700, padding: "4px 10px",
+                    borderRadius: "20px", textDecoration: "none",
+                    background: s.color, color: "#fff",
+                    whiteSpace: "nowrap",
+                  }}
+                >
+                  <span>{s.icon}</span>
+                  {s.count && <span>{s.count}</span>}
+                </a>
+              ))}
+            </div>
           </div>
           <div>
             <div className="section-title" style={{ marginBottom: "12px" }}>Explore</div>
@@ -69,9 +100,9 @@ export function Footer() {
         <div className="footer-inner" style={{ paddingTop: "16px", borderTop: "1px solid var(--line)" }}>
           <span>© 2026 DigiTech Lifestyle. Informational content only. Not financial advice.</span>
           <div className="footer-links">
-            <a href="https://x.com/DigiTechLife" target="_blank" rel="noopener">Twitter / X</a>
+            <a href="https://x.com/joedigitals" target="_blank" rel="noopener">Twitter / X</a>
             <a href="https://www.youtube.com/@digitechlifestyle" target="_blank" rel="noopener">YouTube</a>
-            <a href="https://www.facebook.com/digitechlifestyle" target="_blank" rel="noopener">Facebook</a>
+            <a href="https://www.facebook.com/digitechlifestyle/" target="_blank" rel="noopener">Facebook</a>
           </div>
         </div>
       </div>

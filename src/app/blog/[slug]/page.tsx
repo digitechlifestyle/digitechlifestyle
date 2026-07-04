@@ -118,7 +118,7 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
           }}>
             <span style={{ fontSize: "12px", fontWeight: 700, color: "var(--muted)", textTransform: "uppercase", letterSpacing: "0.08em", marginRight: "4px" }}>Share:</span>
             <a
-              href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(article.title)}&url=${encodeURIComponent(`https://www.digitechlifestyle.com/blog/${article.slug}`)}&via=DigiTechLife`}
+              href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(article.title)}&url=${encodeURIComponent(`https://digitechlifestyle.com/blog/${article.slug}`)}&via=DigiTechLife`}
               target="_blank" rel="noopener noreferrer"
               style={{ display: "inline-flex", alignItems: "center", gap: "6px", background: "#000", color: "#fff", fontWeight: 700, fontSize: "12px", padding: "8px 14px", borderRadius: "8px", textDecoration: "none" }}
             >
@@ -126,7 +126,7 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
               X / Twitter
             </a>
             <a
-              href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`https://www.digitechlifestyle.com/blog/${article.slug}`)}`}
+              href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`https://digitechlifestyle.com/blog/${article.slug}`)}`}
               target="_blank" rel="noopener noreferrer"
               style={{ display: "inline-flex", alignItems: "center", gap: "6px", background: "#1877f2", color: "#fff", fontWeight: 700, fontSize: "12px", padding: "8px 14px", borderRadius: "8px", textDecoration: "none" }}
             >
@@ -134,7 +134,7 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
               Facebook
             </a>
             <a
-              href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(`https://www.digitechlifestyle.com/blog/${article.slug}`)}`}
+              href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(`https://digitechlifestyle.com/blog/${article.slug}`)}`}
               target="_blank" rel="noopener noreferrer"
               style={{ display: "inline-flex", alignItems: "center", gap: "6px", background: "#0a66c2", color: "#fff", fontWeight: 700, fontSize: "12px", padding: "8px 14px", borderRadius: "8px", textDecoration: "none" }}
             >
@@ -142,7 +142,7 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
               LinkedIn
             </a>
             <a
-              href={`https://pinterest.com/pin/create/button/?url=${encodeURIComponent(`https://www.digitechlifestyle.com/blog/${article.slug}`)}&description=${encodeURIComponent(article.title)}${article.image ? `&media=${encodeURIComponent(article.image)}` : ""}`}
+              href={`https://pinterest.com/pin/create/button/?url=${encodeURIComponent(`https://digitechlifestyle.com/blog/${article.slug}`)}&description=${encodeURIComponent(article.title)}${article.image ? `&media=${encodeURIComponent(article.image)}` : ""}`}
               target="_blank" rel="noopener noreferrer"
               style={{ display: "inline-flex", alignItems: "center", gap: "6px", background: "#e60023", color: "#fff", fontWeight: 700, fontSize: "12px", padding: "8px 14px", borderRadius: "8px", textDecoration: "none" }}
             >

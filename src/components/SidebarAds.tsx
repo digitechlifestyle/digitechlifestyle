@@ -272,6 +272,40 @@ export function SidebarAds() {
         Affiliate links — DigiTech may earn a commission.
       </p>
     </div>
+
+    {/* Social Follow Widget */}
+    <div style={{ marginTop: "16px", background: "var(--bg-card)", border: "1px solid var(--line)", borderRadius: "12px", overflow: "hidden" }}>
+      <div style={{ padding: "12px 14px 8px", borderBottom: "1px solid var(--line)" }}>
+        <span style={{ fontSize: "11px", fontWeight: 700, letterSpacing: "0.08em", color: "var(--muted)", textTransform: "uppercase" }}>Follow Us</span>
+      </div>
+      <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "1px", background: "var(--line)" }}>
+        {[
+          { label: "Twitter / X",  count: "812",   href: "https://x.com/joedigitals",                        color: "#000",    icon: "𝕏" },
+          { label: "Facebook",     count: "872",   href: "https://www.facebook.com/digitechlifestyle/",       color: "#1877f2", icon: "f" },
+          { label: "YouTube",      count: "198",   href: "https://www.youtube.com/@digitechlifestyle",        color: "#ff0000", icon: "▶" },
+          { label: "Instagram",    count: "2.6K",  href: "https://www.instagram.com/joedigitals/",           color: "#e1306c", icon: "📷" },
+          { label: "LinkedIn",     count: "3K",    href: "https://www.linkedin.com/in/smartincome/",          color: "#0077b5", icon: "in" },
+          { label: "Pinterest",    count: "",      href: "https://uk.pinterest.com/digitechlifestyle/",       color: "#e60023", icon: "P" },
+        ].map((s) => (
+          <a
+            key={s.label}
+            href={s.href}
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center",
+              padding: "12px 8px", background: "var(--bg-card)", textDecoration: "none", gap: "4px",
+            }}
+            onMouseEnter={e => (e.currentTarget.style.background = "rgba(255,255,255,0.04)")}
+            onMouseLeave={e => (e.currentTarget.style.background = "var(--bg-card)")}
+          >
+            <span style={{ fontSize: "16px", display: "flex", alignItems: "center", justifyContent: "center", width: "30px", height: "30px", borderRadius: "8px", background: s.color, color: "#fff", fontWeight: 900 }}>{s.icon}</span>
+            {s.count && <span style={{ fontSize: "13px", fontWeight: 800, color: "var(--fg)" }}>{s.count}</span>}
+            <span style={{ fontSize: "10px", color: "var(--muted)", textAlign: "center" }}>{s.label}</span>
+          </a>
+        ))}
+      </div>
+    </div>
     </div>
   );
 }
