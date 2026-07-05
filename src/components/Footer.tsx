@@ -101,7 +101,7 @@ export function Footer() {
           </div>
         </div>
         <div className="footer-inner" style={{ paddingTop: "16px", borderTop: "1px solid var(--line)" }}>
-          <span>© 2026 DigiTech Lifestyle. Informational content only. Not financial advice.</span>
+          <span>© 2026 DigiTech Lifestyle. Informational content only. Not financial advice. Crypto involves risk.</span>
           <div className="footer-links">
             <a href="https://x.com/joedigitals" target="_blank" rel="noopener">Twitter / X</a>
             <a href="https://www.youtube.com/@digitechlifestyle" target="_blank" rel="noopener">YouTube</a>

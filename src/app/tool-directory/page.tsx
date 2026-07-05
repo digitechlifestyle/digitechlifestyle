@@ -6,7 +6,7 @@ import { ToolCard } from "@/components/ToolCard";
 import { tools } from "@/lib/tools";
 
 export const metadata: Metadata = {
-  title: "AI & Crypto Tool Directory — DigiTech Lifestyle",
+  title: "Tool Directory",
   description: "Curated directory of the best AI, crypto, automation, and creator tools for UK users. Reviewed, rated, and recommended by DigiTech Lifestyle.",
   alternates: { canonical: "/tool-directory" },
 };

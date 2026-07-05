@@ -8,7 +8,7 @@ import { BrandImageCard } from "@/components/BrandImageCard";
 import { tools } from "@/lib/tools";
 
 export const metadata: Metadata = {
-  title: "Resources & Tools — DigiTech Lifestyle",
+  title: "Resources",
   description: "Free downloads, checklists, and a curated directory of AI, automation, crypto, and digital lifestyle tools.",
   alternates: { canonical: "/resources" },
 };

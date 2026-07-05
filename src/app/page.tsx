@@ -10,16 +10,7 @@ const TOPICS = [
   { label: "Artificial Intelligence", href: "/blog?category=AI" },
   { label: "DeFi & Blockchain",       href: "/blog?category=DeFi" },
   { label: "Exchange Reviews",        href: "/blog?category=Reviews" },
-  { label: "Crypto Tools",            href: "/blog?category=Wallets" },
-];
-
-const EXPLORE = [
-  { label: "Crypto Guides",      href: "/blog?category=guides" },
-  { label: "AI & Technology",    href: "/blog?category=AI" },
-  { label: "Exchange Reviews",   href: "/blog?category=Reviews" },
-  { label: "Digital Tools",      href: "/free-tools" },
-  { label: "Latest News",        href: "/news" },
-  { label: "About Joe",          href: "/about" },
+  { label: "Crypto Tools",            href: "/tool-directory" },
 ];
 
 function fmtDate(d: string) {
@@ -187,53 +178,13 @@ export default async function Home() {
               <GoogleAd position="middle" />
               <div className="section-title" style={{ marginTop: "28px" }}>Latest</div>
               <div className="article-list">
-                {latest.map((article, i) => (
-                  <>
-                    <ArticleRowItem key={article.slug} article={article} />
-                    {/* Free Tools promo strip after article 4 */}
-                    {i === 3 && (
-                      <div key="free-tools-strip" style={{
-                        margin: "4px 0",
-                        background: "var(--tint-amber-strong)",
-                        border: "1px solid var(--tint-amber-border)",
-                        borderRadius: "10px",
-                        padding: "16px 20px",
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "space-between",
-                        gap: "16px",
-                        flexWrap: "wrap",
-                      }}>
-                        <div>
-                          <p style={{ margin: 0, fontSize: "11px", fontWeight: 700, letterSpacing: "0.15em", textTransform: "uppercase", color: "var(--amber)", marginBottom: "4px" }}>
-                            🔓 Free download
-                          </p>
-                          <p style={{ margin: 0, fontSize: "14px", fontWeight: 700, color: "var(--fg)", lineHeight: 1.3 }}>
-                            7 free AI tools — no subscriptions needed
-                          </p>
-                          <p style={{ margin: "4px 0 0", fontSize: "12px", color: "var(--muted)" }}>
-                            Enter your email and download the full list instantly.
-                          </p>
-                        </div>
-                        <Link href="/free-tools" style={{
-                          display: "inline-block",
-                          background: "var(--amber)",
-                          color: "oklch(8% 0.015 60)",
-                          fontWeight: 800,
-                          fontSize: "12px",
-                          padding: "9px 18px",
-                          borderRadius: "7px",
-                          textDecoration: "none",
-                          whiteSpace: "nowrap",
-                          flexShrink: 0,
-                        }}>
-                          Get free bundle →
-                        </Link>
-                      </div>
-                    )}
-                  </>
+                {latest.slice(0, 6).map((article) => (
+                  <ArticleRowItem key={article.slug} article={article} />
                 ))}
               </div>
+              <Link href="/blog" className="read-more-link" style={{ display: "inline-block", marginTop: "16px" }}>
+                View all articles →
+              </Link>
             </div>
 
             {/* Sidebar */}
@@ -249,32 +200,6 @@ export default async function Home() {
                 </p>
               </div>
 
-              <div className="sidebar-widget">
-                <div className="section-title" style={{ marginBottom: "8px" }}>Explore</div>
-                <div className="explore-list">
-                  {EXPLORE.map((item) => (
-                    <Link key={item.href} href={item.href} className="explore-link">
-                      {item.label}
-                    </Link>
-                  ))}
-                </div>
-              </div>
-
-              <div className="sidebar-widget">
-                <div className="section-title" style={{ marginBottom: "8px" }}>Follow Us</div>
-                <div className="follow-list">
-                  {[
-                    { name: "YouTube",    href: "https://www.youtube.com/@digitechlifestyle" },
-                    { name: "X / Twitter", href: "https://x.com/DigiTechLife" },
-                    { name: "Facebook",   href: "https://www.facebook.com/digitechlifestyle" },
-                  ].map((s) => (
-                    <div key={s.name} className="follow-row">
-                      <span>{s.name}</span>
-                      <a href={s.href} className="follow-btn" target="_blank" rel="noopener">Follow</a>
-                    </div>
-                  ))}
-                </div>
-              </div>
             </aside>
           </div>
         )}

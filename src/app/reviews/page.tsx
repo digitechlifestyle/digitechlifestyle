@@ -5,7 +5,7 @@ import type { Article } from "@/lib/articles";
 import { SidebarAds } from "@/components/SidebarAds";
 
 export const metadata: Metadata = {
-  title: "Reviews — Crypto Exchanges, AI Tools & Wallets",
+  title: "Crypto, Wallet & AI Tool Reviews",
   description: "Honest, independent reviews of crypto exchanges, AI tools, hardware wallets, and digital services — UK-focused, no hype.",
   alternates: { canonical: "/reviews" },
 };

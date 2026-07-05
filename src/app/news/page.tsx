@@ -7,7 +7,7 @@ import { getArticles } from "@/lib/articles";
 import { GoogleAd } from "@/components/GoogleAd";
 
 export const metadata: Metadata = {
-  title: "Crypto & AI News — DigiTech Lifestyle",
+  title: "Crypto & AI News",
   description: "Latest cryptocurrency and AI news for UK readers. Regulation updates, market moves, FCA announcements, and tech developments — plain English, no hype.",
   alternates: { canonical: "/news" },
 };

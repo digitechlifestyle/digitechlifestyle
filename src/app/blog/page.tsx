@@ -8,7 +8,7 @@ import CategoryFilterClient from "@/components/CategoryFilterClient";
 import { GoogleAd } from "@/components/GoogleAd";
 
 export const metadata: Metadata = {
-  title: "Blog — DigiTech Lifestyle",
+  title: "Blog",
   description: "Crypto, AI, and digital lifestyle guides — honest, independent, UK-focused. No hype, no financial advice.",
   alternates: { canonical: "/blog" },
 };
