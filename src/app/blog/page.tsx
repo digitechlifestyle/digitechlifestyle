@@ -35,10 +35,13 @@ function tagClass(category: string) {
   return "tag-default";
 }
 
-function dataCat(category: string): string {
+function dataCat(category: string, title = ""): string {
   const c = category.toLowerCase();
+  const t = title.toLowerCase();
   if (c === "crypto guides" || c === "uk crypto tax" || c === "wallet safety") return "guides";
-  if (c.includes("bitcoin") || c.includes("crypto") || c.includes("blockchain") || c.includes("xrp") || c.includes("defi") || c.includes("ethereum")) return "cryptocurrencies xrp defi";
+  if (c.includes("xrp") || c.includes("ripple") || t.includes("xrp") || t.includes("ripple")) return "cryptocurrencies xrp";
+  if (c.includes("defi") || c.includes("stablecoin") || t.includes("defi")) return "cryptocurrencies defi";
+  if (c.includes("bitcoin") || c.includes("crypto") || c.includes("blockchain") || c.includes("ethereum")) return "cryptocurrencies";
   if (c.includes("ai") || c.includes("artificial")) return "ai";
   if (c.includes("review")) return "reviews";
   return c;
@@ -46,7 +49,7 @@ function dataCat(category: string): string {
 
 function ArticleRowItem({ article }: { article: Article }) {
   return (
-    <div data-cat={dataCat(article.category)}>
+    <div data-cat={dataCat(article.category, article.title)}>
       <Link href={`/blog/${article.slug}`} style={{ textDecoration: "none", display: "block" }}>
         <div className="article-row">
           <div>
