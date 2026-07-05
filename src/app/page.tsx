@@ -85,12 +85,12 @@ export default async function Home() {
           {/* Stats — right column */}
           <div className="home-stats-col">
             <div className="stat-item">
-              <span className="stat-num">100+</span>
-              <span className="stat-label">Articles published</span>
+              <span className="stat-num">2017</span>
+              <span className="stat-label">In crypto since</span>
             </div>
             <div className="stat-item">
-              <span className="stat-num">2017</span>
-              <span className="stat-label">Covering crypto since</span>
+              <span className="stat-num">0</span>
+              <span className="stat-label">Paid rankings or sponsored reviews</span>
             </div>
             <div className="stat-item">
               <span className="stat-num">100%</span>
@@ -98,6 +98,19 @@ export default async function Home() {
             </div>
           </div>
         </section>
+
+        {/* Trust strip */}
+        <div style={{ display: "flex", flexWrap: "wrap", alignItems: "center", gap: "8px 16px", padding: "12px 18px", background: "var(--bg-card)", border: "1px solid var(--line)", borderRadius: "12px", marginTop: "8px", fontSize: "13px" }}>
+          <span style={{ width: "30px", height: "30px", borderRadius: "50%", background: "var(--amber)", color: "oklch(15% 0.02 60)", display: "inline-flex", alignItems: "center", justifyContent: "center", fontWeight: 800, fontSize: "12px", flexShrink: 0 }}>JR</span>
+          <span style={{ color: "var(--muted)" }}>
+            Written by <Link href="/about" style={{ color: "var(--fg)", fontWeight: 700 }}>Joe Robertson</Link> — in crypto since 2017, writing since 2025
+          </span>
+          <span style={{ marginLeft: "auto", display: "flex", gap: "14px", flexWrap: "wrap" }}>
+            <Link href="/editorial-policy" style={{ color: "var(--muted)" }}>Editorial policy</Link>
+            <Link href="/review-methodology" style={{ color: "var(--muted)" }}>How we review</Link>
+            <Link href="/corrections" style={{ color: "var(--muted)" }}>Corrections</Link>
+          </span>
+        </div>
 
         {/* FREE FOR READERS */}
         <div className="free-strip">
