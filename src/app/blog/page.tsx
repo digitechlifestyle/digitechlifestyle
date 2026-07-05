@@ -39,6 +39,8 @@ function dataCat(category: string, title = ""): string {
   const c = category.toLowerCase();
   const t = title.toLowerCase();
   if (c === "crypto guides" || c === "uk crypto tax" || c === "wallet safety") return "guides";
+  if (t.includes("airdrop") || c.includes("airdrop")) return "cryptocurrencies airdrops";
+  if (t.includes("meme coin") || t.includes("memecoin") || c.includes("meme")) return "cryptocurrencies meme";
   if (c.includes("xrp") || c.includes("ripple") || t.includes("xrp") || t.includes("ripple")) return "cryptocurrencies xrp";
   if (c.includes("defi") || c.includes("stablecoin") || t.includes("defi")) return "cryptocurrencies defi";
   if (c.includes("bitcoin") || c.includes("crypto") || c.includes("blockchain") || c.includes("ethereum")) return "cryptocurrencies";
