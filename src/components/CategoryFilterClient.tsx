@@ -9,6 +9,8 @@ const CATEGORY_NAV = [
   { label: "XRP",       href: "/blog?category=XRP",              param: "xrp" },
   { label: "AI",        href: "/blog?category=AI",               param: "ai" },
   { label: "DeFi",      href: "/blog?category=DeFi",             param: "defi" },
+  { label: "Airdrops",  href: "/blog?category=Airdrops",         param: "airdrops" },
+  { label: "Meme Coins", href: "/blog?category=Meme",            param: "meme" },
   { label: "Reviews",   href: "/blog?category=Reviews",          param: "reviews" },
   { label: "News",      href: "/news",                           param: "" },
   { label: "Resources", href: "/resources",                      param: "" },
