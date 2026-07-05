@@ -96,8 +96,10 @@ function normalizeCategory(raw: string): string {
   if (c.includes("decentar") || c.includes("decentrai") || c === "defi" || c === "decentralised finance" || c === "decentralized finance") return "DeFi & Stablecoins";
   // Crypto news family
   if (c === "cryptocurrency news" || c === "blockchain & cryptocurrency" || c === "blockchain &amp; cryptocurrency" || c === "blockchain technology" || c === "cryptocurrency trading" || c === "altcoins" || c === "airdrops" || c === "meme tokens" || c === "web3" || c === "blockchain gaming") return "Crypto News";
-  // Crypto guides
-  if (c === "cryptocurrencies" || c === "crypto" || c === "learn" || c === "blog" || c === "guides") return "Crypto Guides";
+  // Generic crypto buckets — display as plain Crypto, NOT Guides (news lives here too)
+  if (c === "cryptocurrencies" || c === "crypto") return "Crypto";
+  // Crypto guides — only genuinely educational buckets
+  if (c === "learn" || c === "guides") return "Crypto Guides";
   // Tax
   if (c.includes("crypto tax") || c === "crypto tax software comparison") return "UK Crypto Tax";
   // Wallets
@@ -126,10 +128,19 @@ function inferCategory(slug: string, title: string): string {
   return "Crypto & AI";
 }
 
+// Generic bucket categories that say nothing about the article's topic.
+// Prefer a more specific sibling category; fall back to inferring from the title.
+const GENERIC_CATS = new Set(["crypto", "cryptocurrencies", "uncategorized", "blog", "news"]);
+
 function wpToArticle(post: WPPost, categories: Record<number, string>): Article {
   const rawExcerpt = decodeHtmlEntities(stripHtml(post.excerpt?.rendered || "")).slice(0, 160);
-  const wpCategory = post.categories?.[0] ? categories[post.categories[0]] : null;
-  const rawCategory = wpCategory || inferCategory(post.slug, post.title?.rendered || "");
+  const catNames = (post.categories || []).map((id) => categories[id]).filter(Boolean);
+  const wpCategory =
+    catNames.find((n) => !GENERIC_CATS.has(n.toLowerCase())) || catNames[0] || null;
+  const rawCategory =
+    wpCategory && !GENERIC_CATS.has(wpCategory.toLowerCase())
+      ? wpCategory
+      : inferCategory(post.slug, post.title?.rendered || "");
   const category = normalizeCategory(rawCategory);
   const rawImage = post._embedded?.["wp:featuredmedia"]?.[0]?.source_url;
   // WP Snippet 5 rewrites image URLs to www.digitechlifestyle.com (SSL broken on www).
