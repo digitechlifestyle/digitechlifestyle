@@ -73,8 +73,8 @@ export default async function Home() {
             </h1>
             <p className="home-hero-sub">
               Educational guides, honest reviews, and breaking news — from an
-              independent writer who&apos;s been in crypto since 2017. No hype.
-              No financial advice. Just clarity.
+              independent writer in crypto since 2017, publishing since 2025.
+              No hype. No financial advice. Just clarity.
             </p>
             <div className="home-hero-actions">
               <Link href="/blog" className="btn-primary">Read the Blog →</Link>

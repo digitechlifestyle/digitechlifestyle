@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "About DigiTech Lifestyle — Independent UK Crypto & AI Writing",
-  description: "DigiTech Lifestyle is an independent UK publication covering crypto, AI tools, digital lifestyle, and honest product reviews. Founded by Joe Robertson, crypto enthusiast since 2017.",
+  description: "DigiTech Lifestyle is an independent UK publication covering crypto, AI tools, digital lifestyle, and honest product reviews. Founded by Joe Robertson, crypto investor since 2017, publishing since 2025.",
   alternates: { canonical: "/about" },
 };
 

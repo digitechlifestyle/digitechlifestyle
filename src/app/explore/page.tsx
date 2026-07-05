@@ -124,7 +124,7 @@ export default function ExplorePage() {
         DigiTech Lifestyle is an independent UK publication covering crypto, artificial intelligence, and digital tools. Everything here is written in plain English — no hype, no financial advice, no guaranteed returns.
       </p>
       <p style={{ fontSize: "14px", color: "var(--muted)", lineHeight: 1.7, maxWidth: "640px", margin: "0 0 56px" }}>
-        Founded by Joe Robertson, a crypto enthusiast since 2017. Over 700 articles published. Independent writing — no sponsored content hidden as editorial.
+        Founded by Joe Robertson, a crypto investor since 2017, publishing since 2025. Over 700 articles published. Independent writing — no sponsored content hidden as editorial.
       </p>
 
       {/* Category sections */}

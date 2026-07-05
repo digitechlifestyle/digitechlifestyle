@@ -3,7 +3,7 @@ export const site = {
   tagline: "Crypto, AI & Digital Lifestyle — Independent. Honest. UK-focused.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://digitechlifestyle.com",
   description:
-    "Educational guides, honest reviews, and breaking news on crypto, AI, and digital lifestyle. Independent writing from a crypto enthusiast since 2017.",
+    "Educational guides, honest reviews, and breaking news on crypto, AI, and digital lifestyle. Independent writing from Joe Robertson — in crypto since 2017, publishing since 2025.",
   email: "contact@digitechlifestyle.com",
 };
 
