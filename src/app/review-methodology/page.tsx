@@ -15,7 +15,7 @@ export default function ReviewMethodologyPage() {
       <h2>Affiliate relationships</h2>
       <p>Some reviewed products pay us a commission on sign-ups; many do not. Commissions never affect scores, and every review lists cons. Our <a href="/affiliate-disclosure/">affiliate disclosure</a> covers this in full.</p>
       <h2>Updates</h2>
-      <p>Fees, features, and regulation change. We refresh reviews when material facts change, and mark significant updates with the date they were made. If you spot something out of date, email contact@digitechlifestyle.com.</p>
+      <p>Fees, features, and regulation change. We refresh reviews when material facts change, and mark significant updates with the date they were made. If you spot something out of date, email <a href="mailto:contact@digitechlifestyle.com?subject=Review%20update">contact@digitechlifestyle.com</a>.</p>
     </StandardPage>
   );
 }

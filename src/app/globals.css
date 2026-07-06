@@ -790,7 +790,7 @@ h1, h2, h3, h4, h5 {
 
 /* ─── Prose / article body ───────────────────────────────── */
 .prose-content {
-  color: oklch(88% 0.010 70);
+  color: var(--fg);
   line-height: 1.85;
   font-size: 18px;
   max-width: 75ch;
