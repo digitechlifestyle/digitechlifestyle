@@ -40,8 +40,14 @@ function NewsletterContent() {
             Join nearly 5,000 readers across YouTube, LinkedIn, X, and Facebook — plain-English crypto, DeFi, blockchain and AI insights every Thursday. No spam, no financial advice, no hype.
           </p>
           <div className="mt-8 grid gap-3 sm:grid-cols-3">
-            {["Weekly crypto & AI news", "UK tax & regulation updates", "Honest exchange reviews"].map((item) => (
-              <div key={item} className="surface rounded-lg p-4 text-sm font-semibold text-white">{item}</div>
+            {[
+              { label: "Weekly crypto & AI news", href: "/news" },
+              { label: "UK tax & regulation guides", href: "/blog?category=guides" },
+              { label: "Honest exchange reviews", href: "/reviews" },
+            ].map((item) => (
+              <a key={item.label} href={item.href} className="surface rounded-lg p-4 text-sm font-semibold text-white" style={{ textDecoration: "none", display: "block" }}>
+                {item.label} <span style={{ color: "var(--amber)" }}>→</span>
+              </a>
             ))}
           </div>
         </div>

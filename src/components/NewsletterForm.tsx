@@ -11,9 +11,9 @@ export function NewsletterForm({ compact = false }: NewsletterFormProps) {
         <Mail size={20} />
         <span className="text-sm font-semibold uppercase tracking-[0.2em]">Newsletter</span>
       </div>
-      <h2 className="mt-4 text-2xl font-semibold text-white">Get the Digital Living Brief</h2>
+      <h2 className="mt-4 text-2xl font-semibold text-white">Get the DigiTech Lifestyle newsletter</h2>
       <p className="mt-3 text-sm leading-6 text-[var(--muted)]">
-        Weekly AI tools, automation ideas, affiliate opportunities, and digital wealth notes. No noise.
+        Weekly crypto, AI, scam-safety, and digital lifestyle guides in plain English. No spam.
       </p>
       <div className="mt-5 grid gap-3 sm:grid-cols-[1fr_auto]">
         <input
