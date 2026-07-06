@@ -164,7 +164,7 @@ export default function BlogListClient({ articles }: { articles: Article[] }) {
               <div className="follow-list">
                 {[
                   { name: "YouTube",     href: "https://www.youtube.com/@digitechlifestyle" },
-                  { name: "X / Twitter", href: "https://x.com/DigiTechLife" },
+                  { name: "X / Twitter", href: "https://x.com/joedigitals" },
                   { name: "Facebook",    href: "https://www.facebook.com/digitechlifestyle" },
                 ].map((s) => (
                   <div key={s.name} className="follow-row">

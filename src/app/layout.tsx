@@ -43,7 +43,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
     description: site.description,
     logo: `${site.url}/favicon.svg`,
     sameAs: [
-      "https://x.com/DigiTechLife",
+      "https://x.com/joedigitals",
       "https://www.facebook.com/digitechlifestyle",
       "https://www.youtube.com/@digitechlifestyle",
     ],

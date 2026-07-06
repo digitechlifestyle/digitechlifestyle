@@ -163,7 +163,7 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
           }}>
             <span style={{ fontSize: "12px", fontWeight: 700, color: "var(--muted)", textTransform: "uppercase", letterSpacing: "0.08em", marginRight: "4px" }}>Share:</span>
             <a
-              href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(article.title)}&url=${encodeURIComponent(`https://digitechlifestyle.com/blog/${article.slug}`)}&via=DigiTechLife`}
+              href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(article.title)}&url=${encodeURIComponent(`https://digitechlifestyle.com/blog/${article.slug}`)}&via=joedigitals`}
               target="_blank" rel="noopener noreferrer"
               style={{ display: "inline-flex", alignItems: "center", gap: "6px", background: "#000", color: "#fff", fontWeight: 700, fontSize: "12px", padding: "8px 14px", borderRadius: "8px", textDecoration: "none" }}
             >
