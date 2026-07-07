@@ -26,7 +26,8 @@ fi
 
 # Build
 cd "$SCRIPT_DIR"
-export PATH="/Users/joerobertson/.nvm/versions/node/v24.18.0/bin:$PATH"
+NODE_BIN="$(ls -d "$HOME"/.nvm/versions/node/*/bin 2>/dev/null | sort -V | tail -1)"
+export PATH="$NODE_BIN:$PATH"
 # Clear Next.js fetch cache so WP articles are always fresh
 rm -rf .next/cache/fetch-cache
 npm run build >> "$LOG" 2>&1
