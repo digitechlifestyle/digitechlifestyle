@@ -42,7 +42,7 @@ export function Footer() {
   return (
     <footer className="site-footer">
       <div className="wrap">
-        <div style={{ display: "grid", gridTemplateColumns: "1.4fr 1fr 1fr 1fr", gap: "32px", marginBottom: "24px" }}>
+        <div className="footer-grid" style={{ gap: "32px", marginBottom: "24px" }}>
           <div>
             <div style={{ fontFamily: "Sora, sans-serif", fontWeight: 900, fontSize: "17px", letterSpacing: "-0.02em", marginBottom: "10px" }}>
               Digi<span style={{ color: "var(--blue)" }}>Tech</span> Lifestyle
