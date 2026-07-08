@@ -23,6 +23,7 @@ declare global {
 export function GoogleAd({ position }: { position: "header" | "sidebar" | "middle" }) {
   const pathname = usePathname();
   const pushed = useRef(false);
+  const containerRef = useRef<HTMLDivElement>(null);
 
   const excluded = EXCLUDED.some((p) => pathname === p || pathname === `${p}/`);
   const slot = AD_SLOTS[position];
@@ -35,6 +36,24 @@ export function GoogleAd({ position }: { position: "header" | "sidebar" | "middl
     } catch {
       /* adsbygoogle not loaded yet — Auto ads still cover the page */
     }
+
+    // AdSense marks the <ins> data-ad-status="unfilled" when there's no ad to
+    // show. Without this, the container keeps its reserved height (up to
+    // ~280px) and leaves a large blank gap on every page until Google starts
+    // filling the slot. Collapse the container the moment that status appears.
+    const el = containerRef.current;
+    if (!el) return;
+    const ins = el.querySelector("ins.adsbygoogle");
+    if (!ins) return;
+    const observer = new MutationObserver(() => {
+      if (ins.getAttribute("data-ad-status") === "unfilled") {
+        el.style.display = "none";
+      } else if (ins.getAttribute("data-ad-status") === "filled") {
+        el.style.display = "";
+      }
+    });
+    observer.observe(ins, { attributes: true, attributeFilter: ["data-ad-status"] });
+    return () => observer.disconnect();
   }, [excluded, slot]);
 
   if (excluded || !slot) return null;
@@ -45,7 +64,11 @@ export function GoogleAd({ position }: { position: "header" | "sidebar" | "middl
       : { display: "block", minHeight: 90 };
 
   return (
-    <div className={`google-ad google-ad-${position}`} style={{ margin: position === "sidebar" ? "0 0 16px" : "16px auto", maxWidth: "1200px", padding: position === "sidebar" ? 0 : "0 20px" }}>
+    <div
+      ref={containerRef}
+      className={`google-ad google-ad-${position}`}
+      style={{ margin: position === "sidebar" ? "0 0 16px" : "16px auto", maxWidth: "1200px", padding: position === "sidebar" ? 0 : "0 20px" }}
+    >
       <ins
         className="adsbygoogle"
         style={style}
