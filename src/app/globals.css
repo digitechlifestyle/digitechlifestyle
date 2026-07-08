@@ -3,6 +3,14 @@
 @source not "../../out";
 @source not "../../out-backup-2026-07-03";
 
+/* Every page hosts SidebarAds inside a grid/flex column via <aside>. Without
+   min-width:0, a single nowrap/fixed-width element deep inside (partner
+   badges, taglines) forces the whole column — and the page — to overflow
+   horizontally on mobile. Grid items default to min-width:auto, so both the
+   outer two-column grid AND the aside itself need this. */
+aside { min-width: 0; }
+.grid > * { min-width: 0; }
+
 /* ─── Brand image animations ─────────────────────────────── */
 
 /* Slow parallax zoom on hero images */
@@ -556,9 +564,11 @@ h1, h2, h3, h4, h5 {
 
 /* ─── Content grid ───────────────────────────────────────── */
 .content-grid { display: grid; grid-template-columns: 1fr 260px; gap: 32px; align-items: start; }
+.content-grid > * { min-width: 0; }
 
 /* ─── Sidebar ────────────────────────────────────────────── */
 .sidebar { display: grid; gap: 20px; align-content: start; }
+.sidebar > * { min-width: 0; }
 
 .disclaimer-box {
   background: var(--bg-card);
@@ -793,6 +803,7 @@ h1, h2, h3, h4, h5 {
 .footer-links a:hover { color: var(--fg); }
 
 /* ─── Blog two-col layout ────────────────────────────────── */
+.blog-two-col > * { min-width: 0; }
 @media (min-width: 1024px) {
   .blog-two-col {
     grid-template-columns: 1fr 320px !important;
