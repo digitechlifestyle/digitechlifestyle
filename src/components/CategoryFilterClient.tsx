@@ -22,8 +22,12 @@ function applyFilter(category: string) {
     if (!category) {
       el.style.display = "";
     } else {
-      const cat = (el.dataset.cat ?? "").toLowerCase();
-      el.style.display = cat.includes(category) ? "" : "none";
+      // Exact-token match, not substring — "ai" must not match inside
+      // "airdrops" (data-cat values are space-separated tag lists, e.g.
+      // "cryptocurrencies airdrops"). A naive .includes() let "AI" wrongly
+      // show every airdrop article, since "airdrops" contains "ai".
+      const tags = (el.dataset.cat ?? "").toLowerCase().split(/\s+/);
+      el.style.display = tags.includes(category) ? "" : "none";
     }
   });
   const label = CATEGORY_NAV.find((n) => n.param === category)?.label;
