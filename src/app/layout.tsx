@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
@@ -56,18 +57,41 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   };
 
   return (
-    <html lang="en">
-      <head>
-        {/* Inline script prevents flash of wrong theme on load */}
-        <script dangerouslySetInnerHTML={{ __html: `(function(){try{var h=new Date().getHours();if(h>=7&&h<20){document.documentElement.setAttribute('data-theme','light');}}catch(e){}})();` }} />
+    <html lang="en" suppressHydrationWarning>
+      {/* AdSense's own loader inserts additional <script> tags directly into
+          <head> outside React (an internal "show_ads_impl" file it fetches),
+          which shifts sibling positions and trips React's head-diffing even
+          though our own scripts are unaffected. suppressHydrationWarning is
+          the documented escape hatch for DOM nodes mutated by third-party
+          scripts outside React's control. */}
+      <head suppressHydrationWarning>
+        {/* Inline script prevents flash of wrong theme on load — must run
+            synchronously before paint, so it stays a raw script tag. It
+            mutates <html> outside React's control by design; suppressHydrationWarning
+            on <html> above tells React not to warn about that specific, expected diff. */}
+        <script
+          suppressHydrationWarning
+          dangerouslySetInnerHTML={{ __html: `(function(){try{var h=new Date().getHours();if(h>=7&&h<20){document.documentElement.setAttribute('data-theme','light');}}catch(e){}})();` }}
+        />
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <link rel="icon" href="/favicon.svg" sizes="any" />
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-M5KCLHJ9JH" />
-        <script dangerouslySetInnerHTML={{ __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-M5KCLHJ9JH');` }} />
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7177380383874452" crossOrigin="anonymous" />
       </head>
       <body>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
+        {/* Third-party scripts load after hydration (next/script "afterInteractive")
+            instead of raw <script> tags in <head> — AdSense/GA were injecting their
+            own script elements into <head> before React finished hydrating, which
+            shifted sibling positions and triggered a second, unrelated hydration
+            mismatch on the theme/GA script slots. */}
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-M5KCLHJ9JH" strategy="afterInteractive" />
+        <Script id="ga-init" strategy="afterInteractive">
+          {`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-M5KCLHJ9JH');`}
+        </Script>
+        <Script
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7177380383874452"
+          strategy="afterInteractive"
+          crossOrigin="anonymous"
+        />
         <Header />
         <GoogleAd position="header" />
         {children}
