@@ -40,6 +40,7 @@ function dataCat(category: string, title = ""): string {
   const t = title.toLowerCase();
   if (t.includes("airdrop") || c.includes("airdrop")) return "cryptocurrencies airdrops";
   if (t.includes("meme coin") || t.includes("memecoin") || c.includes("meme")) return "cryptocurrencies meme";
+  if (c.includes("scam")) return "cryptocurrencies scamwatch";
   if (c === "crypto guides" || c === "uk crypto tax" || c === "wallet safety") return "guides";
   if (c.includes("xrp") || c.includes("ripple") || t.slice(0, 40).includes("xrp") || t.slice(0, 40).includes("ripple")) return "cryptocurrencies xrp";
   if (c.includes("defi") || c.includes("stablecoin") || t.includes("defi")) return "cryptocurrencies defi";
@@ -89,7 +90,7 @@ export default async function BlogPage() {
         <div className="content-grid">
           <div>
             {/* Featured */}
-            <div id="featured-section">
+            <div id="featured-section" data-cat={featured ? dataCat(featured.category, featured.title) : undefined}>
               {featured && (
                 <>
                   <div className="section-title">Featured</div>

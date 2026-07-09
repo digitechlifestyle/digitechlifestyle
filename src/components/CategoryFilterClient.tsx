@@ -11,6 +11,7 @@ const CATEGORY_NAV = [
   { label: "DeFi",      href: "/blog?category=DeFi",             param: "defi" },
   { label: "Airdrops",  href: "/blog?category=Airdrops",         param: "airdrops" },
   { label: "Meme Coins", href: "/blog?category=Meme",            param: "meme" },
+  { label: "Scam Watch", href: "/blog?category=ScamWatch",       param: "scamwatch" },
   { label: "Reviews",   href: "/blog?category=Reviews",          param: "reviews" },
   { label: "News",      href: "/news",                           param: "" },
   { label: "Resources", href: "/resources",                      param: "" },
@@ -33,8 +34,8 @@ function applyFilter(category: string) {
   const label = CATEGORY_NAV.find((n) => n.param === category)?.label;
   const titleEl = document.getElementById("articles-section-title");
   if (titleEl) titleEl.textContent = label && label !== "All" ? `${label} articles` : "Latest";
-  const featured = document.getElementById("featured-section");
-  if (featured) featured.style.display = category ? "none" : "";
+  // featured-section carries its own data-cat now, so the loop above already
+  // shows/hides it correctly on a per-category basis — no unconditional hide here.
   // update pill active states
   document.querySelectorAll<HTMLElement>("[data-filter-pill]").forEach((pill) => {
     const active = pill.dataset.filterPill === category;
