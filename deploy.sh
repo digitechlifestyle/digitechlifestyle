@@ -35,23 +35,36 @@ npm run build >> "$LOG" 2>&1
 echo "[$(date '+%Y-%m-%d %H:%M:%S')] Build done. Deploying..." >> "$LOG"
 
 # Deploy. WP dirs/files are excluded so rsync NEVER uploads over or deletes them.
-rsync -a --delete-after \
-  -e "ssh -i $SSH_KEY -p $SSH_PORT -o StrictHostKeyChecking=no" \
-  "$SCRIPT_DIR/out/" \
-  "$SSH_HOST:$REMOTE_PATH" \
-  --exclude="index.php" \
-  --exclude="default.php" \
-  --exclude="license.txt" \
-  --exclude=".htaccess" \
-  --exclude="wp-api-proxy.php" \
-  --exclude="wp-admin" \
-  --exclude="wp-includes" \
-  --exclude="wp-content" \
-  --exclude="wp-*.php" \
-  --exclude="xmlrpc.php" \
-  --exclude="prices.php" \
-  --filter="protect _next/static/chunks/***" \
-  --filter="protect _next/static/css/***" \
-  >> "$LOG" 2>&1
+# Hostinger SSH occasionally resets mid-transfer; retry before giving up.
+RSYNC_OK=0
+for i in 1 2 3; do
+  if rsync -a --delete-after \
+    -e "ssh -i $SSH_KEY -p $SSH_PORT -o StrictHostKeyChecking=no" \
+    "$SCRIPT_DIR/out/" \
+    "$SSH_HOST:$REMOTE_PATH" \
+    --exclude="index.php" \
+    --exclude="default.php" \
+    --exclude="license.txt" \
+    --exclude=".htaccess" \
+    --exclude="wp-api-proxy.php" \
+    --exclude="wp-admin" \
+    --exclude="wp-includes" \
+    --exclude="wp-content" \
+    --exclude="wp-*.php" \
+    --exclude="xmlrpc.php" \
+    --exclude="prices.php" \
+    --filter="protect _next/static/chunks/***" \
+    --filter="protect _next/static/css/***" \
+    >> "$LOG" 2>&1; then
+    RSYNC_OK=1
+    break
+  fi
+  echo "[$(date '+%Y-%m-%d %H:%M:%S')] rsync attempt $i failed, retrying..." >> "$LOG"
+  sleep 10
+done
+if [ "$RSYNC_OK" -ne 1 ]; then
+  echo "[$(date '+%Y-%m-%d %H:%M:%S')] ABORT: rsync failed after 3 attempts" >> "$LOG"
+  exit 1
+fi
 
 echo "[$(date '+%Y-%m-%d %H:%M:%S')] Deploy complete." >> "$LOG"

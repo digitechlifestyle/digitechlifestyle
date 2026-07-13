@@ -16,6 +16,20 @@ export type Article = {
 
 const WP_API = "https://digitechlifestyle.com/wp-json/wp/v2";
 
+/** WP host occasionally resets connections during build; retry transient failures before giving up. */
+async function fetchWithRetry(url: string, init: RequestInit, attempts = 3): Promise<Response> {
+  let lastErr: unknown;
+  for (let i = 0; i < attempts; i++) {
+    try {
+      return await fetch(url, init);
+    } catch (err) {
+      lastErr = err;
+      if (i < attempts - 1) await new Promise((r) => setTimeout(r, 500 * 2 ** i));
+    }
+  }
+  throw lastErr;
+}
+
 type WPPost = {
   slug: string;
   title: { rendered: string };
@@ -37,7 +51,7 @@ type WPCategory = {
 
 async function getCategories(): Promise<Record<number, string>> {
   try {
-    const res = await fetch(`${WP_API}/categories?per_page=50`, {
+    const res = await fetchWithRetry(`${WP_API}/categories?per_page=50`, {
       cache: "force-cache",
     });
     const cats: WPCategory[] = await res.json();
@@ -169,7 +183,7 @@ function wpToArticle(post: WPPost, categories: Record<number, string>): Article 
 
 // Fetch a single page of posts (listings — no content, lighter payload)
 async function fetchPage(page: number): Promise<{ posts: WPPost[]; totalPages: number }> {
-  const res = await fetch(
+  const res = await fetchWithRetry(
     `${WP_API}/posts?per_page=100&page=${page}&status=publish&_embed=wp:featuredmedia&_fields=slug,title,excerpt,date,categories,sticky,_links,_embedded`,
     { cache: "force-cache" }
   );
@@ -206,7 +220,7 @@ export async function getArticles(): Promise<Article[]> {
 export async function getArticle(slug: string): Promise<Article | undefined> {
   try {
     const [postsRes, categories] = await Promise.all([
-      fetch(
+      fetchWithRetry(
         `${WP_API}/posts?slug=${encodeURIComponent(slug)}&status=publish&_embed=wp:featuredmedia`,
         { cache: "force-cache" }
       ),
