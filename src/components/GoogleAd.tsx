@@ -53,7 +53,21 @@ export function GoogleAd({ position }: { position: "header" | "sidebar" | "middl
       }
     });
     observer.observe(ins, { attributes: true, attributeFilter: ["data-ad-status"] });
-    return () => observer.disconnect();
+
+    // Fallback: if an ad blocker or slow/failed request means adsbygoogle.js
+    // never sets data-ad-status at all, the observer above never fires and
+    // the reserved-height box sits empty indefinitely. Collapse it after a
+    // few seconds if no status has shown up by then.
+    const fallback = window.setTimeout(() => {
+      if (!ins.getAttribute("data-ad-status")) {
+        el.style.display = "none";
+      }
+    }, 3000);
+
+    return () => {
+      observer.disconnect();
+      window.clearTimeout(fallback);
+    };
   }, [excluded, slot]);
 
   if (excluded || !slot) return null;

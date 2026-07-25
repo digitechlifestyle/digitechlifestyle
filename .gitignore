@@ -8,3 +8,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .DS_Store
+deploy.log
+deploy_run*.log
+wp-heal-watchdog*.log
+tsconfig.tsbuildinfo
+out-backup-*/

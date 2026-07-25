@@ -42,7 +42,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
     name: site.name,
     url: site.url,
     description: site.description,
-    logo: `${site.url}/favicon.svg`,
+    logo: `${site.url}/images/logo-square.png`,
     sameAs: [
       "https://x.com/joedigitals",
       "https://www.facebook.com/digitechlifestyle",
@@ -87,9 +87,23 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         <Script id="ga-init" strategy="afterInteractive">
           {`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-M5KCLHJ9JH');`}
         </Script>
-        <Script
+        {/* Funding Choices — UK/EEA consent message. Must load before the
+            AdSense script below so consent is established before ad requests fire. */}
+        <Script src="https://fundingchoicesmessages.google.com/i/pub-7177380383874452?ers=1" strategy="afterInteractive" />
+        <Script id="funding-choices-present" strategy="afterInteractive">
+          {`(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();`}
+        </Script>
+        {/* Plain native <script> here, not next/script's <Script> component —
+            next/script adds a data-nscript tracking attribute to the tag, and
+            AdSense's own loader refuses to fully initialize when its head
+            tag carries an attribute it doesn't recognize ("AdSense head tag
+            doesn't support data-nscript attribute"), silently killing all ad
+            requests site-wide even though everything else is configured
+            correctly. Google's own embed snippet is a raw script tag — match
+            it exactly. */}
+        <script
+          async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7177380383874452"
-          strategy="afterInteractive"
           crossOrigin="anonymous"
         />
         <Header />

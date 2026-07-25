@@ -15,7 +15,7 @@ echo "[$(date '+%Y-%m-%d %H:%M:%S')] Build started" >> "$LOG"
 
 # Self-heal WP core BEFORE build (build needs wp-json alive to fetch articles).
 # Restores wp-includes/wp-admin from ~/wp-core-backup on server if damaged.
-ssh -i "$SSH_KEY" -p "$SSH_PORT" -o StrictHostKeyChecking=no "$SSH_HOST" \
+ssh -i "$SSH_KEY" -p "$SSH_PORT" -o StrictHostKeyChecking=no -o ConnectTimeout=15 -o ServerAliveInterval=15 -o ServerAliveCountMax=4 "$SSH_HOST" \
   "/home/u505433088/wp-core-heal.sh" >> "$LOG" 2>&1 || true
 
 # Abort if WP API is down — deploying placeholder pages is worse than not deploying
@@ -38,8 +38,8 @@ echo "[$(date '+%Y-%m-%d %H:%M:%S')] Build done. Deploying..." >> "$LOG"
 # Hostinger SSH occasionally resets mid-transfer; retry before giving up.
 RSYNC_OK=0
 for i in 1 2 3; do
-  if rsync -a --delete-after \
-    -e "ssh -i $SSH_KEY -p $SSH_PORT -o StrictHostKeyChecking=no" \
+  if rsync -a --delete-after --timeout=120 \
+    -e "ssh -i $SSH_KEY -p $SSH_PORT -o StrictHostKeyChecking=no -o ConnectTimeout=15 -o ServerAliveInterval=15 -o ServerAliveCountMax=4" \
     "$SCRIPT_DIR/out/" \
     "$SSH_HOST:$REMOTE_PATH" \
     --exclude="index.php" \
@@ -68,3 +68,8 @@ if [ "$RSYNC_OK" -ne 1 ]; then
 fi
 
 echo "[$(date '+%Y-%m-%d %H:%M:%S')] Deploy complete." >> "$LOG"
+
+# Self-heal WP core AFTER deploy too — catches damage from a mid-rsync
+# connection drop instead of waiting up to the next scheduled run.
+ssh -i "$SSH_KEY" -p "$SSH_PORT" -o StrictHostKeyChecking=no -o ConnectTimeout=15 -o ServerAliveInterval=15 -o ServerAliveCountMax=4 "$SSH_HOST" \
+  "/home/u505433088/wp-core-heal.sh" >> "$LOG" 2>&1 || true
