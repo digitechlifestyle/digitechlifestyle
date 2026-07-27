@@ -11,5 +11,6 @@ yarn-error.log*
 deploy.log
 deploy_run*.log
 wp-heal-watchdog*.log
+wp-db-backup-watchdog*.log
 tsconfig.tsbuildinfo
 out-backup-*/

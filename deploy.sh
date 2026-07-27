@@ -18,6 +18,27 @@ echo "[$(date '+%Y-%m-%d %H:%M:%S')] Build started" >> "$LOG"
 ssh -i "$SSH_KEY" -p "$SSH_PORT" -o StrictHostKeyChecking=no -o ConnectTimeout=15 -o ServerAliveInterval=15 -o ServerAliveCountMax=4 "$SSH_HOST" \
   "/home/u505433088/wp-core-heal.sh" >> "$LOG" 2>&1 || true
 
+# DB backup BEFORE build, on every deploy cycle. Files (wp-admin/wp-includes)
+# have the heal script above; the database never had an equivalent — a
+# 2026-07-25 DB rollback lost 641 posts with zero recoverable backup anywhere.
+# Best-effort: a failed backup must never block a deploy.
+ssh -i "$SSH_KEY" -p "$SSH_PORT" -o StrictHostKeyChecking=no -o ConnectTimeout=15 -o ServerAliveInterval=15 -o ServerAliveCountMax=4 "$SSH_HOST" \
+  "/home/u505433088/wp-db-backup.sh" >> "$LOG" 2>&1 || echo "[$(date '+%Y-%m-%d %H:%M:%S')] WARNING: DB backup failed" >> "$LOG"
+
+# Pull the latest DB backup down to the Mac too — the 2026-07-25 incident
+# wiped the entire server docroot in one shot, so a server-only backup isn't
+# enough on its own.
+LOCAL_DB_BACKUP_DIR="$SCRIPT_DIR/../site-backups/db-backups"
+mkdir -p "$LOCAL_DB_BACKUP_DIR"
+LATEST_REMOTE=$(ssh -i "$SSH_KEY" -p "$SSH_PORT" -o StrictHostKeyChecking=no -o ConnectTimeout=15 "$SSH_HOST" \
+  "ls -t /home/u505433088/db-backups/db-*.sql.gz 2>/dev/null | head -1" 2>>"$LOG" || true)
+if [ -n "$LATEST_REMOTE" ]; then
+  scp -i "$SSH_KEY" -P "$SSH_PORT" -o StrictHostKeyChecking=no -o ConnectTimeout=15 \
+    "$SSH_HOST:$LATEST_REMOTE" "$LOCAL_DB_BACKUP_DIR/" >> "$LOG" 2>&1 || echo "[$(date '+%Y-%m-%d %H:%M:%S')] WARNING: local DB backup pull failed" >> "$LOG"
+  # Keep the last 60 local copies too.
+  ls -t "$LOCAL_DB_BACKUP_DIR"/db-*.sql.gz 2>/dev/null | tail -n +61 | xargs -r rm --
+fi
+
 # Abort if WP API is down — deploying placeholder pages is worse than not deploying
 if ! curl -sf --max-time 20 "https://digitechlifestyle.com/wp-json/wp/v2/posts?per_page=1&_fields=slug" > /dev/null; then
   echo "[$(date '+%Y-%m-%d %H:%M:%S')] ABORT: wp-json unreachable — skipping deploy to protect live site" >> "$LOG"
