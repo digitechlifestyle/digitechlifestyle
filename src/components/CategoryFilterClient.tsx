@@ -4,7 +4,7 @@ import { useEffect } from "react";
 
 const CATEGORY_NAV = [
   { label: "All",       href: "/blog",                           param: "" },
-  { label: "Crypto",    href: "/blog?category=Cryptocurrencies", param: "cryptocurrencies" },
+  { label: "Crypto",    href: "/blog?category=crypto",           param: "crypto" },
   { label: "Guides",   href: "/blog?category=guides",          param: "guides" },
   { label: "XRP",       href: "/blog?category=XRP",              param: "xrp" },
   { label: "AI",        href: "/blog?category=AI",               param: "ai" },
@@ -25,7 +25,7 @@ function applyFilter(category: string) {
     } else {
       // Exact-token match, not substring — "ai" must not match inside
       // "airdrops" (data-cat values are space-separated tag lists, e.g.
-      // "cryptocurrencies airdrops"). A naive .includes() let "AI" wrongly
+      // "crypto airdrops"). A naive .includes() let "AI" wrongly
       // show every airdrop article, since "airdrops" contains "ai".
       const tags = (el.dataset.cat ?? "").toLowerCase().split(/\s+/);
       el.style.display = tags.includes(category) ? "" : "none";

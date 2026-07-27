@@ -30,6 +30,13 @@ export async function generateMetadata({ params }: BlogPostProps): Promise<Metad
       description: article.description,
       type: "article",
       publishedTime: article.date,
+      images: article.image ? [article.image] : undefined,
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: article.title,
+      description: article.description,
+      images: article.image ? [article.image] : undefined,
     },
   };
 }
@@ -52,6 +59,7 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
     description: article.description,
     datePublished: article.date,
     dateModified: article.updated,
+    image: article.image ? [article.image] : undefined,
     author: {
       "@type": "Person",
       name: "Joe Robertson",
