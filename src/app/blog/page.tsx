@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { Suspense } from "react";
 import Link from "next/link";
 import { getArticles } from "@/lib/articles";
 import type { Article } from "@/lib/articles";
@@ -38,16 +37,23 @@ function tagClass(category: string) {
 function dataCat(category: string, title = ""): string {
   const c = category.toLowerCase();
   const t = title.toLowerCase();
-  if (t.includes("airdrop") || c.includes("airdrop")) return "cryptocurrencies airdrops";
-  if (t.includes("meme coin") || t.includes("memecoin") || c.includes("meme")) return "cryptocurrencies meme";
-  if (c.includes("scam")) return "cryptocurrencies scamwatch";
-  if (c === "crypto guides" || c === "uk crypto tax" || c === "wallet safety") return "guides";
-  if (c.includes("xrp") || c.includes("ripple") || t.slice(0, 40).includes("xrp") || t.slice(0, 40).includes("ripple")) return "cryptocurrencies xrp";
-  if (c.includes("defi") || c.includes("stablecoin") || t.includes("defi")) return "cryptocurrencies defi";
-  if (c.includes("bitcoin") || c.includes("crypto") || c.includes("blockchain") || c.includes("ethereum")) return "cryptocurrencies";
-  if (c.includes("ai") || c.includes("artificial")) return "ai";
-  if (c.includes("review")) return "reviews";
-  return c;
+  let base: string;
+  if (t.includes("airdrop") || c.includes("airdrop")) base = "cryptocurrencies airdrops";
+  else if (t.includes("meme coin") || t.includes("memecoin") || c.includes("meme")) base = "cryptocurrencies meme";
+  else if (c.includes("scam")) base = "cryptocurrencies scamwatch";
+  else if (c.includes("xrp") || c.includes("ripple") || t.slice(0, 40).includes("xrp") || t.slice(0, 40).includes("ripple")) base = "cryptocurrencies xrp";
+  else if (c.includes("defi") || c.includes("stablecoin") || t.includes("defi")) base = "cryptocurrencies defi";
+  else if (c.includes("bitcoin") || c.includes("crypto") || c.includes("blockchain") || c.includes("ethereum")) base = "cryptocurrencies";
+  else if (c.includes("ai") || c.includes("artificial")) base = "ai";
+  else if (c.includes("review")) base = "reviews";
+  else base = c;
+
+  // "Guides" nav filter: WP has no guides/learn category, so match the
+  // evergreen explainer pattern these articles are actually titled with.
+  const isGuide =
+    c === "crypto guides" || c === "uk crypto tax" || c === "wallet safety" ||
+    /^what is |^how to |explained|beginner/.test(t);
+  return isGuide ? `${base} guides` : base;
 }
 
 function ArticleRowItem({ article }: { article: Article }) {
@@ -83,9 +89,7 @@ export default async function BlogPage() {
       <div className="wrap" style={{ paddingTop: "32px" }}>
 
         {/* Category filter — client only, progressive enhancement */}
-        <Suspense fallback={null}>
-          <CategoryFilterClient />
-        </Suspense>
+        <CategoryFilterClient />
 
         <div className="content-grid">
           <div>
