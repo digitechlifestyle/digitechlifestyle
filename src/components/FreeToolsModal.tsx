@@ -2,17 +2,8 @@
 
 import { useEffect, useState } from "react";
 
-const DISMISSED_KEY = "dtl_free_popup_dismissed";
-
-const TOOLS = [
-  { emoji: "🌐", name: "ComfyCloud", desc: "AI image gen" },
-  { emoji: "💬", name: "Z.ai", desc: "Free Claude & GPT" },
-  { emoji: "🧠", name: "Qwen AI", desc: "Reasoning model" },
-  { emoji: "🎬", name: "HunyuanVideo", desc: "AI video" },
-  { emoji: "✂️", name: "Vider AI", desc: "Video editor" },
-  { emoji: "⚔️", name: "Arena AI", desc: "Compare any AI" },
-  { emoji: "🔍", name: "Perplexity", desc: "AI search" },
-];
+const DISMISSED_KEY = "dtl_resource_popup_dismissed_at";
+const THIRTY_DAYS = 30 * 24 * 60 * 60 * 1000;
 
 export function FreeToolsModal() {
   const [open, setOpen] = useState(false);
@@ -20,13 +11,28 @@ export function FreeToolsModal() {
   const [done, setDone] = useState(false);
 
   useEffect(() => {
-    if (sessionStorage.getItem(DISMISSED_KEY)) return;
-    const timer = setTimeout(() => setOpen(true), 5000);
-    return () => clearTimeout(timer);
+    const dismissedAt = Number(localStorage.getItem(DISMISSED_KEY) || 0);
+    if (Date.now() - dismissedAt < THIRTY_DAYS) return;
+
+    let shown = false;
+    const showOnce = () => {
+      if (shown) return;
+      shown = true;
+      setOpen(true);
+    };
+    const onExit = (event: MouseEvent) => {
+      if (event.clientY <= 0) showOnce();
+    };
+    document.addEventListener("mouseout", onExit);
+    const timer = window.setTimeout(showOnce, 35_000);
+    return () => {
+      document.removeEventListener("mouseout", onExit);
+      window.clearTimeout(timer);
+    };
   }, []);
 
   function dismiss() {
-    sessionStorage.setItem(DISMISSED_KEY, "1");
+    localStorage.setItem(DISMISSED_KEY, String(Date.now()));
     setOpen(false);
   }
 
@@ -42,17 +48,10 @@ export function FreeToolsModal() {
       });
     } catch { /* subscribe regardless */ }
 
-    const link = document.createElement("a");
-    link.href = "/downloads/7-free-ai-tools-bundle.html";
-    link.download = "7-Free-AI-Tools-DigiTech.html";
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-
-    sessionStorage.setItem(DISMISSED_KEY, "1");
+    localStorage.setItem(DISMISSED_KEY, String(Date.now()));
     setLoading(false);
     setDone(true);
-    setTimeout(dismiss, 2500);
+    window.setTimeout(() => { window.location.href = "/resources/"; }, 1200);
   }
 
   if (!open) return null;
@@ -113,20 +112,23 @@ export function FreeToolsModal() {
               fontSize: "24px", fontWeight: 900,
               color: "#fff", lineHeight: 1.15, margin: "0 0 6px",
             }}>
-              7 Free AI Tools
+              Free Resource Library
             </h2>
             <p style={{ fontSize: "13px", color: "rgba(255,255,255,0.45)", margin: "0 0 16px" }}>
-              Tools most people are paying for — all free.
+              Choose a practical guide for AI, crypto security or no-code automation.
             </p>
 
-            {/* Tool grid */}
+            {/* Resource grid */}
             <div style={{
               display: "grid",
               gridTemplateColumns: "1fr 1fr",
               gap: "7px",
               marginBottom: "16px",
             }}>
-              {TOOLS.slice(0, 6).map((t) => (
+              {[
+                { emoji: "🤖", name: "7 Free AI Tools", desc: "Useful free plans" },
+                { emoji: "🔒", name: "Crypto Security", desc: "Protect wallets & accounts" },
+              ].map((t) => (
                 <div key={t.name} style={{
                   background: "rgba(255,255,255,0.05)",
                   border: "1px solid rgba(255,255,255,0.08)",
@@ -143,7 +145,7 @@ export function FreeToolsModal() {
               ))}
             </div>
 
-            {/* 7th tool — full width */}
+            {/* Automation resource — full width */}
             <div style={{
               background: "rgba(245,166,35,0.08)",
               border: "1px solid rgba(245,166,35,0.2)",
@@ -152,17 +154,17 @@ export function FreeToolsModal() {
               display: "flex", alignItems: "center", gap: "9px",
               marginBottom: "16px",
             }}>
-              <span style={{ fontSize: "20px", lineHeight: 1 }}>{TOOLS[6].emoji}</span>
+              <span style={{ fontSize: "20px", lineHeight: 1 }}>⚙️</span>
               <div>
-                <div style={{ fontSize: "12px", fontWeight: 700, color: "#fff", lineHeight: 1.2 }}>{TOOLS[6].name}</div>
-                <div style={{ fontSize: "10px", color: "rgba(255,255,255,0.4)", lineHeight: 1.3 }}>{TOOLS[6].desc}</div>
+                <div style={{ fontSize: "12px", fontWeight: 700, color: "#fff", lineHeight: 1.2 }}>Automation Playbook</div>
+                <div style={{ fontSize: "10px", color: "rgba(255,255,255,0.4)", lineHeight: 1.3 }}>Simple no-code workflows</div>
               </div>
               <span style={{
                 marginLeft: "auto", fontSize: "9px", fontWeight: 800,
                 letterSpacing: "0.1em", textTransform: "uppercase",
                 color: "#f5a623", background: "rgba(245,166,35,0.15)",
                 padding: "2px 7px", borderRadius: "10px",
-              }}>Best pick</span>
+              }}>Reader favourite</span>
             </div>
 
             {/* Form */}
@@ -199,7 +201,7 @@ export function FreeToolsModal() {
                   transition: "background 0.15s",
                 }}
               >
-                {loading ? "One moment…" : "Get the free list →"}
+                {loading ? "One moment…" : "Open the free library →"}
               </button>
             </form>
 
@@ -221,11 +223,10 @@ export function FreeToolsModal() {
           <div style={{ textAlign: "center", padding: "20px 0" }}>
             <div style={{ fontSize: "48px", marginBottom: "14px" }}>🎉</div>
             <h2 style={{ fontSize: "22px", fontWeight: 900, color: "#fff", margin: "0 0 8px" }}>
-              Download starting!
+              Your library is ready
             </h2>
             <p style={{ fontSize: "13px", color: "rgba(255,255,255,0.5)", lineHeight: 1.6, margin: 0 }}>
-              Check your downloads for<br />
-              <strong style={{ color: "#f5a623" }}>7-Free-AI-Tools-DigiTech.html</strong>
+              Taking you to the free resources now.
             </p>
           </div>
         )}
