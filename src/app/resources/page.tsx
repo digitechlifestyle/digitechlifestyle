@@ -8,13 +8,51 @@ import { BrandImageCard } from "@/components/BrandImageCard";
 import { tools } from "@/lib/tools";
 
 export const metadata: Metadata = {
-  title: "Resources",
-  description: "Free downloads, checklists, and a curated directory of AI, automation, crypto, and digital lifestyle tools.",
+  title: "Free Resource Library",
+  description: "Free, plain-English guides to useful AI tools, crypto security and no-code automation from DigiTech Lifestyle.",
   alternates: { canonical: "/resources" },
 };
 
 const DOWNLOADS = [
   {
+    id: "ai-tools",
+    title: "7 Free AI Tools Worth Using",
+    text: "Seven genuinely useful tools for research, writing, images and video. No credit card required, with a clear note on what each free plan can and cannot do.",
+    badge: "Free Tool List",
+    img: "/images/generated/ai_driven_business_interface_concept.png",
+    alt: "Seven free AI tools selected by DigiTech Lifestyle",
+    accent: "purple" as const,
+    pdf: "/free-tools",
+    cta: "See the 7 free tools →",
+    affiliates: [] as { label: string; href: string }[],
+  },
+  {
+    id: "crypto-security",
+    title: "Crypto Security Guide",
+    text: "A practical checklist for wallets, seed phrases, two-factor authentication and scam prevention—shaped by the lessons of exchange failures such as FTX.",
+    badge: "Free Security Guide",
+    img: "/images/generated/secure_your_crypto_future.png",
+    alt: "Crypto security guide for protecting wallets and digital assets",
+    accent: "amber" as const,
+    pdf: "/newsletter?resource=secure-your-crypto",
+    cta: "Get the security guide →",
+    affiliates: [] as { label: string; href: string }[],
+  },
+  {
+    id: "automation-playbook",
+    title: "No-Code Automation Playbook",
+    text: "Simple workflows for email, content, admin and social media. Designed for non-technical readers who want to save time without learning to code.",
+    badge: "Free Playbook",
+    img: "/images/generated/no_code_automation_playbook_design.png",
+    alt: "No-code automation playbook for everyday business workflows",
+    accent: "amber" as const,
+    pdf: "/newsletter?resource=automation-playbook",
+    cta: "Get the Automation Playbook →",
+    affiliates: [] as { label: string; href: string }[],
+  },
+  /* Additional specialist downloads remain available below the three core resources. */
+  {
+    id: "ai-business-toolkit",
     title: "AI Business Toolkit",
     text: "30+ prompts, SOPs & workflow templates. Content engine, newsletter planner, social repurposing, lead magnet builder, and more.",
     badge: "Free PDF",
@@ -22,9 +60,11 @@ const DOWNLOADS = [
     alt: "AI Business Toolkit — prompts and SOPs for digital entrepreneurs",
     accent: "purple" as const,
     pdf: "/newsletter?resource=ai-business-toolkit",
+    cta: "Get it free →",
     affiliates: [] as { label: string; href: string }[],
   },
   {
+    id: "automation-checklist",
     title: "Automation Audit Checklist",
     text: "8-step audit to map repetitive tasks and find no-code automation wins. Includes scoring matrix and 30-day plan.",
     badge: "Free PDF Checklist",
@@ -32,9 +72,11 @@ const DOWNLOADS = [
     alt: "Automation Audit Checklist — no-code workflow guide",
     accent: "amber" as const,
     pdf: "/newsletter?resource=automation-checklist",
+    cta: "Get it free →",
     affiliates: [] as { label: string; href: string }[],
   },
   {
+    id: "automation-playbook-extra",
     title: "Automation Playbook",
     text: "Build no-code workflows for email, content, admin, and social. Save time and scale your digital business.",
     badge: "Free Guide",
@@ -42,9 +84,11 @@ const DOWNLOADS = [
     alt: "Automation Playbook — no-code workflow guide for digital business",
     accent: "amber" as const,
     pdf: "/newsletter?resource=automation-playbook",
+    cta: "Get it free →",
     affiliates: [] as { label: string; href: string }[],
   },
   {
+    id: "affiliate-launch-planner",
     title: "Affiliate Launch Planner",
     text: "Choose a niche, pick affiliate offers, map content clusters, and set up email capture — step by step.",
     badge: "Free Guide",
@@ -52,9 +96,11 @@ const DOWNLOADS = [
     alt: "Affiliate Launch Planner — niche research and content planning guide",
     accent: "purple" as const,
     pdf: "/newsletter?resource=affiliate-launch-planner",
+    cta: "Get it free →",
     affiliates: [] as { label: string; href: string }[],
   },
   {
+    id: "digital-wealth-tracker",
     title: "Digital Wealth Tracker",
     text: "Track crypto wallets, subscriptions, assets, affiliate income, and recurring costs — all in one place.",
     badge: "Free Tracker",
@@ -62,9 +108,11 @@ const DOWNLOADS = [
     alt: "Digital Wealth Tracker — crypto and income tracker template",
     accent: "purple" as const,
     pdf: "/newsletter?resource=digital-wealth-tracker",
+    cta: "Get it free →",
     affiliates: [] as { label: string; href: string }[],
   },
   {
+    id: "secure-your-crypto-extra",
     title: "Secure Your Crypto",
     text: "Wallet types, seed phrase protection, exchange hardening, scam prevention, and a 4-week security setup plan.",
     badge: "Free Security Guide",
@@ -72,11 +120,13 @@ const DOWNLOADS = [
     alt: "Secure Your Crypto — hardware wallet and security guide",
     accent: "amber" as const,
     pdf: "/newsletter?resource=secure-your-crypto",
+    cta: "Get it free →",
     affiliates: [
       { label: "Ledger Hardware Wallet", href: "https://shop.ledger.com/?referral_code=FN50B8J0VZNVR" },
     ],
   },
   {
+    id: "trade-smarter",
     title: "Trade Smarter",
     text: "AI trading principles, bot types, exchange API basics, risk control, and a 30-day beginner setup plan.",
     badge: "Free AI Trading Guide",
@@ -84,6 +134,7 @@ const DOWNLOADS = [
     alt: "Trade Smarter — AI trading guide for beginners",
     accent: "amber" as const,
     pdf: "/newsletter?resource=trade-smarter",
+    cta: "Get it free →",
     affiliates: [
       { label: "Coinbase UK", href: "https://www.coinbase.com/join/jrobertson_1A8sYA" },
       { label: "Kraken", href: "https://kraken.app.link/PzxrgWP7Qzb" },
@@ -101,9 +152,9 @@ export default function ResourcesPage() {
       <div style={{ marginBottom: "48px" }}>
         <BrandHeroImage
           variant="resource-hub"
-          heading="Discover smarter crypto & AI resources"
-          subheading="Guides, checklists, tools, and playbooks to help you grow faster."
-          ctaLabel="Explore the Resource Hub"
+          heading="Your free crypto, AI & automation library"
+          subheading="Practical, plain-English resources you can use today. No hype, no financial advice and no technical background required."
+          ctaLabel="Choose your free resource"
           ctaHref="#downloads"
           secondaryLabel="Browse tools"
           secondaryHref="#tool-directory"
@@ -129,10 +180,10 @@ export default function ResourcesPage() {
               margin: "0 0 6px",
               fontFamily: "'Sora', sans-serif",
             }}>
-              Free Downloads
+              Start with these free resources
             </h2>
             <p style={{ color: "var(--muted)", fontSize: "13px", margin: "0 0 20px" }}>
-              Seven free guides — enter your email once to download any guide instantly.
+              Pick what you need now. Each resource is concise, beginner-friendly and created for UK readers.
             </p>
             <div style={{
               display: "grid",
@@ -140,7 +191,7 @@ export default function ResourcesPage() {
               gridTemplateColumns: "repeat(auto-fit, minmax(260px, 1fr))",
             }}>
               {DOWNLOADS.map((d) => (
-                <div key={d.title} style={{ display: "flex", flexDirection: "column", gap: "8px" }}>
+                <div id={d.id} key={d.title} style={{ display: "flex", flexDirection: "column", gap: "8px", scrollMarginTop: "90px" }}>
                   <BrandImageCard
                     src={d.img}
                     alt={d.alt}
@@ -148,7 +199,7 @@ export default function ResourcesPage() {
                     title={d.title}
                     description={d.text}
                     badge={d.badge}
-                    ctaLabel="Get it free →"
+                    ctaLabel={d.cta}
                     ctaHref={d.pdf}
                     accentColor={d.accent}
                   />
