@@ -68,8 +68,8 @@ export default async function Home() {
               No hype. No financial advice. Just clarity.
             </p>
             <div className="home-hero-actions">
-              <Link href="/blog" className="btn-primary">Read the Blog →</Link>
-              <Link href="/blog?category=Reviews" className="btn-secondary">Exchange Reviews</Link>
+              <Link href="/resources" className="btn-primary">Explore the Free Resource Library →</Link>
+              <Link href="/blog" className="btn-secondary">Read the latest guides</Link>
             </div>
           </div>
 
@@ -107,8 +107,8 @@ export default async function Home() {
         <div className="free-strip">
           <div className="free-strip-label">Free for readers</div>
           <div className="free-strip-title">
-            6 free AI tools most people don&apos;t know exist — no paid plans needed.{" "}
-            <Link href="/free-tools" style={{ color: "var(--amber)" }}>Get the free list →</Link>
+            Three practical resources: 7 free AI tools, crypto security and no-code automation.{" "}
+            <Link href="/resources" style={{ color: "var(--amber)" }}>Browse the free library →</Link>
           </div>
           <div className="topic-links">
             <span style={{ fontSize: "11px", color: "var(--muted)", fontWeight: 600 }}>Topics:</span>
@@ -129,7 +129,7 @@ export default async function Home() {
             {[
               { label: "What is Bitcoin?",          href: "/blog?category=guides" },
               { label: "How to buy crypto safely",  href: "/blog?category=guides" },
-              { label: "Best free AI tools",        href: "/free-tools" },
+              { label: "Best free AI tools",        href: "/resources#ai-tools" },
               { label: "Exchange reviews",          href: "/blog?category=Reviews" },
               { label: "DeFi explained",            href: "/blog?category=DeFi" },
               { label: "Crypto safety guide",       href: "/resources" },
@@ -147,7 +147,7 @@ export default async function Home() {
             <p style={{ color: "var(--muted)", fontSize: "12px", margin: "0 0 12px", lineHeight: 1.55 }}>
               Scams, hacks, and exchange collapses happen. Learn how to keep your assets safe — hardware wallets, seed phrase security, and exchange hardening.
             </p>
-            <Link href="/resources" className="read-more-link">Get the free security guide →</Link>
+            <Link href="/resources#crypto-security" className="read-more-link">Get the free security guide →</Link>
           </div>
           <div style={{ padding: "20px 22px", background: "var(--tint-purple)", border: "1px solid var(--tint-purple-border)", borderRadius: "12px" }}>
             <div style={{ fontSize: "11px", fontWeight: 700, letterSpacing: "0.12em", textTransform: "uppercase", color: "oklch(72% 0.18 280)", marginBottom: "6px" }}>🤖 Top AI Tools 2026</div>
@@ -155,7 +155,7 @@ export default async function Home() {
             <p style={{ color: "var(--muted)", fontSize: "12px", margin: "0 0 12px", lineHeight: 1.55 }}>
               Writing assistants, image generators, research tools — the most useful AI tools available for free, tested and reviewed for UK users.
             </p>
-            <Link href="/free-tools" className="read-more-link">Browse free AI tools →</Link>
+            <Link href="/resources#ai-tools" className="read-more-link">Browse free AI tools →</Link>
           </div>
         </div>
 
