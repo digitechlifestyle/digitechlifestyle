@@ -11,6 +11,32 @@ SSH_HOST="u505433088@77.37.37.226"
 SSH_PORT=65002
 REMOTE_PATH="/home/u505433088/domains/digitechlifestyle.com/public_html/"
 
+LOCK_DIR="$SCRIPT_DIR/.deploy.lock"
+
+# Atomic lock (mkdir fails if it already exists) so two deploys (e.g. the
+# hourly launchd job and a content routine's own deploy step) never run
+# `next build` at the same time — Next.js hard-fails the second one with
+# "Another next build process is already running." Wait up to 8 min for a
+# stale build to clear before giving up.
+WAITED=0
+while ! mkdir "$LOCK_DIR" 2>/dev/null; do
+  LOCK_PID=$(cat "$LOCK_DIR/pid" 2>/dev/null || echo "")
+  if [ -n "$LOCK_PID" ] && ! kill -0 "$LOCK_PID" 2>/dev/null; then
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] Stale lock from dead PID $LOCK_PID, removing" >> "$LOG"
+    rm -rf "$LOCK_DIR"
+    continue
+  fi
+  if [ "$WAITED" -ge 480 ]; then
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] ABORT: another deploy (PID $LOCK_PID) still running after 8 min wait" >> "$LOG"
+    exit 1
+  fi
+  echo "[$(date '+%Y-%m-%d %H:%M:%S')] Another deploy (PID $LOCK_PID) in progress, waiting..." >> "$LOG"
+  sleep 15
+  WAITED=$((WAITED + 15))
+done
+echo $$ > "$LOCK_DIR/pid"
+trap 'rm -rf "$LOCK_DIR"' EXIT
+
 echo "[$(date '+%Y-%m-%d %H:%M:%S')] Build started" >> "$LOG"
 
 # Self-heal WP core BEFORE build (build needs wp-json alive to fetch articles).
