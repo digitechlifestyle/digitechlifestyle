@@ -20,31 +20,53 @@ type Category = {
 
 const CATEGORIES: Category[] = [
   {
-    label: "🏦 Crypto Exchanges",
+    label: "Best for beginners",
     partners: [
-      { id: "coinbase",    brand: "Coinbase UK",          initial: "C", tagline: "FCA-registered, beginner-friendly", accent: "#0052ff", url: "https://www.coinbase.com/join/jrobertson_1A8sYA" },
-      { id: "kraken",      brand: "Kraken",               initial: "K", tagline: "Low fees, strong security record",  accent: "#7c3aed", url: "https://kraken.app.link/PzxrgWP7Qzb" },
-      { id: "cryptocom",   brand: "Crypto.com",           initial: "C", tagline: "All-in-one app with GBP support",   accent: "#1199fa", url: "https://crypto.com/app/hwa7p9m8yh" },
+      { id: "coinbase", brand: "Coinbase UK", initial: "C", tagline: "Easiest for UK beginners, but simple-buy fees are higher than Kraken.", accent: "#0052ff", url: "https://www.coinbase.com/join/jrobertson_1A8sYA" },
     ],
   },
   {
-    label: "🔐 Hardware Wallets",
+    label: "Best for lower fees",
     partners: [
-      { id: "ledger",      brand: "Ledger",               initial: "L", tagline: "Cold storage, 5,500+ coins",        accent: "#f59e0b", url: "https://shop.ledger.com/?referral_code=FN50B8J0VZNVR" },
-      { id: "trezor",      brand: "Trezor Safe 5",        initial: "T", tagline: "Open-source security",              accent: "#22c55e", url: "https://trezor.io" },
+      { id: "kraken", brand: "Kraken", initial: "K", tagline: "Better value for regular trading, but the interface takes more learning.", accent: "#7c3aed", url: "https://kraken.app.link/PzxrgWP7Qzb" },
     ],
   },
   {
-    label: "📊 Crypto Tax",
+    label: "Best Bitcoin-only platform",
     partners: [
-      { id: "koinly",      brand: "Koinly",               initial: "K", tagline: "HMRC-ready reports",                accent: "#10b981", url: "https://koinly.io/?via=digitechlifestyle" },
+      { id: "swan", brand: "Swan Bitcoin", initial: "S", tagline: "Simple recurring Bitcoin buys, but it offers no altcoins and standard fees are 1%.", accent: "#f7931a", url: "https://www.swanbitcoin.com/digicoindigitalassetsinvestor" },
     ],
   },
   {
-    label: "🤖 AI & Web",
+    label: "Best all-in-one crypto app",
     partners: [
-      { id: "writesonic",  brand: "Writesonic",           initial: "W", tagline: "AI writing platform",               accent: "#8b5cf6", url: "https://writesonic.com/botsonic?fpr=joe52" },
-      { id: "hostinger",   brand: "Hostinger",            initial: "H", tagline: "UK web hosting from £2.99/mo",      accent: "#673de6", url: "https://hostinger.co.uk?REFERRALCODE=1JOE975" },
+      { id: "cryptocom", brand: "Crypto.com", initial: "C", tagline: "Convenient app with broad features, but spreads and fees can be difficult to compare.", accent: "#1199fa", url: "https://crypto.com/app/hwa7p9m8yh" },
+    ],
+  },
+  {
+    label: "Best hardware wallets",
+    partners: [
+      { id: "ledger", brand: "Ledger", initial: "L", tagline: "Excellent coin support and usability, but its firmware is not fully open-source.", accent: "#f59e0b", url: "https://shop.ledger.com/?referral_code=FN50B8J0VZNVR" },
+      { id: "trezor", brand: "Trezor", initial: "T", tagline: "Strong open-source security, but native asset support is narrower than Ledger's.", accent: "#22c55e", url: "https://trezor.io" },
+      { id: "dcent", brand: "D'CENT", initial: "D", tagline: "Handy biometric security and broad network support, but its ecosystem is smaller.", accent: "#3b82f6", url: "https://store.dcentwallet.com/" },
+    ],
+  },
+  {
+    label: "Best for UK crypto tax",
+    partners: [
+      { id: "koinly", brand: "Koinly", initial: "K", tagline: "Strong HMRC-ready reporting, but complex DeFi imports may need manual corrections.", accent: "#10b981", url: "https://koinly.io/?via=digitechlifestyle" },
+    ],
+  },
+  {
+    label: "Best AI writing tool",
+    partners: [
+      { id: "writesonic", brand: "Writesonic", initial: "W", tagline: "Fast for SEO drafts, but every output still needs fact-checking and human editing.", accent: "#8b5cf6", url: "https://writesonic.com/botsonic?fpr=joe52" },
+    ],
+  },
+  {
+    label: "Best budget web hosting",
+    partners: [
+      { id: "hostinger", brand: "Hostinger", initial: "H", tagline: "Good value for a first site, but renewal prices are higher than introductory rates.", accent: "#673de6", url: "https://hostinger.co.uk?REFERRALCODE=1JOE975" },
     ],
   },
 ];
@@ -183,12 +205,12 @@ export function SidebarAds() {
       </div>
 
       {/* Disclosure — above the links, not buried below */}
-      <p style={{ fontSize: "10px", color: "var(--muted)", opacity: 0.7, padding: "8px 14px", margin: 0, borderBottom: "1px solid var(--line)", lineHeight: 1.5 }}>
-        Affiliate links — we may earn a commission at no cost to you. Never affects our reviews. <a href="/affiliate-disclosure/" style={{ color: "var(--muted)", textDecoration: "underline" }}>Details</a>
+      <p style={{ fontSize: "10px", color: "var(--muted)", opacity: 0.78, padding: "9px 14px", margin: 0, borderBottom: "1px solid var(--line)", lineHeight: 1.55 }}>
+        Joe prioritises products he has used or reviewed directly. Where hands-on testing is not possible, picks are based on documented features, UK suitability and clear limitations. Some links are affiliate links; commission never buys a ranking. <a href="/affiliate-disclosure/" style={{ color: "var(--muted)", textDecoration: "underline" }}>How recommendations work</a>
       </p>
 
       {/* Partner list with category separators */}
-      <div style={{ maxHeight: "520px", overflowY: "auto" }}>
+      <div style={{ maxHeight: "680px", overflowY: "auto" }}>
         {CATEGORIES.map((cat, ci) => (
           <div key={cat.label}>
             {/* Category separator */}
@@ -209,7 +231,7 @@ export function SidebarAds() {
                 key={p.id}
                 href={p.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 style={{
                   display: "flex",
                   alignItems: "center",
@@ -235,7 +257,7 @@ export function SidebarAds() {
                   <p style={{ fontSize: "12px", fontWeight: 700, color: "var(--fg)", margin: 0, letterSpacing: "0.02em" }}>
                     {p.brand}
                   </p>
-                  <p style={{ fontSize: "11px", color: "var(--muted)", margin: 0, opacity: 0.7, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
+                  <p style={{ fontSize: "11px", color: "var(--muted)", margin: "2px 0 0", opacity: 0.78, lineHeight: 1.4 }}>
                     {p.tagline}
                   </p>
                 </div>
@@ -247,7 +269,7 @@ export function SidebarAds() {
 
       {/* Footer */}
       <p style={{ fontSize: "10px", color: "var(--muted)", opacity: 0.4, padding: "8px 14px", margin: 0 }}>
-        Affiliate links — DigiTech may earn a commission.
+        Curated for usefulness, not commission size. Crypto involves risk.
       </p>
     </div>
 
