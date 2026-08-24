@@ -87,21 +87,26 @@ RSYNC_OK=0
 for i in 1 2 3; do
   if rsync -a --delete-after --timeout=120 \
     -e "ssh -i $SSH_KEY -p $SSH_PORT -o StrictHostKeyChecking=no -o ConnectTimeout=15 -o ServerAliveInterval=15 -o ServerAliveCountMax=4" \
-    "$SCRIPT_DIR/out/" \
-    "$SSH_HOST:$REMOTE_PATH" \
-    --exclude="index.php" \
-    --exclude="default.php" \
-    --exclude="license.txt" \
-    --exclude=".htaccess" \
-    --exclude="wp-api-proxy.php" \
-    --exclude="wp-admin" \
-    --exclude="wp-includes" \
-    --exclude="wp-content" \
-    --exclude="wp-*.php" \
-    --exclude="xmlrpc.php" \
-    --exclude="prices.php" \
+    --filter="protect /wp-content/***" \
+    --filter="protect /wp-admin/***" \
+    --filter="protect /wp-includes/***" \
+    --filter="protect /wp-*.php" \
+    --filter="protect /.htaccess" \
+    --exclude="/index.php" \
+    --exclude="/default.php" \
+    --exclude="/license.txt" \
+    --exclude="/.htaccess" \
+    --exclude="/wp-api-proxy.php" \
+    --exclude="/wp-admin/***" \
+    --exclude="/wp-includes/***" \
+    --exclude="/wp-content/***" \
+    --exclude="/wp-*.php" \
+    --exclude="/xmlrpc.php" \
+    --exclude="/prices.php" \
     --filter="protect _next/static/chunks/***" \
     --filter="protect _next/static/css/***" \
+    "$SCRIPT_DIR/out/" \
+    "$SSH_HOST:$REMOTE_PATH" \
     >> "$LOG" 2>&1; then
     RSYNC_OK=1
     break
