@@ -115,7 +115,7 @@ export function FreeToolsModal() {
               Free Resource Library
             </h2>
             <p style={{ fontSize: "13px", color: "rgba(255,255,255,0.45)", margin: "0 0 16px" }}>
-              Choose a practical guide for AI, crypto security or no-code automation.
+              Join 5,000+ readers across YouTube, X & Facebook. Choose a practical guide and get clear weekly updates — no hype.
             </p>
 
             {/* Resource grid */}
@@ -207,7 +207,7 @@ export function FreeToolsModal() {
 
             <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginTop: "12px" }}>
               <p style={{ fontSize: "11px", color: "rgba(255,255,255,0.25)", margin: 0 }}>
-                🔒 No spam. Unsubscribe any time.
+                🔒 Free access. No spam. Unsubscribe at any time.
               </p>
               <button onClick={dismiss} style={{
                 background: "none", border: "none",

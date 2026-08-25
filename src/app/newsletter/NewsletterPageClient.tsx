@@ -37,7 +37,7 @@ function NewsletterContent() {
           <p className="text-sm font-semibold uppercase tracking-[0.22em] text-[var(--accent)]">Free weekly newsletter</p>
           <h1 className="mt-4 text-4xl font-black text-white md:text-6xl">Stay Ahead of Crypto & AI</h1>
           <p className="mt-5 max-w-3xl text-lg leading-8 text-[var(--muted)]">
-            Join nearly 5,000 readers across YouTube, LinkedIn, X, and Facebook — plain-English crypto, DeFi, blockchain and AI insights every Thursday. No spam, no financial advice, no hype.
+            Join 5,000+ readers across YouTube, X & Facebook for a plain-English weekly briefing on crypto, AI, scams and useful digital tools. No hype. No financial advice. Just clarity.
           </p>
           <div className="mt-8 grid gap-3 sm:grid-cols-3">
             {[
@@ -49,6 +49,14 @@ function NewsletterContent() {
                 {item.label} <span style={{ color: "var(--amber)" }}>→</span>
               </a>
             ))}
+          </div>
+          <div className="mt-8">
+            <h2 className="text-lg font-bold text-white">Recent issue examples</h2>
+            <ul className="mt-3 grid gap-2 text-sm text-[var(--muted)]">
+              <li>• Crypto Airdrops This Week — UK Edition</li>
+              <li>• Meme Coin News: What Moved and What to Avoid</li>
+              <li>• AI Agents vs Chatbots: What Is Actually Different?</li>
+            </ul>
           </div>
         </div>
         <NewsletterForm />

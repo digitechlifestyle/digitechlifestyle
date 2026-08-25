@@ -127,11 +127,11 @@ export default function BlogListClient({ articles }: { articles: Article[] }) {
             </div>
 
             <div className="newsletter-strip">
-              <h2>Stay ahead of the market — free</h2>
-              <p>Join our community of nearly 5,000 across YouTube, LinkedIn, X, and Facebook — weekly crypto, DeFi, blockchain and AI insights every Thursday. No spam.</p>
+              <h2>Get the week’s clearest crypto & AI briefing</h2>
+              <p>Join 5,000+ readers across YouTube, X & Facebook. Get one useful plain-English roundup every Thursday — no hype or financial advice.</p>
               <form className="newsletter-form" action="/newsletter" method="GET">
                 <input type="email" name="email" placeholder="Enter your email address" required autoComplete="email" />
-                <button type="submit">Join free</button>
+                <button type="submit">Send me the briefing</button>
               </form>
               <p style={{ fontSize: "11px", marginTop: "4px" }}>Free forever. No spam. Unsubscribe any time.</p>
             </div>

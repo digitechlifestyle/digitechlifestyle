@@ -11,9 +11,9 @@ export function NewsletterForm({ compact = false }: NewsletterFormProps) {
         <Mail size={20} />
         <span className="text-sm font-semibold uppercase tracking-[0.2em]">Newsletter</span>
       </div>
-      <h2 className="mt-4 text-2xl font-semibold text-white">Get the DigiTech Lifestyle newsletter</h2>
+      <h2 className="mt-4 text-2xl font-semibold text-white">Join 5,000+ readers across YouTube, X & Facebook</h2>
       <p className="mt-3 text-sm leading-6 text-[var(--muted)]">
-        Weekly crypto, AI, scam-safety, and digital lifestyle guides in plain English. No spam.
+        Get one plain-English weekly briefing on crypto, AI, scams and useful digital tools. No hype and no financial advice.
       </p>
       <div className="mt-5 grid gap-3 sm:grid-cols-[1fr_auto]">
         <input
@@ -26,6 +26,7 @@ export function NewsletterForm({ compact = false }: NewsletterFormProps) {
           Join free
         </button>
       </div>
+      <p className="mt-3 text-xs leading-5 text-[var(--muted)]">Free to join. No spam. Unsubscribe at any time.</p>
     </form>
   );
 }
