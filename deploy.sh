@@ -85,7 +85,7 @@ echo "[$(date '+%Y-%m-%d %H:%M:%S')] Build done. Deploying..." >> "$LOG"
 # Hostinger SSH occasionally resets mid-transfer; retry before giving up.
 RSYNC_OK=0
 for i in 1 2 3; do
-  if rsync -a --delete-after --timeout=120 \
+  if rsync -a --timeout=120 \
     -e "ssh -i $SSH_KEY -p $SSH_PORT -o StrictHostKeyChecking=no -o ConnectTimeout=15 -o ServerAliveInterval=15 -o ServerAliveCountMax=4" \
     --filter="protect /wp-content/***" \
     --filter="protect /wp-admin/***" \
