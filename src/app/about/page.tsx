@@ -3,13 +3,32 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "About DigiTech Lifestyle — Independent UK Crypto & AI Writing",
-  description: "DigiTech Lifestyle is an independent UK publication covering crypto, AI tools, digital lifestyle, and honest product reviews. Founded by Joe Robertson, crypto investor since 2017, publishing since 2025.",
+  description: "DigiTech Lifestyle is an independent UK publication covering crypto, AI tools, digital lifestyle, and honest product reviews. Founded by Joe Robertson, crypto investor since 2017, writing since 2017.",
   alternates: { canonical: "/about" },
+};
+
+const personSchema = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://digitechlifestyle.com/about/#joe-robertson",
+  name: "Joe Robertson",
+  url: "https://digitechlifestyle.com/about/",
+  image: "https://digitechlifestyle.com/images/joe-robertson-author.webp",
+  jobTitle: "Independent Crypto and AI Writer",
+  description: "UK-based independent writer covering cryptocurrency, artificial intelligence and digital tools since 2017.",
+  knowsAbout: ["Cryptocurrency", "Bitcoin", "Crypto security", "Artificial intelligence", "Digital tools", "UK crypto regulation"],
+  sameAs: ["https://x.com/joedigitals", "https://www.linkedin.com/in/smartincome/"],
+  worksFor: {
+    "@type": "Organization",
+    name: "DigiTech Lifestyle",
+    url: "https://digitechlifestyle.com/",
+  },
 };
 
 export default function AboutPage() {
   return (
     <main style={{ maxWidth: "800px", margin: "0 auto", padding: "48px 20px 80px" }}>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(personSchema) }} />
 
       <p style={{ fontSize: "11px", fontWeight: 700, letterSpacing: "0.2em", textTransform: "uppercase", color: "var(--amber)", marginBottom: "12px" }}>
         Independent · UK-focused · Since 2017
@@ -25,11 +44,16 @@ export default function AboutPage() {
 
         <div style={{ padding: "24px 28px", background: "var(--bg-card)", border: "1px solid var(--line)", borderRadius: "14px" }}>
           <h2 style={{ fontSize: "17px", fontWeight: 800, color: "var(--fg)", margin: "0 0 14px" }}>Who Is Behind This Site</h2>
-          <p style={{ fontSize: "14px", color: "var(--muted)", lineHeight: 1.8, margin: "0 0 12px" }}>
-            My name is Joe Robertson. I have been involved in cryptocurrency since 2017 — through the bull runs, the crashes, the scams, and the slow grind towards legitimacy. For years I invested, tested platforms, and learned the hard lessons personally rather than writing about them.
+          <img src="/images/joe-robertson-author.webp" alt="Joe Robertson, founder and writer at DigiTech Lifestyle" width="180" height="180" style={{ width: "180px", height: "180px", objectFit: "cover", borderRadius: "18px", border: "1px solid var(--line)", margin: "2px 0 18px" }} />
+          <p style={{ display: "flex", gap: "14px", flexWrap: "wrap", margin: "0 0 18px", fontSize: "13px" }}>
+            <a href="https://x.com/joedigitals" target="_blank" rel="me noopener noreferrer" style={{ color: "var(--amber)", fontWeight: 700 }}>Follow Joe on X</a>
+            <a href="https://www.linkedin.com/in/smartincome/" target="_blank" rel="me noopener noreferrer" style={{ color: "var(--amber)", fontWeight: 700 }}>Connect on LinkedIn</a>
           </p>
           <p style={{ fontSize: "14px", color: "var(--muted)", lineHeight: 1.8, margin: "0 0 12px" }}>
-            I started writing in 2025, when it became clear that regulation was finally coming to the market. With the FCA tightening rules, banks entering the space, and millions of UK adults now holding crypto, ordinary readers needed plain-English coverage more than ever — and I could not find a UK site doing it without trying to sell something every other sentence. So I built one.
+            My name is Joe Robertson. I have written about cryptocurrency and digital technology since 2017. I have experienced two bull runs, major crashes and the collapse of FTX. Those years taught me to question bold promises, check the details and explain the risks as clearly as the opportunities.
+          </p>
+          <p style={{ fontSize: "14px", color: "var(--muted)", lineHeight: 1.8, margin: "0 0 12px" }}>
+            I created DigiTech Lifestyle because UK readers deserve crypto and AI coverage without the noise. I test platforms and digital tools, follow regulation, study scams and turn the complicated parts into plain English — usually with a strong cup of tea nearby.
           </p>
           <p style={{ fontSize: "14px", color: "var(--muted)", lineHeight: 1.8, margin: 0 }}>
             I am not a financial adviser. I do not give financial advice. What I do is explain how things work, review products honestly, warn about the scams I see, and help UK readers make sense of a fast-moving space. Questions or corrections: contact@digitechlifestyle.com — a real person replies, usually within two working days.

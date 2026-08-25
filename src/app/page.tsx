@@ -92,9 +92,9 @@ export default async function Home() {
 
         {/* Trust strip */}
         <div style={{ display: "flex", flexWrap: "wrap", alignItems: "center", gap: "8px 16px", padding: "12px 18px", background: "var(--bg-card)", border: "1px solid var(--line)", borderRadius: "12px", marginTop: "8px", fontSize: "13px" }}>
-          <span style={{ width: "30px", height: "30px", borderRadius: "50%", background: "var(--amber)", color: "oklch(15% 0.02 60)", display: "inline-flex", alignItems: "center", justifyContent: "center", fontWeight: 800, fontSize: "12px", flexShrink: 0 }}>JR</span>
+          <img src="/images/joe-robertson-author.webp" alt="Joe Robertson, founder and writer at DigiTech Lifestyle" style={{ width: "30px", height: "30px", borderRadius: "50%", objectFit: "cover", flexShrink: 0 }} />
           <span style={{ color: "var(--muted)" }}>
-            Written by <Link href="/about" style={{ color: "var(--fg)", fontWeight: 700 }}>Joe Robertson</Link> — in crypto since 2017, writing since 2025
+            <Link href="/about" style={{ color: "var(--fg)", fontWeight: 700 }}>Joe Robertson</Link> has written about crypto and digital technology since 2017, through two bull runs and the collapse of FTX. He explains the complicated bits in plain English — without the hype, jargon or crystal-ball predictions.
           </span>
           <span style={{ marginLeft: "auto", display: "flex", gap: "14px", flexWrap: "wrap" }}>
             <Link href="/editorial-policy" style={{ color: "var(--muted)" }}>Editorial policy</Link>

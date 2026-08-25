@@ -62,6 +62,8 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
     image: article.image ? [article.image] : undefined,
     author: {
       "@type": "Person",
+      "@id": "https://digitechlifestyle.com/about/#joe-robertson",
+      jobTitle: "Independent Crypto and AI Writer",
       name: "Joe Robertson",
       url: "https://digitechlifestyle.com/about/",
       sameAs: ["https://x.com/joedigitals", "https://www.linkedin.com/in/smartincome/"],
@@ -102,10 +104,10 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
             <p className="mt-5 text-xl leading-8 text-[var(--muted)]">{article.description}</p>
             {/* Byline */}
             <div style={{ display: "flex", alignItems: "center", gap: "12px", marginTop: "20px", paddingTop: "16px", borderTop: "1px solid var(--line)" }}>
-              <span style={{ width: "38px", height: "38px", borderRadius: "50%", background: "var(--amber)", color: "oklch(15% 0.02 60)", display: "inline-flex", alignItems: "center", justifyContent: "center", fontWeight: 800, fontSize: "14px", flexShrink: 0 }}>JR</span>
+              <img src="/images/joe-robertson-author.webp" alt="Joe Robertson, founder and writer at DigiTech Lifestyle" style={{ width: "38px", height: "38px", borderRadius: "50%", objectFit: "cover", flexShrink: 0 }} />
               <div style={{ fontSize: "13px", lineHeight: 1.5 }}>
                 <a href="/about/" style={{ fontWeight: 700, color: "var(--fg)", textDecoration: "none" }}>Joe Robertson</a>
-                <span style={{ color: "var(--muted)" }}> · In crypto since 2017, writing since 2025</span>
+                <span style={{ color: "var(--muted)" }}> · In crypto since 2017, writing since 2017</span>
                 <div style={{ color: "var(--muted)", fontSize: "12px" }}>
                   Published {new Date(article.date).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" })}
                   {article.updated !== article.date && ` · Updated ${new Date(article.updated).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" })}`}
@@ -200,6 +202,19 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
               Pinterest
             </a>
           </div>
+
+          {/* Author bio */}
+          <aside style={{ marginTop: "32px", padding: "22px", background: "var(--bg-card)", border: "1px solid var(--line)", borderRadius: "14px" }}>
+            <div style={{ display: "flex", gap: "14px", alignItems: "flex-start" }}>
+              <img src="/images/joe-robertson-author.webp" alt="Joe Robertson, founder and writer at DigiTech Lifestyle" style={{ width: "46px", height: "46px", borderRadius: "50%", objectFit: "cover", flexShrink: 0 }} />
+              <div>
+                <h2 style={{ fontSize: "17px", fontWeight: 800, color: "var(--fg)", margin: "0 0 8px" }}>About Joe Robertson</h2>
+                <p style={{ fontSize: "13px", color: "var(--muted)", lineHeight: 1.7, margin: "0 0 10px" }}>Joe has written about crypto and digital technology since 2017. After navigating two bull runs, major crashes and the collapse of FTX, he focuses on clear, practical education for UK readers. His work covers crypto security, AI tools, scams and regulation — without hype or financial advice.</p>
+                <p style={{ fontSize: "12px", color: "var(--muted)", margin: "0 0 10px" }}><strong style={{ color: "var(--fg)" }}>Credentials:</strong> Independent writer since 2017 · 100+ articles · UK-focused</p>
+                <a href="/about/" style={{ color: "var(--amber)", fontWeight: 700, fontSize: "13px", textDecoration: "none" }}>Read more about Joe →</a>
+              </div>
+            </div>
+          </aside>
 
           {/* Affiliate disclosure */}
           <div style={{
