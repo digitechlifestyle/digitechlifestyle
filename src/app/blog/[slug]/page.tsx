@@ -97,9 +97,6 @@ export default async function BlogPostPage({ params }: BlogPostProps) {
               <span className="rounded-full bg-white/5 px-3 py-1 text-[var(--accent)]">{article.category}</span>
               <span>{article.readingTime}</span>
               <span>{new Date(article.date).toLocaleDateString("en", { month: "long", day: "numeric", year: "numeric" })}</span>
-              {new Date(article.date).getFullYear() >= 2026 && (
-                <span style={{ background: "oklch(73% 0.17 78 / 0.15)", border: "1px solid oklch(73% 0.17 78 / 0.4)", color: "var(--amber)", borderRadius: "20px", padding: "2px 10px", fontSize: "11px", fontWeight: 700 }}>✓ Updated for 2026</span>
-              )}
             </div>
             <h1 className="mt-5 text-4xl font-black leading-tight text-white md:text-5xl">{article.title}</h1>
             <p className="mt-5 text-xl leading-8 text-[var(--muted)]">{article.description}</p>
